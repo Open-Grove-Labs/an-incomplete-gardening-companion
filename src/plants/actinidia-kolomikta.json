@@ -1,0 +1,219 @@
+{
+  "fullName": "Actinidia kolomikta",
+  "name": "actinidia-kolomikta",
+  "commonNames": [
+    "Artic Kiwi",
+    "Kiwi",
+    "Kolomikta Vine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/actinidia-kolomikta/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Actinidia",
+  "species": "kolomikta",
+  "family": "Actinidiaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting",
+    "Layering",
+    "Leaf Cutting",
+    "Root Cutting",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Asia to Japan, China."
+  ],
+  "wildlife-value": [
+    "Flowers are pollinated by bees."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Edible fruit ",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "No serious insect or diseases problems."
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "edibility": [
+    "Large edible berry."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Dense",
+    "Erect",
+    "Irregular",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruits will only be produced if there are both male and female plants present.  The fruits will be present on the female plant.  They are produced on 2nd-year wood or fruit spurs of older wood."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The greenish-white flowers are mildly fragrant but not showy.  They are tiny and often hidden by the dense foliage."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Pink",
+    "Variegated",
+    "White"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Male plants produce beautiful green foliage, variegated with pink and white-tipped in early summer.  The optimum color will occur in full sun.  Young foliage is a purple-green.  The young leaves can be eaten once cooked.  It can be used as an herb or added to soup."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Twining stems."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Patio",
+    "Recreational Play Area",
+    "Vertical Spaces",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Mass Planting",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Diseases",
+    "Insect Pests"
+  ],
+  "uses": "Edible fruits which are popular in Russia where they have been cultivated to develop various traits, such as earliness, flavor, size and vitamin C content. The young leaves have been used as a put-herb in east Asia. The root extract has been found to contain anti-oxidant and anti-tumor activity through recent research in China."
+}

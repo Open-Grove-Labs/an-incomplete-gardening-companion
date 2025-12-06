@@ -1,4 +1,4 @@
-import pako from 'pako'
+// import pako from 'pako'
 import FlexSearch from 'flexsearch';
 import plantNames from '../indices/plants.all.scientific-to-common-namesindex.json' with { type: "json" };
 

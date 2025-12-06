@@ -1,0 +1,211 @@
+{
+  "fullName": "Arnica montana",
+  "name": "arnica-montana",
+  "commonNames": [
+    "Arnica Root",
+    "Leopard's-Bane",
+    "Mountain arnica",
+    "Mountain Snuff",
+    "Mountain Tobacco",
+    "Wolfbane"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/arnica-montana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Arnica",
+  "species": "montana",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe"
+  ],
+  "wildlife-value": [
+    "Bees, flies, moths and butterflies are attracted to the flowers."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Easy to Grow",
+    "Fragrance"
+  ],
+  "edibility": [
+    "Not edible, poisonous."
+  ],
+  "plant-type": [
+    "Herb",
+    "Herbaceous Perennial",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High",
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "The fruits are a bristly, hairy yellow pappus, a modified calyx."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange"
+  ],
+  "flower-inflorescence": [
+    "Head",
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Flowers are yellow-orange rays surrounding yellow disc florets in late spring to early summer."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "While basal leaves are clustered, the stem leaves are opposite and simple.  The upper side of the leaves are hairy and have longitudinal veins."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The stems are erect hairy and carry a single flower."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Moths"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Children",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Poisonous through dermatitis and ingestion.\nSkin irritation upon contact; after ingestion, heart palpitation, vomiting, drowsiness, shortness of breath, and coma in children."
+  ],
+  "poison-toxic-principle": [
+    "Helenalin and its esters"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Roots"
+  ],
+  "uses": "Dried flower heads have been used in herbal medicine for centuries."
+}

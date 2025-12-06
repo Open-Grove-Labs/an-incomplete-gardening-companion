@@ -1,0 +1,102 @@
+{
+  "fullName": "Sabulina michauxii",
+  "name": "sabulina-michauxii",
+  "commonNames": [
+    "Rock Sandwort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sabulina-michauxii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sabulina",
+  "species": "michauxii",
+  "family": "Caryophyllaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "E. Canada to Central & E. U.S.A"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "rocky soil"
+  ],
+  "plant-type": [
+    "Wildflower"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "This plant has small, five-petal flowers. Petals are rounded or slightly notched."
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "This plant has opposite, needle-like leaves with tufts of shorter leaves in axis. Leaves are often matted."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Stems 3-16\" long with erect or ascending branches."
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ]
+}

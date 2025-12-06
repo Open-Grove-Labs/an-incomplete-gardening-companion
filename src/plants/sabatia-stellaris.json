@@ -1,0 +1,65 @@
+{
+  "fullName": "Sabatia stellaris",
+  "name": "sabatia-stellaris",
+  "commonNames": [
+    "Annual Sea-pink"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sabatia-stellaris/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sabatia",
+  "species": "stellaris",
+  "family": "Gentianaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern U.S.A., Mexico, Bahamas, Cuba"
+  ],
+  "plant-type": [
+    "Annual",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-description": [
+    "Fruit displays from August to November."
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-description": [
+    "Pink flowers bloom from July to October."
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal"
+  ],
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "resistance-to-challenges": [
+    "Salt",
+    "Wet Soil"
+  ]
+}

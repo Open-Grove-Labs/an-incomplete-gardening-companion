@@ -1,0 +1,201 @@
+{
+  "fullName": "Viburnum davidii",
+  "name": "viburnum-davidii",
+  "commonNames": [
+    "David Viburnum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/viburnum-davidii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Viburnum",
+  "species": "davidii",
+  "family": "Viburnaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "China"
+  ],
+  "wildlife-value": [
+    "Fruit attracts birds as a winter food source.  This plant is mildly resistant to damage by deer. Attracts butterflies"
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Edible fruit ",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue",
+    "Pink",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Green fruit turns iridescent pink to red then metallic blue and black on red stems and persists into winter."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Pink buds open creamy white on 2 to 3\" clusters in spring."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Orange",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "2-6 inch long oval thick leathery dark blue-green leaves are deeply veined laterally and have variable fall colors of dull crimson, orange-red or purple."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems of drupes are red in fall"
+  ],
+  "landscape-location": [
+    "Recreational Play Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Edible Garden",
+    "Pollinator Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting",
+    "Hedge",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

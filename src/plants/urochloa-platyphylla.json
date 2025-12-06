@@ -1,0 +1,172 @@
+{
+  "fullName": "Urochloa platyphylla",
+  "name": "urochloa-platyphylla",
+  "commonNames": [
+    "Broad-leaf Liverseed Grass",
+    "Broadleaf Signalgrass",
+    "Broadleaf Signal Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/urochloa-platyphylla/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Urochloa",
+  "species": "platyphylla",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern and central U.S.A., Cuba, South America"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "AZ",
+    "FL",
+    "GA",
+    "IL",
+    "KY",
+    "LA",
+    "MD",
+    "MO",
+    "MS",
+    "NC",
+    "OK",
+    "SC",
+    "TN",
+    "TX",
+    "VA"
+  ],
+  "wildlife-value": [
+    "Wildlife graze on this grass."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "plant-type": [
+    "Annual",
+    "Native Plant",
+    "Ornamental Grasses and Sedges",
+    "Weed"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "flower-color": [
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Raceme",
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The seed head is in the form of a raceme that blooms from May to October.  The seed heads have 2 to 6 branchlike structures, each 1 to 3 1/2\" long.  The spikelets have a flattened look."
+  ],
+  "leaf-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Sheath",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Sheathing wide linear leaves with hairs on sheath, blades are smooth.  The Ligule, which is a narrow membrane, has a fringe of hairs.  Leave blades can have a bit of Burgundy color.  Leaf sheaths are hairy.  Leaves may be crinkled on one side and smooth on the other."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stems are prostrate, branching and bending at the nodes."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Pond",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

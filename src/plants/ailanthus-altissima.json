@@ -1,0 +1,159 @@
+{
+  "fullName": "Ailanthus altissima",
+  "name": "ailanthus-altissima",
+  "commonNames": [
+    "Ailanthus",
+    "Paradise-tree",
+    "Tree of Heaven",
+    "Tree-of-Heaven",
+    "White Snakeroot"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ailanthus-altissima/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ailanthus",
+  "species": "altissima",
+  "family": "Simaroubaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "China"
+  ],
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 60 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "fruit-type": [
+    "Samara"
+  ],
+  "fruit-description": [
+    "Large drooping clusters of flat, twisted reddish brown winged seed"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Large showy 4-7 inch clusters of yellow-green flowers May-June. Flowers may have a foul odor."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "18 to 24 in. pinnately compound leaves with 10-41 leaflets that have a  glandular, notched base on each leaflet and serrations that appear only at the base of the leaves otherwise the margins are entire.  Non-showy fall color. Leaves can have a foul odor when crushed."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "bark-description": [
+    "Smooth, pale gray bark. The wood is soft, weak, coarse-grained and creamy white to light brown in color."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Twigs are light chestnut brown. Stems can have a foull odor when broken."
+  ],
+  "resistance-to-challenges": [
+    "Pollution",
+    "Poor Soil",
+    "Urban Conditions"
+  ],
+  "problems": [
+    "Allelopathic",
+    "Invasive Species",
+    "Malodorous",
+    "Weedy"
+  ]
+}

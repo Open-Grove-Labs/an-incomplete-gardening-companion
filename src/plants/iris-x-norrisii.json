@@ -1,0 +1,129 @@
+{
+  "fullName": "Iris x norrisii",
+  "name": "iris-x-norrisii",
+  "commonNames": [
+    "Candy Lily",
+    "Orchid Lily",
+    "Painted Lily",
+    "Pardancanda"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/iris-x-norrisii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Iris",
+  "family": "Iridaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 0 ft. 9 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The seedpods split to show black seeds, similar to the blackberry lily."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Blossoms in July and August. Individual, six parted, flowers last only one day, but the plant continues to produce blossoms."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The leaves are iris-like and form a fan shape."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Patio",
+    "Rock Wall"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Heat"
+  ]
+}

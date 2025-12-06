@@ -1,0 +1,138 @@
+{
+  "fullName": "Ornithogalum",
+  "name": "ornithogalum",
+  "commonNames": [
+    "Cape Hyacinth",
+    "Spire Lily",
+    "Star of Bethlehem",
+    "Summer Hyacinth"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ornithogalum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ornithogalum",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "bulb-storage": [
+    "Bulbs can be lifted, dried, and stored over the winter in colder climates.  Store bulbs dry in vermiculite at 63-72 degrees F (17-23C)."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 10 in. - 1 ft. 4 in.",
+    "Width: 0 ft. 2 in. - 0 ft. 5 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Perennial"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Long-lasting"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-description": [
+    "White bell-shaped flowers with green center that are long lasting, fragrant, and make good cut flowers.  Blooms open gradually from the bottom to top of the spike."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Strap-shaped foliage dies down after the flowers fade."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-bud-scales": [
+    "Enclosed in a single cap like scale"
+  ],
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Cottage Garden",
+    "Cutting Garden",
+    "English Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut"
+  ]
+}

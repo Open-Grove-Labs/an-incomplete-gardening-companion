@@ -1,0 +1,195 @@
+{
+  "fullName": "Echinacea purpurea 'Cheyenne Spirit'",
+  "name": "echinacea-purpurea cheyenne spirit",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/echinacea-purpurea-cheyenne-spirit/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Echinacea",
+  "species": "purpurea",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "wildlife-value": [
+    "Butterflies, bees, and hummingbirds are attracted to the flowers.  Birds will eat the seed in the winter."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Buffer",
+    "Colorful",
+    "Easy to Grow",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Resistant to phytophthora. Deer and rabbits"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 2 ft. 6 in.",
+    "Width: 1 ft. 6 in. - 1 ft. 8 in."
+  ],
+  "plant-type": [
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Columnar",
+    "Dense",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Orange",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Head",
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "The large, cone-shaped flowers appear in a variety of colors."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The numerous branches are dense with foliage."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Very sturdy, well branched stems."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Patio",
+    "Pool/Hardscape",
+    "Recreational Play Area",
+    "Slope/Bank",
+    "Vertical Spaces",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Cutting Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Mass Planting",
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Heat",
+    "Humidity",
+    "Rabbits"
+  ]
+}

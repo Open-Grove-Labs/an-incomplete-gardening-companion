@@ -1,0 +1,104 @@
+{
+  "fullName": "Malus yunnanensis",
+  "name": "malus-yunnanensis",
+  "commonNames": [
+    "Yunnan Crabapple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/malus-yunnanensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Malus",
+  "species": "yunnanensis",
+  "family": "Rosaceae",
+  "wildlife-value": [
+    "Food source for birds and small mammals."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Modest disease resistance"
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Rounded"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy",
+    "White"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "0.5 in. red fruit with white dots"
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Edible"
+  ],
+  "flower-description": [
+    "Single white flowers with a light pink tint"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Orange"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves have an orange to scarlet fall color."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Edible Garden"
+  ]
+}

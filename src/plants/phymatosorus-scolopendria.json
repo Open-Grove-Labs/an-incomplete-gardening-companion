@@ -1,0 +1,73 @@
+{
+  "fullName": "Phymatosorus scolopendria",
+  "name": "phymatosorus-scolopendria",
+  "commonNames": [
+    "Monarch Fern",
+    "Musk Fern",
+    "Serpent Fern",
+    "Wart Fern"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/phymatosorus-scolopendria/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Phymatosorus",
+  "species": "scolopendria",
+  "family": "Polypodiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical & Subtropical Old World"
+  ],
+  "plant-type": [
+    "Perennial"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-description": [
+    "No flowers"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Fronds"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Deeply sunken sori on the frond undersides result in wart-like bumps on the uppersides, hence the common name. Fronds droop gracefully from hanging baskets."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container"
+  ]
+}

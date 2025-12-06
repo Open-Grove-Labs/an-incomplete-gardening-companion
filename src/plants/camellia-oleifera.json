@@ -1,0 +1,223 @@
+{
+  "fullName": "Camellia oleifera",
+  "name": "camellia-oleifera",
+  "commonNames": [
+    "Oil-seed Camellia",
+    "Tea-oil Camellia",
+    "Tea-oil Tree"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/camellia-oleifera/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Camellia",
+  "species": "oleifera",
+  "family": "Theaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern China to Northern Indo-China"
+  ],
+  "wildlife-value": [
+    "Attracts pollinators and provides cover for wintering birds."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Fragrance",
+    "Wildlife Cover/Habitat"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Mildly resistant to deer"
+  ],
+  "edibility": [
+    "Oil pressed from seeds used for a high temperature cooking oil."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Oval",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Roundish woody capsule up to 1\" in length."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "2-2.5 in., white or pink flowers in fall and winter; bright yellow stamens; fragrant.  Petals are long and slightly twisted."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblanceolate",
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Alternate, simple, lustrous, leathery, dark green leaves; 1-3 in. long with pinnate venation."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Light Gray"
+  ],
+  "bark-description": [
+    "Usually multiple trunks with cinnamon colored bark. Branches may droop and need pruning."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Recreational Play Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Children's Garden",
+    "Cottage Garden",
+    "Edible Garden",
+    "Pollinator Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Flowering Tree",
+    "Hedge",
+    "Screen/Privacy",
+    "Small Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "problems": [
+    "Frequent Disease Problems",
+    "Frequent Insect Problems"
+  ],
+  "uses": "In Asia, the seed oil may be used for inks, lubricants, soaps, and cosmetics.  The seed cake used as livestock feed and fertilizer."
+}

@@ -1,0 +1,183 @@
+{
+  "fullName": "Eucalyptus cinerea",
+  "name": "eucalyptus-cinerea",
+  "commonNames": [
+    "Argyle Apple",
+    "Eucalyptus",
+    "Silver Dollar Tree"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/eucalyptus-cinerea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Eucalyptus",
+  "species": "cinerea",
+  "family": "Myrtaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Australia"
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 52 ft. 6 in.",
+    "Width: 10 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Horizontal"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Capsule contains many seeds"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Small white clusters of blooms,  each flower having many stamens. An umbel, axillary. Flowers (3) creamy-white to yellow, small."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green",
+    "White"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Good Dried"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Orbicular"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Young leaves resemble large coins, hence the common name of “silver dollar tree”.  Juvenile leaves opposite, simple, orbicular, entire, glaucous, sessile, blue-green or ash-colored. Adult leaves alternate, simple, broadly lanceolate, acuminate, thick, glaucous, petiolate, blue-green, 3-4.5\"."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Peeling"
+  ],
+  "bark-description": [
+    "Bark peels on small stems, but becomes stringy on the trunk. Bark of younger branches is red-brown to gray, smooth, on older branches is rough, fibrous, red-brown."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Cutting Garden",
+    "Drought Tolerant Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent"
+  ],
+  "resistance-to-challenges": [
+    "Salt"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Salivation, vomiting, nausea, diarrhea, coma, depression, weakness; skin redness, irritation, and burning"
+  ],
+  "poison-toxic-principle": [
+    "Eucalyptus oil, eucalyptol, and cyanogenic glycoside"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Leaves",
+    "Sap/Juice"
+  ],
+  "uses": "Oils used as an essential oil, herbal medicine"
+}

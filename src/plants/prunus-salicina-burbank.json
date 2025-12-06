@@ -1,0 +1,102 @@
+{
+  "fullName": "Prunus salicina 'Burbank'",
+  "name": "prunus-salicina-burbank",
+  "commonNames": [
+    "Burbank Japanese Plum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-salicina-burbank/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Prunus",
+  "species": "salicina",
+  "family": "Rosaceae",
+  "edibility": [
+    "This cultivar produces rounded fruit with red to purple skin. The amber yellow flesh is aromatic and juicy. It is great for canning, eating fresh or making jam."
+  ],
+  "dimensions": [
+    "Height: 8 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "This cultivar produces rounded fruit with red to purple skin. The amber yellow flesh is aromatic and juicy. Ripens in July."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "The white flower blooms early in spring."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The elliptic leaves have fine tooth on the margin, bright green on top and lighter green underneath."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ]
+}

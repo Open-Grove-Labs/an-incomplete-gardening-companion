@@ -1,0 +1,264 @@
+{
+  "fullName": "Viburnum opulus",
+  "name": "viburnum-opulus",
+  "commonNames": [
+    "Cranberry Bush Viburnum",
+    "European Cranberry",
+    "European Cranberrybush Viburnum",
+    "Guelder-Rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/viburnum-opulus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Viburnum",
+  "species": "opulus",
+  "family": "Viburnaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Asia and N. Africa."
+  ],
+  "distribution": [
+    "CT ",
+    "IA ",
+    "ID ",
+    "IL ",
+    "IN ",
+    "KY ",
+    "MA ",
+    "ME ",
+    "MI ",
+    "MN ",
+    "MO ",
+    "MT ",
+    "ND ",
+    "NE ",
+    "NH ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "PA ",
+    "RI ",
+    "SD ",
+    "VT ",
+    "WA ",
+    "WI ",
+    "WV ",
+    "WY\nCanada: AB ",
+    "BC ",
+    "MB ",
+    "NB ",
+    "NS ",
+    "PE ",
+    "QC ",
+    "SK"
+  ],
+  "wildlife-value": [
+    "Mildly deer resistant. Birds love the berries. Host plant to the Spring Azure butterfly."
+  ],
+  "play-value": [
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "edibility": [
+    "Drupes can be eaten off the bush or used in jams."
+  ],
+  "dimensions": [
+    "Height: 12 ft. 0 in. - 16 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Dense",
+    "Erect",
+    "Multi-stemmed",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "0.3 in. bright red bitter drupe in fall that shrivels after a frost looking like a red raison and persists into winter"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "White flowers on 2 to 4 in. flat-topped cyme. Larger sterile flowers surround fertile smaller flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "2-4\" long and nearly as wide glossy dark green leaves are three-lobed with pointed tips, rounded base, serrated margins and a somewhat wrinkled surface with impressed leaf venation. Sporadic fall color of yellow to red-purple."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "bark-description": [
+    "Gray-brown waxy bark"
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-lenticels": [
+    "Conspicuous"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Twigs are brown and glabrous with white lenticels."
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "problems": [
+    "Frequent Insect Problems",
+    "Weedy"
+  ],
+  "uses": "Bark used medicinally"
+}

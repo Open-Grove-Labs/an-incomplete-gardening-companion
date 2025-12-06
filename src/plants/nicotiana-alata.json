@@ -1,0 +1,138 @@
+{
+  "fullName": "Nicotiana alata",
+  "name": "nicotiana-alata",
+  "commonNames": [
+    "Flowering Tobacco",
+    "Jasmine Tobacco",
+    "Nicotiana",
+    "Sweet Tobacco"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nicotiana-alata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nicotiana",
+  "species": "alata",
+  "family": "Solanaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South America"
+  ],
+  "wildlife-value": [
+    "Birds, butterflies, moths"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-description": [
+    "The seeds are almost microscopic they are so tiny."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star",
+    "Trumpet",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-description": [
+    "Flowers can be lime green, red, white, or yellow. They have 5 \"petals,\" which make a star shape but the petals are fused together into a long tube that hangs downward on the stem.  Their bloom season  is long from early summer to the first frost though the individual flowers last only one night."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Spatulate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Leaves are much larger than flowers: they can be dark green or light green with larger spatulate (12\" long) leaves with winged petioles at the base of the plant.  Leaves on the upper stem are much smaller and sessile (no petiole)"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Nighttime Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ]
+}

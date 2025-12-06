@@ -1,0 +1,88 @@
+{
+  "fullName": "Rosa Perdita 'AUSperd'",
+  "name": "rosa-perdita-ausperd",
+  "commonNames": [
+    "Perdita rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-perdita-ausperd/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "United Kingdom"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 6 in. - 4 ft. 0 in.",
+    "Width: 2 ft. 6 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Rose"
+  ],
+  "habit/form": [
+    "Mounding",
+    "Rounded"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-description": [
+    "Apricot-pink buds, old rose shape blooms summer till fall.  26-40 petals."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Cottage Garden"
+  ]
+}

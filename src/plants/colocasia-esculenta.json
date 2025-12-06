@@ -1,0 +1,191 @@
+{
+  "fullName": "Colocasia esculenta",
+  "name": "colocasia-esculenta",
+  "commonNames": [
+    "Caladium",
+    "Dasheen",
+    "Elephant Ears",
+    "Green Taro",
+    "Malanga",
+    "Taro"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/colocasia-esculenta/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Colocasia",
+  "species": "esculenta",
+  "family": "Araceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "India to Southern China and Sumatera"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit resistant"
+  ],
+  "bulb-storage": [
+    "Corm"
+  ],
+  "edibility": [
+    "Poisonous until cooked. Poisons neutralized by thoroughly drying or cooking the plant or by steeping it in water. Taro root used in Southeastern Asian cuisine.  Use salted water and boil for at least one hour.  They are rich in vitamins A and C and they have more protein, phosphorus and calcium than a regular potato.  Their starch is easily digested so it is often used in infant formulas as a first baby food."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Perennial",
+    "Poisonous",
+    "Water Plant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Horizontal",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-description": [
+    "Rarely flowers. White or yellow spadix with a greenish or yellow spathe."
+  ],
+  "leaf-color": [
+    "Cream/Tan",
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "Variegated"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Ovate",
+    "Peltate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Leaves are very large (up to 3 ft.). They are heart-shaped to arrow-shaped with prominent veins. The apex is obtuse while the base is somewhere between cordate and auriculate.  The petiole comes out from the center of the leaf.  There is a wide variety of colors and patterns."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Oral irritation, pain and swelling of mouth, tongue, and lips, excessive drooling, vomiting, and difficulty swallowing can result from eating parts of this plant. Causes an extremely unpleasant sensation similar to needles being stuck into the mouth and tongue. All parts of the plant are poisonous unless cooked first."
+  ],
+  "poison-toxic-principle": [
+    "Calcium oxalate crystals"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ],
+  "uses": "Traditionally used medicinally for the treatment of digestive disorders."
+}

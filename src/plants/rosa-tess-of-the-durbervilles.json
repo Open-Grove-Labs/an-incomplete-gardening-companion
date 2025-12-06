@@ -1,0 +1,145 @@
+{
+  "fullName": "Rosa 'Tess of the d'Urbervilles'",
+  "name": "rosa-tess-of-the-durbervilles",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-tess-of-the-durbervilles/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaeae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Diseases"
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Rose",
+    "Shrub",
+    "Vine"
+  ],
+  "habit/form": [
+    "Arching"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low",
+    "Medium"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Pink",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Crimson magenta, large 4\" fragrant cupped flowers with up to 100 petals."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Green stems with prickles"
+  ],
+  "landscape-location": [
+    "Patio",
+    "Vertical Spaces",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Cutting Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Screen/Privacy"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ]
+}

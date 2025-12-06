@@ -1,0 +1,180 @@
+{
+  "fullName": "Sarracenia purpurea",
+  "name": "sarracenia-purpurea",
+  "commonNames": [
+    "Huntsman Cup",
+    "Northern Pitcher Plant",
+    "Purple Pitcher Plant",
+    "Sweet Pitcherplant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sarracenia-purpurea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sarracenia",
+  "species": "purpurea",
+  "family": "Sarraceniaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Canada and United States"
+  ],
+  "distribution": [
+    "Labrador south to Kentucky and Florida",
+    "west to Iowa. Naturalized in central Ireland."
+  ],
+  "wildlife-value": [
+    "A nectar source for insects."
+  ],
+  "play-value": [
+    "Attracts Pollinators"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 9 in. - 1 ft. 6 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Carnivorous",
+    "Native Plant",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Each flower is replaced by a 5-celled seed capsule. Each cell of the capsule contains several small seeds with pitted surfaces."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "Colored Sepals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Red-purple or greenish-purple 2 1/2 inch flower hangs down on a each stem. Blooms from late spring to early summer. The flower consists of 5 persistent sepals, 5 petals, a single pistil with a large umbrella-shaped style, and numerous stamens (which are largely hidden by the odd style). The sepals and petals are usually reddish purple (rarely yellowish green), while the persistent style is yellowish green. The sepals and petals are broadly ovate. The petals curve inward, covering the style; they soon fall off the flower. In contrast, only the tips of the sepals curve inward toward the center of the flower. Hooked stigmas are located at the \"spokes\" of the umbrella-like style."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender",
+    "Variegated"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Evergreen leaves slender at the base, widening in the middle. The highly modified leaves are tubular in shape, swollen toward the middle, and about 3 to 8 inches long. At the apex of each leaf, there is an erect flap that is open in the front; each flap has 2 lateral rounded lobes. The glabrous outer surface of each leaf is green with purple veins to reddish purple. Each leaf has a winged extension along its front where the leaf margins join to form the tubular shape. Green, variegated or suffused with reddish-purple, wide mouth lid. Deep red with prominent veining of the hood.  Downward pointing spines line the throat."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Green to reddish purple, 8 to 20 inch naked stalks, each with a single nodding flower at its apex."
+  ],
+  "landscape-location": [
+    "Container",
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators"
+  ]
+}

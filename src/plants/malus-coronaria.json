@@ -1,0 +1,242 @@
+{
+  "fullName": "Malus coronaria",
+  "name": "malus-coronaria",
+  "commonNames": [
+    "American Crabapple",
+    "Garland Crab",
+    "Sweet Crabapple",
+    "Wild Crabapple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/malus-coronaria/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Malus",
+  "species": "coronaria",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "North America, NC"
+  ],
+  "distribution": [
+    "USA: AL",
+    "AR",
+    "DC",
+    "DE",
+    "GA",
+    "IL",
+    "IN",
+    "KS",
+    "KY",
+    "LA",
+    "MD",
+    "MI",
+    "MO",
+    "NC",
+    "NJ",
+    "NY",
+    "OH",
+    "PA",
+    "SC",
+    "TN",
+    "VA",
+    "WI",
+    "WV",
+    "WY\nCanada: BC",
+    "ON"
+  ],
+  "wildlife-value": [
+    "Nectar from flowers attracts native bees and honey bees. Fruits are a food source for birds as well as raccoons, rabbits, opossum, squirrel, and foxes. Branches provide cover and nesting sites for birds and small mammals."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Edible fruit ",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Nesting"
+  ],
+  "edibility": [
+    "Fruits are used to make preserves or cider."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 20 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Native Plant",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Broad",
+    "Erect",
+    "Open"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Pome"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Pomes are ¾-1½\" across. It is fragrant and yellowish-green or yellow at maturity, slightly juicy and sour-tasting. Fruits display from September to October."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Cymes of 2-6 flowers appear in May. Individual flowers are 1-1¾\" across, consisting of 5 pink-petals that fade to white with age."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cuneate",
+    "Elliptical",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Crenate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "1½-3\" long and ¾-2\" across ovate yellow-green leaves are coarsely toothed, and often shallowly cleft. Undersurface is pale green"
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Scaly"
+  ],
+  "bark-description": [
+    "The bark is variable but is often reddish gray-brown, rough-textured, and covered with longitudinal scales."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-bud-terminal": [
+    "Only 1 terminal bud, larger than side buds"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Reddish gray smooth stems. Thorns can occur on the larger branches."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Naturalized Area",
+    "Pond",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Small Tree"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Small Mammals",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "problems": [
+    "Frequent Disease Problems",
+    "Frequent Insect Problems"
+  ]
+}

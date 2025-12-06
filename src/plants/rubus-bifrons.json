@@ -1,0 +1,153 @@
+{
+  "fullName": "Rubus bifrons",
+  "name": "rubus-bifrons",
+  "commonNames": [
+    "Blackberry",
+    "Dewberry",
+    "Himalayan blackberry",
+    "Hybrid blackberry",
+    "Hybrid European blackberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rubus-bifrons/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rubus",
+  "species": "bifrons",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Europe"
+  ],
+  "distribution": [
+    "Has naturalized in much of North America"
+  ],
+  "wildlife-value": [
+    "This plant provides nectar for pollinators and fruits for birds and other animals."
+  ],
+  "edibility": [
+    "Edible raw or cooked, but flavor is not as satifying as other species of blackberry."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "habit/form": [
+    "Arching",
+    "Creeping"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Prickles",
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Mature fruit is up to 3/4 of an inch long."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-description": [
+    "Flowers are white or pink, in large arrays at the ends of branches, sometimes containing as many as 100 flowers. Blooms from April to June."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Leaves are palmately compound with three or five leaflets. Deciduous to semievergreen terminal elliptic or ovate to suborbiculate, base rounded to shallowly cordate, unlobed, margins moderately to coarsely serrate, apex acute or acuminate to short-attenuate, abaxial surfaces white (gray-green in shade), with hooked prickles on largest veins, short-velutinous to tomentose, eglandular, rarely sparsely sessile-glandular along midveins."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "arching, sometimes creeping early or with age, sparsely to densely hairy, eglandular or sparsely sessile-glandular, not or weakly pruinose; prickles moderately dense, hooked, erect, stout, broad- or narrow-based."
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "problems": [
+    "Spines/Thorns",
+    "Weedy"
+  ]
+}

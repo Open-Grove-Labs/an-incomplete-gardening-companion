@@ -1,0 +1,230 @@
+{
+  "fullName": "Frangula alnus",
+  "name": "frangula-alnus",
+  "commonNames": [
+    "Alder Buckthorn",
+    "Glossy Buckthorn"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/frangula-alnus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Frangula",
+  "species": "alnus",
+  "family": "Rhamnaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Layering",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Europe to Central Siberia and North West China and North Africa"
+  ],
+  "distribution": [
+    "Introduced to central and eastern Canada and central and eastern United States to Tennessee."
+  ],
+  "wildlife-value": [
+    "A good bee plant and a main food plant for the larvae of the yellow brimstone butterfly."
+  ],
+  "edibility": [
+    "Berries can induce vomiting and indigestion when ingested."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 16 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 12 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fleshy, small, red to purple-black drupe. about ¼ inch across, globoid in shape, and hairless. As they develop, the drupes change color from green, to yellow, to red, and finally to black. The interior of mature drupes contain 1 to 3 hardened seeds."
+  ],
+  "flower-color": [
+    "Black",
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Solitary",
+    "Umbel"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small, 4 to 5-parted creamy green flowers, solitary or umbel, in leaf axis of new growth that appear in spring and early summer. The petioles are light green to red and up to a ½ inch long. The solitary flowers and umbels of flowers are sessile. Each flower is about ¼ inch across, consisting of 5 yellowish green to white sepals, 5 white petals, 5 stamens, and a pistil."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Alternate or nearly opposite, simple, smooth or toothed, lustrous dark green leaves, 1 to 3 inches long and 1/2 to 1 1/2 inches wide, occur along the young shoots. and twigs. The margins are entire and sometimes undulate. Each leaf has about 6 to 8 pairs of lateral veins that are parallel to each other and curve toward the leaf tips as they approach the leaf margins."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Furrowed"
+  ],
+  "bark-description": [
+    "The older bark is gray and slightly wrinkled or rough-textured."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-lenticels": [
+    "Conspicuous"
+  ],
+  "stem-description": [
+    "Young branches are brown with abundant white lenticels,. Young shoots, however, are light green, pale yellowish brown, or red, terete, and glabrous."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Woodland"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge",
+    "Small Tree"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Nausea, vomiting, and diarrhea."
+  ],
+  "poison-toxic-principle": [
+    "Glycosides."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ],
+  "uses": "The wood is used to make wooden nails, shoe lasts, veneer, and a high quality charcoal used by artists."
+}

@@ -1,0 +1,152 @@
+{
+  "fullName": "Viburnum luzonicum",
+  "name": "viburnum-luzonicum",
+  "commonNames": [
+    "Luzon Viburnum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/viburnum-luzonicum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Viburnum",
+  "species": "luzonicum",
+  "family": "Viburnaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "China, Pillippines, Taiwan, Vietnam"
+  ],
+  "dimensions": [
+    "Height: 8 ft. 0 in. - 15 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Broad",
+    "Dense",
+    "Multi-stemmed",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Round fruits start out red and mature to black. Sparsely produced."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Small umbel-like cymes of white flowers bloom mid to late spring.  The fragrance is slightly unpleasant."
+  ],
+  "deciduous-leaf-fall-color": [
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong",
+    "Ovate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Simple, 4\" long elliptical to ovate.  Red-purple fall color.\nVariable leaf shapes depending on habitat. They can be oval to oblong to ovate"
+  ],
+  "bark-color": [
+    "Dark Brown"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Foundation Planting",
+    "Hedge",
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ]
+}

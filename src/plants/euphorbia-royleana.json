@@ -1,0 +1,169 @@
+{
+  "fullName": "Euphorbia royleana",
+  "name": "euphorbia-royleana",
+  "commonNames": [
+    "Churee",
+    "Royle's Spurge",
+    "Sullu Spurge"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/euphorbia-royleana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Euphorbia",
+  "species": "royleana",
+  "family": "Euphorbiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Pakistan to South China and Taiwan"
+  ],
+  "edibility": [
+    "toxic if ingested"
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Dense",
+    "Erect"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The seeds are brown, adaxially striate; caruncle absent."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers are small, greenish-yellow. The cyathia, or false flowers, are almost stalkless with 3 to 4 clustered in subterminal cymes in leaf axils."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblanceolate",
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are apically clustered, produced in the moist season and soon fall. They are usually not seen when in flower. The leaf blade is 2 to 6 inches long, 1 1/2 inches wide and slightly succulent. The base is attenuate. Veins are inconspicuous. The petiole is absent."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Covered with a powdery bloom (glaucous)"
+  ],
+  "stem-description": [
+    "Whorled branches, 4 or 5 ridged, the spines paired and pointing downward. stems become leafless during hot and cold season."
+  ],
+  "landscape-location": [
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Border"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Spines/Thorns"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "The milky white latex sap found in all plant parts can cause mild to severe contact dermatitis. If contact with the eyes occurs the sap can cause temporary to permanent damage to the cornea. If eaten, blistering can occur on lips and oral mucosa. Avoid ingesting plant parts and keep plants away from pets and children."
+  ],
+  "poison-toxic-principle": [
+    "Diterpene esters in milky latex"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

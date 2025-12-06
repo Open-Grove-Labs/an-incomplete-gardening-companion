@@ -1,0 +1,225 @@
+{
+  "fullName": "Cotoneaster integrifolius",
+  "name": "cotoneaster-integrifolius",
+  "commonNames": [
+    "Cotoneaster microphyllus var. integrifolium",
+    "Cotoneaster microphyllus var. integrifolius",
+    "Wintergreen Cotoneaster"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cotoneaster-integrifolius/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cotoneaster",
+  "species": "integrifolius",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Himalaya to China"
+  ],
+  "wildlife-value": [
+    "Cover for birds.  Bees are attracted to the flowers."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Easy to Grow",
+    "Wildlife Cover/Habitat"
+  ],
+  "edibility": [
+    "The fruits are poisonous when ingested."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Semi-evergreen",
+    "Broadleaf Evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Pome"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruits are dark red-purple pome that persists into winter.  They are larger than other Cotoneasters.  The surface is a matte texture."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small, spreading white flowers appear in the spring."
+  ],
+  "leaf-color": [
+    "Black",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "1/2 inch oval, black-green leaves have a few bristle like hairs on the upper side and long gray hairs on the undersides. It has a very pronounced mid-rib, a lighter green than the upper surface.  The margins roll backwards.  The upper surface is shiny.  They are somewhat pointed and have a slight fold along the middle."
+  ],
+  "bark-color": [
+    "Light Brown"
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The stems/branches form in an alternate pattern.  They  are ridged and covered with hairs that are close together."
+  ],
+  "landscape-location": [
+    "Patio",
+    "Riparian",
+    "Rock Wall",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Pollinator Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Border",
+    "Foundation Planting",
+    "Hedge",
+    "Mass Planting",
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Ingestion causes gastroenteritis."
+  ],
+  "poison-toxic-principle": [
+    "Unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ]
+}

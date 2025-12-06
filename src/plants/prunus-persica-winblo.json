@@ -1,0 +1,114 @@
+{
+  "fullName": "Prunus persica 'Winblo'",
+  "name": "prunus-persica-winblo",
+  "commonNames": [
+    "Winblo Peach"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-persica-winblo/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Prunus",
+  "species": "persica",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "wildlife-value": [
+    "Attracts bees and butterflies."
+  ],
+  "edibility": [
+    "It produces freestone, yellow flesh fruit with a very high quality. Moderate resistant to browning as well. It needs at least 850 chilling hours."
+  ],
+  "dimensions": [
+    "Height: 12 ft. 0 in. - 15 ft. 0 in.",
+    "Width: 12 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "fruit-description": [
+    "It produces freestone, yellow flesh fruit with a very high quality. Moderate resistant to browning as well. It needs at least 850 chilling hours."
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "The pink, showy flower blooms in mid spring and attracts bees and butterflies."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves are lanceolate shaped, 3-6 inches in length and 0.8-1.2 inches broad. Pinnately veined."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fullName": "Rorippa teres",
+  "name": "rorippa-teres",
+  "commonNames": [
+    "Southern Yellowcress"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rorippa-teres/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rorippa",
+  "species": "teres",
+  "family": "Brassicaceae",
+  "plant-type": [
+    "Weed"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "fruit-description": [
+    "cylindrical fruit containing many small tan seeds"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "branched flower stalks"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

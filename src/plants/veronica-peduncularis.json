@@ -1,0 +1,94 @@
+{
+  "fullName": "Veronica peduncularis",
+  "name": "veronica-peduncularis",
+  "commonNames": [
+    "Speedwell",
+    "Veronica"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/veronica-peduncularis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Veronica",
+  "species": "peduncularis",
+  "family": "Plantaginaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 4 in. - 1 ft. 0 in.",
+    "Width: 0 ft. 4 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Blue",
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ]
+}

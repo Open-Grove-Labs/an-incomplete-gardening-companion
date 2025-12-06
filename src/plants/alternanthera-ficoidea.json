@@ -1,0 +1,123 @@
+{
+  "fullName": "Alternanthera ficoidea",
+  "name": "alternanthera-ficoidea",
+  "commonNames": [
+    "Bloodleaf",
+    "Calico Plant",
+    "Copperleaf",
+    "Joseph's Coat",
+    "Joyweed",
+    "Parrot Leaf"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/alternanthera-ficoidea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Alternanthera",
+  "species": "ficoidea",
+  "family": "Ameranthaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico, South America"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Insignificant",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower-description": [
+    "Flowers are white, no petals, insignificant appear in axillary clusters from fall to winter."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "Variegated"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are elliptic to broad ovate green leaves (1” long).  There are many colorful cultivars with blotches of gold, orange, red-brown and purple, often with red veining.  Brighter leaved varieties are often confused with coleus."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "English Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ]
+}

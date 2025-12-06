@@ -1,0 +1,255 @@
+{
+  "fullName": "Ilex pedunculosa",
+  "name": "ilex-pedunculosa",
+  "commonNames": [
+    "Longstalk Holly"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ilex-pedunculosa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ilex",
+  "species": "pedunculosa",
+  "family": "Aquifoliaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "China, Central & South Japan"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "Berries are eaten by birds. Members of the genus Ilex support the following specialized bee: Colletes banksi."
+  ],
+  "play-value": [
+    "Buffer",
+    "Wildlife Food Source",
+    "Wind Break"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer damage"
+  ],
+  "edibility": [
+    "Use caution. Berries are slightly toxic to humans if eaten in quantity."
+  ],
+  "dimensions": [
+    "Height: 20 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Multi-trunked",
+    "Pyramidal",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Berry",
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Bright red 1/4 inch fruit on 1 to 2 inch stalks in fall and winter."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Insignificant"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Inconspicuous female flowers are white, usually solitary on current season's growth. Male flowers are in clusters."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Smooth",
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Alternate, simple, 1 to 3 inch dark green leaves; may develop a yellowish-green cast in harsh winter. Narrow, entire (untoothed), pear-like shape."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "bark-description": [
+    "Smooth gray bark becoming finely flakey with size."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Slender, glabrous, somewhat flattened."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Pollinator Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Hedge",
+    "Mass Planting",
+    "Screen/Privacy",
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Dry Soil",
+    "Heat",
+    "Wind"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Minor toxicity. Ingestion may cause vomiting, diarrhea, or other illness in humans."
+  ],
+  "poison-toxic-principle": [
+    "Saponins"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ],
+  "uses": "A dark red dye is obtained from the leaves. The wood is white and beautifully veined."
+}

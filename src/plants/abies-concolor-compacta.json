@@ -1,0 +1,153 @@
+{
+  "fullName": "Abies concolor 'Compacta'",
+  "name": "abies-concolor-compacta",
+  "commonNames": [
+    "Compact White Fir"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/abies-concolor-compacta/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Abies",
+  "species": "concolor",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "wildlife-value": [
+    "Deer resistant"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Rarely browsed by deer."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 3 ft. 6 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Dense"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Purple/Lavender"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "Cones 3 to 6 inches long, upright, brown-purple, appearing on the branches after the plant is 40 or more years old."
+  ],
+  "flower-description": [
+    "No Flowers"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "This plant has 2- to 3-inch attractive, sickle-shaped needles. The needles can be powder blue, blue-green, bright green, or gray-blue."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "bark-description": [
+    "Smooth ash-gray bark furrows with age."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Lawn",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Foundation Planting"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

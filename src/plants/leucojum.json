@@ -1,0 +1,227 @@
+{
+  "fullName": "Leucojum",
+  "name": "leucojum",
+  "commonNames": [
+    "Snowflake"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/leucojum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Leucojum",
+  "family": "Amaryllidoideae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Europe to Northern Iran"
+  ],
+  "distribution": [
+    "Native: Albania",
+    "Austria",
+    "Belgium",
+    "Bulgaria",
+    "Corse",
+    "Czechoslovakia",
+    "France",
+    "Germany",
+    "Great Britain",
+    "Greece",
+    "Hungry",
+    "Iran",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "North Caucasus",
+    "Poland",
+    "Romania",
+    "Switzerland",
+    "Transcaucasus",
+    "Turkey",
+    "Ukraine",
+    "and Yugoslavia.\nIntroduced: Canada--Nova Scotia",
+    "Denmark",
+    "Finland",
+    "Japan",
+    "New South Wales",
+    "New Zealand",
+    "South Australia",
+    "Spain",
+    "Sweden",
+    "and the United States--AL",
+    "AR",
+    "CA",
+    "CT",
+    "DE",
+    "FL",
+    "GA",
+    "IL",
+    "IN",
+    "KY",
+    "LA",
+    "ME",
+    "MD",
+    "MA MS",
+    "MO",
+    "NY",
+    "NC",
+    "OH",
+    "OR",
+    "PN",
+    "SC",
+    "TN",
+    "TX",
+    "and VA."
+  ],
+  "play-value": [
+    "Attractive Flowers"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit resistant."
+  ],
+  "bulb-storage": [
+    "Store bulbs dry at 68°F (20°C)"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 1 ft. 2 in.",
+    "Width: 0 ft. 9 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The fruits are capsular, erect, and dehiscent. They have numerous black seeds."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "Tepals"
+  ],
+  "flower-description": [
+    "The flowers are lightly scented, nodding, bell-shaped, white flowers with spotted green tips. The inflorescences are umbellate with 3 to 6 blooms, and each bloom has 6 tepals. The blooms are on top of a hollow scape that is 12 to 15 inches long. The bloom time is dependent on the species."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Sheath"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves are erect, grass-like, dark green, and measure 12 inches long and 1 inch wide. The blade is linear and the base is sheath-like. They grow in a vase-shaped clump."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The scape is hollow and stout."
+  ],
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Pond",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Rock Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Rabbits"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Ingestion of the leaves or bulbs will cause nausea, vomiting, abdominal pain, diarrhea, seizures, shock, and potentially lethal."
+  ],
+  "poison-toxic-principle": [
+    "alkaloids Lycorine and galantamine"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Roots"
+  ]
+}

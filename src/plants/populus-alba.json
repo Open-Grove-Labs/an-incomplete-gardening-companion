@@ -1,0 +1,106 @@
+{
+  "fullName": "Populus alba",
+  "name": "populus-alba",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/populus-alba/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Populus",
+  "species": "alba",
+  "family": "Salicaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, central Asia"
+  ],
+  "distribution": [
+    "Naturalized in NC"
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet",
+    "more than 60 feet"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Capsules filled with small, downy seeds that are easily carried on the wind."
+  ],
+  "flower-inflorescence": [
+    "Catkin"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Separate male and female inflorescences, the female as small as 1.5 mm and the male over 2 in long."
+  ],
+  "leaf-color": [
+    "Green",
+    "White"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed",
+    "Sinuate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Large, 3 to 5-lobed leaves with white, wooly undersides and a coarsely-toothed margin.  Petioles are also wooly."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "bark-description": [
+    "Prominent and light grey."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Hairy"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

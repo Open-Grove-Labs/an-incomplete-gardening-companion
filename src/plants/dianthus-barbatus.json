@@ -1,0 +1,229 @@
+{
+  "fullName": "Dianthus barbatus",
+  "name": "dianthus-barbatus",
+  "commonNames": [
+    "Sweet John",
+    "Sweet William"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dianthus-barbatus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dianthus",
+  "species": "barbatus",
+  "family": "Caryophyllaceae",
+  "life-cycle": [
+    "Annual",
+    "Biennial",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "European Mountains (Pyrenees, Carpathians, Balkans)"
+  ],
+  "wildlife-value": [
+    "Pollinated by Bees, Lepidoptera (Moths & Butterflies)."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Fragrance"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit resistant"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The capsule is 1-celled, opening by 4 valves, the fruit is dry and splits open when ripe with numerous, shield-shaped blackish-brown seeds."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "Variegated",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Head",
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Wheel"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Flowers 5-parted with a frilled margin, often fragrant, shades of pink, red, often bicolor with white."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Narrow lance-shaped leaves that are often grayish-green or blue-green to 4\" long.  Several oblong-lanceolate basal leaves, 4-10 pairs of cauline leaves. Short-stalked to stalkless"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Cutting Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Moths",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heat",
+    "Humidity",
+    "Rabbits"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "No reports of ingestion. Skin irritation reported from contact with clove pinks and vomiting."
+  ],
+  "poison-toxic-principle": [
+    "Triterpenoid saponins"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves"
+  ]
+}

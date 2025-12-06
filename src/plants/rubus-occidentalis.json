@@ -1,0 +1,179 @@
+{
+  "fullName": "Rubus occidentalis",
+  "name": "rubus-occidentalis",
+  "commonNames": [
+    "Blackberry",
+    "Blackcap",
+    "Black Raspberry",
+    "Dewberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rubus-occidentalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rubus",
+  "species": "occidentalis",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "wildlife-value": [
+    "This plant provides nectar for pollinators. Excellent cover for small mammals and birds. Blooms attract pollinators. Fruits are eaten by songbirds, mammals, and black bears. During the winter, birds and small mammals eat the seeds left from rotted fruit."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Moderately resistent to deer."
+  ],
+  "edibility": [
+    "The fleshy fruits are sweet and slightly tart in flavor; they detach cleanly and easily from their receptacles. Excellent flavor."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 8 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Native Plant",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "appendage": [
+    "Prickles",
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "This compound drupe is initially white, later becomes red, and finally turns black-purple when it is mature. Each drupe consists of multiple drupelets, each drupelet containing a single seed. Fruits are available June-July."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Not very showy. White, five-petaled flowers.  Second-year canes develop short branches that terminate in flowers. Flowers bloom from April to June."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Doubly Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Trifoliate, alternate leaves with toothed margins."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Covered with a powdery bloom (glaucous)"
+  ],
+  "stem-description": [
+    "Canes are initially green, hairless, and glaucous, but later turn brown and woody during the winter.  Scattered along the length of each cane are prickles that are short and curved. The powdery bloom on the stem can give it a ghostly white appearance."
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Heat"
+  ],
+  "uses": "Flavorful fruit can be eaten raw or cooked as a topping, filling, or jam. It is of variable quality, with the finest forms having a rich acid flavor. Young shoots can be eaten raw or cooked like rhubarb. They are harvested as they emerge through the soil in the spring while they are still tender, and then peeled. A tea is made from the leaves or from the bark of the root."
+}

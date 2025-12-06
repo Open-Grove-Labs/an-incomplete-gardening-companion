@@ -1,0 +1,241 @@
+{
+  "fullName": "Arnoglossum atriplicifolium",
+  "name": "arnoglossum-atriplicifolium",
+  "commonNames": [
+    "Pale Indian Plantain"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/arnoglossum-atriplicifolium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Arnoglossum",
+  "species": "atriplicifolium",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern U.S.A"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "DC",
+    "DE",
+    "FL",
+    "GA",
+    "IA",
+    "IL",
+    "IN",
+    "KS",
+    "KY",
+    "LA",
+    "MA",
+    "MD",
+    "MI",
+    "MN",
+    "MO",
+    "MS",
+    "NC",
+    "NE",
+    "NJ",
+    "NY",
+    "OH",
+    "OK",
+    "PA",
+    "SC",
+    "TN",
+    "VA",
+    "WI",
+    "WV"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "Wasps, butterflies, birds, small bees, moths and flies are attracted to the flowers."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Easy to Grow"
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect",
+    "Vase"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Purple/Lavender"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The tiny, ribbed, smooth, egg-shaped fruits display from June to November."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb",
+    "Cyme",
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flat-top clusters of small flower heads sits at the top of the central stalk, each containing 4 to 15 white to yellowish green flowers.  The flowers have five lobes, are stiff, and slender. Blooming occurs from June to October."
+  ],
+  "leaf-color": [
+    "White"
+  ],
+  "leaf-feel": [
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Deltoid",
+    "Orbicular"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Serrate",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The upper sides of the leaves are medium to dark green, while the undersides of the leaves and stems have a waxy, white coating. The leaves are irregular, fan-shaped, and coarsely lobed or toothed.  The basal leaves are up to 8\" long and 6\" wide.  \nSpringtime will bring an unbranched stalk with alternate leaves of up to 8\" long and 8\" wide and reaching a height of up to 9' tall.  The leaves become smaller as they go up the stem."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The smooth central stalk is pale green to pale purple.  Fine veins can be seen along the stem.  They remain unbranched below the flower clusters."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Pond",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heat"
+  ],
+  "uses": "Wildflower"
+}

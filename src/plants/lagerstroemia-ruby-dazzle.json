@@ -1,0 +1,114 @@
+{
+  "fullName": "Lagerstroemia 'Ruby Dazzle'",
+  "name": "lagerstroemia-ruby-dazzle",
+  "commonNames": [
+    "Ruby Dazzle Crape Myrtle"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lagerstroemia-ruby-dazzle/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lagerstroemia",
+  "family": "Lythraceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Spring flowers are pink and have a plesant fragrance but are sparse on the plant."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "New leaves are bronze-red and then turn green.  Fall color is red."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Patio",
+    "Pond",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Fairy Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Foundation Planting",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "fullName": "Dryopteris filix-mas",
+  "name": "dryopteris-filix-mas",
+  "commonNames": [
+    "Male Fern"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dryopteris-filix-mas/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dryopteris",
+  "species": "filix-mas",
+  "family": "Polypodiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Temp. Northern Hemisphere"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heavy shade, This plant is seldom damaged by deer."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Fern",
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Semi-evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Arching",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-description": [
+    "No fruits. This plants reproduces via spores."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Orange"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Fronds"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Stiff, lustrous, dark green fronds 8 in. wide, form a flattened vase; lance-shaped blade tapers at each end; pinnate-pinnatified; pinna long with deep cuts and blunt segments; short, densely scaly stipe with brown scales; sori near midrib"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Shade Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heavy Shade",
+    "Rabbits"
+  ]
+}

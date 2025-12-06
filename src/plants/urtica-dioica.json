@@ -1,0 +1,258 @@
+{
+  "fullName": "Urtica dioica",
+  "name": "urtica-dioica",
+  "commonNames": [
+    "Common Nettle",
+    "Stinging Nettle"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/urtica-dioica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Urtica",
+  "species": "dioica",
+  "family": "Urticaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Asia, Africa, western North America"
+  ],
+  "distribution": [
+    "AK",
+    "AL",
+    "AZ",
+    "CA ",
+    "CO",
+    "CT",
+    "DC",
+    "DE",
+    "Fl",
+    "GA",
+    "IA",
+    "ID",
+    "IL",
+    "IN",
+    "KS",
+    "KY",
+    "LA ",
+    "MA ",
+    "MD",
+    "ME",
+    "MI",
+    "MN",
+    "MO",
+    "MS ",
+    "MT",
+    "NC ",
+    "ND",
+    "NE",
+    "NH",
+    "NJ",
+    "NM",
+    "NV",
+    "NY",
+    "OH",
+    "OK",
+    "OR ",
+    "PA",
+    "RI",
+    "SD",
+    "TN",
+    "TX",
+    "UT",
+    "VA",
+    "VT",
+    "WA",
+    "WI ",
+    "WV",
+    "WY\nCanada: AB",
+    "BC",
+    "MB",
+    "NB",
+    "NL",
+    "NS",
+    "NT",
+    "ON",
+    "PE",
+    "QC",
+    "SK",
+    "YT"
+  ],
+  "wildlife-value": [
+    "This plant supports the following larvae: Painted Lady (Vanessa cardui), Eastern Comma (Polygonia comma), Mourning Cloak (Nymphalis antiopa), Question Mark Butterfly (Polygonia interrogationis). Questionmark butterflies have an interesting life cycles: overwintered adult Question Mark butterflies lay eggs from spring until the end of May. These will appear as summer adults from May-September, laying eggs that then develop into the winter adult form. The winter adults appear in late August and shelter for the winter starting the cycle all over again. Adult Question Mark butterflies feed on rotting fruit, tree sap, dung, and carrion only visiting flowers for feeding when absolutely necessary. Painted Lady (Vanessa cardui) and Red-spotted Purple (Limenitis arthemis astyanax) rarely use this host plant in North Carolina."
+  ],
+  "edibility": [
+    "Soak young shoots in warm water to remove dirt and debris. Do not use dish detergent or any type of sanitizer. These products can leave a residue. Place young shoots in boiling, salted water (with a pair of kitchen tongs) and boil for five minutes. Serve as a vegetable or add to soups. The stinging quality disappears after cooking."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 9 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Cream/Tan",
+    "Gold/Yellow"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "Produces small oval achenes with copious amounts of seeds."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "Tiny green or white flowers are borne in dense whorled clusters in the leaf axils and stem tips.  Flowers are wind pollinated."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "1”-6” simple opposite saw-tooth margin egg-shaped green leaves with a heart-shaped base and a pointed tip with hairs and stinging hairs."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Wiry green stems fairly square and may bear stinging hairs, grow up to 9’ tall."
+  ],
+  "landscape-location": [
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Pollinator Garden",
+    "Rain Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Children",
+    "Spines/Thorns",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Intense burning and itching sensation lasting a few minutes from hairs on leaves and stems."
+  ],
+  "poison-toxic-principle": [
+    "unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Stems"
+  ],
+  "uses": "The rootstock is used as a diuretic and as an herbal treatment for benign prostatic hyperplasia (prostate enlargement) and other urinary disorders. Tea made from the leaves has been used to treat hay fever, diabetes, gout, and arthritis, and fresh stinging leaves are sometimes applied to arthritic joints in a process known as urtification, which is said to stimulate blood flow. Topical creams have also been developed for joint pain and various skin ailments, including eczema and dandruff."
+}

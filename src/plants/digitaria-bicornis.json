@@ -1,0 +1,128 @@
+{
+  "fullName": "Digitaria bicornis",
+  "name": "digitaria-bicornis",
+  "commonNames": [
+    "Asian Crab Grass",
+    "Finger Grass",
+    "Hairy Finger Grass",
+    "Large Crab Grass",
+    "Southern Crabgrass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/digitaria-bicornis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Digitaria",
+  "species": "bicornis",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical and Subtropical Asia, Australia, and Madagascar"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 4 in. - 0 ft. 8 in.",
+    "Width: 0 ft. 3 in. - 2 ft. 6 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Weed"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Clumping",
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Achene",
+    "Caryopsis"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Achenes are winged with velvety hairs. May or may not be on a stalk."
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Small flowers in racemes at leaf axils"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Sheath"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Narrow green grass-like leaves up to 6 inches long. Base is round with a pointed to tapering tip and serrated or wavy margins. There may be a few hairs at the base."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Green hairless stem"
+  ],
+  "landscape-location": [
+    "Lawn"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

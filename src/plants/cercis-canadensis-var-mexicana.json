@@ -1,0 +1,209 @@
+{
+  "fullName": "Cercis canadensis var. mexicana",
+  "name": "cercis-canadensis-var-mexicana",
+  "commonNames": [
+    "Mexican Redbud"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cercis-canadensis-var-mexicana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cercis",
+  "species": "canadensis",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "South West Texas to North Eastern Mexico"
+  ],
+  "distribution": [
+    "TX"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "Larval host to Henry's Elfin butterfly.  Attractive to native bees and bumble bees."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Screening",
+    "Wildlife Larval Host "
+  ],
+  "dimensions": [
+    "Height: 11 ft. 0 in. - 15 ft. 0 in.",
+    "Width: 11 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "The fruit is a legume that appears green and turns to brown as it ages."
+  ],
+  "flower-color": [
+    "Red/Burgundy"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Red, pea-like flowers in clusters in early spring."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Reniform"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "2-6 in. alternate, simple, dark silvery/green, leathery leaves with undulating margins; develops glossy appearance with age. Thicker cuticle allows for greater drought tolerance than C. canadensis."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stems are thicker and more rigid than species.  Grows in a multi-stemmed form."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Naturalized Area",
+    "Patio",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Flowering Tree",
+    "Foundation Planting",
+    "Small groups",
+    "Small Tree",
+    "Specimen",
+    "Understory Tree"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Heat",
+    "Poor Soil"
+  ]
+}

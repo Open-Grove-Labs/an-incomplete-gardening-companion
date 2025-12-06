@@ -1,0 +1,179 @@
+{
+  "fullName": "Rhododendron alabamense",
+  "name": "rhododendron-alabamense",
+  "commonNames": [
+    "Alabama Azalea"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rhododendron-alabamense/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rhododendron",
+  "species": "alabamense",
+  "family": "Ericaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Layering",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Alabama and Georgia"
+  ],
+  "wildlife-value": [
+    "Members of the genus Rhododendron support the following specialized bee: Andrena (Andrena) cornelli, and bumble bees."
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Large white tubular flowers in terminal clusters of 6 to 10 with yellow blotches and long stamens appear in spring; strong lemon scent.  Flowers appear before leafout."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Alternate, simple, smooth or toothed margined dark green leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Patio",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Garden for the Blind",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Rabbits"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Salivation, watering of eyes and nose, abdominal pain, loss of energy, depression, nausea and vomiting, diarrhea, weakness, difficult breathing, progressive paralysis of arms and legs, cardiac failure, coma."
+  ],
+  "poison-toxic-principle": [
+    "Andromedotoxin, Grayantoxin"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

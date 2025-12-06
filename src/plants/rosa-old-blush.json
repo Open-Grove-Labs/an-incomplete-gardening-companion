@@ -1,0 +1,90 @@
+{
+  "fullName": "Rosa 'Old Blush'",
+  "name": "rosa-old-blush",
+  "commonNames": [
+    "Old Blush",
+    "'Old Blush China'",
+    "'Old China Monthly'",
+    "'Parsons' Pink China'"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-old-blush/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Rose"
+  ],
+  "habit/form": [
+    "Arching"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-description": [
+    "Small red rose hips"
+  ],
+  "flower-color": [
+    "Gray/Silver",
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-description": [
+    "2-3 inch silvery-pink flowers dark as they age and bloom in clusters of 5. They are semi-double and freely bloom summer to fall."
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "almost thornfree"
+  ],
+  "resistance-to-challenges": [
+    "Poor Soil"
+  ]
+}

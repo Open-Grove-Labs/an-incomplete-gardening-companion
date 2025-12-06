@@ -1,0 +1,66 @@
+{
+  "fullName": "Quercus x runcinata",
+  "name": "quercus-x-runcinata",
+  "commonNames": [
+    "Logue Hybrid",
+    "Logue Oak"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/quercus-x-runcinata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Quercus",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Central and northeastern U.S.A."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-description": [
+    "Acorns, look like those of Q. rubra"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "5\"-8\" long, oblong with 3-4 pairs of acute lobes.  Asymmetrical with a rounded  base and tapered at apex. Brown pubescence on the underside of many leaves."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Hairy"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Young stems glabrous, oval pubescent buds pubescent 6 mm long"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "fullName": "Tritonia",
+  "name": "tritonia",
+  "commonNames": [
+    "Blazing Star",
+    "Flame Freesia",
+    "Lined Tritonia",
+    "Montbretia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/tritonia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Tritonia",
+  "family": "Iridaceae",
+  "life-cycle": [
+    "Annual",
+    "Bulb"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern Africa"
+  ],
+  "wildlife-value": [
+    "It is pollinated by bees."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Fragrance"
+  ],
+  "bulb-storage": [
+    "Store corms in peat at 35-41°F (2-5°C)"
+  ],
+  "edibility": [
+    "The flowers are used as a saffron substitute in flavoring food and a yellow coloring."
+  ],
+  "plant-type": [
+    "Annual",
+    "Bulb"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Orange"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Trumpet-shaped flowers in various colors occurring in clusters"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Fronds"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Flat, strap-like, grassy green leaves up to 12\" long."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Long, sparsely branched stem with few leaves."
+  ],
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Patio",
+    "Pool/Hardscape",
+    "Slope/Bank",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cutting Garden",
+    "Drought Tolerant Garden",
+    "Nighttime Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil"
+  ]
+}

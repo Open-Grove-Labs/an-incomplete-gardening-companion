@@ -1,0 +1,160 @@
+{
+  "fullName": "Impatiens x hybrida SunPatiens®",
+  "name": "impatiens-x-hybrida-sunpatiens®",
+  "commonNames": [
+    "New Guinea Impatiens",
+    "SunPatiens"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/impatiens-x-hybrida-sunpatiens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Impatiens",
+  "family": "Balsaminaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Buffer",
+    "Colorful",
+    "Defines Paths",
+    "Easy to Grow",
+    "Textural "
+  ],
+  "dimensions": [
+    "Height: 1 ft. 2 in. - 4 ft. 0 in.",
+    "Width: 1 ft. 2 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Ground Cover",
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Mounding",
+    "Vase"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Fruits are expelled from capsules."
+  ],
+  "flower-color": [
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Large 5-petaled asymmetrical flowers (to 3 inches across) typically cover the plants with bloom from spring to frost."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Ovate to elliptic leaves (to 3 inches long) are light green to dark green."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Patio",
+    "Pool/Hardscape",
+    "Slope/Bank",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Rabbits"
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "fullName": "Lilium regale",
+  "name": "lilium-regale",
+  "commonNames": [
+    "Regal Lily",
+    "Royal Lily",
+    "Trumpet Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lilium-regale/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lilium",
+  "species": "regale",
+  "family": "Liliaceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Western Sichuan Province in south-central China"
+  ],
+  "wildlife-value": [
+    "Attracts bees, butterflies, and hummingbirds. It is a favorite of yellow swallowtail butterflies."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 0 ft. 9 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "The 6-inch trumpet-shaped flower is pink-purple on the outside and white inside with a yellow throat.  The outward facing flower blooms in July. Each stem can have up to 25 fragrant flowers. The flowers are usually more fragrant at night."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "There are numerous linear-shaped leaves scattered at irregular intervals along the stem."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Polished"
+  ],
+  "stem-description": [
+    "When cutting the flowers, leave at least 1/3 of the stalk."
+  ],
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden",
+    "Cottage Garden",
+    "Garden for the Blind",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heat"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Excessive drooling, vomiting, loss of appetite"
+  ],
+  "poison-toxic-principle": [
+    "unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Seeds",
+    "Stems"
+  ]
+}

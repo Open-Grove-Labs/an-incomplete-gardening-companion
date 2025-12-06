@@ -1,0 +1,211 @@
+{
+  "fullName": "Fraxinus caroliniana",
+  "name": "fraxinus-caroliniana",
+  "commonNames": [
+    "Carolina Ash",
+    "Florida Ash",
+    "Pop Ash",
+    "Poppy Ash",
+    "Swamp Ash",
+    "Water Ash"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/fraxinus-caroliniana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Fraxinus",
+  "species": "caroliniana",
+  "family": "Oleaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern United States to Cuba"
+  ],
+  "distribution": [
+    "Throughout the southeaster states. North Carolina coastal plain and Piedmont."
+  ],
+  "wildlife-value": [
+    "Larval host plant for Eastern tiger swallowtail. It is an important forage plant for deer and seeds are eaten by waterfowl, which also use it for roosting."
+  ],
+  "dimensions": [
+    "Height: 30 ft. 0 in. - 60 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-trunked",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Purple/Lavender"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Samara"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Flattened broad-wing samaras are 1 1/2 to 2 inches long and 1/2- 3/4 inches wide. The violet wings hang well below the seed portion and there can be 2 to 3 wings. Matures from July to October."
+  ],
+  "flower-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Green to purplish flowers are dioecious and appear in spring in clusters before the leaves. Male flowers are in a dense mass while female flowers are a more open cluster or panicle. They bloom in May. Similar to those of other ash species."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The pinnately compound leaves have 5 to 9 leaflets and are 7 to 12 inches long. Leaflets are  2 to 4 inches long and 2 inches across with a usually serrated margin but sometimes entire. Upperside is dark green and the underside is paler and smooth. Overall feel is thick and smooth."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Light Gray",
+    "Orange"
+  ],
+  "surface/attachment": [
+    "Ridges",
+    "Scaly"
+  ],
+  "bark-plate-shape": [
+    "Irregular"
+  ],
+  "bark-description": [
+    "Scaly bark, gray to slightly orange-brown, sometimes splotchy. Irregular scaly ridges develop with age."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Twigs are smooth but sometimes fuzzy, gray-brown, with oval leaf scars."
+  ],
+  "landscape-location": [
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Specimen",
+    "Understory Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "uses": "The wood of this tree is light and soft and is not used commercially."
+}

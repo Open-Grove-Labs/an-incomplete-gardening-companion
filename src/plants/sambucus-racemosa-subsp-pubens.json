@@ -1,0 +1,201 @@
+{
+  "fullName": "Sambucus racemosa subsp. pubens",
+  "name": "sambucus-racemosa-subsp-pubens",
+  "commonNames": [
+    "Red-Berried Elder",
+    "Red Elderberry",
+    "Scarlet Elder",
+    "Scarlet Elderberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sambucus-racemosa-subsp-pubens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sambucus",
+  "species": "racemosa",
+  "family": "Viburnaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "USA, North Carolina, native to Europe and Asia"
+  ],
+  "wildlife-value": [
+    "Fruit attracts birds and wildlife, flowers attract butterflies and other insects."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Edible fruit ",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heat, drought, and soil compaction tolerant."
+  ],
+  "edibility": [
+    "Edible, but very tart; usually cooked"
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 25 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Vase"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Red fruits display from June to August.  They have a tart flavor."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Dome"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Creamy white elongated panicle of flowers bloom from April to June."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Pinnatifid"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Lustrous dark green, compound with 5 to 7 leaflets, toothed on the margin."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Soft wood and a large, brown pith."
+  ],
+  "landscape-location": [
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Hummingbirds",
+    "Moths",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Causes low toxicity if eaten."
+  ],
+  "poison-toxic-principle": [
+    "Cyanogenic glycoside and alkaloid"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

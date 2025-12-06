@@ -1,0 +1,158 @@
+{
+  "fullName": "Ocimum tenuiflorum",
+  "name": "ocimum-tenuiflorum",
+  "commonNames": [
+    "Holy Basil",
+    "Hot Basil",
+    "Tulasi",
+    "Tulsi"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ocimum-tenuiflorum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ocimum",
+  "species": "tenuiflorum",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southeast Asia"
+  ],
+  "edibility": [
+    "A culinary herb especially in Asia used in the same ways as sweet basil though it is commonly cooked or used in teas rather than used raw.  Fragrant leaves have a spicy bite that is a mix of clove, mint, and basil flavor."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Herb",
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Purple-green to brown smooth to slightly pitted elliptical nutlets  0.8-1.2 mm long with numerous seeds inside."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Raceme"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "Colored Sepals",
+    "fused petals"
+  ],
+  "flower-description": [
+    "White, pale pink or lavender tiny tubular flowers with green or purple sepals  in terminal panicles or racemes that are 4-12 cm long."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Pungently fragrant pubescent leaves are simple, elliptic to oblong with serrate to entire margins.  Leaves are 1.5 to 3 inches long and .5 inches wide.  Hairs are on both sides but especially on veins on the underside."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Highly pubescent square stems in purple or green."
+  ],
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Garden for the Blind"
+  ],
+  "resistance-to-challenges": [
+    "Salt"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "A plant used in the Hindu religion and Ayurvedic medicine to cleanse the body, and for stomach and skin issues."
+}

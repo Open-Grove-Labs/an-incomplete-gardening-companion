@@ -1,0 +1,109 @@
+{
+  "fullName": "Nuttallanthus canadensis",
+  "name": "nuttallanthus-canadensis",
+  "commonNames": [
+    "Blue Toadflax",
+    "Canadian Toadflax",
+    "Toad-flax"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nuttallanthus-canadensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nuttallanthus",
+  "species": "canadensis",
+  "family": "Plantaginaceae",
+  "life-cycle": [
+    "Annual",
+    "Biennial"
+  ],
+  "country-or-region-of-origin": [
+    "Canada to Mexico, Dominican Republic, W. & S. South America."
+  ],
+  "wildlife-value": [
+    "This plant supports Common Buckeye (Junonia coenia) larvae. Common Buckeye's flights generally occur between May through October with 2-3 broods. However, in the Deep South, the flights can occur throughout the whole year. Caterpillars eat the host plant's leaves while adults feed on the nectar of composite flowers including aster, chicory, gumweed, knapweed, and tickseed sunflower. Nectar source to bees and butterflies."
+  ],
+  "plant-type": [
+    "Annual",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Seed capsule that splits open to release the flattened smooth seeds. These seeds can be blown about by the wind. Fruit displays from April to September."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "Blue flowers bloom from March to July."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Linear",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves are up to 1½\" long and 1/8\" across. They are linear to oblong-linear, glabrous, smooth along the margins, and sessile. The leaves on the taller flowering stalks are alternate, while the leaves on the lower vegetative stems are usually opposite."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

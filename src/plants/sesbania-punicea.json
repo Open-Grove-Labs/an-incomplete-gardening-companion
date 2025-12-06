@@ -1,0 +1,183 @@
+{
+  "fullName": "Sesbania punicea",
+  "name": "sesbania-punicea",
+  "commonNames": [
+    "False Poinciana",
+    "Purple Sesbane",
+    "Rattlebox",
+    "Scarlet Sesbane",
+    "Spanish Gold"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sesbania-punicea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sesbania",
+  "species": "punicea",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Brazil, Argentina, Paraguay and Uruguay"
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Winter"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "The 4-6 inch fruit is a 4-winged pod with slight constrictions and partitions between the seeds. The remain on the plant through winter and rattle in the wind. They can be dispersed by water"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Purple/Lavender"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Irregular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers are pea-like, red-orange or reddish purple, in drooping clusters. They have 5 fused petals and 5 fused sepals"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The 5-6 inch long compound leaves alternate, pinnately divided with 6-20 pairs of leaflets with smooth margins. Oblong leaflets are 1 inch long with a pointed tip."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Lenticels"
+  ],
+  "bark-description": [
+    "The bark is gray-brown to red-brown with obvious horizontal lenticels."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Wiry green stems"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Children",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Nausea, vomiting, abdominal pain, diarrhea, weakness, depression, respiratory failure; may be fatal."
+  ],
+  "poison-toxic-principle": [
+    "Saponic glycosides."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Seeds"
+  ]
+}

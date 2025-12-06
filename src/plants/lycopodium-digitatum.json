@@ -1,0 +1,103 @@
+{
+  "fullName": "Lycopodium digitatum",
+  "name": "lycopodium-digitatum",
+  "commonNames": [
+    "Clubmoss",
+    "Common Running-cedar",
+    "Fan Clubmoss",
+    "Fan Ground-pine",
+    "Ground Pine",
+    "Running Cedar"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lycopodium-digitatum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lycopodium",
+  "species": "digitatum",
+  "family": "Lycopodiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Canada to north central and eastern U.S.A."
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "CT ",
+    "DC ",
+    "GA ",
+    "IL ",
+    "IN ",
+    "KY ",
+    "MA ",
+    "MN ",
+    "MO ",
+    "NC ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "PA ",
+    "RI ",
+    "SC ",
+    "TN ",
+    "VA ",
+    "WI ",
+    "WV"
+  ],
+  "wildlife-value": [
+    "This plant attracts birds and mammals."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 5 in. - 0 ft. 10 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Native Plant",
+    "Perennial"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "Spores display from July to September."
+  ],
+  "flower-description": [
+    "Non-flowering plant."
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Native Garden",
+    "Shade Garden"
+  ],
+  "attracts": [
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heavy Shade"
+  ]
+}

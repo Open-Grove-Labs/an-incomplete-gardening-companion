@@ -1,0 +1,188 @@
+{
+  "fullName": "Hymenocallis occidentalis var. occidentalis",
+  "name": "hymenocallis-occidentalis-var-occidentalis",
+  "commonNames": [
+    "Hammock Spiderlily",
+    "Woodland Spiderlily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hymenocallis-occidentalis-var-occidentalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hymenocallis",
+  "species": "occidentalis",
+  "family": "Amaryllidaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "SE and central. U.S.A."
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "GA ",
+    "IL ",
+    "IN ",
+    "KY ",
+    "LA ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "OK ",
+    "SC ",
+    "TN ",
+    "TX"
+  ],
+  "wildlife-value": [
+    "Attracts pollinators"
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The fruit is a leathery green capsule with 1-3 green, fleshy seeds from July to September."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Fragrant white spider-like flowers up to 7 inches across bloom in clusters from July to August. The center daffodil-like cup has 6 narrow rays that arch outward from it."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Oblanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "5-12 shiny pale green, often glaucous, strap-shaped leaves up to 2 ft long in a basal clump. Arise directly from the bulb. Margins are entire, base tapering, apex subacute to acute. Leaves emerge late winter and may or may not be present when flowering occurs"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-description": [
+    "18-22 inch naked 2-edged flowering stem"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Pond",
+    "Riparian",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ]
+}

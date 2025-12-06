@@ -1,0 +1,143 @@
+{
+  "fullName": "Sophora secundiflora",
+  "name": "sophora-secundiflora",
+  "commonNames": [
+    "Frijolillo",
+    "Mescal Bean",
+    "Mountain Laurel",
+    "Texas Mountain Laurel"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sophora-secundiflora/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sophora",
+  "species": "secundiflora",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico and Southwestern USA"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "drought"
+  ],
+  "plant-type": [
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-description": [
+    "Woody pod with bright red, poisonous seeds."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Pea-like violet-blue flowers. The flowers, in 3 to 7 inch drooping clusters, are very showy and fragrant."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Pinnately divided with 7-9 leaflets, notched, silky below. The dense and glossy compound leaves are composed of 7 to 9 shiny, leathery leaflets that are rounded on the ends. The leaflets are up to 2 inches or more long, tapering more gradually to the base than to the tip, and arranged along an axis terminated by a single leaflet ."
+  ],
+  "stem-is-aromatic": "N",
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "The seeds of this plant, which are often used in making necklaces, are mildly poisonous if eaten. The poisonous elements of this plant resemble nicotine in its actions and toxicity. If seeds are ingested, it can lead to vomiting, diarrhea, excitement, delirium, and coma."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Seeds"
+  ]
+}

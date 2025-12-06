@@ -1,0 +1,97 @@
+{
+  "fullName": "Cordyline fruticosa",
+  "name": "cordyline-fruticosa",
+  "commonNames": [
+    "Baby Doll Ti Plant",
+    "Good-Luck Plant",
+    "Hawaiian Ti Plant",
+    "Hawiian Ti",
+    "Ti Plant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cordyline-fruticosa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cordyline",
+  "species": "fruticosa",
+  "family": "Asparagaceae",
+  "country-or-region-of-origin": [
+    "Australia and Papua New Guinea"
+  ],
+  "plant-type": [
+    "Houseplant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "A small berry."
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-description": [
+    "A terminal panicle. White or tinged yellow or red, radially symmetric, 6 tepals united at base to form tube, lobes reflexed."
+  ],
+  "leaf-color": [
+    "Green",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "Variegated"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblong"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Crowded, simple, oblong-lanceolate, 1-2' x 2-4\", green or tinged purple or red; petiole grooved."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Clustered, erect, branched or unbranched."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Vomiting (occasionally with blood), depression, anorexia, hypersalivation, dilated pupils (cats)"
+  ],
+  "poison-toxic-principle": [
+    "Saponins"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ]
+}

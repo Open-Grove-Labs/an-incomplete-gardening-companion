@@ -1,0 +1,217 @@
+{
+  "fullName": "Lamprocapnos spectabilis",
+  "name": "lamprocapnos-spectabilis",
+  "commonNames": [
+    "Asian Bleeding Heart",
+    "Bleeding Heart",
+    "Japanese Bleeding Heart",
+    "Locks and Keys",
+    "Old-Fashioned Bleeding Heart",
+    "Showy Bleeding Heart"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lamprocapnos-spectabilis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lamprocapnos",
+  "species": "spectabilis",
+  "family": "Papaveraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Siberia, Japan, Northern China, and Korea"
+  ],
+  "distribution": [
+    "Introduced: Czechoslovakia",
+    "Great Britain",
+    "Sweden",
+    "Uzbekistan",
+    "and the United States"
+  ],
+  "wildlife-value": [
+    "Attracts hummingbirds and butterflies."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Colorful"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit resistant"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Poisonous",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Mounding"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Spring",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is an oblong, 25 to 35 mm, capsule, and it contains 2 to 8 black, rounded, smooth seeds. Fruits are produced from April to June."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "The inflorescences are raceme-like with 7 to 15 flowers per pendulous raceme, bracts subulate, and heart-shaped in outline.  Two sepals are inconspicuous, and four petals are in opposite pairs with the outer petals rose-red, pink to white, inner white petals usually have red and yellow markings and have tongue-shaped with convex inner faces and crested tips. They bloom from April to June depending on the climate."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cuneate",
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Alternate, biternately compound; leaflets ovate, coarsely lobed or toothed, acute, cuneate; cauline leaves few, simple with lanceolate lobes. The leaves are green on the upper surface, and the undersides of the leaf are glaucous."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stems are thick, juicy, and 23 to 36 inches long. The petiole is 2 to 4.5 inches long."
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Cutting Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Heavy Shade",
+    "Rabbits"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Trembling, staggering, vomiting, diarrhea, convulsions, and labored breathing.  Skin irritation after repeated contact."
+  ],
+  "poison-toxic-principle": [
+    "Contains isoquinolone alkaloids."
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

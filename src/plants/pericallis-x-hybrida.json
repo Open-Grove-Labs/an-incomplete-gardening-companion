@@ -1,0 +1,132 @@
+{
+  "fullName": "Pericallis x hybrida",
+  "name": "pericallis-x-hybrida",
+  "commonNames": [
+    "Cineraria",
+    "Common Ragwort",
+    "Florist's Cineraria"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pericallis-x-hybrida/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pericallis",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Canary Islands"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 6 in. - 1 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-description": [
+    "Multiple daisy-like blooms in several colors, often with a contrasting eye. Blooms winter to spring."
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Slightly lobed green leaves, broadly lance-shaped, sparsely haired with a rough texture and toothed margins"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Upright to spreading, simple, branching."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio"
+  ]
+}

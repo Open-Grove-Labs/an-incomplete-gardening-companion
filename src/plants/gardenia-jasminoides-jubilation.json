@@ -1,0 +1,184 @@
+{
+  "fullName": "Gardenia jasminoides 'Jubilation'",
+  "name": "gardenia-jasminoides-jubilation",
+  "commonNames": [
+    "Cape Jasmine",
+    "Gardenia jasminoides 'Lee One' or 'Leeone'",
+    "Jubilation Cape Jessimine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/gardenia-jasminoides-jubilation/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Gardenia",
+  "species": "jasminoides",
+  "family": "Rubiaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Mounding",
+    "Multi-stemmed",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Orange"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Orange berries appear in the fall."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Extremely fragrant showy white flowers are 2-4 inches and highly fragrant and repeat blooms from spring until fall."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are leathery, lustrous, and dark emerald green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Children's Garden",
+    "Cutting Garden",
+    "Drought Tolerant Garden",
+    "Garden for the Blind",
+    "Nighttime Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Foundation Planting",
+    "Hedge",
+    "Small groups",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Salt"
+  ]
+}

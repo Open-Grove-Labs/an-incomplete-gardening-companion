@@ -1,0 +1,198 @@
+{
+  "fullName": "Cystopteris bulbifera",
+  "name": "cystopteris-bulbifera",
+  "commonNames": [
+    "Berry Bladder Fern",
+    "Bulblet Bladder Fern",
+    "Bulblet Cystopteris",
+    "Bulblet Fern"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cystopteris-bulbifera/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cystopteris",
+  "species": "bulbifera",
+  "family": "Aspleniaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Canada, U.S.A."
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "AZ ",
+    "CT ",
+    "DE ",
+    "GA ",
+    "IA ",
+    "IL ",
+    "IN ",
+    "KY ",
+    "MA ",
+    "MD ",
+    "ME ",
+    "MI ",
+    "MN ",
+    "MO ",
+    "NC ",
+    "NE ",
+    "NH ",
+    "NJ ",
+    "NM ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "RI ",
+    "SC ",
+    "SD ",
+    "TN ",
+    "TX ",
+    "UT ",
+    "VA ",
+    "VT ",
+    "WI ",
+    "WV"
+  ],
+  "play-value": [
+    "Easy to Grow",
+    "Shade "
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heavy shade, Deer"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Fern",
+    "Native Plant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Ascending",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-description": [
+    "No fruits. This plants reproduces via spores."
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-description": [
+    "No flowers.  It will reproduce by spores from June through September."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Fronds"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Palmatifid",
+    "Pinnatifid"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The compound frond that can be up to 2' long is widest at the base while the tip is long and slender.  There are 10-25 pairs of nearly sessile leaflets that have 5-15 pairs of subleaflets up to 6\" long. Each leaflet is lanceolate to lanceolate-deltoid. The subleaflets have serrated margins. Sori appear on the fertile fronds on each subleaflet. A round green bulblet may form at the base of some leaflets on the undersides. They may fall to the ground and form a new plant."
+  ],
+  "stem-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rock Garden",
+    "Shade Garden"
+  ],
+  "attracts": [
+    "Small Mammals"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heavy Shade"
+  ]
+}

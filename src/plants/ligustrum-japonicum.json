@@ -1,0 +1,213 @@
+{
+  "fullName": "Ligustrum japonicum",
+  "name": "ligustrum-japonicum",
+  "commonNames": [
+    "Amur",
+    "Common Privet",
+    "Curlyleaf Ligustrum",
+    "Japanese Privet",
+    "Privet",
+    "Wax-leaf Privet"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ligustrum-japonicum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ligustrum",
+  "species": "japonicum",
+  "family": "Oleaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "South East China to Temp. Eastern Asia"
+  ],
+  "wildlife-value": [
+    "Fruit attracts birds."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Resistant to damage by deer."
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 12 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Oval"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry",
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruits are flat, berry-like drupes that are 0.2\" long and start out green ripen to blue-black."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cross"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Creamy white fetid flowers on 2-6\" terminal pyramidal panicles in late spring. They have an unpleasant odor."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Leaves are opposite, simple, broad-ovate to ovate-oblong, entire, coriaceous, glabrous, and dark green in color. They have 4-5 pairs of indistinct raised veins on the undersurface and grow 2-4\" long."
+  ],
+  "surface/attachment": [
+    "Lenticels"
+  ],
+  "stem-color": [
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-lenticels": [
+    "Conspicuous"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Twigs are smooth, gray, and covered with large lenticels."
+  ],
+  "attracts": [
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Pollution",
+    "Salt"
+  ],
+  "problems": [
+    "Invasive Species",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Abdominal pain, nausea, vomiting, diarrhea, headache, weakness, Gastrointestinal upset (most common), incoordination, increased heart rate, death (rare), low blood pressure, cold and clammy skin possibly lasting 48 to 72 hours"
+  ],
+  "poison-toxic-principle": [
+    "Glycosides: syringin (ligustrin), a glycoside; shikimic acid (lowest toxic dose 4,000mg); and others"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves"
+  ]
+}

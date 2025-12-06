@@ -1,0 +1,171 @@
+{
+  "fullName": "Tradescantia spathacea",
+  "name": "tradescantia-spathacea",
+  "commonNames": [
+    "Boat Lily",
+    "Moses in a Basket",
+    "Moses-in-the-Cradle",
+    "Oyster Plant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/tradescantia-spathacea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Tradescantia",
+  "species": "spathacea",
+  "family": "Commelinaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "S. Mexico to Guatemala"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Three-seeded capsule"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Inflorescence consists of axillary, boat-shaped, waxy pair of purple bracts with several flowers inside the 'boat', scarcely exerted, ca 1-2 inches; peduncles are 1-2 inches. Flowers are white, <1 inch, with 3 equal petals."
+  ],
+  "leaf-color": [
+    "Cream/Tan",
+    "Green",
+    "Purple/Lavender",
+    "Variegated"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are alternate, radially arranged in a crowded apical rosette; simple, flat, linear-lanceolate, acute leaves, base sessile with a closed sheath and entire margin; green or variegated green and cream above, purple beneath, rough and stiff texture, 7-14 in x 1-2 in."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems are short, stout, simple, and succulent."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Children"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "TOXIC ONLY IF LARGE QUANTITIES EATEN.  CAUSES SEVERE PAIN IN THE MOUTH IF EATEN!  SKIN IRRITATION MINOR, OR LASTING ONLY FOR A FEW MINUTES.  Stinging and itching following contact of cell sap with skin or eyes; ingestion causes irritation of the lips, mouth, tongue, and throat, also abdominal pain."
+  ],
+  "poison-toxic-principle": [
+    "Unidentified"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Sap/Juice"
+  ]
+}

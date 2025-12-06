@@ -1,0 +1,199 @@
+{
+  "fullName": "Chamaecyparis",
+  "name": "chamaecyparis",
+  "commonNames": [
+    "Cypress",
+    "False-cypress"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/chamaecyparis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Chamaecyparis",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting",
+    "Root Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "East & West North America, Japan, Laos, Taiwan, Viet Nam"
+  ],
+  "distribution": [
+    "Introduced to Europe"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 99 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 50 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Conical",
+    "Erect"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b",
+    "13a",
+    "13b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "No true fruit– female seed-bearing cones are green when immature turning to brown."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Good Dried",
+    "Showy"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "No true flowers– the pollen bearing cones are small and often reddish, growing from the branch tips."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "White"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant",
+    "Long-lasting"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Obtuse",
+    "Ovate",
+    "Rhomboidal"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Scale-like or awl-like leaves arranged around the branches.  Many species have white markings on the underside that aid in identification.  Branches may lay flat or spiral around.  Some cultivars have yellow coloring."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Patchy",
+    "Shredding"
+  ],
+  "bark-description": [
+    "Often reddish-brown with either fibrous or blocky bark."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Riparian",
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "English Garden",
+    "Water Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Border",
+    "Hedge",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Rabbits",
+    "Salt"
+  ]
+}

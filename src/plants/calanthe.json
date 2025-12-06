@@ -1,0 +1,106 @@
+{
+  "fullName": "Calanthe",
+  "name": "calanthe",
+  "commonNames": [
+    "Christmas Orchids",
+    "Prayer Plants"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/calanthe/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Calanthe",
+  "family": "Orchidaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "China, Japan, tropical parts of Asia."
+  ],
+  "distribution": [
+    "Pacific Islands",
+    "southern Africa and Australia"
+  ],
+  "plant-type": [
+    "Bulb",
+    "Epiphyte",
+    "Houseplant",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Semi-evergreen",
+    "Deciduous",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Arching",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Winter"
+  ],
+  "flower-description": [
+    "The flowers are delicate but showy, white, pink, yellow or orange and crowded near the end of an erect, sometimes arching flowering stem."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Large corrugated, wrinkled leaves at the base of the plant."
+  ],
+  "stem-is-aromatic": "N"
+}

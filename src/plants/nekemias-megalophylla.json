@@ -1,0 +1,188 @@
+{
+  "fullName": "Nekemias megalophylla",
+  "name": "nekemias-megalophylla",
+  "commonNames": [
+    "Large-leaved parthenocissus",
+    "Pepper Vine",
+    "Spikenard ampelopsis"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nekemias-megalophylla/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nekemias",
+  "species": "megalophylla",
+  "family": "Vitaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "China"
+  ],
+  "wildlife-value": [
+    "Birds eat the berries."
+  ],
+  "play-value": [
+    "Colorful",
+    "Screening",
+    "Wildlife Food Source"
+  ],
+  "climbing-method": [
+    "Tendrils"
+  ],
+  "edibility": [
+    "non-edible"
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Poisonous",
+    "Shrub",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Tendrils"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue",
+    "Green"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "The berries are dry or slightly fleshy,  bluish, or greenish dark purple. The berries turn black in the fall."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Small greenish-white flowers in late summer."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong",
+    "Ovate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Its leaves are the largest of any hardy vine."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "A hairless stemmed plant that may be multistemmed."
+  ],
+  "landscape-location": [
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Winter Garden"
+  ],
+  "resistance-to-challenges": [
+    "Poor Soil"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "The berries may cause an upset stomach."
+  ],
+  "poison-toxic-principle": [
+    "unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ]
+}

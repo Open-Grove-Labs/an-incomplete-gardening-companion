@@ -1,0 +1,194 @@
+{
+  "fullName": "Angelica triquinata",
+  "name": "angelica-triquinata",
+  "commonNames": [
+    "Appalachian Angelica",
+    "Filmy Angelica",
+    "Mountain Angelica"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/angelica-triquinata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Angelica",
+  "species": "triquinata",
+  "family": "Apiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "GA, KY, MD, NC, PA, SC, TN, VA, WV"
+  ],
+  "distribution": [
+    "Mountainous forests",
+    "stream margins and meadows"
+  ],
+  "wildlife-value": [
+    "Attracts bees and other insect pollinators"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Cream/Tan",
+    "Gold/Yellow"
+  ],
+  "fruit-type": [
+    "Schizocarp"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Striped smooth seeds are flattened with 2 lateral wings that fruits in September - October in NC."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Compound umbels are 3-6 inches across with 13 to 25 umbellets.  Flowers are pale green to greenish-white and sometimes tinged with pink. Blooms August - September in NC. Nectar may be intoxicating to bees, yellow jackets, hornets and other insects."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblong",
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Leaves contain 3 inch leaflets which are coarsely toothed, may be lobed with a marginal fringe of minute hairs and a sharp-pointed apex.   The veined leaves may be elliptical to lanceolate shape."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Stems often go from a green to a reddish-purple as it ages and becomes slightly hairy towards inflorescence."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Nectar is poisonous to some insects (bees, yellow jackets, hornets) and causes them to appear intoxicated.  Can cause photosensitivity (sunburn, dermatitis)."
+  ],
+  "poison-toxic-principle": [
+    "Furocoumarins"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Stems"
+  ]
+}

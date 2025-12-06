@@ -1,0 +1,93 @@
+{
+  "fullName": "Pterocarya stenoptera",
+  "name": "pterocarya-stenoptera",
+  "commonNames": [
+    "Chinese Wingnut"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pterocarya-stenoptera/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pterocarya",
+  "species": "stenoptera",
+  "family": "Juglandaceae",
+  "country-or-region-of-origin": [
+    "China, Japan to Taiwan"
+  ],
+  "dimensions": [
+    "Height: 50 ft. 0 in. - 70 ft. 0 in.",
+    "Width: 40 ft. 0 in. - 70 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Multi-stemmed",
+    "Open",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "Green"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "Insignificant, light green catkins appear May-June. Female catkins to 20” long and male catkins to 7\" long. Produces 12 to 20 in. necklaces of emerald green, winged nutlets; turn brown in fall"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Compound, odd-pinnate leaves grow to 15” long. Each leaf contains 11 to 25, elliptic to elliptic-lanceolate, sharply-toothed, glossy dark green leaflets (each 2-5” long). The terminal leaflet is often missing, so that the leaf is often even-pinnate instead of odd-pinnate."
+  ],
+  "stem-is-aromatic": "N"
+}

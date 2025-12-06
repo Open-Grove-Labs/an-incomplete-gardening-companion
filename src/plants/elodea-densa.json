@@ -1,0 +1,141 @@
+{
+  "fullName": "Elodea densa",
+  "name": "elodea-densa",
+  "commonNames": [
+    "Brazilian Waterweed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/elodea-densa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Elodea",
+  "species": "densa",
+  "family": "Hydrocharitaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "E. Bolivia to SE. & S. Brazil and NE. Argentina and Uruguay"
+  ],
+  "distribution": [
+    "Most of the United States",
+    "much of Central America",
+    "Europe",
+    "and parts of Africa",
+    "Asia",
+    "Australia",
+    "and New Zealand."
+  ],
+  "plant-type": [
+    "Water Plant",
+    "Weed"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-description": [
+    "Plants do not set fruits in introduced areas."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Sperate male and female flowers grow on terminal stems as they reach the surface. They have 3 creamy-white petals and are up to 1 inch across with female flowers being smaller. Blooms spring and summer"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Small, simple, oblong green leaves with finely serrated edges occur on plant shoots in whorls of 3-6 around the stem. They are 1 inch long and 1/4 inch wide"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-description": [
+    "circular stems have 6 to 12 double nodes"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

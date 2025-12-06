@@ -1,0 +1,147 @@
+{
+  "fullName": "Chasmanthe",
+  "name": "chasmanthe",
+  "commonNames": [
+    "African Corn Flag",
+    "Cobra Lily",
+    "Pennants"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/chasmanthe/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Chasmanthe",
+  "family": "Iridaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Cape Province in South Africa"
+  ],
+  "play-value": [
+    "Attractive Flowers"
+  ],
+  "bulb-storage": [
+    "Store corms in dry peat or vermiculite at 60-70 degrees F (10-21 degrees C)"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 8 in. - 3 ft. 11 in.",
+    "Width: 0 ft. 8 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Stunning yellow, orange, and red curved flowers.  Each inflorescence holds 20-30.  Blooms February to May."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "leaves look like blades of grass."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container"
+  ],
+  "attracts": [
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

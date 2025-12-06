@@ -1,0 +1,223 @@
+{
+  "fullName": "Weigela florida",
+  "name": "weigela-florida",
+  "commonNames": [
+    "Old Fashioned Weiglea",
+    "Weigela"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/weigela-florida/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Weigela",
+  "species": "florida",
+  "family": "Caprifoliaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Northern China, Korea and Japan"
+  ],
+  "wildlife-value": [
+    "Attracts hummingbirds and butterflies."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Buffer",
+    "Easy to Grow",
+    "Screening"
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 9 ft. 0 in. - 12 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Dense",
+    "Erect",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Inconspicuous fruit is a 2-valved oblong capsule.  The seeds are unwinged to slightly winged."
+  ],
+  "flower-color": [
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The flowers are white, pink and red trumpet-shaped being 1.25 inches long that bloom profusely in spring, with sparse and scattered repeat bloom, often occurring in mid to late summer. Inflorescence is cymose, axillary, blooms in late spring."
+  ],
+  "leaf-color": [
+    "Black",
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "Variegated"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong",
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves are opposite, simple ovate-oblong to obovate, acuminate, serrate, glabrous above except on mid-rib, pubescent on veins beneath; petiole short, ca .2 inches. The leaves vary in color from green. black, purple, burgundy, or variegated depending on the cultivar."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Lenticels"
+  ],
+  "bark-description": [
+    "The bark has rows of hair between the nodes."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Stem is gray-brown, encircled by stipular scar, large circular lenticels; vertical row of white pubescence on new growth."
+  ],
+  "landscape-location": [
+    "Container",
+    "Meadow",
+    "Patio",
+    "Pool/Hardscape",
+    "Recreational Play Area",
+    "Slope/Bank",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Foundation Planting",
+    "Hedge",
+    "Mass Planting",
+    "Screen/Privacy",
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Salt"
+  ]
+}

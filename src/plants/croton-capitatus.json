@@ -1,0 +1,184 @@
+{
+  "fullName": "Croton capitatus",
+  "name": "croton-capitatus",
+  "commonNames": [
+    "Hogwort",
+    "Texas Goatweed",
+    "Woolly Croton"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/croton-capitatus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Croton",
+  "species": "capitatus",
+  "family": "Euphorbiaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "Central & Eastern U.S.A"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "DC",
+    "FL",
+    "GA",
+    "IA",
+    "IL",
+    "IN",
+    "KS",
+    "KY",
+    "LA",
+    "MA",
+    "MD",
+    "MO",
+    "MS",
+    "NC",
+    "NE",
+    "NJ",
+    "OH",
+    "OK",
+    "PA",
+    "SC",
+    "SD",
+    "TN",
+    "TX",
+    "VA",
+    "WI",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Seeds are important dove, wild turkey and quail food. Attracts butterflies and is larva host to Gray Hairstreaks and Goatweed Leafwing"
+  ],
+  "play-value": [
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "plant-type": [
+    "Annual",
+    "Native Plant",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Fruits are hairy spherical capsules about ¼ inch wide and split open to release 3 round or oblong seeds."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers are densely clustered at the stem tips, with male flowers toward the tip, and female flowers below. Male flowers have 5 tiny white petals and 10–14 anthers. Female flowers have 6–9 calyx lobes and lack petals."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Undulate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Gray-green alternate, simple, fuzzy leaves are oval to lance-shaped and margins are sometimes wavy. 1 to 4 inches long, 1/4 to 3/4 inch wide, base rounded and tip blunt."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Erect, branched stems covered with light brown, woolly hairs"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "TOXIC ONLY IF LARGE QUANTITIES EATEN. SKIN IRRITATION MINOR, OR LASTING ONLY FOR A FEW MINUTES.  Vomiting, diarrhea, nervousness; skin irritation with blisters."
+  ],
+  "poison-toxic-principle": [
+    "Croton oil"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

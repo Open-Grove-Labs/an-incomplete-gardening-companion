@@ -1,0 +1,189 @@
+{
+  "fullName": "Notholithocarpus densiflorus",
+  "name": "notholithocarpus-densiflorus",
+  "commonNames": [
+    "Mutant Tanoak",
+    "Tanbark-oak",
+    "Tanoak"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/notholithocarpus-densiflorus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Notholithocarpus",
+  "species": "densiflorus",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern Oregon to California"
+  ],
+  "distribution": [
+    "California and Oregon"
+  ],
+  "fire-risk-rating": [
+    "high flammability"
+  ],
+  "wildlife-value": [
+    "Mule deer, squirrels, chipmunks, Stellar's jays, woodpeckers, and thrushes feed on the acorns. The tree also provides nesting and shelter for many mammals and birds. It attracts butterflies and moths."
+  ],
+  "play-value": [
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Broad",
+    "Conical",
+    "Dense",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is a single or pair of oval-shaped acorns and requires two seasons to mature. Acorns begin to fall in mid-September to mid-November. The acorns are 1-inch long with shallow caps with dense bristles. The inside of the cap and the outer portion of the nut has dense hairs."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Catkin"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "The tree has male and female flowers. The male or pollen flowers are catkins that measure 2 to 4 inches long and appear as upright clusters. They are white but turn rust-colored. The male catkins have an unpleasant scent. The female or seed flowers are greenish-yellow. They are located at the base of the male catkin. Tanoak may flower from April to August, but the heaviest flowering occurs from June to August."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green",
+    "White"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves are simple, oblong, alternate, and measure 3 to 5 inches long and 0.75 to 2.25 inches wide. Young leaves are densely hairy. Mature leaves are shiny, leathery, non-hairy, dark green on the upper surface and whitish-blue on the undersides. The margins may be entire or coarsely toothed."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Ridges"
+  ],
+  "bark-plate-shape": [
+    "Round",
+    "Square"
+  ],
+  "bark-description": [
+    "The bark on a mature tree is reddish-brown, 0.75 to 1.5 inches thick, and has narrow furrows. The flattened, rounded ridges sometimes become square plates."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The stems are reddish-brown, stout, and rounded. One- to two-year-old stems are covered with dense rusty colored hairs."
+  ],
+  "landscape-theme": [
+    "Butterfly Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "uses": "The wood is very hard and strong and is used commercially for lumber, fuel, or pulp. North American Indians used acorns as a food source to make soup, mush, or bread. The bark has an extract that was used to tan leather."
+}

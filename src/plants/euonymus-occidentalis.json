@@ -1,0 +1,207 @@
+{
+  "fullName": "Euonymus occidentalis",
+  "name": "euonymus-occidentalis",
+  "commonNames": [
+    "Burning Bush",
+    "Spindle Tree",
+    "Wahoo",
+    "Western Burning Bush",
+    "Western Spindle Tree",
+    "Western Wahoo"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/euonymus-occidentalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Euonymus",
+  "species": "occidentalis",
+  "family": "Celastraceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Western Canada to California"
+  ],
+  "distribution": [
+    "California",
+    "Washington State",
+    "Oregon",
+    "and British Columbia."
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "play-value": [
+    "Attracts Pollinators"
+  ],
+  "edibility": [
+    "Many parts of the plant are toxic to humans."
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Deeply 3-lobed, smooth pink or purple fruit with brown seeds. The fruit is a rounded capsule with three bulging lobes. It opens to reveal one seed in each of the three lobes. The seed in concealed in a red aril."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Purple-brown flowers, finely dotted with a transparent margin. Five small flowers at the end of a long peduncle. Each flower has five rounded pink to brown and white mottled petals around a central nectar disc with 5 nubs. Flowers bloom from March to August."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The thin, green, oval-shaped leaves are up to a half inch long and sometimes rolled under along the edges, ovate to obovate, with a tapered base."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The erect branches are slender and often climbing. Young branches are 4-angled, not corky winged."
+  ],
+  "landscape-location": [
+    "Riparian",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Flowering Tree",
+    "Hedge",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Toxic only if eaten in large quantities. Can cause vomiting, diarrhea, weakness, chills, coma, and convulsions. Heart rhythm abnormalities with large doses."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids, Cardenolides"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

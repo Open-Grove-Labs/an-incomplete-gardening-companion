@@ -1,0 +1,213 @@
+{
+  "fullName": "Cerastium tomentosum",
+  "name": "cerastium-tomentosum",
+  "commonNames": [
+    "Dusty Miller",
+    "Jerusalem Star",
+    "Snow-in-summer",
+    "Snow Plant",
+    "Wooly Mouse-Ear Chickweed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cerastium-tomentosum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cerastium",
+  "species": "tomentosum",
+  "family": "Caryophyllaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Italy, Corse & Sicilia"
+  ],
+  "distribution": [
+    "Introduced into the United States from Alaska",
+    "to Northwestern states",
+    "and eastern down to North Carolina. Also grown in the UK and Iberian peninsula."
+  ],
+  "wildlife-value": [
+    "Bees are attracted to the flowers."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Easy to Grow"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 0 in.",
+    "Width: 0 ft. 9 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Creeping",
+    "Dense",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Cylindrical, slightly curved capsules. Small nonshowy fruit."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Displays a bundle of 1/2 inch to 3/4 inch 5-petaled white flowers in late spring into June."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "One inch, narrow, grayish-green leaves covered with soft-textured whitish hairs. Oblong to lance-shaped. Leaves (1 inch long and 1/4 inch wide) form a 6 inch tall foliage mat."
+  ],
+  "stem-color": [
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-bud-terminal": [
+    "Cluster of terminal buds"
+  ],
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Wiry branching stems with up to 15 showy star-shaped white flowers will protrude 8 to 12 inches above the ground."
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Poor Soil"
+  ],
+  "problems": [
+    "Short-lived",
+    "Weedy"
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "fullName": "Celtis tenuifolia",
+  "name": "celtis-tenuifolia",
+  "commonNames": [
+    "Dwarf Hackberry",
+    "Georgia Hackberry",
+    "Hackberry",
+    "Small Hackberry",
+    "Small Sugar Hackberry",
+    "Sugarberry",
+    "Sugar Hackberry",
+    "Upland Hackberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/celtis-tenuifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Celtis",
+  "species": "tenuifolia",
+  "family": "Cannabaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "United States, eastern Canada"
+  ],
+  "distribution": [
+    "Mississippi north to Ontario",
+    "southeast to Connecticut",
+    "south to Florida."
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "This is a larval host plant for several butterflies including American Snout (Libytheana carinenta), Mourning Cloak (Nymphalis antiopa), Hackberry Emperor (Asterocampa celtis), and Tawny Emperor (Asterocampa clyton) and Question Mark Butterfly (Polygonia interrogationis). Questionmark butterflies have an interesting life cycles: overwintered adult Question Mark butterflies lay eggs from spring until the end of May. These will appear as summer adults from May-September, laying eggs that then develop into the winter adult form. The winter adults appear in late August and shelter for the winter starting the cycle all over again. Adult Question Mark butterflies feed on rotting fruit, tree sap, dung, and carrion only visiting flowers for feeding when absolutely necessary. Also a host plant for the American Snout, Mourning Cloak and Tawny Emperer.  Three species of butterflies feed on the leaves as larvae: Hackberry Emperor, Tawny Emperor, and American Snout.  Many birds and small mammals eat the fruits."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Larval Host "
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "fire in the landscape."
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 36 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Semi-evergreen",
+    "Deciduous",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The sweet fruit is a berry-like drupe, 5 to 8 millimeters in diameter, consisting of a single stone encased within a thin, sweet mesocarp. From green, it becomes a light orange, then a dark red, then purplish-brown. This edible drupe with smooth outer skin and a pulpy yellow inside is relished by small mammals and birds. Drupes display from August to October."
+  ],
+  "flower-color": [
+    "Green",
+    "Orange",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Irregular"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers of the Dwarf Hackberry are insignificant, monecious, occurring either singularly or in small clusters. This species is wind-pollinated and appears to be self-compatible. Blooms from April to May."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery",
+    "Rough"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The leaves of the Dwarf Hackberry are alternate, simple, elliptical, and ovate. They have broad, heavily toothed or smooth margins, and sand papery texture. They are similar to common hackberry (C. occidentalis) but has slightly narrower leaves that are more regularly toothed at the base. Dwarf Hackberry are cordate (heart-shaped) at the base, while common hackberry usually are not. The winter buds are brown and hairy, similar to those of other hackberries, but smaller, only 1 to 2 centimeters long. Terminal buds absent."
+  ],
+  "bark-color": [
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Ridges",
+    "Smooth"
+  ],
+  "bark-description": [
+    "Grey, smooth bark with corky ridges or warts."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Nighttime Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Flowering Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Fire"
+  ],
+  "uses": "An uncommon native small tree or large shrub is found in locations that include dry uplands, open woodlands and sandy habitats near the shore."
+}

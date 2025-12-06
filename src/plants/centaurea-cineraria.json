@@ -1,0 +1,163 @@
+{
+  "fullName": "Centaurea cineraria",
+  "name": "centaurea-cineraria",
+  "commonNames": [
+    "Dusty Miller",
+    "Silver Dust",
+    "Silver Ragwort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/centaurea-cineraria/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Centaurea",
+  "species": "cineraria",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Mediterranean"
+  ],
+  "play-value": [
+    "Defines Paths"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 2 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Mounding",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "Seeds are produced in cylindrical achenes"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring"
+  ],
+  "flower-shape": [
+    "Dome"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Thistle-like flower-heads, often with enlarged outer florets, not particularly ornamental and usually trimmed to promote foliage growth and not detract from the foliage."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "White"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Simple leaves are covered in fine matted hairs on both sides giving them a felt-like or woolly feel, are lance shaped and indented or cut with numerous lobes, yielding a lace-like appearance in silver or white with green undertones.  The leaves reflect moonlight and is a welcome addition to a nighttime garden."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Slope/Bank",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Nighttime Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "uses": "As an accent bedding plant against flowering plants of a deep magenta, burgundy or purple."
+}

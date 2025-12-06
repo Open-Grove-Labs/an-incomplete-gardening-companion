@@ -1,0 +1,145 @@
+{
+  "fullName": "Morus rubra 'Travis'",
+  "name": "morus-rubra-travis",
+  "commonNames": [
+    "Travis Red Mulberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/morus-rubra-travis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Morus",
+  "species": "rubra",
+  "family": "Moraceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "wildlife-value": [
+    "This plant is moderately resistant to damage from deer.  It is a possible host plant for the Red Admiral butterfly. Its fruits are eaten by many birds, especially gray catbirds and northern mockingbirds, foxes, opossums, raccoons, and squirrels."
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Oval"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Produces numerous sweet red to black fruit that looks like a blackberry but slender with a size of 1 1/4''."
+  ],
+  "flower-color": [
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "The small yellowish-green flower of the Travis red mulberry is not showy. Male flower and female flower can bloom on the same tree or different trees."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough",
+    "Velvety"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Alternate broad simple green leaves with a notch at the base, finely serrated margin. The upper surface is rough and under surface is full of soft hair."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Meadow",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Edible Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Salt"
+  ]
+}

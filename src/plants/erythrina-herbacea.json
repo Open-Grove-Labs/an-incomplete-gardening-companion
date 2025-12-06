@@ -1,0 +1,180 @@
+{
+  "fullName": "Erythrina herbacea",
+  "name": "erythrina-herbacea",
+  "commonNames": [
+    "Cardinal-spear",
+    "Cherokee-bean",
+    "Coral Bean",
+    "Red Cardinal"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/erythrina-herbacea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Erythrina",
+  "species": "herbacea",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico and southern USA"
+  ],
+  "distribution": [
+    "Southern and southeastern states"
+  ],
+  "wildlife-value": [
+    "Flowers attract hummingbirds."
+  ],
+  "edibility": [
+    "Caution is encouraged in human use as an herb. Flowers and young leaves may be cooked and eaten, however, all parts of the plant have low toxicity. Symptoms mainly occur with ingestion of seeds. Symptoms are vomiting and diarrhea; prior to modern medicine concoctions from the plant were used to relieve constipation."
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 12 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "appendage": [
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "A persistent 8 1/2\" long black bean pod constricted between red beans. Displays from July to September."
+  ],
+  "flower-color": [
+    "Red/Burgundy"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "asymmetrical petals",
+    "fused petals"
+  ],
+  "flower-description": [
+    "Flowers appear before leaves from May to July, are in an elongated terminal cluster, somewhat tube-shaped, and scarlet in color. Their bloom can be up to 12 inches long with 5 fused sepals and 5 petals.  The upper petal wraps around the 4 other petals."
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Leaves are alternate, scattered along the stem. Three leaflets form the leaf, which can be prickly underneath."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Hummingbirds"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Children"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Vomiting, diarrhea"
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids and cyanogenic glycoside"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Seeds"
+  ],
+  "uses": "Necklaces are made from the seeds though they should be kept away from children."
+}

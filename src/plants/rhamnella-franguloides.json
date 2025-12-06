@@ -1,0 +1,135 @@
+{
+  "fullName": "Rhamnella franguloides",
+  "name": "rhamnella-franguloides",
+  "commonNames": [
+    "Rhamnella"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rhamnella-franguloides/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rhamnella",
+  "species": "franguloides",
+  "family": "Rhamnaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Asia"
+  ],
+  "wildlife-value": [
+    "Birds eat the fruit (seeds)"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Disease and pest resistant; Salt and heat tolerant"
+  ],
+  "dimensions": [
+    "Height: 20 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "A decorative fruit, yellow in summer, then orange and scarlet in fall and finally ripening to dark purple/black"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Glossy, highly textured green leaves in summer, turning to gold in the fall"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Patio",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "resistance-to-challenges": [
+    "Salt"
+  ]
+}

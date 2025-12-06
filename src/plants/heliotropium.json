@@ -1,0 +1,161 @@
+{
+  "fullName": "Heliotropium",
+  "name": "heliotropium",
+  "commonNames": [
+    "Cherry Pie Flower",
+    "Garden Heliotrope",
+    "Heliotrope",
+    "Monkey Tail"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/heliotropium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Heliotropium",
+  "family": "Boraginaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical and temporate America, Europe"
+  ],
+  "distribution": [
+    "throughout North America"
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial",
+    "Perennial",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small, 5-parted, blue, purple, or white, on a slender, coiled, stem."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblanceolate",
+    "Ovate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "TOXIC ONLY IF LARGE QUANTITIES EATEN.  Digestive upset and liver damage over continued use; sometimes used in herbal teas."
+  ],
+  "poison-toxic-principle": [
+    "Pyrrolizidine alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

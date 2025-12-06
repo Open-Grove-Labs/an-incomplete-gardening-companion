@@ -1,0 +1,186 @@
+{
+  "fullName": "Viburnum opulus 'Roseum'",
+  "name": "viburnum-opulus-roseum",
+  "commonNames": [
+    "European Cranberry Bush",
+    "European Snowball Viburnum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/viburnum-opulus-roseum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Viburnum",
+  "species": "opulus",
+  "family": "Viburnaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Europe"
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 12 ft. 0 in.",
+    "Width: 12 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Mounding",
+    "Multi-stemmed",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-description": [
+    "Flowers are sterile so no fruits produced"
+  ],
+  "flower-color": [
+    "Green",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The inflorescence is a globose cluster (cyme) up to 4 inches across. Individual 1 inch sterile flowers are green to white, aging to light pink. Blooms in May"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Soft green leaves are opposite, simple, 3-5 lobed, lobes acute, truncate, coarsely toothed; narrowly grooved petioles with large disk-like, concave glands; persistent linear stipules. Fall color is orange-red"
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "bark-description": [
+    "Gray-brown waxy bark"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stem is light gray-brown, ribbed."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Lawn"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Cutting Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting",
+    "Hedge",
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "fullName": "Erythronium 'Pagoda'",
+  "name": "erythronium-pagoda",
+  "commonNames": [
+    "Avalanche Lily",
+    "Fawn Lily",
+    "Glacier Lily",
+    "Trout Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/erythronium-pagoda/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Erythronium",
+  "family": "Liliaceae",
+  "wildlife-value": [
+    "Members of the genus Erythronium support the following specialized bee: Andrena (Leucandrena) erythronii."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 10 in. - 1 ft. 2 in.",
+    "Width: 0 ft. 2 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Yellow flowers appear mid-spring and are about 2 inches in width. Six separate petals are recurved and arranged in a star shape."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "The stem is bare."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Small Space",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Pollinator Garden",
+    "Rock Garden",
+    "Shade Garden"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ]
+}

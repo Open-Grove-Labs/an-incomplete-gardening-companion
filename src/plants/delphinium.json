@@ -1,0 +1,185 @@
+{
+  "fullName": "Delphinium",
+  "name": "delphinium",
+  "commonNames": [
+    "Delphinium",
+    "Larkspur",
+    "Staggerweed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/delphinium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Delphinium",
+  "family": "Ranunculaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Temperate and Subtropical Old World, North America"
+  ],
+  "distribution": [
+    "Throughout Europe",
+    "Asia",
+    "North and Central Africa",
+    "North and Central America."
+  ],
+  "wildlife-value": [
+    "Attracts hummingbirds and butterflies."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Drought tolerant"
+  ],
+  "edibility": [
+    "Poisonous.  Plants are considered toxic to humans if ingested."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Brown/Copper"
+  ],
+  "fruit-description": [
+    "Fruit dry, many seeded."
+  ],
+  "flower-color": [
+    "Blue",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "Flowers bloom from May to mid-Summer in terminal, elongated clusters, blue to purple or nearly white, with a single spur on the back side."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves alternate, long-stalked, palmately divided or lobed."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Native Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Rabbits"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Burning of lips and mouth, numbness of throat; intense vomiting and diarrhea, muscular weakness and spasms, weak pulse, paralysis of the respiratory system, convulsions. Can cause serious illness or death.\nUnless there is a lack of suitable forage, horses typically do not consume toxic amounts of larkspur. The toxicity of the plant may vary depending on seasonal changes and field conditions; as the plant matures, it generally becomes less toxic. Clinical effects include constipation, colic, increased salivation, stiffness, recumbency, and convulsions. Cardiac failure may occur, as can death from respiratory paralysis."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids delphinine, ajacine, and others."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Seeds",
+    "Stems"
+  ]
+}

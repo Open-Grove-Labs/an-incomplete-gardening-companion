@@ -1,0 +1,180 @@
+{
+  "fullName": "Rubus laciniatus",
+  "name": "rubus-laciniatus",
+  "commonNames": [
+    "Blackberry",
+    "Cut-leaf Blackberry",
+    "Eurasian Cut-leaf Blackberry",
+    "Evergreen Blackberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rubus-laciniatus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rubus",
+  "species": "laciniatus",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Eurasia"
+  ],
+  "wildlife-value": [
+    "The fruits of this plant are consumed by a number of birds and mammals. The thickets provide cover for animals. This plant provides nectar for pollinators."
+  ],
+  "edibility": [
+    "Fruit is juicy and flavorful and can be eaten raw or cooked."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High",
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet",
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Aggregate"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Ripe fruit appears from August to September. The fruits are red when immature, black when ripe and about .75 inch in diameter. Stems fruit in their second year and then die off."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "White 5-petaled flowers appear from April to August."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Leaves are bright green above and pale hairy below composed of 3 to 5 leaflets with toothed margins."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Reddish stems with recurved prickles; biennial stems produce new stems annually from the perennial rootstock; stems start upright then curve to touch the ground."
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Security"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Songbirds"
+  ],
+  "problems": [
+    "Spines/Thorns",
+    "Weedy"
+  ]
+}

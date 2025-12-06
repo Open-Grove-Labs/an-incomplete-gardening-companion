@@ -1,0 +1,146 @@
+{
+  "fullName": "Nabalus altissimus",
+  "name": "nabalus-altissimus",
+  "commonNames": [
+    "Rattlesnake Root",
+    "Rouh White Lettuce",
+    "Tall White Lettuce"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nabalus-altissimus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nabalus",
+  "species": "altissimus",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Biennial",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Canada to U.S.A"
+  ],
+  "wildlife-value": [
+    "Bumblebees suck nectar from the flower heads and cross-pollinate them.  Halictid bees, beetles and other insects feed on the pollen but do not pollinate."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Shade ",
+    "Textural "
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Achene",
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Seeds with white tufts of hair."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "A cluster of 5 to 6 nodding, greenish-white or yellow, trumpet-shaped flowers. A series of short, smooth bracts tops a series of longer bracts."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire",
+    "Lobed",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Leaves vary in shape, they may be triangular, heart-shaped, lobed or entire.  Has milky sap in stems and leaves.  Orange-brown tufts of hairs.  The leaves yellow with age."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Erect greenish-purplish."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Predatory Insects"
+  ]
+}

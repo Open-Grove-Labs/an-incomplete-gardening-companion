@@ -1,0 +1,228 @@
+{
+  "fullName": "Smallanthus uvedalia",
+  "name": "smallanthus-uvedalia",
+  "commonNames": [
+    "Bear's Foot",
+    "Hairy Leafcup",
+    "Yellow Flower Leafcup"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/smallanthus-uvedalia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Smallanthus",
+  "species": "uvedalia",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Central and southeastern U.S.A., Mexico"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "LA ",
+    "MD ",
+    "MI ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Attracts many pollinators and several birds will eat the seeds. Bees make winter nests in the hollow stems."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Reddish-brown oval to round ribbed achene"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Head",
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Yellow flower heads are in clusters. Each flower head has 7-13 yellow ray flowers and 40-80 tubular staminate yellow disc flowers. Blooms June through Sept."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Sheath"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Deltoid",
+    "Ovate",
+    "Palmatifid"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Triangular or ovate opposite leaves form a small cup around the long stems, hence the name Leafcup. The leaves are palmately lobed, green, lighter below with fine hairs scattered on both leaf surfaces. Leaves are 4 to 12 in long and wide with a prominent midrib, toothed and gland-dotted."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Green ribbed stems are hollow and may be mottled with purple. May or may not have hairs"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Meadow",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "uses": "Used in herbal medicine to make tinctures to treat inflammation, rheumatism, and skin sores."
+}

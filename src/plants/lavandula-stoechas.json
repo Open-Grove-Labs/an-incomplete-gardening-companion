@@ -1,0 +1,173 @@
+{
+  "fullName": "Lavandula stoechas",
+  "name": "lavandula-stoechas",
+  "commonNames": [
+    "Bract Lavender",
+    "Butterfly Lavender",
+    "French Lavender",
+    "Spanish Lavender",
+    "Topped Lavender"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lavandula-stoechas/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lavandula",
+  "species": "stoechas",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "wildlife-value": [
+    "Nectar from flowers attracts bees and butterflies."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "This plant is resistant to damage by deer."
+  ],
+  "plant-type": [
+    "Edible",
+    "Herb",
+    "Perennial",
+    "Shrub"
+  ],
+  "habit/form": [
+    "Mounding",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Fragrant",
+    "Good Dried",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Dark purple flower spikes topped with four lighter purple bracts that resemble flags or ears."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Acicular",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Silvery highly fragrant leaves are similar to rosemary."
+  ],
+  "stem-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "stem-is-aromatic": "Y",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Patio",
+    "Slope/Bank",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden",
+    "Cottage Garden",
+    "Edible Garden",
+    "Garden for the Blind",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Rabbits"
+  ],
+  "uses": "Used to make essential oils or potpourri and other dried arrangments."
+}

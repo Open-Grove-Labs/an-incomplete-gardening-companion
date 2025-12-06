@@ -1,0 +1,275 @@
+{
+  "fullName": "Amelanchier arborea",
+  "name": "amelanchier-arborea",
+  "commonNames": [
+    "Alabama Serviceberry",
+    "Downy Serviceberry",
+    "Juneberries",
+    "Serviceberry",
+    "Service-tree",
+    "Shadblow",
+    "Shadbush"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/amelanchier-arborea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Amelanchier",
+  "species": "arborea",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern North America"
+  ],
+  "distribution": [
+    "New Brunswick to Florida and west to Minnesota and Texas."
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "This plant supports Red-spotted Purple (Limenitis arthemis astyanax) and Viceroy (Limenitis archippus) larvae. Viceroy rarely uses this host plant in North Carolina but it has two to three broods from May-September. Pollinators and insects nectar at the blooms and gather pollen in early spring.  Fruits are eaten by songbirds, small and large mammals."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Edible fruit ",
+    "Wildlife Larval Host "
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Resistant to fire in the landscape. This tree is mildly resistant to damage by deer."
+  ],
+  "edibility": [
+    "Edible fruit used to make jams, jellies, and pies. Can be eaten raw or cooked. Rich in iron and copper."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Multi-stemmed",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Spring",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Pome"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Small, fleshy green apple-like fruits will turn red then purple-black as they mature. Fruits display from May to August and this plant is self-fruitful, so it does not need a pollenizer to create fruit. They have a similar taste as highbush blueberry (Vaccinium corymbosum) but slightly sweeter."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "Drooping racemes of six to fourteen star-shaped, white to pale pink flowers bloom from March to May. Terminal buds are long and pointed, blossoming into 3 to 7 inch drooping clusters of 1 inch flowers before, or with, the leaves. Flower blooms from March to April."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Pointed, 2 to 4 inch, slender-stalked leaves are purplish-brown until mature when they become light green. Young leaves are covered with hairs on the underside, an almost pussy willow effect.  As the tree matures, the leaves are less hairy.  At maturity, the green leaves may be covered with hairs."
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Fissured",
+    "Smooth"
+  ],
+  "bark-description": [
+    "Its bark is smooth when young and on branches, but more fissured as it ages and on the trunk.  As the tree ages, long, vertical splits and furrows develop."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Lawn",
+    "Meadow",
+    "Naturalized Area",
+    "Patio",
+    "Pond",
+    "Recreational Play Area",
+    "Slope/Bank",
+    "Small Space",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Garden for the Blind",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Flowering Tree",
+    "Mass Planting",
+    "Shade Tree",
+    "Small groups",
+    "Small Tree",
+    "Understory Tree"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Erosion",
+    "Fire",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "Heavy, hard, close-grained wood used for tool handles."
+}

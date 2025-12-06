@@ -1,0 +1,133 @@
+{
+  "fullName": "Persea humilis",
+  "name": "persea-humilis",
+  "commonNames": [
+    "Scrub Bay",
+    "Silkbay",
+    "Silk Bay"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/persea-humilis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Persea",
+  "species": "humilis",
+  "family": "Lauraceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Florida"
+  ],
+  "edibility": [
+    "Fresh or dried leaves can be used for tea."
+  ],
+  "plant-type": [
+    "Edible",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-description": [
+    "Rounded drupe black when ripe"
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Fragrant when crushed."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Ridges"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Small Tree"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Poor Soil"
+  ]
+}

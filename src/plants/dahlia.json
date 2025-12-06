@@ -1,0 +1,187 @@
+{
+  "fullName": "Dahlia",
+  "name": "dahlia",
+  "commonNames": [
+    "Bedding Dahlia",
+    "Dahlia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dahlia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dahlia",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico, Central America, northern South America"
+  ],
+  "wildlife-value": [
+    "attracts butterflies, bees, and hummingbirds."
+  ],
+  "bulb-storage": [
+    "In Zone 7 harvest tuberous roots in fall, dry carefully (do not wash), and store in vermiculite or dry sand at 35-45 degrees F. In Zone 8, just mulch."
+  ],
+  "edibility": [
+    "Were grown as a food crop by Aztecs, but the practice has died out."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Bulb",
+    "Herbaceous Perennial",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "Variegated",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb",
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-description": [
+    "Flowers are highly variable but consistently have reflexed involucral bracts at the base.  Flowering heads are usually large (ranging from 2 to 12 inches), with many florets, variously colored. They bloom from mid-summer to mid-fall, showy and excellent in flower arrangements. Axillary, 1 to 3 heads in a corymb; head oriented vertical, 2-12\" diam., aster to double forms. Disc and ray flowers variable in color. Garden origin."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Opposite, simple (terminal leaflet) to 3-5-7-pinnately compound, segments ovate to oblong to lanceolate.  Margins may be lobed or dentate.  Simple leaves are more common towards the top of the plant while compound leaves are more common at the base.  Leaves may be green or reddish-purple."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Cottage Garden",
+    "Cutting Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Foliage is toxic if eaten in large quantities.  Skin irritation following repeated handling of the tubers and contact with leaves and sunlight (phototoxicity). Mild gastrointestinal signs."
+  ],
+  "poison-toxic-principle": [
+    "Phototoxic polyacetylene compounds"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves"
+  ]
+}

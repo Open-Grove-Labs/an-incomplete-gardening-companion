@@ -1,0 +1,99 @@
+{
+  "fullName": "Juniperus communis 'Gold Cone'",
+  "name": "juniperus-communis-gold-cone",
+  "commonNames": [
+    "Gold Cone Juniper"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/juniperus-communis-gold-cone/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Juniperus",
+  "species": "communis",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Dense",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-description": [
+    "No fruits, cones."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Awl-shaped new growth is bright gold in the spring.  It fades to bluish-green in winter."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Lawn"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting",
+    "Specimen"
+  ]
+}

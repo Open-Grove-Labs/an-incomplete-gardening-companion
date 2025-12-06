@@ -1,0 +1,206 @@
+{
+  "fullName": "Delphinium exaltatum",
+  "name": "delphinium-exaltatum",
+  "commonNames": [
+    "Tall Larkspur"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/delphinium-exaltatum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Delphinium",
+  "species": "exaltatum",
+  "family": "Ranunculaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "North Central & Eastern Central U.S.A"
+  ],
+  "distribution": [
+    "AL ",
+    "KY ",
+    "MD ",
+    "ME ",
+    "MO ",
+    "NC ",
+    "OH ",
+    "PA ",
+    "TN ",
+    "VA ",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Flowers attract bees, butterflies and hummingbirds"
+  ],
+  "edibility": [
+    "Poisonous"
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Poisonous",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Follicle"
+  ],
+  "fruit-description": [
+    "3-sectioned follicle containing numerous dark brown  seeds."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "Colored Sepals"
+  ],
+  "flower-description": [
+    "Dense, narrow cluster of numerous lavender-blue flowers and occasionally white flowers on the terminal stem. 5 petal-like sepals with one curved backward to create a spur and 4 smaller petals. The 2 lower petals may have whitish hairs. Blooms July to Sept."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Rhomboidal"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The lower stem leaves are on long stalks and divided into 5 parts, with each part having 3 to 7 lobes. These leaves are roundish in shape. The mid-stem leaves have fewer lobes and shorter stalks. There are no leaves in the upper 1/5 of the stem."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Round, somewhat fleshy, green stems with hairs. May require staking."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Burning of lips and mouth, numbness of throat; intense vomiting and diarrhea, muscular weakness and spasms, weak pulse, paralysis of the respiratory system, convulsions; may be fatal if eaten. \nUnless there is a lack of suitable forage, horses typically do not consume toxic amounts of larkspur. The toxicity of the plant may vary depending on seasonal changes and field conditions; as the plant matures, it generally becomes less toxic. Clinical effects include constipation, colic, increased salivation, stiffness, weakness, recumbency, and convulsions. Cardiac failure may occur, as can death from respiratory paralysis."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids delphinine, ajacine, and others."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Seeds",
+    "Stems"
+  ]
+}

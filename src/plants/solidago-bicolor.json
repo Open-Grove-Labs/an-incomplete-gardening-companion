@@ -1,0 +1,145 @@
+{
+  "fullName": "Solidago bicolor",
+  "name": "solidago-bicolor",
+  "commonNames": [
+    "Goldenrod",
+    "Silver-rod",
+    "White Goldenrod"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/solidago-bicolor/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Solidago",
+  "species": "bicolor",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Canada and United States"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "This plant supports Wavy-lined Emerald (Synchlora aerata) larvae. The White Goldenrod flowers produce nectar that attracts butterflies, native bees, honey bees and other pollinators. Songbirds eat the seeds.  Members of the genus Solidago support the following specialized bees: Andrena (Callandrena s.l.) asteris, Andrena (Callandrena s.l.) braccata, Andrena (Cnemidandrena) hirticincta, Andrena (Cnemidandrena) nubecula, Andrena (Callandrena s.l.) simplex, Perdita (Perdita) octomaculata, Melissodes (Eumelissodes) fumosus, Colletes simulans, and Colletes solidaginis."
+  ],
+  "edibility": [
+    "The leaves and berries contain the poisonous alkaloid solanine; although the toxic quality of the berries seems to disappear with ripening, it is best not to eat them."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Blooms July through October. Elongated spikes of white to yellowish white ray flowers surrounding a yellow disk flower on very short branches."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Elliptical upper leaves; lower leaves are 2 to 4 inches long, stalked, shallowly toothed and have a grayish down."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil"
+  ]
+}

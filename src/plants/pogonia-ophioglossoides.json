@@ -1,0 +1,130 @@
+{
+  "fullName": "Pogonia ophioglossoides",
+  "name": "pogonia-ophioglossoides",
+  "commonNames": [
+    "Adder's Mouth",
+    "Beard Flower",
+    "Dragon's Mouth",
+    "Rose Crested Orchid",
+    "Rose Crest-lip",
+    "Rose Pogonia",
+    "Snakemouth",
+    "Snake-mouth Orchid",
+    "Sweet Pagonia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pogonia-ophioglossoides/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pogonia",
+  "species": "ophioglossoides",
+  "family": "Orchidaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central Canada to Eastern Central & Eastern U.S.A"
+  ],
+  "wildlife-value": [
+    "Bumblebees frequent this plant"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heat and drought tolerant."
+  ],
+  "plant-type": [
+    "Herb",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Occasionally Wet"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Erect and pointing upwards or outward.  It goes from green to light brown and will split to expose tiny seeds. Fruits display from July to October."
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Singly borne rose-pink flowers; lip formed by lower petal is densely bearded or crested. Flowers bloom from March to June."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Ovate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "2 to 4 in. single leaf is located about midway on the stem; basal leaves are absent at flowering"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Single stemmed, hairless and green, darker near the base"
+  ],
+  "landscape-location": [
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Water Garden"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "fullName": "Elymus virginicus",
+  "name": "elymus-virginicus",
+  "commonNames": [
+    "Eastern Wild Rye",
+    "Eastern Wild-rye",
+    "Terrell Grass",
+    "Virginia Wildrye"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/elymus-virginicus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Elymus",
+  "species": "virginicus",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Canada, U.S.A."
+  ],
+  "wildlife-value": [
+    "Provides shelter to small mammals and insects. Deer resistant."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Ornamental Grasses and Sedges"
+  ],
+  "habit/form": [
+    "Erect",
+    "Spreading"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-description": [
+    "Fruits are available July-November."
+  ],
+  "flower-inflorescence": [
+    "Raceme",
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-description": [
+    "Wheat-like inflorescence that bloom June-October."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Flat linear pointed leaves. Infertile leaves in tufts up to 1 foot long. Alternate leaves on the stems in spring and summer"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Pond",
+    "Riparian",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "attracts": [
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

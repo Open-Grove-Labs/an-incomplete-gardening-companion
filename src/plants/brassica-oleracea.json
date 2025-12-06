@@ -1,0 +1,211 @@
+{
+  "fullName": "Brassica oleracea",
+  "name": "brassica-oleracea",
+  "commonNames": [
+    "Broccoli",
+    "Brussels Sprouts",
+    "Kohlrabi",
+    "Sea Cabbage",
+    "Silverwhips",
+    "Sprouting Broccoli",
+    "Tronchuda Cabbage",
+    "Wild Cabbage",
+    "Wild Mustard"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/brassica-oleracea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Brassica",
+  "species": "oleracea",
+  "family": "Brassicaceae",
+  "life-cycle": [
+    "Biennial",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "W. Europe"
+  ],
+  "distribution": [
+    "Cultivars grown worldwide"
+  ],
+  "wildlife-value": [
+    "It serves as a host plant for butterflies, moths, flies, sawflies and beetles."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Easy to Grow",
+    "Wildlife Larval Host "
+  ],
+  "edibility": [
+    "The foliage is edible raw or cooked but when cooked can emit an unpleasant odor."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 10 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Cool Season Vegetable",
+    "Edible",
+    "Herb",
+    "Vegetable",
+    "Warm Season Vegetable"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Siliqua"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "The fruits dry and split when ripe."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-value-to-gardener": [
+    "Edible"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cross"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers each have four petals and six stamens, the two outer ones being shorter than the four inner).  The appear on stems each having 20-40 flowers."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Leaves differ in size, shape, and color depending on the cultivar.  The lower leaves are stalked and fairly large with wavy margins.  All, including the wild type, are thick and fleshy with a glaucous coating.  Leaf stems alternate in a circle."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Covered with a powdery bloom (glaucous)"
+  ],
+  "stem-description": [
+    "The stem is smooth and somewhat woody."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Meadow",
+    "Patio",
+    "Pond",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Pollinators"
+  ]
+}

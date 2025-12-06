@@ -1,0 +1,219 @@
+{
+  "fullName": "Cotoneaster apiculatus",
+  "name": "cotoneaster-apiculatus",
+  "commonNames": [
+    "Cotoneaster",
+    "Cranberry Cotoneaster"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cotoneaster-apiculatus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cotoneaster",
+  "species": "apiculatus",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Central China"
+  ],
+  "wildlife-value": [
+    "Attracts Birds"
+  ],
+  "play-value": [
+    "Easy to Grow",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Tolerates rabbits, erosion, pollution"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Broad",
+    "Erect",
+    "Mounding",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low",
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Pome"
+  ],
+  "fruit-description": [
+    "Round, glossy red fruits mature in late summer and persist into winter.  They will drop when ripe, and often eaten by birds."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small pink buds open to pinkish/white flowers in late spring.  The flowers are tightly  pressed t the stems.  The plant can be showy when in full bloom."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "3/4 inch long oval glossy green leaves. Fall color is showy in shades of red, purple and bronze."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "The branches are stiffly arching.  Young stems are reddish/purple.  As they mature, they will turn a olive-brown and become somewhat porous."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Meadow",
+    "Patio",
+    "Slope/Bank",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting",
+    "Hedge",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Compaction",
+    "Drought",
+    "Erosion",
+    "Pollution",
+    "Rabbits",
+    "Salt"
+  ],
+  "problems": [
+    "Messy"
+  ]
+}

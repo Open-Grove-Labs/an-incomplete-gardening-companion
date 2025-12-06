@@ -1,0 +1,150 @@
+{
+  "fullName": "Dryopteris wallichiana",
+  "name": "dryopteris-wallichiana",
+  "commonNames": [
+    "Wallich's Wood Fern"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dryopteris-wallichiana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dryopteris",
+  "species": "wallichiana",
+  "family": "Polypodiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Himalayas, Hawaii, Mexico and Jamaica"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heavy shade, This plant is seldom damaged by deer."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Fern"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Semi-evergreen",
+    "Deciduous",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Arching",
+    "Clumping",
+    "Vase"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-description": [
+    "No fruits. This plants reproduces via spores."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Fronds"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Crenate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Blade is pinnate-pinnatified and oblong-lance shaped, leathery, lustrous and dark green; segments are oblong and squarish at tip; stipe is one fourth or less of the frond length; densely clothed with reddish black scales."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Hair-like scaly brown stems unfurl to produce the leaves"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Riparian",
+    "Small Space",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ]
+}

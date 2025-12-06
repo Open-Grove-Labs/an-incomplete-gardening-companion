@@ -1,0 +1,146 @@
+{
+  "fullName": "Arum palaestinum",
+  "name": "arum-palaestinum",
+  "commonNames": [
+    "Black Calla",
+    "Black Calla Lily",
+    "Solomon's Lily",
+    "Wild Arum",
+    "Wild Calla"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/arum-palaestinum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Arum",
+  "species": "palaestinum",
+  "family": "Araceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Syria, Lebanon, Jordan"
+  ],
+  "wildlife-value": [
+    "Deer resistant"
+  ],
+  "edibility": [
+    "The leaves can be eaten if cooked and are used in Middle Eastern diets."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-description": [
+    "Vibrant red seeds."
+  ],
+  "flower-color": [
+    "Black",
+    "Brown/Copper",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "A deep purple spadix surrounded by a red purple-brown to black spathe."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "8-12 inch trowel-shaped green leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Eating small amounts of the raw plant causes mucous membrane irritation, and burning. Consuming larger amounts causes nausea, diarrhea, cramping, excessive drooling, vomiting (not horses), and difficulty swallowing."
+  ],
+  "poison-toxic-principle": [
+    "oxalate salts"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Stems"
+  ],
+  "uses": "Used in Middle Eastern herbal medicine"
+}

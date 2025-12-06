@@ -1,0 +1,183 @@
+{
+  "fullName": "Torilis arvensis",
+  "name": "torilis-arvensis",
+  "commonNames": [
+    "Common Hedge Parsely",
+    "Field Hedge Parsley",
+    "Spreding Hedge Parsley",
+    "Tall Sock Destroyer"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/torilis-arvensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Torilis",
+  "species": "arvensis",
+  "family": "Apiaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, East Asia, North Africa"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "CA",
+    "GA",
+    "IA",
+    "ID",
+    "IL",
+    "IN",
+    "KS",
+    "KY",
+    "LA",
+    "MD",
+    "MO",
+    "MS",
+    "NC",
+    "NE",
+    "NJ",
+    "NY",
+    "OH",
+    "OR",
+    "PA",
+    "SC",
+    "TN",
+    "TX",
+    "UT",
+    "VA",
+    "WA",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Flowers attract pollinators, bees, flies, wasps and caterpillars of the butterfly Papilio polyxenes asterius (Black Swallowtail) feed on the leaves."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Weed"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green",
+    "Pink"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Oblong bur-like seed with straight to curved bristles that attach themselves to animal fur and clothing to aid in dispersal.  It starts out rosey-green and matures to brown."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "2\"-3\" across umbles with about 8 umblets containing 8 1/8\" flowers each.  Each flower has 5 unequal white petals and 5 stamens.  Petals may have a pink or reddish tinge. Blooms happen early to mid-summer."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Deltoid",
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Pinnately or bipinnately compound with trifoliate leaflets. Leaflets are 1-2 inches long and .75 inches wide.  Leaves are triangular-shaped fern-like alternate leaves with long slender petioles.  Leaves close to the flowers are lanceolate or narrowly ovate. 6\" long and 4\" wide with short white hairs on the upper surface."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Slender, round, covered in white fine hairs."
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

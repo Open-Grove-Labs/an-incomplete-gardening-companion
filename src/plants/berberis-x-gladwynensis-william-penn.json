@@ -1,0 +1,130 @@
+{
+  "fullName": "Berberis x gladwynensis 'William Penn'",
+  "name": "berberis-x-gladwynensis-william-penn",
+  "commonNames": [
+    "William Penn Barberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/berberis-x-gladwynensis-william-penn/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Berberis",
+  "family": "Bereridaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "seldom damaged by deer, drought-tolerant, and tolerates a range of soil types"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Dense",
+    "Mounding",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Tiny bright yellow flowers in spring."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Alternate, simple, spiny, lustrous, and dark green leaves that turn a red-bronze winter color."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting",
+    "Hedge",
+    "Mass Planting",
+    "Security"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "fullName": "Isotoma fluviatilis",
+  "name": "isotoma-fluviatilis",
+  "commonNames": [
+    "Blue Star Creeper",
+    "Laurentia",
+    "Swamp Isotome"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/isotoma-fluviatilis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Isotoma",
+  "species": "fluviatilis",
+  "family": "Campanulaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "E.astern and Southeastern Australia"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 2 in. - 0 ft. 3 in.",
+    "Width: 1 ft. 2 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Creeping",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Capsules are obconical to obovoid and asymmetric, 1/4 inch long and 1/8 inch in diameter."
+  ],
+  "flower-color": [
+    "Blue",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Light blue 1/4 inch flowers in spring and into summer."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Sheath"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Linear",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Tiny green leaves up to a half inch in length and a quarter inch wide. The leaf blade is oblong, elliptic or linear in shape, although  the lower leaves may sometimes be ovate or obovate in shape."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Near Septic"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Foot Traffic"
+  ]
+}

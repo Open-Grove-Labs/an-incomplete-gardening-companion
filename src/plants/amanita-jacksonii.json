@@ -1,0 +1,56 @@
+{
+  "fullName": "Amanita jacksonii",
+  "name": "amanita-jacksonii",
+  "commonNames": [
+    "American Slender Caesar",
+    "Eastern Caesar's Amanita",
+    "Jackson's Slender Caesar"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/amanita-jacksonii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Amanita",
+  "species": "jacksonii",
+  "family": "Amanitaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Quebec Canada to Mexico"
+  ],
+  "distribution": [
+    "East of the rocky mountains."
+  ],
+  "edibility": [
+    "This mushroom is edible; however, caution should be used because it is similar in appearance to other, poisonous, mushrooms."
+  ],
+  "plant-type": [
+    "Mushroom"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "fruit-description": [
+    "Produces whit spores"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-color": [
+    "Gold/Yellow"
+  ],
+  "stem-is-aromatic": "N"
+}

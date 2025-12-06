@@ -1,0 +1,164 @@
+{
+  "fullName": "Physalis",
+  "name": "physalis",
+  "commonNames": [
+    "Bladder Cherry",
+    "Cape Gooseberry",
+    "Chinese Lantern",
+    "Ground Cherry",
+    "Jerusalem Cherry",
+    "Strawberry Tomato"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/physalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Physalis",
+  "family": "Solanaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "USA, NC, South America"
+  ],
+  "distribution": [
+    "Throughout"
+  ],
+  "wildlife-value": [
+    "Members of the genus Physalis support the following specialized bees: Colletes latitarsis, Colletes willistoni, and Lasioglossum (Hemihalictus) pectinatum."
+  ],
+  "edibility": [
+    "Ripe fruits edible and some used to make jelly, jams, preserves, sauces, or pies. HARVEST TIME: Only collect fruits."
+  ],
+  "plant-type": [
+    "Edible",
+    "Poisonous",
+    "Vegetable"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Multi-stemmed",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "Purple/Lavender"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "A globose green berry that typically matures to a yellow or orange color sometimes purple surrounded by a five sized veined papery sac.  Mature fruits are edible.  Do not consume immature fruits."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Cream/Tan",
+    "Gold/Yellow"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Good Dried"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Funnel"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Axillary, nodding, 5-parted, bell- or funnel-shaped, yellowish flowers that are good cut or dried."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Alternate, simple, smooth margined or irregularly toothed diamond shaped leaves"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Ringed hollow sometimes hairy"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "All parts are toxic except the ripe fruits.  Headache, stomach pain, lowered temperature, dilated pupils, vomiting, diarrhea, circulatory and respiratory depression, loss of sensation; may be fatal."
+  ],
+  "poison-toxic-principle": [
+    "Solanine and other solanidine alkaloids."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Stems"
+  ]
+}

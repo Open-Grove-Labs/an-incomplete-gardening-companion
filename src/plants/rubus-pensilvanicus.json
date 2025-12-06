@@ -1,0 +1,199 @@
+{
+  "fullName": "Rubus pensilvanicus",
+  "name": "rubus-pensilvanicus",
+  "commonNames": [
+    "Blackberry",
+    "Dewberry",
+    "Pennsylvania Blackberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rubus-pensilvanicus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rubus",
+  "species": "pensilvanicus",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Canada, Central and Eastern United States"
+  ],
+  "wildlife-value": [
+    "Provides excellent cover year round. Butterflies and other insects are attracted to the blooms for nectar.  Its fruits are eaten by songbirds, small mammals, foxes, raccoons, and black bears. During the winter, birds and small mammals eat the seeds left from rotted fruit. White-tailed deer and rabbits browse the leaves."
+  ],
+  "edibility": [
+    "The fruits are large aggregates of 10-100 black drupelets, somewhat sweet."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 4 in. - 0 ft. 6 in.",
+    "Width: 0 ft. 4 in. - 0 ft. 6 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Prickles",
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Spring",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Flowers are replaced by juicy fruits that are globoid-ovoid in shape and up to ¾\" long. The fruits have a pleasant sweet-tart flavor, sometimes with a slightly bitter aftertaste. Each drupelet within a fruit contains a single seed. The size of the fruit is strongly influenced by the amount of precipitation during the first half of summer. Fruits are available May-July."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Second-year canes bear short corymbs of flowers spanning about 2-4\" across. Each flower is about 1\" across. The petals are oblanceolate in shape and rather wrinkled in appearance; they are much longer than the slightly pubescent sepals. At the base of the pedicel of each flower, there is either a stipule-like or leafy bract of varying size; the flowers are often partially hidden by these bracts. The blooming period of this blackberry lasts about 3 weeks. Flowers bloom April-June."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "First-year canes produce leaves of 5 leaflets, while second-year canes produce leaves of 3 leaflets. At the base of each terminal leaflet, there is a conspicuous basal stalklet (petiolule) about ½\" long, while the lateral leaflets are sessile, or nearly so. Terminal leaflets are no more than twice as long as they are across."
+  ],
+  "stem-color": [
+    "Black",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Young canes are light green, stout, and rather angular, but they later become red, reddish brown, or black. Stout prickles occur along the sides of the canes; these prickles are usually curved, rather than straight."
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Hedge"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ],
+  "uses": "Sweet and juicy fruit often used for jams and jellies."
+}

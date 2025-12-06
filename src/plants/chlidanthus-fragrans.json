@@ -1,0 +1,166 @@
+{
+  "fullName": "Chlidanthus fragrans",
+  "name": "chlidanthus-fragrans",
+  "commonNames": [
+    "Delicate Lily",
+    "Golden fairy lily",
+    "Perfumed Fairy Lily",
+    "Sea daffodil"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/chlidanthus-fragrans/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Chlidanthus",
+  "family": "Amaryllidaceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Peru to Bolivia"
+  ],
+  "wildlife-value": [
+    "Bees and butterflies are attracted to the flowers."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Fragrance"
+  ],
+  "bulb-storage": [
+    "Store bulbs dry at 50 degrees F (10 degrees C)"
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Long-lasting"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Tubular shaped flowers are 3-4\" long.  The citrus scented flowers appear along the stalk in small clusters of 3 to 4 flowers."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-type": [
+    "Sheath"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves appear after flowering, arising from the base.  They are narrow and semi-upright."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stems are narrow and leafless.    Appearing in early spring, they are covered with clusters of flowers."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Cutting Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ]
+}

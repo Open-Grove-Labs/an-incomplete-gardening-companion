@@ -1,0 +1,215 @@
+{
+  "fullName": "Xanthium strumarium",
+  "name": "xanthium-strumarium",
+  "commonNames": [
+    "Clotbur",
+    "Cocklebur",
+    "Common Cocklebur",
+    "Donkeybur",
+    "Donkey Burr",
+    "Heartleaf",
+    "Rough Cocklebur",
+    "Woolgarie Bur"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/xanthium-strumarium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Xanthium",
+  "species": "strumarium",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe"
+  ],
+  "distribution": [
+    "Throughout the country. Naturalized or invasive in most of the world."
+  ],
+  "wildlife-value": [
+    "Xanthium strumarium is not a significant food source for pollinators or wildlife.   However, many insects do feed on this plant."
+  ],
+  "play-value": [
+    "Wildlife Larval Host "
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 0 ft. 4 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Ground Cover",
+    "Herb",
+    "Poisonous",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "1/2 to 1.5-inch 2-chambered, ovoid shaped bur covered in hooked prickles."
+  ],
+  "flower-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Head",
+    "Insignificant",
+    "Raceme",
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Greenish flowers in the axil of leaves. Monoecious heads of either pistillate or staminate florets. Pistilate heads develop into hard, pricky bur"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Deltoid",
+    "Lanceolate",
+    "Linear",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Up to 8\" inch long ovate to triangular leaves with stiff hairs and irregularly lobed margins.  The upper leaf surface has a sandpaper texture.  The underside is a light green then the upper."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Hairy"
+  ],
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Stems have short white hairs and dark red or black streaks.  They can be round or slightly ribbed."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "problems": [
+    "Allelopathic",
+    "Poisonous to Humans",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Poisoning leads to vomiting, weakness, muscular spasms and sometimes coma and death of the animal."
+  ],
+  "poison-toxic-principle": [
+    "The glycocide carboxyatractyloside is present in the cotyledon stage. It causes hypoglycemia in animals that ingest the seedling"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Seeds"
+  ],
+  "uses": "Inspired the invention of velcro. Fruits were used as a yellow dye. The fruit, a prickly bur, hitchhikes on fur, hair and clothing.  Native American tribes used the cocklebur medicinally, as a food source (seeds), and in ceremonies. The seed pods may have been used to make a yellow dye."
+}

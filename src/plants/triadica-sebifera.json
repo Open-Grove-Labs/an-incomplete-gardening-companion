@@ -1,0 +1,210 @@
+{
+  "fullName": "Triadica sebifera",
+  "name": "triadica-sebifera",
+  "commonNames": [
+    "Chinese tallow tree",
+    "Popcorn Tree"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/triadica-sebifera/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Triadica",
+  "species": "sebifera",
+  "family": "Euphorbiaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "China and Japan"
+  ],
+  "distribution": [
+    "Introduced to AL",
+    "AR",
+    "CA",
+    "FL",
+    "GA",
+    "LA",
+    "MS",
+    "NC",
+    "SC",
+    "TX"
+  ],
+  "wildlife-value": [
+    "Attracts bees and other insects as well as birds."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Shade "
+  ],
+  "dimensions": [
+    "Height: 30 ft. 0 in. - 40 ft. 0 in.",
+    "Width: 30 ft. 0 in. - 40 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Pyramidal",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet",
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Abundant, showy 3 parted-capsule 1/2\" to 3/4\" long and 3/4\" wide matures from green to brown almost black. The capsule splits open to show 3 white waxy coated globose seeds. The seeds ripen in late summer to early fall persist and resemble popped corn, hence the common name."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The yellowish flowers have no petals and appear on 8-inch dangling catkin-like spikes.  This monoecious plant produces male flowers in clusters at the upper nodes of the inflorescence.  Female flowers are individual and form on short branches at the base of each spike."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The upper leaf is medium to dark green, while the underside is a lighter green.  Conspicuous yellow veins are visible on both the upper and underside of the leaves. They have a tapering base and long pointed tip, 1-3 inches long 1/2-3 inches wide, and 2 glands at the top of the petioles. Red to yellow fall color."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Fissured"
+  ],
+  "bark-description": [
+    "The trunk of this tree can be gnarled and fissured.  The bark will thicken as the tree grows.  It may peel off in vertical, narrow strips."
+  ],
+  "stem-is-aromatic": "N",
+  "attracts": [
+    "Bees",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Insect Pests",
+    "Urban Conditions"
+  ],
+  "problems": [
+    "Invasive Species",
+    "Messy",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Nausea and vomiting."
+  ],
+  "poison-toxic-principle": [
+    "Unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves"
+  ]
+}

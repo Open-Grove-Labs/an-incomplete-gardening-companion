@@ -1,0 +1,182 @@
+{
+  "fullName": "Duranta erecta",
+  "name": "duranta-erecta",
+  "commonNames": [
+    "Golden Dewdrop",
+    "Pigeon Berry",
+    "Skyflower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/duranta-erecta/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Duranta",
+  "species": "erecta",
+  "family": "Verbenaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical and sub-tropical Americas"
+  ],
+  "wildlife-value": [
+    "Bees and hummingbirds visit the flowers, birds will eat the fruit."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "appendage": [
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "0.5 in. yellow-orange drupes in late summer to fall hang in long, trailing clusters."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-description": [
+    "Blue to violet flowers possibly with white edging on 6 in. racemes on new growth."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Ovate to obovate yellow-green leaves are 1-3 inches long and have serrate margins. Each leaf possesses a thorn on the bottom side along the rachis (stem)."
+  ],
+  "bark-color": [
+    "Light Brown"
+  ],
+  "bark-description": [
+    "light brown and slightly furrowed."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Green long vine-like stems"
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Salt"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "If eaten this plant has been known to kill children, pets, and animals"
+  ],
+  "poison-toxic-principle": [
+    "isoquinoline, saponin glycoside, hydrocyanic acid"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves"
+  ]
+}

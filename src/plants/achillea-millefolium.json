@@ -1,0 +1,250 @@
+{
+  "fullName": "Achillea millefolium",
+  "name": "achillea-millefolium",
+  "commonNames": [
+    "Common Yarrow",
+    "Devil's Nettle",
+    "Dog Daisy",
+    "Dog Fennel",
+    "Milfoil",
+    "Soldier's Woundwort",
+    "Thousandleaf",
+    "Westen Yarrow",
+    "Yarrow"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/achillea-millefolium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Achillea",
+  "species": "millefolium",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, western Asia, North America, garden hybrids"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Attracts butterflies and bees."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Easy to Grow"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit resistant"
+  ],
+  "edibility": [
+    "Leaves are bitter, but can be eaten raw or cooked. To make a tea, soak leaves in warm water to remove dirt and debris. Do not use dish detergent or any type of sanitizer. These products can leave a residue. Chop leaves and steep in hot water for 10 minutes. Drink as a tea. SOURCE: Crowhurst, A. 1972. The Weed Cookbook. Lancer Books, Inc. New York, 190 pp."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 10 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Poisonous",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low",
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb",
+    "Head",
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Good Dried",
+    "Long Bloom Season",
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "June to September numerous long-lasting tiny flowers in corymbs. Minute; ray flowers white, red to pink, yellow; more"
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant",
+    "Good Dried"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Narrowly oblong to lance-shaped aromatic with a strong spicy aroma. Deeply divided fern-like, medium green foliage. In a basal rosette with cauline leaves alternate, simple, pinnatifid and deeply divided, petioles elongate on lower leaves to sessile on upper leaves."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "Y",
+  "stem-buds": [
+    "Hairy"
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Meadow",
+    "Naturalized Area",
+    "Rock Wall"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Garden for the Blind",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Heat",
+    "Humidity",
+    "Pollution",
+    "Rabbits",
+    "Salt"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Increased urination, vomiting, diarrhea, dermatitis, depression, anorexia, hypersalivation."
+  ],
+  "poison-toxic-principle": [
+    "Achilleine, alkaloids, monoterpenes, sesquiterpene lactones"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves"
+  ],
+  "uses": "Used for medicinal purposes by Native Americans to break a fever, soothe a rash, or treat hemorrhaging or stomach aches. The genus was named for the Greek Trojan War hero, Achilles, who was said to use this plant to treat his wounded soldiers."
+}

@@ -1,0 +1,221 @@
+{
+  "fullName": "Lyonia ligustrina",
+  "name": "lyonia-ligustrina",
+  "commonNames": [
+    "Lyonia",
+    "Maleberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lyonia-ligustrina/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lyonia",
+  "species": "ligustrina",
+  "family": "Ericaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Easter U.S.A., NC"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "CT ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "KY ",
+    "LA ",
+    "MA ",
+    "MD ",
+    "ME ",
+    "MS ",
+    "NC ",
+    "NH ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "RI ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "VT ",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Maleberry is a nectar plant and produces good tasting honey. Members of the genus Lyonia support the following specialized bees: Colletes productu and Melitta (Cilissa) melittoides."
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 12 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 12 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed",
+    "Spreading"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The 5-parted seed capsule splits open when ripe."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Urn"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "White flowers in spring and early summer on previous season's growth. Small, white or pink, urn-shaped and drooping, in terminal clusters"
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Ovate grey-green leaves covered with fine hairs are 1.5- 3 inches long with a pointed tip. The fall color is orange-red."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Red/Burgundy"
+  ],
+  "bark-description": [
+    "Brown to reddish-brown with long horizontal splits developing."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Pond",
+    "Riparian",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Signs of Toxicity occur usually within six hours of consuming the plant.  Symptoms include lack of coordination, excessive salivation, abdominal pain, bloating, nausea, vomiting, diarrhea, headache,  weakness, muscular spasms, watering of eyes and nose, slow pulse, colic, ataxia, depression, sweating,  tingling of skin, convulsions, paralysis, coma, and sometimes even death.\nToxicity in sheep, goats, cattle, and horses is most likely to occur in late winter or early spring when other forage is not available.  Livestock are found down, unable to stand with their head weaving from side to side."
+  ],
+  "poison-toxic-principle": [
+    "Andromedotoxin, Resinoid, Glucoside, Arbutin, Grayanotoxins"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Sap/Juice"
+  ]
+}

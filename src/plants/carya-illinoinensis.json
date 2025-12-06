@@ -1,0 +1,231 @@
+{
+  "fullName": "Carya illinoinensis",
+  "name": "carya-illinoinensis",
+  "commonNames": [
+    "Hardy Pecan",
+    "Pecan"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/carya-illinoinensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Carya",
+  "species": "illinoinensis",
+  "family": "Juglandaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Central & E. Central U.S.A. to Mexico"
+  ],
+  "wildlife-value": [
+    "Fruits feed small mammals and some birds. Larval host plant to the Luna moth. This plant supports Hickory Horndevil (Citheronia regalis) larvae which have one brood and appear from May to mid-September. Adult Hickory Horndevil moths do not feed."
+  ],
+  "play-value": [
+    "Buffer",
+    "Edible fruit ",
+    "Screening",
+    "Shade ",
+    "Wildlife Food Source",
+    "Wind Break"
+  ],
+  "edibility": [
+    "Nuts are edible."
+  ],
+  "dimensions": [
+    "Height: 70 ft. 0 in. - 100 ft. 0 in.",
+    "Width: 40 ft. 0 in. - 75 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Native Plant",
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Oval",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet",
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Cream/Tan",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Sweet edible nuts with a husk that splits into four sections when they ripen in the fall.  Husk begins green and dries to brown. The nut is oval to round, 1-3\" long, tan to brown with darker streaking."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Insignificant, monoecious, appear April-May. Male flowers are 4\"-long yellow-green catkins, female flowers are shorter spikes."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Alternate, medium green, 4-8\" pinnately compound leaf with 9-17 leaflets; yellow fall color. Leaflets are lanceolate with serrate margins.  Midrib of leaf and leaflets may be curved.  Fewer and longer leaflets than black walnut."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Ridges"
+  ],
+  "bark-plate-shape": [
+    "Rectangle"
+  ],
+  "bark-description": [
+    "Grey-brown bark and rectangular furrows."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-bud-scales": [
+    "No scales, covered in hair"
+  ],
+  "stem-leaf-scar-shape": [
+    "Encircles a bud"
+  ],
+  "stem-lenticels": [
+    "Conspicuous"
+  ],
+  "stem-description": [
+    "Grey-brown stems, raised lenticels, and pubescent buds in a U-shaped leaf scar."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Recreational Play Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Edible Garden",
+    "Native Garden",
+    "Nighttime Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Shade Tree"
+  ],
+  "attracts": [
+    "Moths",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Messy"
+  ]
+}

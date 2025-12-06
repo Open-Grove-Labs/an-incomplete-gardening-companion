@@ -1,0 +1,128 @@
+{
+  "fullName": "Digitaria ciliaris",
+  "name": "digitaria-ciliaris",
+  "commonNames": [
+    "Fingergrass",
+    "Henry's Crabgrass",
+    "Southern Crabgrass",
+    "Southern Crab Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/digitaria-ciliaris/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Digitaria",
+  "species": "ciliaris",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical and subtropical old world"
+  ],
+  "distribution": [
+    "PA south to FL and west to CA in the US"
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "Seed heads have 2-9 spikelets appear on 1-8 inch long seed heads that produce the small light brown seeds."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "Racemes 8\" long straight with a light green rachis (central stem). They form on long stems above the leaves."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Sheath"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Light green finely ribbed sheaths alternate 6\" long and 1/2\" wide.  Entire margins, hairs at the base on the sheath, linear to linear-ovate in shape."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-description": [
+    "Green stems are round to flat"
+  ],
+  "landscape-location": [
+    "Lawn"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "Some of the cultivars are used as forage crops for livestock"
+}

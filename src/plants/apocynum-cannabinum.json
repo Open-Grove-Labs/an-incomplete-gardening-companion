@@ -1,0 +1,222 @@
+{
+  "fullName": "Apocynum cannabinum",
+  "name": "apocynum-cannabinum",
+  "commonNames": [
+    "Amy Root,",
+    "Dogbane",
+    "Hemp Dogbane",
+    "Indian Hemp",
+    "Prairie Dogbane"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/apocynum-cannabinum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Apocynum",
+  "species": "cannabinum",
+  "family": "Apocynaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "All of North America"
+  ],
+  "distribution": [
+    "All 48 states plus much of Canada"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Its flowers provides nectar to bees, butterflies and other pollinators."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "Non-edible"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 1 ft. 6 in. - 2 ft. 6 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "The fruit is a pair of hanging, slender, slightly curved pods 4 to 8 inches long with small brown seeds with a tuft of white hair to carry them in the wind."
+  ],
+  "flower-color": [
+    "Green",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Urn"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "1-3 inch wide terminal panicles of greenish-white tubular or bell-shaped flowers. Individual flowers 1/4 inch. Additional clusters occur in the upper leaf axils. Flower blooms from May to July."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "The leaves are opposite with a smooth margin. The lower leaves will have a short stem, while the upper leaves are sessile. The leaves are 1 to 3-inches wide and half as much across.  They are ovate to elliptical. The undersides have hairs. Yellow color in fall."
+  ],
+  "stem-color": [
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The stem is smooth and red with a milky sap inside. It has ascending branches near the top of the stem."
+  ],
+  "landscape-location": [
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Pollinators",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Fire"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Cardiac Arrest, nausea, vomiting, weakness, diarrhea. The milky sap from stems can cause blisters on skin."
+  ],
+  "poison-toxic-principle": [
+    "Resins and cardiac glycosides"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ],
+  "uses": "Used by Native Americans and in herbal medicine to treat a variety of ailments. Fibers were used as thread for sewing or to make string, netting and other items."
+}

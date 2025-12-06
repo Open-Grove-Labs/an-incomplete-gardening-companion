@@ -1,0 +1,179 @@
+{
+  "fullName": "Pinus glabra",
+  "name": "pinus-glabra",
+  "commonNames": [
+    "Cedar Pine",
+    "Spruce Pine",
+    "Walter's Pine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pinus-glabra/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pinus",
+  "species": "glabra",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southeast USA"
+  ],
+  "distribution": [
+    "Southern SC west to southern LA to northern FL"
+  ],
+  "fire-risk-rating": [
+    "high flammability"
+  ],
+  "wildlife-value": [
+    "This plant supports Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed. Squirrels and other mammals eat the seeds along with the Northern bobwhite."
+  ],
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 80 ft. 0 in.",
+    "Width: 30 ft. 0 in. - 40 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Oval",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Seed cones are 2.5-5 inches long, are brown at maturity and persist on the tree 2-3 years. Pollen cones are purplish brown, occur in clusters at the end of twigs and are higher on the tree than the seed cones"
+  ],
+  "flower-description": [
+    "No flowers"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "2 to 4 in. slightly twisted, dark green needles in bundles of 2 per fascicle"
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Ridges",
+    "Shredding"
+  ],
+  "bark-description": [
+    "Greyish brown bark, becoming dark reddish brown and scaly with maturity."
+  ],
+  "stem-color": [
+    "Gray/Silver",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Slender, smooth, colored purple-red to red-brown.  Turn gray with age."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Meadow",
+    "Naturalized Area",
+    "Recreational Play Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Nighttime Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Foundation Planting",
+    "Mass Planting",
+    "Screen/Privacy",
+    "Shade Tree",
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Moths",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ],
+  "uses": "Used as bonsai and christmas tree"
+}

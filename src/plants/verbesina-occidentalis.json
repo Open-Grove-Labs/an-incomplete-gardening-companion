@@ -1,0 +1,224 @@
+{
+  "fullName": "Verbesina occidentalis",
+  "name": "verbesina-occidentalis",
+  "commonNames": [
+    "Small Yellow Crownbeard",
+    "Southern Crownbeard",
+    "Stick Weed",
+    "Yellow Crownbeard"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/verbesina-occidentalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Verbesina",
+  "species": "occidentalis",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central and Eastern USA"
+  ],
+  "distribution": [
+    "AL ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "IL ",
+    "KY ",
+    "MD ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Attracts pollinators like bees and butterflies.  It also Attracts soldier beetles which is a natural predator for pests such as aphids and mites."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "deer"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit containing the seed are usually dispersed by the wind."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The end of the stem contains a cluster of yellow flowers. In the center of each flower are 10 to 20 small yellow disc flowers.  They are surrounded by 2 to 5 yellow ray flowers. The odd number of ray flowers gives an unkempt and disheveled appearance. It flowers as masses from late summer to early fall"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The ovate leaves are 3 to 8 inches long and 1 to 3 inches wide with serrated margins. They are very narrow at the stalk and have a bitter taste."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "There are distinctive wings along the length of the stem which are present even in the winter. The stems may have hairs."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Riparian",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

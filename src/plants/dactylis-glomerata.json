@@ -1,0 +1,189 @@
+{
+  "fullName": "Dactylis glomerata",
+  "name": "dactylis-glomerata",
+  "commonNames": [
+    "Ascherson's orchardgrass",
+    "Cat Grass",
+    "Cock's-Foot",
+    "Orchard Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dactylis-glomerata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dactylis",
+  "species": "glomerata",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Macaronesia, Mediterranean to Temperate Eurasia, Africa"
+  ],
+  "distribution": [
+    "throughout North America"
+  ],
+  "wildlife-value": [
+    "Orchardgrass is used in grass-legume mixes for nesting, brood rearing, escape and winter cover in upland wildlife and conservation plantings.  It also provides forage for livestock, deer, geese, and rabbits."
+  ],
+  "play-value": [
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Larval Host ",
+    "Wildlife Nesting"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "drought"
+  ],
+  "plant-type": [
+    "Perennial",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Dense",
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruit are valuable to wildlife. Two to eight inches in panicle."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Panicle, 0.4 to 3 inches long, with spikelets grouped together in dense, one-sided clusters at the end of panicle branches, usually pyramidal. Spikelets greenish,  contain 2 to 5 florets, lemmas pointed to short-awned. The flowers are very inconspicuous, without showy petals or sepals. The  distinctive tufted triangular flowerhead is green to reddish and turns gray as the seeds mature."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves up to 10 inches long and 1/2 inch wide. Leaves have a bluish hue, folded when immature but later flat, with prominent white midrib on the under side. The leaf blades of infertile shoots spread outward and remain low, while the blades of alternate leaves on fertile shoots are more arching."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Stems are hairless, geniculate the base. Plants are clump-forming."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden"
+  ],
+  "attracts": [
+    "Small Mammals"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Erosion"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "It is used as a medicine to treat unspecified disorders. Feed for livestock and also used for erosion control."
+}

@@ -1,0 +1,139 @@
+{
+  "fullName": "Chamaecyparis obtusa 'Nana Gracilis'",
+  "name": "chamaecyparis-obtusa-nana-gracilis",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/chamaecyparis-obtusa-nana-gracilis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Chamaecyparis",
+  "species": "obtusa",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting",
+    "Root Cutting"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Conical",
+    "Dense",
+    "Multi-stemmed",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-description": [
+    "No true fruit - female seed-bearing cones are green when immature turning to brown with male being orange brown."
+  ],
+  "flower-description": [
+    "No true flowers - the pollen bearing cones are small and often reddish, growing from the branch tips."
+  ],
+  "leaf-color": [
+    "Green",
+    "White"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant",
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Shell-like sprays of dark green scale-like needles. Silver markings on the undersides."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Exfoliating",
+    "Ridges"
+  ],
+  "bark-description": [
+    "Gray-brown bark with ridges"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Red-brown stems"
+  ],
+  "landscape-location": [
+    "Container",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Foundation Planting",
+    "Hedge",
+    "Specimen"
+  ]
+}

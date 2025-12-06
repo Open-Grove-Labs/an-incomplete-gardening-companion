@@ -1,0 +1,183 @@
+{
+  "fullName": "Tsuga canadensis 'Monler' EMERALD FOUNTAIN",
+  "name": "tsuga-canadensis-monler-emerald-fountain",
+  "commonNames": [
+    "Canadian Hemlock",
+    "Eastern Hemlock",
+    "Emerald Fountain Canadian Hemlock",
+    "Emerald Fountain® Canadian Hemlock"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/tsuga-canadensis-monler-emerald-fountain/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Tsuga",
+  "species": "canadensis",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "fire-risk-rating": [
+    "high flammability"
+  ],
+  "play-value": [
+    "Buffer",
+    "Easy to Grow",
+    "Screening"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "This tree is moderately resistant to damage from deer."
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Dense"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-description": [
+    "No fruits, cones."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Cream/Tan",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Acicular"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves are small ½ inch glossy needles that have a white underside in 2 opposite rows  Its needles are attached by slender stalks ending with woody pads.  The margins minutely dentate, especially toward apex."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Ridges"
+  ],
+  "bark-plate-shape": [
+    "Round"
+  ],
+  "bark-description": [
+    "The thick and ridged bark on mature trees is red-brown to gray-brown."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Twigs yellow-brown, densely pubescent. Stems slender, gray-brown in color; buds are very small."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Recreational Play Area",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Rock Garden",
+    "Shade Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge",
+    "Screen/Privacy",
+    "Shade Tree",
+    "Small groups",
+    "Specimen",
+    "Understory Tree"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Heavy Shade"
+  ]
+}

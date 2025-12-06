@@ -1,0 +1,210 @@
+{
+  "fullName": "Camellia japonica",
+  "name": "camellia-japonica",
+  "commonNames": [
+    "Camellia",
+    "Common Camellia",
+    "Japanese Camellia",
+    "Peony Camellia",
+    "Thea Japonica"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/camellia-japonica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Camellia",
+  "species": "japonica",
+  "family": "Theaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "China , Korea, Central & Southern Jap"
+  ],
+  "wildlife-value": [
+    "Attracts pollinators and provides cover for wintering birds."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Wildlife Cover/Habitat"
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 13 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Dense",
+    "Erect",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "A woody capsule up to 1\" in length."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Red/Burgundy",
+    "Variegated",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "3-5 in. semi-double to double flowers in late winter or early spring are white, pink, red, rose, variegated."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Good Cut",
+    "Long-lasting"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Alternate, simple, lustrous, leathery, dark green leaves are 2-4 in. long. They are ovate to elliptic with serrated margins."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-leaf-scar-shape": [
+    "C-shaped, Cresent shaped"
+  ],
+  "stem-lenticels": [
+    "Conspicuous"
+  ],
+  "stem-description": [
+    "Dark brown, covered with blackish lenticels, leaf scars crescent-shaped."
+  ],
+  "landscape-location": [
+    "Recreational Play Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Children's Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Flowering Tree"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Salt"
+  ],
+  "problems": [
+    "Frequent Disease Problems",
+    "Frequent Insect Problems"
+  ]
+}

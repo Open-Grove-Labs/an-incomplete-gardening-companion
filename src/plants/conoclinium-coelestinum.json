@@ -1,0 +1,201 @@
+{
+  "fullName": "Conoclinium coelestinum",
+  "name": "conoclinium-coelestinum",
+  "commonNames": [
+    "Ageratum",
+    "Blue Boneset",
+    "Blue Mistflower",
+    "Blue Mist Flower",
+    "Hardy Ageratum",
+    "Mistflower",
+    "Wild Ageratum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/conoclinium-coelestinum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Conoclinium",
+  "species": "coelestinum",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Canada, Cuba, southeastern United States, NC"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "DC",
+    "DE",
+    "FL",
+    "GA",
+    "IL",
+    "IN",
+    "KS",
+    "KY",
+    "LA",
+    "MD",
+    "MI",
+    "MO",
+    "MS",
+    "NC",
+    "NE",
+    "NJ",
+    "NY",
+    "OH",
+    "OK",
+    "PA",
+    "SC",
+    "TN",
+    "TX",
+    "VA",
+    "WV"
+  ],
+  "wildlife-value": [
+    "The nectar-rich flowers are attractive to butterflies and other pollinators. Birds enjoy the seeds."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasional Flooding"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-description": [
+    "Displays from August to November"
+  ],
+  "flower-color": [
+    "Blue",
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flat-topped clusters of disc flowers that lack rays. It has numerous small, fluffy, tubular, blue-purple flowers (to 1/ 2” across) andt blooms from July to October."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Cuneate",
+    "Deltoid",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Coarsely-toothed, ovate-deltoid leaves are up to 3 inches long and 2 inches wide. The light green upper surface has a conspicuous network of veins. Tips are bluntly pointed."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Downy purplish stems"
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Fire",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

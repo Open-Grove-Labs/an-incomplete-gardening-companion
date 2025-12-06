@@ -1,0 +1,173 @@
+{
+  "fullName": "Juglans nigra 'Kwik-Krop'",
+  "name": "juglans-nigra-kwik-krop",
+  "commonNames": [
+    "Kwik-Krop Black Walnut"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/juglans-nigra-kwik-krop/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Juglans",
+  "species": "nigra",
+  "family": "Juglandaceae",
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 60 ft. 0 in.",
+    "Width: 40 ft. 0 in. - 60 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Oval",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Brown to black nut inside a fleshy, non-splitting, yellow-green husk that heavily stains skin and clothing.  Displays in October.  The edible nut is easy to slip off the husk and contains more than 30% kernel."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Catkin"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Single-stemmed catkins 2 ½ to 5 ½ in long, short spiked near twig and yellow-green in color, appearing from April to May.  Monoecious."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Insignificant"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "12-24\" long leaves with 15-23 leaflets, ovate-lanceolate and finely serrate. 3-lobed leaf scar resembling a monkey face.  Leaves drop sporadically during the season.  More ovate, more leaflets, and less serrated margins than pecan."
+  ],
+  "bark-color": [
+    "Black",
+    "Dark Brown"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Ridges"
+  ],
+  "bark-plate-shape": [
+    "Diamond"
+  ],
+  "bark-description": [
+    "Brown ridged and furrowed with rough diamond pattern bark"
+  ],
+  "stem-color": [
+    "Black",
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-leaf-scar-shape": [
+    "Encircles a bud"
+  ],
+  "stem-lenticels": [
+    "Conspicuous"
+  ],
+  "pith-split-longitudinally": [
+    "Chambered"
+  ],
+  "stem-description": [
+    "V-shaped leaf scar with a bud nestled inside.  The surface has raised lenticels and the pith is chambered."
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "attracts": [
+    "Small Mammals"
+  ]
+}

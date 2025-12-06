@@ -1,0 +1,186 @@
+{
+  "fullName": "Acer japonicum",
+  "name": "acer-japonicum",
+  "commonNames": [
+    "Fullmoon Maple",
+    "Peacock maple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/acer-japonicum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Acer",
+  "species": "japonicum",
+  "family": "Sapindaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Mountainous areas of Japan, Manchuria, and Korea"
+  ],
+  "wildlife-value": [
+    "Members of the genus Acer support Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-trunked",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Gray/Silver",
+    "Pink",
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Samara"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Flowers are followed by winged 1\" samaras which ripen in late summer to early fall."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Small purplish-red flowers in pendulous corymbs appear in early spring (April) before the leaves. White and maroon flowers on long stalks in April; colors maroon red in fall."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate",
+    "Palmasect"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Rounded, palmate (looks fern-line) opposite, 3-6\" medium green leaves with 7 to 11 acuminate, toothed and cut, ovate to lance-shaped lobes."
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "bark-description": [
+    "The bark is smooth on young trees, becoming rough and scaly on older trees."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Hairy"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Multi-branching and stiff twigs.  First year, slender, glabrous, reddish green.  Second year, marked color change becoming brown with a sharp demarcation between current and last season's growth."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Nighttime Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Small groups",
+    "Specimen",
+    "Understory Tree"
+  ],
+  "attracts": [
+    "Moths",
+    "Pollinators"
+  ],
+  "problems": [
+    "Invasive Species"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "fullName": "Philodendron erubescens",
+  "name": "philodendron-erubescens",
+  "commonNames": [
+    "Blushing Philodendron",
+    "Red-Leaf Philodendron"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/philodendron-erubescens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Philodendron",
+  "species": "erubescens",
+  "family": "Araceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Colombia"
+  ],
+  "play-value": [
+    "Easy to Grow"
+  ],
+  "climbing-method": [
+    "Clinging"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 60 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Poisonous",
+    "Vine"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Spreading"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "flower-color": [
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "The flowers are deep red spathes that surround the white spadix."
+  ],
+  "leaf-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The leaves are heart-shaped, glossy deep green on the upper surface, and the undersides are burgundy red or copper colored. The leaves can measure 9 to 18 inches long. The petiole is purplish-red and measures about the same length as the leaf blade."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants",
+    "Patio"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Humidity",
+    "Rabbits"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "If ingested, mouth and stomach irritation. Sap may cause skin irritation"
+  ],
+  "poison-toxic-principle": [
+    "Calcium oxalate crystals"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

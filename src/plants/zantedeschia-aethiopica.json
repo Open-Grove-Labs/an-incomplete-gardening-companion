@@ -1,0 +1,239 @@
+{
+  "fullName": "Zantedeschia aethiopica",
+  "name": "zantedeschia-aethiopica",
+  "commonNames": [
+    "African Lily",
+    "Altar Lily",
+    "Arum Lily",
+    "Brosimun aethiopica",
+    "Calla aethiopica",
+    "Calla Lily",
+    "Egyptian Lily",
+    "Florist's Calla",
+    "Garden Calla",
+    "Lily Of The Nile",
+    "Pig Lily",
+    "Trumpet Lily",
+    "White Arum Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/zantedeschia-aethiopica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Zantedeschia",
+  "species": "aethiopica",
+  "family": "Araceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern Africa"
+  ],
+  "distribution": [
+    "Kenya",
+    "Madeira",
+    "Malawi",
+    "Tanzania",
+    "Zambia",
+    "coastal California and Australia"
+  ],
+  "wildlife-value": [
+    "Beetles and bees pollinate the flowers.  Fruits are dispersed by birds."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 3 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Houseplant",
+    "Perennial",
+    "Poisonous",
+    "Water Plant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Semi-evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low",
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Orange"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Berries are clusters of round yellow-orange and 10 mm in diameter"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "Large, showy white spathes that taper to a point appear on leafless stalks.  Yellow 3 1/2 long spadix in the center.  Lightly fragrant blooms appear from June-July."
+  ],
+  "leaf-color": [
+    "Green",
+    "Variegated"
+  ],
+  "leaf-feel": [
+    "Fleshy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "leaf-margin": [
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Large fleshy simple heart to arrow-shaped (sagittate) green leaves with wavy margins and thick stalks."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "This plant is stemless, leaves come directly off the rhizome."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Cutting Garden",
+    "Rain Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Poor Soil",
+    "Rabbits",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Oral irritation, pain, and swelling of mouth, tongue, and lips, excessive drooling, stomach pain, vomiting (not horses), diarrhea, difficulty swallowing"
+  ],
+  "poison-toxic-principle": [
+    "calcium oxalate"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Stems"
+  ]
+}

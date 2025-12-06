@@ -1,0 +1,131 @@
+{
+  "fullName": "Nyssa sinensis",
+  "name": "nyssa-sinensis",
+  "commonNames": [
+    "Chinese Tupelo"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nyssa-sinensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nyssa",
+  "species": "sinensis",
+  "family": "Nyssaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Asia"
+  ],
+  "dimensions": [
+    "Height: 30 ft. 0 in. - 50 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Multi-stemmed",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "small blue/purple fruits"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-description": [
+    "Small, greenish-white flowers\nappear in the spring in axillary clusters"
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The six-inch-long, green leaves turn brilliant shades of red, yellow, and orange in fall"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ]
+}

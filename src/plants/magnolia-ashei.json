@@ -1,0 +1,142 @@
+{
+  "fullName": "Magnolia ashei",
+  "name": "magnolia-ashei",
+  "commonNames": [
+    "Ashe Magnolia",
+    "Ashe's Magnolia",
+    "Deciduous Magnolia",
+    "Dwarf Bigleaf Magnolia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/magnolia-ashei/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Magnolia",
+  "species": "ashei",
+  "family": "Magnoliaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "endemic to northern Florida."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 15 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub",
+    "Tree"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Fleshy seed bearing cone 2\"-4\" long and 2\" wide. Red seeds are attached by threads to the cones."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "Up to 10\" solitary creamy white cup-shaped fragrant flowers with purple at the base appear at the end of stout stems. They have 6-8 petals that are 6\" long and pointed at the tip.  Flowers appear from late spring to early summer."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Apple green leaves are very large 18\"-32\" long and tropical looking.  The shape is like a violin wider at the tip than toward the base."
+  ],
+  "stem-is-aromatic": "N",
+  "design-feature": [
+    "Small Tree",
+    "Understory Tree"
+  ],
+  "resistance-to-challenges": [
+    "Humidity"
+  ],
+  "problems": [
+    "Weak Wood"
+  ]
+}

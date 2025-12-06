@@ -1,0 +1,186 @@
+{
+  "fullName": "Dysphania ambrosioides",
+  "name": "dysphania-ambrosioides",
+  "commonNames": [
+    "Epazote",
+    "Jusuit's Tea",
+    "Mexican Tea",
+    "Paico",
+    "Wormseed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dysphania-ambrosioides/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dysphania",
+  "species": "ambrosioides",
+  "family": "Amaranthaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South America"
+  ],
+  "distribution": [
+    "North and South America",
+    "Europe"
+  ],
+  "wildlife-value": [
+    "Songbirds, gamebirds and mice will eat the seeds"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "heat"
+  ],
+  "edibility": [
+    "Leaves are used in teas and as a leafy green and in various Mexican dishes."
+  ],
+  "plant-type": [
+    "Annual",
+    "Perennial",
+    "Poisonous",
+    "Weed"
+  ],
+  "habit/form": [
+    "Erect",
+    "Irregular"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "fruit-color": [
+    "Black",
+    "Green"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The achenes are small and oval with persistent sepals that curve inward. The small seeds are nearly black and egg-shaped."
+  ],
+  "flower-color": [
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The upper stems and smaller side stems terminate in 1 inch long spikes of stemless flowers that are interspersed with small leafy bracts. The 1/4 inch individual greenish flowers are arranged in dense clusters along these spikes. It blooms mid-summer to fall."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The green to yellow-green leaves have wedge-shaped bases and are 3-4 inches long and 1.5 inches across. The margins vary on the same plant from smooth to lobed to toothed. Leaves are dotted with oil-secreting glands that give off a strong odor"
+  ],
+  "stem-color": [
+    "Cream/Tan",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Stems are round and hairless with conspicuous veins in colors of green, dull red and cream. Stems are also dotted with oil-secreting glands."
+  ],
+  "resistance-to-challenges": [
+    "Heat"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Nausea, headache, hallucinations, vomiting, convulsions, and coma if the seeds are eaten in large amounts."
+  ],
+  "poison-toxic-principle": [
+    "Terpene peroxide ascaridole and others"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Seeds"
+  ],
+  "uses": "Because of its anthelmintic properties, Mexican tea has been used to remove intestinal worms. This is one of the reasons it is cultivated as a medicinal herb."
+}

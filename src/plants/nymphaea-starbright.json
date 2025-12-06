@@ -1,0 +1,114 @@
+{
+  "fullName": "Nymphaea 'Starbright'",
+  "name": "nymphaea-starbright",
+  "commonNames": [
+    "Starbright"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nymphaea-starbright/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nymphaea",
+  "family": "Nymphaeaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "wildlife-value": [
+    "Lily pads provide a landing place for thirsty bees, protection for pond life and the shading helps prevent algae growth."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Water Plant"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Spreading"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Orange",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "4-5 inch white, star-shaped flowers held above the water with pink-tinged sepals. As the blooms mature into midseason they exhibit shades of cream, pink and peach."
+  ],
+  "leaf-color": [
+    "Black",
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Orbicular"
+  ],
+  "leaf-margin": [
+    "Sinuate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "4-6 inch dark green leaves with black mottling"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Water Garden"
+  ]
+}

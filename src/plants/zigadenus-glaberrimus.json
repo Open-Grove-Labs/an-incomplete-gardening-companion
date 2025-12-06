@@ -1,0 +1,246 @@
+{
+  "fullName": "Zigadenus glaberrimus",
+  "name": "zigadenus-glaberrimus",
+  "commonNames": [
+    "Camas",
+    "Large Death Camus",
+    "Large-flowered Zigadenus",
+    "Sandbog Deathcamas",
+    "Snakeroot"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/zigadenus-glaberrimus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Zigadenus",
+  "species": "glaberrimus",
+  "family": "Melanthiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern U.S.A."
+  ],
+  "distribution": [
+    "AL ",
+    "FL ",
+    "GA ",
+    "MS ",
+    "NC ",
+    "SC ",
+    "TX ",
+    "VA"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "This plant attracts pollinators such as bees and butterflies."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heat tolerant."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Poisonous",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruit in the form of a cone-shaped capsule displays from August to November."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "6 to 12 flowers clustered on short stems or attached directly to a main stem.  6 creamy white to pale-yellow tepals with two lime green dots.  Stamens are long and showy.  Blooms June-September."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Veined, linear, grass-like basal leaves form in the spring.  Stem leaves are reduced."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Multi-branched glabrous stems with a reddish hue."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Patio",
+    "Pond",
+    "Slope/Bank",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Heat",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Short-lived"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Symptoms include vomiting, hypotension, bradycardia, muscular weakness, tremors, incoordination, ataxia and prostration. If untreated can lead to death."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

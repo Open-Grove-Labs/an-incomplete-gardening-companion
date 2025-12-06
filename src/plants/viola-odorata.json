@@ -1,0 +1,207 @@
+{
+  "fullName": "Viola odorata",
+  "name": "viola-odorata",
+  "commonNames": [
+    "Common Violet",
+    "Devon Violet",
+    "English Violet",
+    "Florist's Violet",
+    "Fragrant Garden Violet",
+    "Garden Violet",
+    "Sweet Blue Violet",
+    "Sweet Violet",
+    "Violet",
+    "Violets",
+    "Wood Violet"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/viola-odorata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Viola",
+  "species": "odorata",
+  "family": "Violaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe"
+  ],
+  "wildlife-value": [
+    "This plant supports Fritillary butterfly larvae. Ants feed on the oily white appendage."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Easy to Grow",
+    "Fragrance",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "Leaves and flowers can be eaten."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 4 in. - 0 ft. 6 in.",
+    "Width: 0 ft. 4 in. - 0 ft. 6 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Ground Cover",
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Creeping",
+    "Horizontal",
+    "Mounding",
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Purple/Lavender"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The 1/4\" capsule is light purple, with short hairs."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The 1/2\" flowers are typically dark blue or purple.  Variations including lilac, rose or white are also available.  Having 5 petals, the lowest petal is larger than the others and have a spur."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "leaf-margin": [
+    "Crenate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The dark green heart shaped basal leaves are quite showy.  They form a basal rosette.  Sparsely haired.  Often wrinkled on the upper leaf surface."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stem typically leafless with scale-like bracts halfway or above."
+  ],
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Pool/Hardscape",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Cutting Garden",
+    "Edible Garden",
+    "Pollinator Garden",
+    "Rock Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ]
+}

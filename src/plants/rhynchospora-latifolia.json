@@ -1,0 +1,177 @@
+{
+  "fullName": "Rhynchospora latifolia",
+  "name": "rhynchospora-latifolia",
+  "commonNames": [
+    "Broadleaf Whitetop Sedge",
+    "Giant White Top",
+    "White Bracted Sedge",
+    "White Star Grass",
+    "White-Topped Sedge"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rhynchospora-latifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rhynchospora",
+  "species": "latifolia",
+  "family": "Cyperaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Coastal plain from NC to s.e. TX"
+  ],
+  "distribution": [
+    "AL ",
+    "FL ",
+    "GA ",
+    "LA ",
+    "MS ",
+    "NC ",
+    "OK ",
+    "SC ",
+    "TN ",
+    "TX"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Ornamental Grasses and Sedges",
+    "Water Plant"
+  ],
+  "habit/form": [
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "9a",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "Two-sided brown nutlet. Displays from June to October."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-description": [
+    "7-10 large bracts surround the less-conspicuous yellow inflorescence. The bracts are white at the base, becoming green at the tips. They appear on a terminal head-like cluster of spikelets that overtop the leaves. Blooms from May to September"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Narrow pointed grass-like leaves are linear with entire margins. Stem leaves are smaller than basal leaves."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Green stems 12-36 inches"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Naturalized Area",
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals"
+  ]
+}

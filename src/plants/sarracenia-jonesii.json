@@ -1,0 +1,145 @@
+{
+  "fullName": "Sarracenia jonesii",
+  "name": "sarracenia-jonesii",
+  "commonNames": [
+    "Mountain Sweet Pitcherplant",
+    "Pitcher Plant",
+    "Sweet Pitcherplant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sarracenia-jonesii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sarracenia",
+  "species": "jonesii",
+  "family": "Sarraceniaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "North and South Carolina"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 2 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Carnivorous",
+    "Native Plant",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Semi-evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Seeds set in August."
+  ],
+  "flower-color": [
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Single bright red-maroon flowers born on slightly erect leafless stalks with 5 petals appear in April and May.  Globular and produce a sweet fragrance reminiscent of violets.  Sometimes two flower stalks emerge from the same rhizome point. Flower stalks are crooked at the top."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Modified leaves form distinctive, upright, slender-fluted, heavily veined pitchers of variable height ranging from 12 to 18 inches tall."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ]
+}

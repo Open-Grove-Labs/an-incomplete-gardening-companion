@@ -1,0 +1,168 @@
+{
+  "fullName": "Chelone obliqua var. speciosa",
+  "name": "chelone-obliqua-var-speciosa",
+  "commonNames": [
+    "Rose Turtlehead",
+    "Shellflower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/chelone-obliqua-var-speciosa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Chelone",
+  "species": "obliqua",
+  "family": "Plantaginaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "U.S.A."
+  ],
+  "wildlife-value": [
+    "Flowers attract bees and hummingbirds."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "1/2 inch long oval seed capsule spits to release seeds."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-petals": [
+    "fused petals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "1-1.5 inch pink to lavender 2-lipped blooms. The upper lip has the shape of a broad hood, while the lower lip has 3 outer lobes. There is a patch of white or pale yellow hairs behind the lower lip. Blooms late summer to early fall."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "6-7 inches long by 2-2.5 inches wide lance-shaped green leaves with toothed margins. Undersurface is paler green."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Smooth light green stems, usually unbranched unless broken."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Pond",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Pollinator Garden",
+    "Rain Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ]
+}

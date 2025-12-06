@@ -1,0 +1,233 @@
+{
+  "fullName": "Arbutus unedo",
+  "name": "arbutus-unedo",
+  "commonNames": [
+    "Killarney Strawberry Tree",
+    "Madroño",
+    "Strawberry Madrone",
+    "Strawberry Tree"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/arbutus-unedo/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Arbutus",
+  "species": "unedo",
+  "family": "Ericaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Layering",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Asia, North Africa"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Nectar plant for pollinators and the fruit provides food for birds and small mammals.  It is browsed by deer."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Resistant to Oat root fungus and Armillaria."
+  ],
+  "edibility": [
+    "Red berries are bland-tasting and can be eaten raw or used in jams and jellies as it has a high natural pectin content.  Also used to make brandy."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 35 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Multi-trunked",
+    "Rounded",
+    "Spreading",
+    "Vase"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "1/2-1 inch red berries with a rough surface in autumn. Mature in 12 months and are on the tree at the same time as flowers are.  Fruits resemble strawberries and the wet fruits can be messy on hardscaped surfaces."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Urn"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Urn-shaped small white or occasionally light pink flowers with a mild fragrance in drooping panicles of 10-30 flowers in autumn. In warm winter climates may bloom into winter.  Flowers are similar to that of blueberries and they last a year on the plants until they form fruits."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblanceolate",
+    "Oblong",
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "2-4 inches by .8- 1.25 inches glossy green leaves with serrated margins and red stems. The tip is acute, base wedge-shaped (cuneate), undersides paler and glabrous."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Exfoliating",
+    "Peeling",
+    "Shaggy",
+    "Smooth"
+  ],
+  "bark-description": [
+    "Striking, peeling grayish-brown bark reveals reddish-brown underneath."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Reddish-brown stems"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Lawn",
+    "Patio",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Edible Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Screen/Privacy",
+    "Small Tree",
+    "Specimen",
+    "Understory Tree"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Fire",
+    "Poor Soil",
+    "Salt"
+  ],
+  "problems": [
+    "Messy"
+  ],
+  "uses": "Leaves have been used in herbal medicine. The wood is hard and useful"
+}

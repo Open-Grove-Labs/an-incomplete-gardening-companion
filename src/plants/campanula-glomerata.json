@@ -1,0 +1,209 @@
+{
+  "fullName": "Campanula glomerata",
+  "name": "campanula-glomerata",
+  "commonNames": [
+    "Bellflower",
+    "Clustered Bellflower",
+    "Dane's Blood"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/campanula-glomerata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Campanula",
+  "species": "glomerata",
+  "family": "Campanulaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe and temperate Asia"
+  ],
+  "wildlife-value": [
+    "Food source for the Plasterer bee (Colletes brevicornis)."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Easy to Grow"
+  ],
+  "edibility": [
+    "Leaves have a mild flavor with a pleasant sweetness and can be used as an  ingredient in salads"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 2 ft. 6 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Each flower is replaced by a globoid seed capsule that contains several small seeds."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head",
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Cup",
+    "Funnel",
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Blooms May through July. Upward facing flowers bloom in spherical terminal clusters atop smaller-leaved stems that rise 12 to 18 inches above the basal clump. Smaller flower clusters simultaneously bloom in the upper leaf axils. Common name refers to the densely packed inflorescences, each having a cluster of up to 15 flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Dense foliage clump of ovate to lance-shaped, toothed long-stalked, 5 inch long basal leaves."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Flowers bloom in spherical terminal clusters atop smaller-leaved stems rising above the basal clump to 12-18 inches tall. Stem leaves (to 3 1/2 inches long) are narrower and shorter than the basal leaves."
+  ],
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Rock Wall"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden",
+    "Cottage Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heat",
+    "Rabbits"
+  ]
+}

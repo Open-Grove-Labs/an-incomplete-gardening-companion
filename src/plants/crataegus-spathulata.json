@@ -1,0 +1,185 @@
+{
+  "fullName": "Crataegus spathulata",
+  "name": "crataegus-spathulata",
+  "commonNames": [
+    "Hawthorn",
+    "Littlehip Hawthorn",
+    "Pasture Hawthorn",
+    "Smallfruit Hawthorn",
+    "Thornapple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/crataegus-spathulata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Crataegus",
+  "species": "spathulata",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South East and South Central United States"
+  ],
+  "distribution": [
+    "AL , AR , FL , GA , IL , KY , LA , MO , MS , NC , OK , SC , TN , TX , VA"
+  ],
+  "wildlife-value": [
+    "This plant provides nectar for pollinators.  It is a larval host plant for Gray Hairstreak (Strymon melinus), Red-spotted Purple (Limenitis arthemis astyanax), and Viceroy (Limenitis archippus). Red-spotted Purple and Viceroy rarely use this host plant in North Carolina. Plant provides nesting protection."
+  ],
+  "edibility": [
+    "Fruit is edible, but usually left for the birds."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 36 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 25 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "appendage": [
+    "Thorns"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Pome"
+  ],
+  "fruit-description": [
+    "Bright red fruits become available September and October."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "White flowers with pale yellow anthers, in flat-topped clusters, with up to 20 small stamens that bloom from April to May. May have an initial unpleasant odor that attracts midges for pollination."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Dark green, notched on the edges, typically 2 to 3 inches long. Leaves veined, not needle-like or scale-like."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Exfoliating",
+    "Fissured",
+    "Scaly"
+  ],
+  "bark-description": [
+    "This plant has attractive, exfoliating bark. Typically thin and gray that becomes scaly on older stems."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Flowering Tree",
+    "Small Tree"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Moths",
+    "Pollinators",
+    "Small Mammals"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heat"
+  ],
+  "uses": "Wood is strong, hard, and heavy, but with little commercial value."
+}

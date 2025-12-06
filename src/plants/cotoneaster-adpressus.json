@@ -1,0 +1,213 @@
+{
+  "fullName": "Cotoneaster adpressus",
+  "name": "cotoneaster-adpressus",
+  "commonNames": [
+    "Creeping Cotton Easter"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cotoneaster-adpressus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cotoneaster",
+  "species": "adpressus",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Asia"
+  ],
+  "wildlife-value": [
+    "Bees are attracted to nectar in the flowers.  Birds favor the berries."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Colorful",
+    "Defines Paths",
+    "Easy to Grow",
+    "Textural "
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Cascading",
+    "Creeping",
+    "Dense",
+    "Horizontal",
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry",
+    "Pome"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Round dark red fruits mature late summer through fall 1/4\" long"
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The small white with a hint of pink flowers bloom in late spring."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Sinuate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Simple, dark green ovate leaves grow to 1/2\" in length.  Margins are wavy and leaves have attractive reddish/purple fall color."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The branches are stiff."
+  ],
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Patio",
+    "Rock Wall",
+    "Slope/Bank",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Pollinator Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Erosion",
+    "Pollution",
+    "Poor Soil",
+    "Rabbits"
+  ]
+}

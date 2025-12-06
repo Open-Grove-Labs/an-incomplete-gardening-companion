@@ -1,0 +1,126 @@
+{
+  "fullName": "Nymphaea 'Wanvisa'",
+  "name": "nymphaea-wanvisa",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nymphaea-wanvisa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nymphaea",
+  "family": "Nymphaeaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "wildlife-value": [
+    "Lily pads provide a landing place for thirsty bees, protection for pond life and shading helps prevent algae growth."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Water Plant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Orange",
+    "Pink"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "3-5 inch peachy-pink blooms with yellow speckling throughout. It occasionally shows some reversion to the parent’s bright yellow in portions of the petals."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green",
+    "Purple/Lavender",
+    "Variegated"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Orbicular"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "6-7 inch rich brown pads with splashes of multiple shades of red and green color throughout the pads"
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Water Garden"
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "fullName": "Gardenia jasminoides 'Crown Jewel'",
+  "name": "gardenia-jasminoides-crown-jewel",
+  "commonNames": [
+    "Crown Jewel Gardenia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/gardenia-jasminoides-crown-jewel/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Gardenia",
+  "species": "jasminoides",
+  "family": "Rubiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Layering",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "wildlife-value": [
+    "Gardenia hips attract birds and other wildlife."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Fragrance",
+    "Screening"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Mounding",
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Orange"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "dwarf spreading to prostrate form, a heavy bloom of fragrant, double white summer flowers (to 3\" diameter)"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Cutting Garden",
+    "Garden for the Blind",
+    "Nighttime Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Foundation Planting",
+    "Hedge",
+    "Mass Planting",
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Moths",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

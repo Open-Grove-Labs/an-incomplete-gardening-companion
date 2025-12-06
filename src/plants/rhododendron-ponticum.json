@@ -1,0 +1,194 @@
+{
+  "fullName": "Rhododendron ponticum",
+  "name": "rhododendron-ponticum",
+  "commonNames": [
+    "Azalea kurume",
+    "Hiryu Azalea",
+    "Kurume Azalea"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rhododendron-ponticum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rhododendron",
+  "species": "ponticum",
+  "family": "Ericaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Bulgaria, Lebanon, Caucasus"
+  ],
+  "wildlife-value": [
+    "Members of the genus Rhododendron support the following specialized bee: Andrena (Andrena) cornelli."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Fruits are a dehiscent 5-valved capsule"
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Flowers are axillary, single to double or hose-in-hose but rarely hose-in-hose double, and are rose-pink to red to purple to violet or white in color. There are 5 calyx lobes that are short, broad, and obtuse. Corolla is funnel-form and 1-2\" in size. It has 5 lobes with the upper central and sometimes the lateral pair bearing inconspicuous to conspicuous maculation. They have 5-10 stamens.  Flowers appear in raceme cluster of 6-15."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Crenate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are alternate, simple, glossy, and consist of evergreen (winter) leaves and deciduous (seasonal) leaves. Blades are elliptic to obovate, crenate-serrulate, with scattered reddish-brown hairs on veins below. Petioles are pubescent with stiff reddish-brown hairs. They grow between 1.5-4\" long and are darker green on tiop and pale below."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Twigs are pubescent with stiff reddish-brown trichomes and have a sympodial growth."
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting",
+    "Mass Planting",
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Salivation, watering of eyes and nose, abdominal pain, loss of energy, depression, nausea and vomiting, diarrhea, weakness, difficult breathing, progressive paralysis of arms and legs, coma."
+  ],
+  "poison-toxic-principle": [
+    "Andromedotoxin"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

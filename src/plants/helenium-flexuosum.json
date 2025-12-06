@@ -1,0 +1,170 @@
+{
+  "fullName": "Helenium flexuosum",
+  "name": "helenium-flexuosum",
+  "commonNames": [
+    "Purple-headed Sneezeweed",
+    "Southern Sneezeweed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/helenium-flexuosum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Helenium",
+  "species": "nudiflorum",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern and midwestern US"
+  ],
+  "distribution": [
+    "Eastern and Central US and Canada"
+  ],
+  "wildlife-value": [
+    "Attracts butterflies."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit resistant"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-description": [
+    "Displays from June to October"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Purple/Lavender"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Wheel"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Yellow 3-lobed ray petals and a convex deep purplish brown button head. Blooms from May to August"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "glandular-dotted; lance-shaped, dark green basal leaves to 8” long, with upper leaves  that are smaller and less toothed;"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits",
+    "Salt",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Salivation, elevated temperature and pulse, with difficulty breathing, vomiting, and convulsions. TOXIC ONLY IF LARGE QUANTITIES EATEN."
+  ],
+  "poison-toxic-principle": [
+    "Sesquiterpene lactone"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Seeds"
+  ],
+  "uses": "Powdered leaves and flower heads were used in the treatment of colds and congestion by inducing sneezing. Indians used an infusion of the leaves as a laxative."
+}

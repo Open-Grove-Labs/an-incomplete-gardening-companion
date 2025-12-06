@@ -1,0 +1,96 @@
+{
+  "fullName": "Rosa 'Red Fountain'",
+  "name": "rosa-red-fountain",
+  "commonNames": [
+    "Red Fountain"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-red-fountain/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "climbing-method": [
+    "Twining"
+  ],
+  "plant-type": [
+    "Rose"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "Velvety scarlet double flowers in clusters in early summer. Buds are pointed."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leathery dark green glossy foliage"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Cottage Garden"
+  ],
+  "design-feature": [
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Pollinators"
+  ]
+}

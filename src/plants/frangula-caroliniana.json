@@ -1,0 +1,232 @@
+{
+  "fullName": "Frangula caroliniana",
+  "name": "frangula-caroliniana",
+  "commonNames": [
+    "Carolina Buckthorn"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/frangula-caroliniana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Frangula",
+  "species": "caroliniana",
+  "family": "Rhamnaceae",
+  "country-or-region-of-origin": [
+    "Eastern Central & South Eastern U.S.A. to North East Mexico"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "FL ",
+    "GA ",
+    "IL ",
+    "IN ",
+    "KY ",
+    "LA ",
+    "MD ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NJ ",
+    "OH ",
+    "OK ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA"
+  ],
+  "wildlife-value": [
+    "This plant attracts birds, bees, butterflies, and other pollinators."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heat and drought tolerant."
+  ],
+  "dimensions": [
+    "Height: 12 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 12 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Open",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruit is a fleshy drupe, red maturing to black. Displays from August to October."
+  ],
+  "flower-color": [
+    "Black",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Flowers small, 4-5-parted in small clusters at the bases of the leaves. Blooms from April to May."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth",
+    "Velvety"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The 2-6 inches long glossy green leaves have smooth margins or with very small, rounded teeth and veins prominent, especially on the lower surface. The tip is pointed and base rounded or tapered."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Fissured"
+  ],
+  "bark-description": [
+    "Smooth gray-brown, may have darker blotches, with a few slightly raised lenticels and shallow fissures."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Smooth/Hairless"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Slender, reddish-brown with gray pubescence; buds very small, naked and brown with fuzz."
+  ],
+  "landscape-location": [
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Hedge"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Nausea, vomiting, and diarrhea."
+  ],
+  "poison-toxic-principle": [
+    "Glycosides."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ]
+}

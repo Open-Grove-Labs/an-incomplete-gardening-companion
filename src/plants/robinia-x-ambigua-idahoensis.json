@@ -1,0 +1,162 @@
+{
+  "fullName": "Robinia x ambigua 'Idahoensis'",
+  "name": "robinia-x-ambigua-idahoensis",
+  "commonNames": [
+    "Idaho Locust"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/robinia-x-ambigua-idahoensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Robinia",
+  "family": "Fabaceae",
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "wildlife-value": [
+    "Attractive to bees, butterflies and birds."
+  ],
+  "play-value": [
+    "Fragrance"
+  ],
+  "dimensions": [
+    "Height: 20 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 20 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Open",
+    "Oval",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet",
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-description": [
+    "Seed is in the shape of a pod"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "Rose mauve pea-like flowers.  Showy, flowers in spring or summer. Perfect flowers (both female and male parts in the same flower)."
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Light Brown"
+  ],
+  "surface/attachment": [
+    "Furrowed"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Recreational Play Area"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden",
+    "Drought Tolerant Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Messy",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Vomiting, depression, anorexia, weakness, difficulty breathing, diarrhea (bloody), death"
+  ],
+  "poison-toxic-principle": [
+    "Toxalbumins: phasin, robin and robitin (bark, leaves and seeds)"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ]
+}

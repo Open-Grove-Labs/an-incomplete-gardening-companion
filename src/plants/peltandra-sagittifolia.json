@@ -1,0 +1,67 @@
+{
+  "fullName": "Peltandra sagittifolia",
+  "name": "peltandra-sagittifolia",
+  "commonNames": [
+    "Spoonflower",
+    "White Arrow-arum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/peltandra-sagittifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Peltandra",
+  "species": "sagittifolia",
+  "family": "Araceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern U.S.A."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Water Plant"
+  ],
+  "soil-drainage": [
+    "Occasionally Wet"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "Displays from August to September."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Blooms from June to August"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Water Garden"
+  ],
+  "attracts": [
+    "Songbirds"
+  ]
+}

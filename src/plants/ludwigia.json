@@ -1,0 +1,88 @@
+{
+  "fullName": "Ludwigia",
+  "name": "ludwigia",
+  "commonNames": [
+    "Water Primrose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ludwigia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ludwigia",
+  "family": "Onagraceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Asia, North and South America"
+  ],
+  "plant-type": [
+    "Weed"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Spreading"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Occasionally Wet"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Capsules contain many small seeds"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "1/2 inch five-petaled yellow flowers float on the surface or lay on the ground and occur on stems from the leaf axil."
+  ],
+  "leaf-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Opposite"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Lance to egg-shaped leaves. Size varies, up to 6inches long. May or may not have hairs. Can be an opposite or alternate leaf arrangement. Leave color varies from greens to reds."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems root at the nodes and are sprawling, fleshy and often reddish.  May or may not have hairs."
+  ]
+}

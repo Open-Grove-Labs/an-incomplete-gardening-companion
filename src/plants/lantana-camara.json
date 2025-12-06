@@ -1,0 +1,265 @@
+{
+  "fullName": "Lantana camara",
+  "name": "lantana-camara",
+  "commonNames": [
+    "Common Lantana",
+    "Lantana",
+    "Red Sage",
+    "Shrub Verbena",
+    "Yellow Sage"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lantana-camara/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lantana",
+  "species": "camara",
+  "family": "Verbenaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "native to the West Indies, Mexico to Tropical America"
+  ],
+  "wildlife-value": [
+    "Lantana flowers are very attractive to butterflies, berries are eaten by birds."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Some cultivars resistant to phytophthora."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Perennial",
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Erect",
+    "Prostrate",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "0.3 in. orange or red fleshy berry-like drupe turns metallic blue or purple-black"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Long Bloom Season",
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "1 - 2 in. spherical clusters of tubular white, red, pink, or yellow flowers,  with five lobes in a flat-topped cluster on a long stalk."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Simple, opposite or whorled, toothed, ovate, fragrant when crushed"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-description": [
+    "Spiny, square stems"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Hanging Baskets",
+    "Houseplants",
+    "Pool/Hardscape"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Heat",
+    "Humidity",
+    "Salt"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Vomiting, diarrhea, dilated pupils, labored respiration, weakness, Liver failure - more common in livestock; the leaves may cause dermatitis."
+  ],
+  "poison-toxic-principle": [
+    "Pentacyclic triterpenoids, Triterpenes (lantadene A & B)"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Sap/Juice"
+  ],
+  "uses": "The stalks are used as raw material for paper pulp. Lantana bark is astringent and used as a lotion in leprous ulcers and other skin eruptions. Lantana camara leaves are boiled and applied for swellings. Alkaloids from lantana have been found to stimulate intestinal movements, lower blood pressure and accelerate deep respiration. It has been found to have antimicrobial, fungicidal and insecticidal properties."
+}

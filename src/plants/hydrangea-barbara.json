@@ -1,0 +1,212 @@
+{
+  "fullName": "Hydrangea barbara",
+  "name": "hydrangea-barbara",
+  "commonNames": [
+    "Climbing Hydrangea",
+    "Woodvamp"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hydrangea-barbara/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hydrangea",
+  "species": "barbara",
+  "family": "Hydrangeaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "South East USA"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "LA ",
+    "MS ",
+    "NC ",
+    "NY ",
+    "SC ",
+    "TN ",
+    "VA"
+  ],
+  "fire-risk-rating": [
+    "extreme flammability"
+  ],
+  "wildlife-value": [
+    "It's flowers are attractive to bees, butterflies and other pollinators."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Fragrance"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "This plant is moderately resistant to damage from deer."
+  ],
+  "climbing-method": [
+    "Clinging"
+  ],
+  "dimensions": [
+    "Height: 12 ft. 0 in. - 36 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Native Plant",
+    "Perennial",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasional Flooding"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet",
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The vine produces a brown, urn-shaped ribbed capsule that breaks open (dehiscent) and matures in late summer (July-October) and resemble the fruit of Clematis."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "2\"-4\" flat-topped terminal clusters of small, fragrant, snow-white flowers. Individual flowers are less than an inch, white with numerous stamens. Flowers bloom May-June but only on new wood and when climbing not on the ground."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Cream/Tan"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Shiny dark green oval pointed leaves that fade to tan in fall.  The leaves are opposite with a smooth margin and pale underside. Up to 12 inches long and 6 inches wide"
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Light Gray",
+    "Red/Burgundy"
+  ],
+  "bark-description": [
+    "Its bark is reddish to gray-brown rough with numerous thin with aerial rootlets."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Vertical Spaces",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heavy Shade",
+    "Humidity",
+    "Wet Soil"
+  ]
+}

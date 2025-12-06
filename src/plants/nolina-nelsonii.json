@@ -1,0 +1,113 @@
+{
+  "fullName": "Nolina nelsonii",
+  "name": "nolina-nelsonii",
+  "commonNames": [
+    "Blue Nolina",
+    "Nelson's Beargrass",
+    "Nelson's Blue Beargrass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nolina-nelsonii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nolina",
+  "species": "nelsonii",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico"
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 11 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Succulent"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Small white slightly fragrant flowers appear in mass in spring on a 4' tall stalk."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Silvery blue-green 1\" wide by 3' long strappy with finely toothed margins"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Drought Tolerant Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Mass Planting",
+    "Security",
+    "Small groups",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Heat"
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "fullName": "Hylotelephium cauticola",
+  "name": "hylotelephium-cauticola",
+  "commonNames": [
+    "Cliff-dwelling stonecrop",
+    "Stonecrop"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hylotelephium-cauticola/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hylotelephium",
+  "species": "cauticola",
+  "family": "Crassulaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Japan"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Bees, butterflies and other beneficial insects are attracted to the flowers."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Textural "
+  ],
+  "dimensions": [
+    "Height: 0 ft. 2 in. - 0 ft. 4 in.",
+    "Width: 0 ft. 8 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Perennial",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Creeping",
+    "Horizontal",
+    "Mounding",
+    "Prostrate"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Small, brown capsules split open to release tiny black seeds."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Fall is the time for its clusters of tiny pale purplish to pink flowers to bloom."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-feel": [
+    "Fleshy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Orbicular",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Bluish grey leaves, heavily spotted with purple."
+  ],
+  "stem-color": [
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Covered with a powdery bloom (glaucous)"
+  ],
+  "stem-description": [
+    "This mat forming plant will hae traillig stems."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Houseplants",
+    "Recreational Play Area"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Butterfly Garden",
+    "Children's Garden",
+    "Cottage Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Moths",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heat"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Unknown, but possibly gastrointestinal symptoms"
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids sedine, sedamine and others"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ],
+  "uses": "Container plant"
+}

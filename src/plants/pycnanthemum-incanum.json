@@ -1,0 +1,204 @@
+{
+  "fullName": "Pycnanthemum incanum",
+  "name": "pycnanthemum-incanum",
+  "commonNames": [
+    "Hoary Mountainmint",
+    "Hoary Mountain Mint",
+    "Hoary Mountain-mint",
+    "Mountain Mint",
+    "Silverleaf Mountain-mint"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pycnanthemum-incanum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pycnanthemum",
+  "species": "incanum",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern U.S.A. to Indiana"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "This plant supports Wavy-lined Emerald (Synchlora aerata) larvae. This plant provides nectar for pollinators. Flowers are attractive to butterflies, especially smaller species like hairstreaks, and many other insects."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Hoary mountain-mint is highly deer resistant."
+  ],
+  "edibility": [
+    "Leaves and flowers used for tea"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Displays from September to October."
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Cluster of small, lobed, two-lipped, whitish to lavender flowers with small purple spots; hoary bracts below the flower. Blooms June to August."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "White"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Fragrant",
+    "Good Dried"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "1.5 to 4 in. egg- to lance-shaped, toothed, opposite, stalked leaves with white down (hoary) below."
+  ],
+  "stem-color": [
+    "Gray/Silver",
+    "Green",
+    "White"
+  ],
+  "stem-is-aromatic": "Y",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Hoary stems"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Erosion"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

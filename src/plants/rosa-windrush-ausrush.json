@@ -1,0 +1,35 @@
+{
+  "fullName": "Rosa Windrush 'AUSrush'",
+  "name": "rosa-windrush-ausrush",
+  "commonNames": [
+    "Windrush"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-windrush-ausrush/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Rose"
+  ],
+  "flower-bloom-time": [
+    "Fall"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-description": [
+    "Large semi-double cupped almost single blooms; long bloom season"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

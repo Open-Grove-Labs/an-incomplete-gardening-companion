@@ -1,0 +1,219 @@
+{
+  "fullName": "Lithocarpus glaber",
+  "name": "lithocarpus-glaber",
+  "commonNames": [
+    "Japanese Blue Oak",
+    "Ring Cupped Oak"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lithocarpus-glaber/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lithocarpus",
+  "species": "glaber",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern and southern Asia"
+  ],
+  "wildlife-value": [
+    "Mildly resistant to damage by deer. Wildlife eats the acorns."
+  ],
+  "edibility": [
+    "Acorns (nuts) are edible after tannins are leached or boiled out"
+  ],
+  "dimensions": [
+    "Height: 20 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed",
+    "Oval",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Acorns are up to 3/4 inch long. The cup has 5-6 concentric rings and covers approximately 1/3 of the nut. They grow singly or in clusters of 2 or 3."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Separate male and female catkins in spring."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "4-8 inch long by 2-4 inches wide elliptical to oblong leaves appear bronzy to purplish in the spring. Becomes glossy dark green in summer. Undersides are gray-green to blue-green with hairs. Margins are entire with teeth near the apex. Bases are rounded. Non-showy fall color is yellowish-green."
+  ],
+  "bark-color": [
+    "Black",
+    "Dark Brown"
+  ],
+  "surface/attachment": [
+    "Ridges"
+  ],
+  "bark-description": [
+    "The bark is blackish-brown and smooth at first. It becomes furrowed and rough with age."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-bud-terminal": [
+    "Cluster of terminal buds"
+  ],
+  "stem-bud-scales": [
+    "Enclosed in more than 2 scales"
+  ],
+  "stem-lenticels": [
+    "Conspicuous"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Stems are dark olive green, stiff, thick with pale lenticels. Buds are brown with scales."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden"
+  ],
+  "design-feature": [
+    "Screen/Privacy",
+    "Shade Tree",
+    "Specimen",
+    "Street Tree"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Stomach pain, constipation and later bloody diarrhea, excessive thirst and urination if young leaves or raw acorns eaten."
+  ],
+  "poison-toxic-principle": [
+    "Gallotannins, quercitrin, and quercitin."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves"
+  ]
+}

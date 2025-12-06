@@ -1,0 +1,51 @@
+{
+  "fullName": "Rosa 'Fantin-Latour'",
+  "name": "rosa-fantin-latour",
+  "commonNames": [
+    "Fantin-Latour rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-fantin-latour/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "plant-type": [
+    "Perennial",
+    "Rose",
+    "Shrub"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Pale pink, Clusters of flowers in mid-summer only; open flat blooms"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "few thorns"
+  ],
+  "resistance-to-challenges": [
+    "Poor Soil"
+  ]
+}

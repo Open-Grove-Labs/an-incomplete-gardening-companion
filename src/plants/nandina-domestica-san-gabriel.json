@@ -1,0 +1,166 @@
+{
+  "fullName": "Nandina domestica 'San Gabriel'",
+  "name": "nandina-domestica-san-gabriel",
+  "commonNames": [
+    "San Gabriel Nandina"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nandina-domestica-san-gabriel/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nandina",
+  "species": "domestica",
+  "family": "Berberidaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "wildlife-value": [
+    "Leaves and berries are toxic to livestock and other domestic animals, this plant is particularly resistant to damage by deer. Berries contain cyanide and when consumed in quantity can be toxic to birds."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer",
+    "Winter"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Bright orange-red winter fruit."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "Pinkish-white flowers bloom in clusters at the ends of branches in the late spring and summer"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Alternate, compound leaves; narrow leaflets look almost grass-like; new growth is reddish, matures to blue-green; burgundy-red fall color"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Pond",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Hydrogen cyanide is highly poisonous if ingested in quantity. All parts are toxic to humans, cats, dogs, livestock, horses, and birds such as the Cedar Waxwing. Weakness, incoordination, seizures, coma, respiratory failure, and death can occur from ingestion."
+  ],
+  "poison-toxic-principle": [
+    "Cyanogenic glycosides"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves",
+    "Stems"
+  ]
+}

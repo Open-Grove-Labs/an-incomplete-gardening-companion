@@ -1,0 +1,50 @@
+{
+  "fullName": "Quercus sinuata var. sinuata",
+  "name": "quercus-sinuata-var-sinuata",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/quercus-sinuata-var-sinuata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Quercus",
+  "species": "sinuata",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern U.S.A, Texas"
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Tree"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-description": [
+    "Acorn"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Native Garden"
+  ]
+}

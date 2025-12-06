@@ -1,0 +1,231 @@
+{
+  "fullName": "Sedum 'Touchdown Teak'",
+  "name": "sedum-touchdown-teak",
+  "commonNames": [
+    "Sedum",
+    "Stonecrop",
+    "Stonecrop 'Touchdown Teak'",
+    "Touchdown Teak Sedum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sedum-touchdown-teak/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sedum",
+  "family": "Crassulaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Leaf Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "East Asia"
+  ],
+  "distribution": [
+    "Europe",
+    "Turkey",
+    "Northern Africa",
+    "North America"
+  ],
+  "wildlife-value": [
+    "Attracts butterflies and hummingbirds."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Colorful",
+    "Easy to Grow"
+  ],
+  "edibility": [
+    "Stems and leaves, when very young and tender, can be eaten raw. Later, until they flower, they may be briefly cooked. Ingesting leaves in quantity can lead to stomach upset."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Houseplant",
+    "Perennial",
+    "Succulent"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruit follicular, membranous or leathery, often surrounded by a persistent membranous corolla, opening on the adaxial side, Seeds mostly minute, usually with fleshy endosperm."
+  ],
+  "flower-color": [
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Rose-red, star-shaped flowers in terminal cymes resembling broccoli. In blossom throughout the summer. Dead inflorescence remains on plant into the fall and winter retaining interest."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Fleshy"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Red-brown to purple-brown leaves forming a clump of thick, fleshy foliage. Retains interest and color through summer into winter."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Red stems, topped by flower heads, rise out of dense foliage."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio",
+    "Rock Wall",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Heat",
+    "Poor Soil",
+    "Rabbits"
+  ]
+}

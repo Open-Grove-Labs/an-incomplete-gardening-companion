@@ -1,0 +1,139 @@
+{
+  "fullName": "Arisaema heterophyllum",
+  "name": "arisaema-heterophyllum",
+  "commonNames": [
+    "Dancing Crane Cobra Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/arisaema-heterophyllum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Arisaema",
+  "species": "heterophyllum",
+  "family": "Araceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "China, eastern Asia"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 0 ft. 8 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Epiphyte",
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Columnar"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "flower-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Irregular"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Green and purple spathe in the shape of a pitcher with a 1' long spadix that bends out of the pitcher."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The horseshoe-shaped leaf has 12 or more ovate leaflets."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Riparian",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Shade Garden"
+  ]
+}

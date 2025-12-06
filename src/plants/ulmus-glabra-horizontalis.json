@@ -1,0 +1,142 @@
+{
+  "fullName": "Ulmus glabra 'Horizontalis'",
+  "name": "ulmus-glabra-horizontalis",
+  "commonNames": [
+    "Horizontal Elm",
+    "Tabletop Scotch Elm",
+    "Weeping Wych Elm"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ulmus-glabra-horizontalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ulmus",
+  "species": "glabra",
+  "family": "Ulmaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting"
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 20 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Spreading",
+    "Weeping"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "fruit-type": [
+    "Samara"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is a one-seeded winged fruit 3/4 - 1 inch long, borne on a short stalk. Fruits are flat, pale green, hairless, with a notch at the tip and are borne in dense clusters."
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "tiny pale green flowers with no petals borne in clusters in early spring before the leaves."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "3-6 inch long leaves are short-stalked and oval with a pointed tip and asymmetrical base."
+  ],
+  "bark-color": [
+    "Dark Gray"
+  ],
+  "bark-description": [
+    "The bark is grey and smooth and develops rugged vertical grooves with age."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Wet Soil",
+    "Wind"
+  ]
+}

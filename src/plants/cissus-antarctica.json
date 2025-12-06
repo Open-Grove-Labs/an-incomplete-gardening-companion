@@ -1,0 +1,140 @@
+{
+  "fullName": "Cissus antarctica",
+  "name": "cissus-antarctica",
+  "commonNames": [
+    "Kangaroo Vine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cissus-antarctica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cissus",
+  "species": "antarctica",
+  "family": "Vitaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "India, Eastern Australia"
+  ],
+  "distribution": [
+    "California"
+  ],
+  "climbing-method": [
+    "Tendrils"
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Houseplant",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "appendage": [
+    "Tendrils"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "Small blue-black round berries form if the plant blooms."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Insignificant"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small, insignificant, may not bloom indoors."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Leathery, glossy, toothed, dark green leaves (up to 4 inches long) with toothed edges and short, reddish leaf stalks."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Smooth green stems"
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants"
+  ]
+}

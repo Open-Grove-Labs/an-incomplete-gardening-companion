@@ -1,0 +1,244 @@
+{
+  "fullName": "Picea abies",
+  "name": "picea-abies",
+  "commonNames": [
+    "Baltic Whitewood",
+    "Common Spruce",
+    "European Spruce",
+    "Norway Spruce"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/picea-abies/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Picea",
+  "species": "abies",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe"
+  ],
+  "distribution": [
+    "Native: Albania",
+    "Austria",
+    "Baltic States",
+    "Belarus",
+    "Bulgaria",
+    "Central European Russia",
+    "Czechoslovakia",
+    "East European Russia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Italy",
+    "Northern European Russian",
+    "Northwest European Russia",
+    "Norway",
+    "Poland",
+    "Romania",
+    "Sweden",
+    "Switzerland",
+    "Turkey",
+    "Ukraine",
+    "and Yugoslavia. Introduced:  Belgium",
+    "Denmark",
+    "Great Britain",
+    "Iceland",
+    "Ireland",
+    "Korea",
+    "Netherlands",
+    "New Brunswick",
+    "New South Wales",
+    "Newfoundland",
+    "Nova Scotia",
+    "Ontario",
+    "Quebec",
+    "Southern European Russia",
+    "Spain",
+    "and the United States--CT",
+    "IL",
+    "KY",
+    "ME",
+    "MD",
+    "MA",
+    "MI",
+    "MN",
+    "NH",
+    "NJ",
+    "NY",
+    "NC",
+    "OH",
+    "PA",
+    "RI",
+    "VT",
+    "VA",
+    "WV",
+    "and WI."
+  ],
+  "wildlife-value": [
+    "Birds, moths, and small mammals are attracted to this tree."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "air pollution, deer"
+  ],
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 60 ft. 0 in.",
+    "Width: 25 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Conical",
+    "Dense",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "The cones are greenish to violet when young, and as they mature they become silvery-brown. They are 4 to 6 inches long and 1 to 2 inches in diameter with rounded scales.  The scales have a blunt point and rounded tips. The thin scales are irregularly toothed and cylindrical. The cones are pendulous. The seeds are black and up to 0.2 inches long with a pale brown wing."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "The male cones are yellowish-brown and appear in clusters along the stems. The female cones are purple and upright.  When the female cones are pollinated (by wind-borne pollen), they turn green and hang downward as the cone matures."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Filiform"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves or needles are long, alternate, glossy, dense, radial, saber-shaped, stiff, pectinate with those on the upper side of twigs pointed forward, overlapping those below spreading to the right angles from exposed twigs, incurved apically, have lateral sides with 2-3 stomatal bands, are dark green, and up to 1-inch long. The four-sided needles are arranged in rows on the branch like a hairbrush and are attached by tiny pegs at their base."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Green",
+    "Light Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Scaly"
+  ],
+  "bark-description": [
+    "The bark is purplish, green, or silvery-brown. The young bark is thin, and the tree matures the bark thickens and has flaky scales."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver",
+    "Orange"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The twigs are orangish-brown and then turn grayish-brown. The primary branches are mostly upturned, but the secondary branches rarely appear pendulous as the tree matures.  The needles are spirally arranged along the branches in rows. The buds have loose, orangish-brown scales."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Recreational Play Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "attracts": [
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Pollution"
+  ],
+  "uses": "The tree is used for timber in Europe. It is commonly used as a Christmas tree in Great Britain. Herbal teas are made from leafy twigs. It is the most widely used spruce in North America for horticultural purposes."
+}

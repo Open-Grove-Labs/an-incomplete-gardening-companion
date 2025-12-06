@@ -1,0 +1,241 @@
+{
+  "fullName": "Araujia sericifera",
+  "name": "araujia-sericifera",
+  "commonNames": [
+    "Bladderflower",
+    "Bladder Vine",
+    "Common Moth Vine",
+    "Cruel Plant",
+    "Cruel Vine",
+    "False Choko",
+    "Moth Plant",
+    "Moth Vine",
+    "White Bladderflower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/araujia-sericifera/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Araujia",
+  "species": "sericifera",
+  "family": "Apocynaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Brazil, Argentina, Peru, Paraguay and Uruguay"
+  ],
+  "wildlife-value": [
+    "This plant attracts bees, moths and butterflies."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators"
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "plant-type": [
+    "Annual",
+    "Perennial",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Creeping",
+    "Dense",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Follicle"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "This plant also has large, blue-green or gray-green grooved pods that attract moths.  They can reach lengths of up to 5\".  The fruits will split open and release 1/4\" seeds covered with long silky hairs."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "This plant has fragrant, white or pale pink, waxy flowers from summer to fall. They may have pink streaks in the throat area.  They form as clusters in the upper leaf forks."
+  ],
+  "leaf-color": [
+    "Green",
+    "White"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Deltoid",
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The upper surface of the leaves is dark green and typically hairless.  The undersides are a lighter green to white and covered with dense hairs."
+  ],
+  "stem-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The gray-green stems are climbing and twining vines.  The vines have fine hairs and contains a sticky, milky sap."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Pond",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Moths",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Diseases"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Invasive Species",
+    "Poisonous to Humans",
+    "Problem for Dogs",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Skin irritation from the sap, difficulty breathing"
+  ],
+  "poison-toxic-principle": [
+    "Grayanotoxin"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Sap/Juice",
+    "Seeds"
+  ],
+  "uses": "Ornamental"
+}

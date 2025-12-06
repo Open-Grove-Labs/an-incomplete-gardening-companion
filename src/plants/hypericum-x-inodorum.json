@@ -1,0 +1,184 @@
+{
+  "fullName": "Hypericum x inodorum",
+  "name": "hypericum-x-inodorum",
+  "commonNames": [
+    "St. John's Wort",
+    "Tutsan"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hypericum-x-inodorum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hypericum",
+  "species": "Hypericum",
+  "family": "Hypericaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South West and South Central Europe"
+  ],
+  "distribution": [
+    "Parts of South America",
+    "Great Britain",
+    "Ireland"
+  ],
+  "wildlife-value": [
+    "Food source for wildlife."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Dense",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Pink"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Flowers are followed by showy coral pink fleshy, berry-like fruits."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "One-inch buttercup-yellow flowers in branched clusters bloom mid to late summer (July-September)."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Stalkless, ovate, opposite leaves (to 2 inches long) are aromatic when crushed."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Meadow",
+    "Rock Wall"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Garden for the Blind",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heavy Shade"
+  ]
+}

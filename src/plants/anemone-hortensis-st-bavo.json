@@ -1,0 +1,122 @@
+{
+  "fullName": "Anemone hortensis 'St Bavo'",
+  "name": "anemone-hortensis-st-bavo",
+  "commonNames": [
+    "Anemones",
+    "Windflower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/anemone-hortensis-st-bavo/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Anemone",
+  "species": "hortensis",
+  "family": "Ranunculaceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Hybrid"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "tolerates summer drought"
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial",
+    "Poisonous"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "This plant has small fruits often with plumose tails."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Flowers are scarlet to magenta (although they can also be white, yellow-green, red, or purple), bloom in mid-spring (April), and have poppy-like blooms with a large dark central disk. The flowers are cup-shaped with 5-many petal-like parts and many stamens."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Whorled"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "This plant has clumps of divided, ferny leaves. This plant has alternate or whorled and finely divided leaves."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "calf-high stems"
+  ],
+  "landscape-location": [
+    "Container",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "TOXIC ONLY IF LARGE QUANTITIES EATEN. CAUSES SEVERE PAIN IN THE MOUTH IF EATEN!\nPoisonous through ingestion and dermatitis. (Poisonous parts:     All parts when fresh).\nSymptoms may include:     Inflammation and blistering upon contact with fresh sap; irritation of mouth, vomiting and diarrhea following ingestion."
+  ],
+  "poison-toxic-principle": [
+    "Protoanemonin"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "fullName": "Centaurea solstitialis",
+  "name": "centaurea-solstitialis",
+  "commonNames": [
+    "Barnaby's Thistle",
+    "Yellow Knapweed",
+    "Yellow Star Thistle"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/centaurea-solstitialis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Centaurea",
+  "species": "solstitialis",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern Europe and North Africa"
+  ],
+  "distribution": [
+    "United States and the southern part of Canada"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Dry soil and poor soil tolerant"
+  ],
+  "plant-type": [
+    "Weed",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "An achene (about a quarter-inch long) finely hairy, straw-colored at maturity with a tuft of short, stiff, light brown bristles at the tip; the seed often remains in the seed-heads until late fall or winter"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Head"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Dome"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Yellow flowers have bracts armed with stout, needle-like, straw-colored spines one to two inches long that radiate from the flower head in the shape of a star"
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Linear",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves are alternate and form a basal rosette up to 6 inches long when young, often lobed in narrow sections on the lower half of the leaf, and tapering to a short stalk.  This rosette will wither by the time the plant flowers.  All leaves are toothless and covered in woolly hairs giving a gray-green cast.  Leaves become much smaller, linear-oblong and undivided as they move further up the stem with the leaf bases extending down the stem, forming “wings”. The wings are often wavy and may be broad with jagged or smooth edges."
+  ],
+  "stem-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The stem is erect, slender, hairy and branching, and can grow up to three feet tall"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Problem for Horses",
+    "Spines/Thorns"
+  ]
+}

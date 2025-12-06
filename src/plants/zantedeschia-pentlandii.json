@@ -1,0 +1,206 @@
+{
+  "fullName": "Zantedeschia pentlandii",
+  "name": "zantedeschia-pentlandii",
+  "commonNames": [
+    "Mapoch Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/zantedeschia-pentlandii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Zantedeschia",
+  "species": "pentlandii",
+  "family": "Araceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "South Africa, Mpumalanga"
+  ],
+  "distribution": [
+    "Mapoch region of Mpumalanga"
+  ],
+  "play-value": [
+    "Colorful"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Houseplant",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "fruit-description": [
+    "Fruit green, few in number, with up to 20 seeds."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Diminutive size, beautiful yellow color with purple blotch at base of spathe."
+  ],
+  "leaf-color": [
+    "Green",
+    "Variegated"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Leaves deciduous, up to 30\" long, usually shorter than the peduncles, petiolate, petioles up to 15\" long, clasping at the base; blade yellowish grass-green, usually immaculate (seldom maculate) oblong-elliptic to oblong-lanceolate, hastate, obtuse to acute, abruptly apiculate, up to 17\" long and 8\" wide. Z. pentlandii has immaculate (or very rarely spotted) oblong-lanceolate leaves, slightly constricted above the short, hastate, rounded lobes; the apex is obtuse (or sometimes acute) with a subulate, seldom recurving tip."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Pond",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Cutting Garden",
+    "Rain Garden",
+    "Rock Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Specimen"
+  ],
+  "attracts": [
+    "Predatory Insects",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Severe burning sensation and swelling of lips, tongue, and throat; stomach pain and diarrhea possible"
+  ],
+  "poison-toxic-principle": [
+    "Calcium oxalate crystals and possibly others."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Stems"
+  ]
+}

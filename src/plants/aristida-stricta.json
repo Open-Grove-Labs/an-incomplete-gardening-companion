@@ -1,0 +1,129 @@
+{
+  "fullName": "Aristida stricta",
+  "name": "aristida-stricta",
+  "commonNames": [
+    "Carolina Wiregrass",
+    "Pineland Threeawn",
+    "Pineland Three-awn",
+    "Wiregrass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/aristida-stricta/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Aristida",
+  "species": "stricta",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "E. North Carolina to N. South Carolina"
+  ],
+  "fire-risk-rating": [
+    "extreme flammability"
+  ],
+  "wildlife-value": [
+    "Provides cover year round. Produces seeds eaten by quail and songbirds and provides cover for many birds, reptiles, and small mammals. White-tailed deer may browse foliage but this plant is highly resistant to damage."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "deer damage, salt. Heat and drought tolerant."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Ornamental Grasses and Sedges",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Occasional Flooding",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Caryopsis"
+  ],
+  "fruit-description": [
+    "The grass produces yellow seed. Fruit displays from November to December."
+  ],
+  "flower-color": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "Flowers are small and inconspicuous. They bloom from September to November."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The leaves are needle-like and have a white fuzz around the base."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Native Garden",
+    "Winter Garden"
+  ],
+  "attracts": [
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

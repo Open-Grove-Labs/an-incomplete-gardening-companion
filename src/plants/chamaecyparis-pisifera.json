@@ -1,0 +1,148 @@
+{
+  "fullName": "Chamaecyparis pisifera",
+  "name": "chamaecyparis-pisifera",
+  "commonNames": [
+    "Japanese False-cypress",
+    "Sawara False-cypress"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/chamaecyparis-pisifera/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Chamaecyparis",
+  "species": "pisifera",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Japan"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "drought"
+  ],
+  "dimensions": [
+    "Height: 50 ft. 0 in. - 70 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Open",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "No true fruit - female seed-bearing cones are green when immature turning to brown."
+  ],
+  "flower-description": [
+    "No true flowers - the pollen bearing cones are small and often reddish, growing from the branch tips."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gold/Yellow",
+    "Gray/Silver",
+    "Green",
+    "White"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Obovate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "This plant has small leaves in horizontal planes. They are bright green with a silvery line underneath."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Exfoliating",
+    "Peeling"
+  ],
+  "bark-description": [
+    "The bark is reddish brown with somewhat smooth texture that peels off in thin strips."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Asian Garden",
+    "Drought Tolerant Garden",
+    "Garden for the Blind",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ]
+}

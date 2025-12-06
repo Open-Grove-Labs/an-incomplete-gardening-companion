@@ -1,0 +1,135 @@
+{
+  "fullName": "Schlumbergera truncata",
+  "name": "schlumbergera-truncata",
+  "commonNames": [
+    "Christmas Cactus",
+    "Common Winter Cactus",
+    "Crab Cactus",
+    "False Christmas Cactus",
+    "Lobster Cactus",
+    "Thanksgiving Cactus"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/schlumbergera-truncata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Schlumbergera",
+  "species": "truncata",
+  "family": "Cactaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Brazil's rain forests"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "humidity"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Epiphyte",
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Perennial",
+    "Succulent"
+  ],
+  "habit/form": [
+    "Arching",
+    "Rounded",
+    "Weeping"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "asymmetrical petals",
+    "Tepals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "A seasonal bloomer mostly in November or December but can re-bloom in February. Buds form on the terminal end of the stem. Flowers are zygomorphic (meaning there is only one way you can cut the flower in half and get two mirror images), showy, colorful, tubular, perfect (have stamen and pistil), composed of tepals. It is called the Christmas cactus because it generally blooms around Christmas time. The flowering period lasts about five weeks."
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Technically, this plant does not have true leaves. See stem section."
+  ],
+  "stem-color": [
+    "Green",
+    "Pink"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Hairy tips"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The \"leaves\" of a Christmas cactus (Schlumbergera truncata) are technically not leaves: they are cladodes, which are flattened, green stems that function like leaves. The cladodes are sessile (attached to each other, flattened, lobed and truncate, feel smooth, and are distinctly serrated in their margins, a means of distinguishing them from other species. They are glossy but not glaucous, segmented, thick, and have hairs coming off of them on the end. On the stem are areoles where hair and flowers emerge."
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "resistance-to-challenges": [
+    "Humidity"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "fullName": "Cattleya forbesii",
+  "name": "cattleya-forbesii",
+  "commonNames": [
+    "Cocktail Orchid",
+    "Forbes cattleya"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cattleya-forbesii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cattleya",
+  "species": "forbesii",
+  "family": "Orchidaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Brazil"
+  ],
+  "distribution": [
+    "Cultivated worldwide."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 1 ft. 6 in.",
+    "Width: 0 ft. 6 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Epiphyte",
+    "Herbaceous Perennial",
+    "Houseplant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Lipped"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "A terminal raceme, only one stalk growing per pseudobulb.  The inflorescence is enclosed in a sheath to support the weight of the flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery",
+    "Waxy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves emerge from pseudobulbs and are thick, waxy, and leathery.  The venation is parallel and the midveins are deeply impressed."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Specimen"
+  ]
+}

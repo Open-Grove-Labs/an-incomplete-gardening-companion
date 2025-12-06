@@ -1,0 +1,228 @@
+{
+  "fullName": "Trillium cuneatum",
+  "name": "trillium-cuneatum",
+  "commonNames": [
+    "Bloody Butcher",
+    "Hugher's Trillium",
+    "Large Toadshade",
+    "Little Sweet Betsy",
+    "Purple Toadshade",
+    "Sweet Betsy",
+    "Toad Trillium",
+    "Whippoorwill flower",
+    "Wood Trillium"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/trillium-cuneatum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Trillium",
+  "species": "cuneatum",
+  "family": "Melanthiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern United States"
+  ],
+  "distribution": [
+    "AL ",
+    "GA ",
+    "IL ",
+    "KY ",
+    "MS ",
+    "NC ",
+    "SC ",
+    "TN"
+  ],
+  "wildlife-value": [
+    "Bees and other pollinating insects enjoy the nectar from the flowers. Moths use this plant as a larval host. Small mammals enjoy the berries as a food source."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "edibility": [
+    "EDIBLE PARTS: Young, unfolding leaves HARVEST TIME: Only collect leaves from areas you know have NOT been treated with pesticides. SAFE HANDLING PROCEDURES: Wash leaves in warm water to remove dirt and debris. Do not use dish detergent or any type of sanitizer. These products can leave a residue. Cook in boiling, salted water for ten minutes and serve like greens. SOURCE: Crowhurst, A. 1972. The Weed Cookbook. Lancer Books, Inc. New York, 190 pp."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 1 ft. 6 in.",
+    "Width: 0 ft. 9 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "display/harvest-time": [
+    "Spring",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry",
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Fruits are a berry-like capsule with seeds that are dispersed by ants. In North Carolina, fruits are available from May to June."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals",
+    "Bracts"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Fragrant sessile flowers are up to 3 in. across with 3 maroon petals and 3 green sepals; ill scented. In North Carolina, flowers are mainly maroon and are available from March to April. Flowers are sometimes yellowish bronze or reddish-green."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "3-7 inch long oval leaves ( actually bracts) are green with gray mottling and occur in threes in a whorl on the stem"
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "green to purplish stems"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Slope/Bank",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Rock Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Moths",
+    "Pollinators",
+    "Small Mammals"
+  ],
+  "problems": [
+    "Malodorous"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Unknown"
+  ],
+  "poison-toxic-principle": [
+    "Unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Roots"
+  ]
+}

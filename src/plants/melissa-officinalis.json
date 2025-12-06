@@ -1,0 +1,205 @@
+{
+  "fullName": "Melissa officinalis",
+  "name": "melissa-officinalis",
+  "commonNames": [
+    "Balm",
+    "Balm Mint",
+    "Common Balm",
+    "Lemon Balm"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/melissa-officinalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Melissa",
+  "species": "officinalis",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern Europe"
+  ],
+  "distribution": [
+    "Throughout much of the US"
+  ],
+  "wildlife-value": [
+    "Deer resistant"
+  ],
+  "edibility": [
+    "Leaves and flowers can be used for teas and flavorings of soups, stews etc."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 6 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herb"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Mounding",
+    "Multi-stemmed",
+    "Open"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Produces many viable seeds"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Long-lasting"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Trumpet",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "White flowers are borne in whorls in the axils of terminal leaves. They are tiny, two-lipped and inconspicuous and appear throughout the summer. Bees love them."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Up to 3 inches long oval, wrinkled, green leaves occur in pairs. Margins are crenate."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Green stems can become somewhat wood with age."
+  ],
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Poor Soil"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "The herb has been used medicinally. Dried leaves can be used in sachets and potpourri."
+}

@@ -1,0 +1,219 @@
+{
+  "fullName": "Cercidiphyllum japonicum",
+  "name": "cercidiphyllum-japonicum",
+  "commonNames": [
+    "Japanese Judas Tree",
+    "Katsura Tree",
+    "Katsura Vine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cercidiphyllum-japonicum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cercidiphyllum",
+  "species": "japonicum",
+  "family": "Cercidiphyllaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "China and Japan"
+  ],
+  "wildlife-value": [
+    "Insect pollinators"
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Colorful",
+    "Easy to Grow",
+    "Shade "
+  ],
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 60 ft. 0 in.",
+    "Width: 30 ft. 0 in. - 50 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Dense",
+    "Erect",
+    "Multi-trunked",
+    "Oval",
+    "Pyramidal",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "The seed is inside a narrow, pod type fruit.  The fruit that follows is a cluster of 2-4 small pods with numerous small, flattened and winged seeds. The fruits mature in autumn and release their seeds in autumn through winter by splitting open. There are 2-4 on pedicel, the seeds paper thin and winged."
+  ],
+  "flower-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Insignificant flowers are produced on dioecious (having separate male and female) trees. The green female flowers are small, while male flowers are red.  They appear in early spring for only a week and are wind-pollinated. Dioecious; male flowers with calyx & numerous stamens; female flower with 4 winged sepals, 4-6 carpels."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Orange"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Obtuse",
+    "Ovate",
+    "Reniform"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Short shoots bear simple opposite to subopposite, 2\"-4\" leaves.  They are broadly cordate (heart-shaped) or reniform, palmately webbed veined leaves with crenate, entire, or finely serrate margins.  New leaves emerge reddish-bronze-purple; turn blue-green in summer; yellow to apricot fall color."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Scaly",
+    "Shaggy",
+    "Smooth"
+  ],
+  "bark-description": [
+    "Older bark can be shaggy and scaly, younger bark has horizontal etches"
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Thin, brown very branched stems.  It can be single or multi-trunked."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Meadow",
+    "Recreational Play Area"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Cottage Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Shade Tree",
+    "Specimen",
+    "Street Tree",
+    "Understory Tree"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Diseases",
+    "Insect Pests"
+  ],
+  "uses": "The wood is light, soft and fine-grained so has been used in Japan to making furniture, cabinetry, and paneling."
+}

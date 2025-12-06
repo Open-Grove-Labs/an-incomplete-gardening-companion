@@ -1,0 +1,133 @@
+{
+  "fullName": "Carex morrowii var. temnolepis 'Silk Tassel'",
+  "name": "carex-morrowii-var-temnolepis-silk-tassel",
+  "commonNames": [
+    "Hosoba kan suge",
+    "Japanese Grass Sedge",
+    "Japanese sedge",
+    "Morrow's Sedge"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/carex-morrowii-var-temnolepis-silk-tassel/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Carex",
+  "species": "Carex morrowii",
+  "family": "Cyperaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Japan"
+  ],
+  "play-value": [
+    "Defines Paths",
+    "Textural "
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 1 ft. 6 in.",
+    "Width: 1 ft. 6 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ornamental Grasses and Sedges",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "leaf-color": [
+    "Green",
+    "Variegated",
+    "White"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Grown for foliage"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Rock Wall",
+    "Slope/Bank",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Rain Garden",
+    "Rock Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Erosion",
+    "Heavy Shade",
+    "Wet Soil"
+  ]
+}

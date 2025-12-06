@@ -1,0 +1,136 @@
+{
+  "fullName": "Malus domestica 'Golden Delicious'",
+  "name": "malus-domestica-golden-delicious",
+  "commonNames": [
+    "Golden Delicious Apple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/malus-domestica-golden-delicious/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Malus",
+  "species": "domestica",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting"
+  ],
+  "country-or-region-of-origin": [
+    "United States, W. Virginia"
+  ],
+  "wildlife-value": [
+    "pollinator in spring"
+  ],
+  "edibility": [
+    "The fruit is large and yellow-green skinned. Crisp, juicy and sweet. It is good for eating, baking, making sauce, salads and apple butter. It usually ripens in late September."
+  ],
+  "dimensions": [
+    "Height: 8 ft. 0 in. - 15 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Pome"
+  ],
+  "fruit-description": [
+    "The fruit is large and starts out as pale green, becoming a gold-green when ripe. The apple is crisp, juicy and sweet, usually ripening in late September."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers bloom in clusters in spring. The buds are pink, opening to white flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Meadow"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies"
+  ]
+}

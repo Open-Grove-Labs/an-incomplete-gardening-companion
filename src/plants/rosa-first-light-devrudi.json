@@ -1,0 +1,95 @@
+{
+  "fullName": "Rosa First Light 'DEVrudi'",
+  "name": "rosa-first-light-devrudi",
+  "commonNames": [
+    "First Light rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-first-light-devrudi/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "country-or-region-of-origin": [
+    "USA"
+  ],
+  "wildlife-value": [
+    "Attracts birds and butterflies."
+  ],
+  "play-value": [
+    "Attracts Pollinators"
+  ],
+  "plant-type": [
+    "Perennial",
+    "Rose",
+    "Shrub"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-description": [
+    "Pointed pink buds; medium-sized, single blooms in clusters on short stems; 7 petals; red stamens; repeats"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "short stems"
+  ],
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Hedge",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Songbirds"
+  ]
+}

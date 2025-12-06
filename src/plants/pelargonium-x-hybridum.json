@@ -1,0 +1,126 @@
+{
+  "fullName": "Pelargonium x hybridum",
+  "name": "pelargonium-x-hybridum",
+  "commonNames": [
+    "Geranium"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pelargonium-x-hybridum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pelargonium",
+  "family": "Geraniaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "plant-type": [
+    "Annual",
+    "Houseplant",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Fruits are rare, but when they do bloom, they are elongated capsules with a beak, dehiscing from beak downwards, and coiling."
+  ],
+  "flower-color": [
+    "Green",
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Flowers are single, semidouble to double, uniform in color of red, pink, or salmon, and occasionally peppermint. Flowers have 5 petals and appear subrotate. Inflorescence is an erect umbel on a long peduncle with involucral bracts hidden."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Orbicular",
+    "Peltate",
+    "Reniform"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Leaves are simple, alternate to subopposite, orbicular to reniform, peltate, crenate, undulate to sinuate, cordate, and pubescent. Bruised leaves are aromatic. Leaves are green, often variegated green with a dark green zone in from the margin. Stipules are large, persistent."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Stems are erect, succulent, and glabrescent."
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Malodorous",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Vomiting, anorexia, dermatitis\nPrimarily GI upset. Could also see ataxia, muscle weakness, depression or hypothermia in larger exposures, cats are most sensitive."
+  ],
+  "poison-toxic-principle": [
+    "Geraniol, linalool"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves"
+  ]
+}

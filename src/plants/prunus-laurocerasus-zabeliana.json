@@ -1,0 +1,120 @@
+{
+  "fullName": "Prunus laurocerasus 'Zabeliana'",
+  "name": "prunus-laurocerasus-zabeliana",
+  "commonNames": [
+    "Zabel's Cherry Laurel"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-laurocerasus-zabeliana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Prunus",
+  "species": "laurocerasus",
+  "family": "Roseaceae",
+  "wildlife-value": [
+    "Fruits are relished by birds."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub"
+  ],
+  "habit/form": [
+    "Dense",
+    "Horizontal",
+    "Spreading"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-description": [
+    "Summer, black drupe"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Small white flowers on 3 to 4 in. erect panicles"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Narrow willow-like, lustrous dark green leaves; 3 to 4 in. long"
+  ],
+  "stem-is-aromatic": "N",
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Salt"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Gasping, weakness, excitement, pupil dilation, spasms, convulsions, coma, respiratory failure\nStems, leaves, seeds contain cyanide, particularly toxic in the process of wilting: brick red mucous membranes, panting, shock."
+  ],
+  "poison-toxic-principle": [
+    "Cyanogenic glycoside, amygdalin"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Seeds",
+    "Stems"
+  ]
+}

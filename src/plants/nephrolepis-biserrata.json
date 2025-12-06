@@ -1,0 +1,63 @@
+{
+  "fullName": "Nephrolepis biserrata",
+  "name": "nephrolepis-biserrata",
+  "commonNames": [
+    "Bold Sword Fern",
+    "Crisped Feather Fern",
+    "Dallas Fern",
+    "Giant Swordfern",
+    "Giant Sword Fern",
+    "Macho Fern",
+    "Roosevelt Fern",
+    "Sword Fern",
+    "Tall Feather Fern",
+    "Verona Fern",
+    "Verona Lace Fern",
+    "Whitman Fern"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nephrolepis-biserrata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nephrolepis",
+  "species": "biserrata",
+  "family": "Polypodiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "plant-type": [
+    "Fern",
+    "Houseplant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "fruit-description": [
+    "No fruits. This plants reproduces via spores."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Fronds"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

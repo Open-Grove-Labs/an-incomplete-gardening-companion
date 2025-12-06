@@ -1,0 +1,154 @@
+{
+  "fullName": "Habranthus",
+  "name": "habranthus",
+  "commonNames": [
+    "Rain Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/habranthus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Habranthus",
+  "family": "Amaryllidoideae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "native to tropical and semi-tropical regions of the Americas"
+  ],
+  "bulb-storage": [
+    "Keep bulbs in planting medium and store at 41-50°F (5-10°C)."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Star",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-description": [
+    "They are funnel-shaped flowers and are either solitary or in umbels of up to 4 flowers. They grow pointing upward at an angle and have unequal sized stamens."
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Sheath"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Rain Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits",
+    "Squirrels",
+    "Wet Soil"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "vomiting, diarrhea, convulsions and sometimes death in\nhumans and other animals"
+  ],
+  "poison-toxic-principle": [
+    "poisonous alkaloid lycorine"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots"
+  ]
+}

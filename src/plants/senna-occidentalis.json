@@ -1,0 +1,211 @@
+{
+  "fullName": "Senna occidentalis",
+  "name": "senna-occidentalis",
+  "commonNames": [
+    "Coffee Senna",
+    "Coffeeweed",
+    "Stinking Weed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/senna-occidentalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Senna",
+  "species": "occidentalis",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical & Subtropical Americas"
+  ],
+  "distribution": [
+    "Pantropical areas around the world"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "The plant smells bad when crushed."
+  ],
+  "edibility": [
+    "All parts of the plant are edible"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The seed pods are long, dark brown and curve slightly upward.  They have separate segments, each containing a seed. The seeds are olive - brown and flattened on both ends. The seeds can be roasted and used as a substitute for coffee."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Orange yellow to yellow, not typical pea-like flowers, raceme or panicle of flowers 1/2\"-1\" long. Flowers have 5 yellow sepals, 5 yellow petals, 10 dark brown stamens."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Compound pinnate leaves 4-5 pairs of gray green leaflets 2 1/2\" long and 3/4\" wide. Leaflets are oblong, elliptic with a pointed tip."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Light green stout central stem"
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "TOXIC ONLY IF LARGE QUANTITIES EATEN.  Diarrhea, remors, dark brown urine."
+  ],
+  "poison-toxic-principle": [
+    "Anthraquinones, emodin glycosides., toxalbumins, alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ],
+  "uses": "All parts of the plant (leaf, flower, root, seeds) are used as food and medicine by various peoples in many parts of the world."
+}

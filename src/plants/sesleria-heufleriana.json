@@ -1,0 +1,94 @@
+{
+  "fullName": "Sesleria heufleriana",
+  "name": "sesleria-heufleriana",
+  "commonNames": [
+    "Blue Green Moor Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sesleria-heufleriana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sesleria",
+  "species": "heufleriana",
+  "family": "Poaceae",
+  "country-or-region-of-origin": [
+    "Europe"
+  ],
+  "plant-type": [
+    "Ornamental Grasses and Sedges"
+  ],
+  "habit/form": [
+    "Arching",
+    "Clumping",
+    "Erect",
+    "Mounding"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Caryopsis"
+  ],
+  "flower-color": [
+    "Black",
+    "Cream/Tan",
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Panicle",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Inflorescence:\nEarly spring flowers are black with cream yellow pollen sacs"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves are mostly green in early spring; becomes blue by early summer; remains blue in winter"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Songbirds"
+  ]
+}

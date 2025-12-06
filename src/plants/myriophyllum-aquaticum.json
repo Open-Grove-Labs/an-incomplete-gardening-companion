@@ -1,0 +1,130 @@
+{
+  "fullName": "Myriophyllum aquaticum",
+  "name": "myriophyllum-aquaticum",
+  "commonNames": [
+    "Brazilian Water-Milfoil",
+    "Parrot Feather",
+    "Parrot Feather Milfoil",
+    "Red-Stemmed Parrot Feather"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/myriophyllum-aquaticum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Myriophyllum",
+  "species": "aquaticum",
+  "family": "Haloragaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "South America, Australia and New Zealand,"
+  ],
+  "wildlife-value": [
+    "Submerged foliage serves as shelter for fish, helps remove excess nutrients and acts as an oxygenator"
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Water Plant"
+  ],
+  "habit/form": [
+    "Creeping",
+    "Horizontal",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-description": [
+    "No fruit is produced in the USA as only female plants are known to grow here"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Inconspicuous flowers are formed in the axils of the emergent leaves in the spring, Flowers are not pollinated in the US"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Small leaves in whorls; on 5-6 foot stems. Aerial foliage has a deeper blue-green color, submerged foliage is bright green."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Dense, tough reddish-green stems"
+  ],
+  "problems": [
+    "Invasive Species"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "fullName": "Symphyotrichum patens",
+  "name": "symphyotrichum-patens",
+  "commonNames": [
+    "Clasping Aster",
+    "Late Purple Aster",
+    "Spreading Aster"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/symphyotrichum-patens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Symphyotrichum",
+  "species": "patens",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Southeast USA"
+  ],
+  "wildlife-value": [
+    "Nectar attracts butterflies.  Members of the genus Symphyotrichum support the following specialized bees: Andrena (Callandrena s.l.) asteris, Andrena (Callandrena s.l.) asteroides, Andrena (Cnemidandrena) hirticincta, Andrena (Cnemidandrena) nubecula, Andrena (Callandrena s.l.) placata, Andrena (Callandrena s.l.) simplex, and Colletes simulans."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 6 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant"
+  ],
+  "habit/form": [
+    "Arching",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Purple/Lavender"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Purplish brown ribbed achene somewhat hairy"
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Head",
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Blue to violet oblong-ovate rays with disk yellow centers on solitary heads or terminal clusters."
+  ],
+  "leaf-color": [
+    "Black",
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Dentate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Simple, alternatate, lanceolate to oblong, entire to slightly toothed or wavy, hairy. \n Veins visible on the undersurface.  Leaf base is attached to the stem without having a stalk or peduncle  (sessile)."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Erect, or ascending covered in short curved hairs, they are britle and break easily."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Dry Soil",
+    "Salt"
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "fullName": "Solanum melongena",
+  "name": "solanum-melongena",
+  "commonNames": [
+    "Aubergine",
+    "Brinjal",
+    "Eggplant",
+    "Mad Apple",
+    "Raging Apple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/solanum-melongena/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Solanum",
+  "species": "melongena",
+  "family": "Solanaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "China South-Central, Laos, Malaya, Myanmar, Thailand, Vietnam"
+  ],
+  "distribution": [
+    "Introduced: Assam",
+    "Bangladesh",
+    "Cambodia",
+    "East Himalaya",
+    "India",
+    "Kazakhstan",
+    "Laccadive Island",
+    "Sri Lanka",
+    "Tadzhikistan",
+    "Turkmenistan",
+    "Uzbekistan",
+    "and Zaire; Currently cultivated worldwide"
+  ],
+  "wildlife-value": [
+    "The flowers attract bumblebees."
+  ],
+  "edibility": [
+    "The immature fruit is edible and best used in food preparation.  As the fruit matures, it becomes stringy and bitter. The fruits are usually cooked and served as a vegetable. They may be prepared and eaten by frying, steaming, grilling, roasting, or stewing. They may also be stir-fried, pickled, stuffed, and fried with a light breading."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Herbaceous Perennial",
+    "Vegetable",
+    "Warm Season Vegetable"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender",
+    "White"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "The fruit is a berry that is egg-shaped, smooth and has glossy skin. The fruit may measure 4 to 8 inches long. It ranges in color from green to white, to purple-black when immature and when it should be eaten.  As the fruit matures it gets stringy and bitter. Fruit contains numerous small, flat, pale yellow to brown seeds."
+  ],
+  "flower-color": [
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Solitary"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The flowers are purple, funnel-shaped, and have 5-6 pointed lobes. The lobes make the flower appear star-shaped with a yellow center. The flowers usually bloom in clusters."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Sinuate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The leaves are bright green or purplish-tinged, simple, alternate, and ovate to oblong.  They measure 8 inches long and 4 inches wide.  The margins are entire or have 5-9 sinuate lobes. The leaves are covered with star-shaped hairs, and some have prickles. The petiole is 1 to 3 inches long."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The stems are covered with star-shaped hair and prickles are sometimes found. They become slightly woody as they mature."
+  ],
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Heat"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "If the leaves, flowers, stems, or roots are ingested, throat burning, nausea, vomiting, and irregular heart rhythm can occur which may be fatal."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids including solanine"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Roots",
+    "Stems"
+  ],
+  "uses": "It has been used in traditional medicine and cultural ceremonies in several countries across the world. The eggplant has been used as a treatment for diabetes, cholera, bronchitis, dysentery, ear infections, toothache, and skin infections. Some countries believe the eggplant has a magical quality and symbolizes protection and good health."
+}

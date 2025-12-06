@@ -1,0 +1,98 @@
+{
+  "fullName": "Nymphaea 'Shirley Bryne'",
+  "name": "nymphaea-shirley-bryne",
+  "commonNames": [
+    "Shirley Bryne"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nymphaea-shirley-bryne/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nymphaea",
+  "family": "Nymphaeaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "wildlife-value": [
+    "Lily pads provide a landing place for thirsty bees, protection for pond life and the shading helps prevent algae growth."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Water Plant"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Spreading"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Pink petals with bright yellow nectar cup. Blooms are 5-6 inches across and cup-shaped."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Orbicular"
+  ],
+  "leaf-margin": [
+    "Sinuate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "6-8 inch green leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Water Garden"
+  ]
+}

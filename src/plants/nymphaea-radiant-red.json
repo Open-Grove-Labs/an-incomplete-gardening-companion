@@ -1,0 +1,118 @@
+{
+  "fullName": "Nymphaea 'Radiant Red'",
+  "name": "nymphaea-radiant-red",
+  "commonNames": [
+    "Radiant Red"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nymphaea-radiant-red/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nymphaea",
+  "family": "Nymphaeaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "wildlife-value": [
+    "Lily pads provide a landing place for thirsty bees, protection for pond life and the shading helps prevent algae growth."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Water Plant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Spreading"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "5-6 in. red flowers with some specks and a stellate shape; slight fragrance."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Orbicular"
+  ],
+  "leaf-margin": [
+    "Sinuate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Up to 10 in. green leaves with new leaves being bronzy"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Water Garden"
+  ]
+}

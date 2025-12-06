@@ -1,0 +1,185 @@
+{
+  "fullName": "Sambucus nigra",
+  "name": "sambucus-nigra",
+  "commonNames": [
+    "Black Elder",
+    "Elder",
+    "Elderberry",
+    "European Elderberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sambucus-nigra/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sambucus",
+  "species": "nigra",
+  "family": "Viburnaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Europe"
+  ],
+  "wildlife-value": [
+    "Flowers attract butterflies. Fruits attract birds."
+  ],
+  "edibility": [
+    "Flowers and blue-black berries.  Flowers are used to make wines and cordials and the berries can be made into jam and syrup."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet",
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Lustrous glossy black fruits 3/8\" across in late summer to fall."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Tiny yellowish white to cream flowers on large 5\" to 8\" flat-topped umble-like cymes wide in summer.  Flowers smell musky."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Dark green pinnately compound leaves reach 10\" long with 3 to 9 serrate ovate leaflets that are 5\" long.  Unpleasant odor when crushed"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Rain Garden"
+  ],
+  "design-feature": [
+    "Hedge"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Songbirds"
+  ],
+  "problems": [
+    "Malodorous",
+    "Weak Wood",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "feeling ill, nausea, vomiting, diarrhea"
+  ],
+  "poison-toxic-principle": [
+    "cyanide-inducing glycosides"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ],
+  "uses": "This plant has been used in traditional medicine."
+}

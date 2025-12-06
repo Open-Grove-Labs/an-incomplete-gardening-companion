@@ -1,0 +1,106 @@
+{
+  "fullName": "Lobelia",
+  "name": "lobelia",
+  "commonNames": [
+    "Blue Cardinal Flower",
+    "Cardinal Flower",
+    "Indian Tobacco",
+    "Lobelia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lobelia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lobelia",
+  "family": "Campanulaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "USA, NC"
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-shape": [
+    "Irregular",
+    "Lipped",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "White, scarlet, or blue, 5-parted, tubular and irregular-shaped with 2 lips"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden",
+    "Cottage Garden",
+    "Native Garden",
+    "Water Garden"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "TOXIC ONLY IF LARGE QUANTITIES EATEN.  Nausea, vomiting, diarrhea, salivation, exhaustion and weakness, dilation of pupils, convulsions, and coma."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids lobelamine, lobeline, and others, plus a volatile oil"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

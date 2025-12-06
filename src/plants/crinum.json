@@ -1,0 +1,219 @@
+{
+  "fullName": "Crinum",
+  "name": "crinum",
+  "commonNames": [
+    "Cape Lily",
+    "Cemetery Plant",
+    "Crinum Lily",
+    "Southern Swamp Lily",
+    "Spider Lily",
+    "Swamp Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/crinum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Crinum",
+  "family": "Amaryllidaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Tropics & Subtropics of Asia, Australia, Africa and the Americas"
+  ],
+  "wildlife-value": [
+    "Butterflies and hummingbirds are attracted to the flowers."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Easy to Grow"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "This plant is moderately salt tolerant, and is seldom damaged by deer."
+  ],
+  "bulb-storage": [
+    "Store bulbs in slightly moist sand at 35-45 degrees F (2-7 degrees C); if grown indoors in a container, place in a bright, cool [55 degrees F, 13 degrees C) night temperature room"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Lily-like flowers (to 4” wide and long), ranging in shape from bell-shaped to spider-like, bloom in clusters in summer atop leafless stalks."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The coarse, sword-like green basal leaves form in a spiral fashion."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The leafless stems are called scapes.  They are sturdy and rigid."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Houseplants",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cutting Garden",
+    "Drought Tolerant Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds",
+    "Moths",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Heat",
+    "Humidity",
+    "Salt",
+    "Urban Conditions"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Nausea, stomach pain, vomiting, and diarrhea."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Stems"
+  ]
+}

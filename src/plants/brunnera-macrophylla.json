@@ -1,0 +1,159 @@
+{
+  "fullName": "Brunnera macrophylla",
+  "name": "brunnera-macrophylla",
+  "commonNames": [
+    "Brunnera",
+    "False forget-me-not",
+    "Large-leaf brunnera",
+    "Siberian bugloss"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/brunnera-macrophylla/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Brunnera",
+  "species": "macrophylla",
+  "family": "Boraginaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Turkey, North Caucasus, Transcaucus"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit resistant"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 1 ft. 6 in.",
+    "Width: 1 ft. 6 in. - 2 ft. 6 in."
+  ],
+  "plant-type": [
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "Blue",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup",
+    "Saucer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small blue flowers with 5 petals and white centers resemble Forget-Me-not flowers. They occur in clusters on stems held above the plant in April-May."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Heart-shaped leaves with a rough texture, impressed venation, up to 6 inches long. Some cultivars have variegated leaves. They grow in clumps"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "fullName": "Pleiospilos bolusii",
+  "name": "pleiospilos-bolusii",
+  "commonNames": [
+    "African Living Rock",
+    "Living Rock Cactus",
+    "Mimicry Plant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pleiospilos-bolusii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pleiospilos",
+  "species": "bolusii",
+  "family": "Aizoaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "South Africa"
+  ],
+  "plant-type": [
+    "Perennial",
+    "Succulent"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

@@ -1,0 +1,169 @@
+{
+  "fullName": "Salix alba 'Tristis'",
+  "name": "salix-alba-tristis",
+  "commonNames": [
+    "Golden Weeping Willow",
+    "White Willow"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/salix-alba-tristis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Salix",
+  "species": "alba",
+  "family": "Salicaceae",
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, central Asia and northern Africa."
+  ],
+  "wildlife-value": [
+    "Attracts birds and insect pollinators."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Textural "
+  ],
+  "dimensions": [
+    "Height: 50 ft. 0 in. - 75 ft. 0 in.",
+    "Width: 50 ft. 0 in. - 75 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Open",
+    "Rounded",
+    "Weeping"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Fruits are a two-valved capsule."
+  ],
+  "flower-color": [
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The 4\" leaves are gray-green on top and a white on the underside.  The fall colors may be showy."
+  ],
+  "bark-color": [
+    "Dark Brown"
+  ],
+  "surface/attachment": [
+    "Furrowed"
+  ],
+  "bark-description": [
+    "The bark is a yellow-brown in color."
+  ],
+  "stem-color": [
+    "Gold/Yellow"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Rain Garden",
+    "Water Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Flowering Tree",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Erosion",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Frequent Disease Problems",
+    "Frequent Insect Problems",
+    "Messy",
+    "Weak Wood"
+  ]
+}

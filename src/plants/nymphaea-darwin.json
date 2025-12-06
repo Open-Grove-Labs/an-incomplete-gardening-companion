@@ -1,0 +1,141 @@
+{
+  "fullName": "Nymphaea 'Darwin'",
+  "name": "nymphaea-darwin",
+  "commonNames": [
+    "Darwin"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nymphaea-darwin/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nymphaea",
+  "family": "Nymphaeaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "wildlife-value": [
+    "Lilypads provide a landing place for thirsty bees, provide shelter for fish and shading helps prevent algae growth."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Water Plant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "6-7.5 inch flowers with light pink inner petals that deepen. Outer petals are white turning pinkish; slight fragrance"
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Orbicular"
+  ],
+  "leaf-margin": [
+    "Sinuate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "10-11 in. green leaves; new leaves are brownish"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Mass Planting",
+    "Small groups"
+  ]
+}

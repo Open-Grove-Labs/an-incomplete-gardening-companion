@@ -1,0 +1,220 @@
+{
+  "fullName": "Stylosanthes biflora",
+  "name": "stylosanthes-biflora",
+  "commonNames": [
+    "Endbeak Pencilflower",
+    "Pencil Flower",
+    "Sidebeak Pencilflower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/stylosanthes-biflora/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Stylosanthes",
+  "species": "biflora",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central & Eastern U.S.A"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "AZ ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "LA ",
+    "MD ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Host plant to Barred Yellow butterfly.  Deer, quail, turkeys and rabbits are attracted to the foliage."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Climbing",
+    "Erect",
+    "Horizontal"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Small seedpods will appear after the flowers bloom.  Each has two segments.  The first is infertile while the second contains one seed."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange"
+  ],
+  "flower-inflorescence": [
+    "Head",
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Irregular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small pea-like flowers with 5 yellow petals growing singly or in small clusters at the end of the branches. Flowers late spring through fall."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Compound leaves with 3 leaflets. The upper surface is medium green while the undersides are paler with short hairs. Leaflets are .5 to 1.5 inches long and oval.  Veins on the upper leaf surface may appear to be shiny."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "It has bristle-tipped, thin, wiry stems, and is branched at the base and also above the base.  They can be found standing erect, climbing or in a horizontal position."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil"
+  ]
+}

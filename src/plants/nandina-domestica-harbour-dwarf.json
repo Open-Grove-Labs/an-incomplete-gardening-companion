@@ -1,0 +1,177 @@
+{
+  "fullName": "Nandina domestica 'Harbour Dwarf'",
+  "name": "nandina-domestica-harbour-dwarf",
+  "commonNames": [
+    "Harbour Dwarf Nandina"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nandina-domestica-harbour-dwarf/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nandina",
+  "species": "domestica",
+  "family": "Berberidaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed"
+  ],
+  "wildlife-value": [
+    "Leaves and berries are toxic to livestock and other domestic animals, this plant is particularly resistant to damage by deer. Berries contain cyanide and when consumed in quantity can be toxic to birds."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Round, fleshy, red fruit, less than 0.5 inches"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Panicle"
+  ],
+  "flower-description": [
+    "White with yellow anthers"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Tripinnately compound, leaves emerge in spring and turn reddish in the winter"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Lawn",
+    "Naturalized Area",
+    "Patio",
+    "Pool/Hardscape",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Hydrogen cyanide is highly poisonous if ingested in quantity. All parts are toxic to humans, cats, dogs, livestock, horses, and birds such as the Cedar Waxwing. Weakness, incoordination, seizures, coma, respiratory failure, and death can occur from ingestion."
+  ],
+  "poison-toxic-principle": [
+    "Cyanogenic glycosides"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves",
+    "Stems"
+  ]
+}

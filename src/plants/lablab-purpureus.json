@@ -1,0 +1,196 @@
+{
+  "fullName": "Lablab purpureus",
+  "name": "lablab-purpureus",
+  "commonNames": [
+    "Hyacinth Bean",
+    "Indian Bean",
+    "Lablab"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lablab-purpureus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lablab",
+  "species": "purpureus",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical Africa"
+  ],
+  "wildlife-value": [
+    "Attracts hummingbirds, a good choice for food plots and will attract deer."
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "edibility": [
+    "Mature dried seeds are edible if thoroughly boiled, changing the water several times. Young immature pods can be cooked and eaten."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Poisonous",
+    "Vine"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Purple/Lavender"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Purple seedpods are 2 to 4 in. long smooth, flat, pointed, and contain 2 to 4 seeds. Seeds can be white, cream, pale brown, dark brown, red, black, or mottled depending on the variety."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Irregular"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "The fragrant flowers are in elongated clusters, pea-shaped and white, pink, or purple"
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Pinnately divided leaves with 3 large leaflets 3-6 inches long. Each egg-shaped leaflet is smooth above and shorthaired below."
+  ],
+  "stem-color": [
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Purplish stems"
+  ],
+  "landscape-location": [
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Heat",
+    "Humidity"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Toxic only if large quantities are eaten.  Weakness, vomiting, labored breathing, twitching, stupor, convulsions from mature dried seeds.\n\nTOXIC ONLY IF LARGE QUANTITIES EATEN."
+  ],
+  "poison-toxic-principle": [
+    "Cyanogenic glycoside"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Seeds"
+  ],
+  "uses": "It has been used in the Philippines and China\nas a stimulant, to reduce fever, to reduce flatulence, to\nstimulate digestion, and as an antispasmodic. In Namibia, the root has been used to treat heart conditions."
+}

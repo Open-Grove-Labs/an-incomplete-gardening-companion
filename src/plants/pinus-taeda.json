@@ -1,0 +1,207 @@
+{
+  "fullName": "Pinus taeda",
+  "name": "pinus-taeda",
+  "commonNames": [
+    "Loblolly Pine",
+    "Oldfield Pine",
+    "Yellow Pine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pinus-taeda/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pinus",
+  "species": "taeda",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern United States"
+  ],
+  "fire-risk-rating": [
+    "high flammability"
+  ],
+  "wildlife-value": [
+    "It provides winter cover. This plant supports Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed. This plant also supports Eastern Pine Elfin (Callophrys niphon) which have one flight from March-June. Squirrels and birds eat the seeds."
+  ],
+  "play-value": [
+    "Easy to Grow",
+    "Textural ",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Nesting"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "This tree is moderately resistant to damage from deer."
+  ],
+  "dimensions": [
+    "Height: 60 ft. 0 in. - 90 ft. 0 in.",
+    "Width: 20 ft. 0 in. - 40 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Pyramidal",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet",
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "The stalkless, ovoid-cylindrical to narrow conical cones (3-6” long) with sharply-spined scales appear in groups of 1-3.  They release their seeds from fall to winter and stay on the tree for a year before dropping. They are rusty-brown, umbo dorsal and bearing a recurved spine. Smaller pollen cones are yellow-brown in groups of 6-12. Fruit displays from October to November."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "In the spring, the loblolly pine has red to yellow male cones and yellow to purple female cones. Coning is from March to April."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Acicular"
+  ],
+  "leaf-margin": [
+    "Denticulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Dark yellow-green needles ( 3 per fascicle) in bundles of three 6\"-10\" long with 1\" long sheaths and are clustered on dwarf shoots.  They are finely-toothed, stiff and slender.  They drop during the tree's third year."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Peeling",
+    "Ridges",
+    "Shredding"
+  ],
+  "bark-plate-shape": [
+    "Irregular"
+  ],
+  "bark-description": [
+    "Red to grey brown scaly young bark and red-brown furrowed rounded scaly plates with maturity.  The plates are broad and flat."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems are erect, straight, tall, bearing branches typically above one's head. Young twigs quickly abort fascicles except at apex. The upper branches tend to curve upwards while the lower branches droop, eventually falling off the tree as it ages."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Recreational Play Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Garden for the Blind",
+    "Native Garden",
+    "Nighttime Garden",
+    "Rain Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Mass Planting",
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Moths",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Wet Soil"
+  ],
+  "uses": "Native Americans used this tree for its lumber. They would use the lumber for carving and in building canoes."
+}

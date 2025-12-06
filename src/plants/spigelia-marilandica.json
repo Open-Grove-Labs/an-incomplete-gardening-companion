@@ -1,0 +1,164 @@
+{
+  "fullName": "Spigelia marilandica",
+  "name": "spigelia-marilandica",
+  "commonNames": [
+    "Indian Pink",
+    "Indian-pink",
+    "Pinkroot",
+    "Wormgrass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/spigelia-marilandica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Spigelia",
+  "species": "marilandica",
+  "family": "Loganiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Alabama, Illinois, Kentucky and Tennessee"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Flowers are attractive to hummingbirds."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "fire in the landscape."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 4 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Fruits are available June-July"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-description": [
+    "Cluster of terminal on one side of the stem, 2 to 12 vivid red tubular flowers with yellow interior; tips of the five pointed petals flare slightly backwards; stamens and style project beyond the petals; This plant blooms May-June."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Four to seven pairs of 2 to 4 in. sessile, opposite, ovate or entire leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "attracts": [
+    "Hummingbirds",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Fire"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Dim vision, vomiting, dilated pupils, twitching of face, culvulsions"
+  ],
+  "poison-toxic-principle": [
+    "Alkaloid spigiline"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

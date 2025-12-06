@@ -1,0 +1,260 @@
+{
+  "fullName": "Dicentra cucullaria",
+  "name": "dicentra-cucullaria",
+  "commonNames": [
+    "Dutchman's Breeches",
+    "Dutchman's Britches"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dicentra-cucullaria/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dicentra",
+  "species": "cucullaria",
+  "family": "Papaveraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "E. Canada to N. & E. U.S.A."
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "CT ",
+    "DC ",
+    "GA ",
+    "IA ",
+    "ID ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "MA ",
+    "MD ",
+    "ME ",
+    "MI ",
+    "MN ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "ND ",
+    "NE ",
+    "NH ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "OR ",
+    "PA ",
+    "RI ",
+    "SC ",
+    "SD ",
+    "TN ",
+    "VA ",
+    "VT ",
+    "WA ",
+    "WI ",
+    "WV\nCanada: MB ",
+    "NB ",
+    "NS ",
+    "ON ",
+    "PE ",
+    "QC"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit resistant"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 3 in. - 0 ft. 6 in.",
+    "Width: 0 ft. 6 in. - 0 ft. 8 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Poisonous",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Cascading",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Spring",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The oval seed capsules taper into points at both ends. These capsules split apart into 2 segments to release many seeds. Fruits appear from May to June."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Urn"
+  ],
+  "flower-petals": [
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "3/4 inch long white flowers bloom on 5-10 inch long arching leafless stems and resemble upside-down pantaloons. 2 inflated petals form spurs. Blooms March-May."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Deltoid"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The triangular-shaped greyish-green leaves are 3-6 inches long, basilar, stand upright on long stems and are deeply cut and fernlike."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Cream/Tan",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Stems are tan to reddish-brown and upright"
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Shade Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Trembling, staggering, vomiting, diarrhea, convulsions, labored breathing if eaten in large quantities. Skin irritation after repeated contact with the cell sap is mild and lasts a short time."
+  ],
+  "poison-toxic-principle": [
+    "Several isoquinolone alkaloids."
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "fullName": "Rhododendron maximum",
+  "name": "rhododendron-maximum",
+  "commonNames": [
+    "Great Rhododendron",
+    "Max",
+    "Rosebay Rhododendron",
+    "White Laurel"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rhododendron-maximum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rhododendron",
+  "species": "maximum",
+  "family": "Ericaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "North America"
+  ],
+  "distribution": [
+    "Ontario and Nova Scotia south to Ohio",
+    "Alabama",
+    "and Georgia"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "It proves winter and extreme weather coverage.  Hummingbirds, butterflies, and bees are attracted to its blooms for nectar.  Members of the genus Rhododendron support the following specialized bee: Andrena (Andrena) cornelli."
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 15 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 12 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Open"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Oblong seed capsule which splits open when ripe to release numerous seeds. Displays from September to October."
+  ],
+  "flower-color": [
+    "Green",
+    "Orange",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Flowers (to 2” across) rose-purplish to pink to white, often with olive green to orange spots. Flowers bloom in umbel-like raceme inflorescences from June to August."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery",
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Large, alternate, simple dark green and leathery with a smooth margin and rust covered hairs on the undersides. They can range from 4 to 8 inches long."
+  ],
+  "bark-color": [
+    "Light Brown"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "bark-description": [
+    "The bark is thin, smooth and light brown on young trees.  As the tree ages, thin scales develop."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Houseplants",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Salivation, watering of eyes and nose, abdominal pain, loss of energy, depression, nausea and vomiting, diarrhea, weakness, cardiac failure, difficult breathing, progressive paralysis of arms and legs, coma."
+  ],
+  "poison-toxic-principle": [
+    "Andromedotoxin, Grayantoxin"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

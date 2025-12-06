@@ -1,0 +1,103 @@
+{
+  "fullName": "Phyllanthus urinaria",
+  "name": "phyllanthus-urinaria",
+  "commonNames": [
+    "Chamberbitter",
+    "Chamber Bitter",
+    "Gripeweed",
+    "Shatterstone",
+    "Stonebreaker"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/phyllanthus-urinaria/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Phyllanthus",
+  "species": "urinaria",
+  "family": "Phyllanthaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical & Subtropical Asia to N. Australia"
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "habit/form": [
+    "Erect",
+    "Mounding",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "fruit-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Green or greenish red .12\" in diameter divided into three parts. The surface has scales that are raised and when it dries it expel seeds for dispersal."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Insignificant small greenish-yellow-white male and female flowers on same plant.  Female flowers form from the first to middle part of the leaf and male flowers from the middle to the tip."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Tiny (0.2\" long 0.2\") wide alternate bright dark green above reddish green below."
+  ],
+  "stem-color": [
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Branching slender stems are crimson red."
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

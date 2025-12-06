@@ -1,0 +1,266 @@
+{
+  "fullName": "Solanum pseudocapsicum",
+  "name": "solanum-pseudocapsicum",
+  "commonNames": [
+    "Christmas Cherry",
+    "False Jerusalem Cherry",
+    "Jerusalem Cherry",
+    "Madeira Cherry",
+    "Madeira Winter Cherry",
+    "Natal Cherry",
+    "Winter Cherry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/solanum-pseudocapsicum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Solanum",
+  "species": "pseudocapsicum",
+  "family": "Solanaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Boliva to Brazil, and southern South America"
+  ],
+  "distribution": [
+    "Native:  Argentina in the Northeast",
+    "Northwest",
+    "and South; Bolivia",
+    "Brazil in the South",
+    "Southeast",
+    "and West-Central",
+    "Chile central north",
+    "Paraguay",
+    "and Uruguay; Introduced: US--Al",
+    "CT",
+    "FL",
+    "GA",
+    "HI",
+    "LA",
+    "MA",
+    "MS",
+    "NY",
+    "NC SC",
+    "and TX; Czechoslovakia",
+    "Ecuador",
+    "Egypt",
+    "Ethiopia",
+    "France",
+    "Greece",
+    "India",
+    "Iran",
+    "Kenya",
+    "Madeira",
+    "Mexico Southwest",
+    "Pakistan",
+    "Panama",
+    "Peru",
+    "Philippines",
+    "Portugal",
+    "Queensland",
+    "South Australia",
+    "South Wales",
+    "Spain",
+    "Taiwan",
+    "Turkey",
+    "Venezuela",
+    "Victoria",
+    "Vietnam",
+    "Zaire",
+    "and Zimbabwe"
+  ],
+  "wildlife-value": [
+    "Birds in the wild disperse the seeds. Outdoor plants are pollinated by insects and the wind."
+  ],
+  "play-value": [
+    "Colorful"
+  ],
+  "edibility": [
+    "All parts of the plant are toxic and inedible."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 4 in. - 3 ft. 0 in.",
+    "Width: 0 ft. 4 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Houseplant",
+    "Perennial",
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruits are ornamental berries and are available in colors of red, orange, and yellow. They are smooth, glossy, and shiny. They are an oval shape and measure 0.5 to 0.75 inches in length. They contain disk-like seeds."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme",
+    "Solitary"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers are star-shaped and may be solitary or appear in clusters. Each flower measures 2 to 3 mm in diameter. They are typically white and sometimes light purple. Blooming occurs during the summer."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves are dark green, simple, glossy, and maybe smooth or hairy. They are elliptical to lanceolate in shape and measure up to 3 inches long and 1 inch wide. The margins are entire, lobed, and undulate."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The stems are multi-branched and wiry. The stems may be smooth or sparsely hairy."
+  ],
+  "landscape-location": [
+    "Container",
+    "Patio"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Nausea, vomiting, salivation, drowsiness, abdominal pain, diarrhea, weakness, gastrointestinal disturbances, possible ulceration of the gastrointestinal system, seizures, depression, respiratory depression, and shock."
+  ],
+  "poison-toxic-principle": [
+    "Solanine, Solanocapsine and other alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice"
+  ],
+  "uses": "The plant has been used externally to treat boils and abdominal pain in folk medicine."
+}

@@ -1,0 +1,176 @@
+{
+  "fullName": "Gypsophila paniculata",
+  "name": "gypsophila-paniculata",
+  "commonNames": [
+    "Baby's Breath"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/gypsophila-paniculata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Gypsophila",
+  "species": "paniculata",
+  "family": "Caryophyllaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "wildlife-value": [
+    "Flowers attract butterflies."
+  ],
+  "play-value": [
+    "Attractive Flowers"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial"
+  ],
+  "habit/form": [
+    "Arching",
+    "Mounding"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Good Dried",
+    "Long Bloom Season",
+    "Long-lasting"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Many small white flowers, sometimes double-flowered bloom from early summer to early fall."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery",
+    "Slippery",
+    "Smooth"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Acicular"
+  ],
+  "leaf-margin": [
+    "Doubly Crenate"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "stem-buds": [
+    "Smooth/Hairless"
+  ],
+  "stem-description": [
+    "may be erect or sprawling,  much-branched at or near crown"
+  ],
+  "landscape-location": [
+    "Container",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Small groups"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Diseases",
+    "Drought",
+    "Salt"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Malodorous",
+    "Poisonous to Humans",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Eyes, nose, and sinus irritation and asthma after repeated handling; skin irritation after contact"
+  ],
+  "poison-toxic-principle": [
+    "Saponin?"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark"
+  ]
+}

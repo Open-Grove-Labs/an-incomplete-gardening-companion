@@ -1,0 +1,166 @@
+{
+  "fullName": "Prunus serrulata 'Ukon'",
+  "name": "prunus-serrulata-ukon",
+  "commonNames": [
+    "Japanese Flowering Cherry",
+    "Ukon Cherry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-serrulata-ukon/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Prunus",
+  "species": "serrulata",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "dimensions": [
+    "Height: 20 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 25 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Vase"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "1.5 to 2-inch semidouble to double greenish-yellow or light green flowers with a pink center in April. Blooms in clusters."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "4-inch lance-shaped leaves and serrated margins. New growth is bronzy turning to green. Purplish brown to purplish-red fall color"
+  ],
+  "bark-color": [
+    "Light Brown"
+  ],
+  "surface/attachment": [
+    "Peeling"
+  ],
+  "bark-description": [
+    "Smooth coppery-brown peeling bark"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "twigs glossy yellow-brown,"
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Asian Garden"
+  ],
+  "design-feature": [
+    "Flowering Tree",
+    "Small Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "fullName": "Larix decidua",
+  "name": "larix-decidua",
+  "commonNames": [
+    "European Larch"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/larix-decidua/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Larix",
+  "species": "decidua",
+  "family": "Pineaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Central and Southern Europe"
+  ],
+  "wildlife-value": [
+    "Attractive to birds."
+  ],
+  "play-value": [
+    "Wildlife Cover/Habitat"
+  ],
+  "dimensions": [
+    "Height: 60 ft. 0 in. - 100 ft. 0 in.",
+    "Width: 20 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Needled Evergreen",
+    "Deciduous",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Irregular",
+    "Pyramidal"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "This tree is non-fruiting but produces 1.5\" reddish-brown cones that are covered with brown hairs."
+  ],
+  "flower-description": [
+    "Non-flowering"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The 1\", bright green needles will turn a yellow-amber color in the fall."
+  ],
+  "bark-color": [
+    "Dark Brown"
+  ],
+  "surface/attachment": [
+    "Scaly"
+  ],
+  "bark-description": [
+    "The bark on larger branches can be attractive."
+  ],
+  "stem-is-aromatic": "N",
+  "design-feature": [
+    "Accent",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

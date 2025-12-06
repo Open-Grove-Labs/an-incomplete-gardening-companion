@@ -1,0 +1,175 @@
+{
+  "fullName": "Acer spicatum",
+  "name": "acer-spicatum",
+  "commonNames": [
+    "Mountain Maple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/acer-spicatum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Acer",
+  "species": "spicatum",
+  "family": "Sapindaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Northeastern North America"
+  ],
+  "distribution": [
+    "Saskatchewan to Newfoundland",
+    "to Pennsylvania",
+    "to high elevations of the Appalachian Mountains to northern Georgia"
+  ],
+  "wildlife-value": [
+    "Members of the genus Acer support Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Samara"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Paired reddish samara 3⁄4–1 1⁄4 in. long, maturing in late summer to early autumn"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Pink",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small, greenish yellow flowers in early summer"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "2 to 5 in. opposite, simple, leaves with 3 or sometimes slightly 5 lobes; yellow, orange to red fall color."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Scaly",
+    "Smooth"
+  ],
+  "bark-description": [
+    "Thin, brownish or grayish brown. Smooth eventually becoming slightly furrowed or scaly."
+  ],
+  "stem-color": [
+    "Gray/Silver",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Young stems grayish developing purplish red, often greenish on one side.  The bark contains tannins, which are used in tanning leather."
+  ],
+  "attracts": [
+    "Moths",
+    "Pollinators"
+  ]
+}

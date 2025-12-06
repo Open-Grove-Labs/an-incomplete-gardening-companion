@@ -1,0 +1,125 @@
+{
+  "fullName": "Aphanes arvensis",
+  "name": "aphanes-arvensis",
+  "commonNames": [
+    "Field Parsley Piert",
+    "Parsley Piert",
+    "Parsley-piert"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/aphanes-arvensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Aphanes",
+  "species": "inexspectata",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Macronesia, Europe, Asia"
+  ],
+  "edibility": [
+    "Leaves can be eaten in salads. Collect spring leaves for eating and drying."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herb",
+    "Weed"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "The fruit is an oval pointed glabrous achene"
+  ],
+  "flower-color": [
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "Colored Sepals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Stipules form a leaf-like cup, enclosing the flower. \nThe tiny green flower has four sepals and no petals in dense clusters in the leaf axils. Flowers April to Sept."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "The short-stalked gray-green leaves have three segments each deeply lobed at the tip. Wedge-shaped base,  bi-ternately lobed."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Many branched green stem"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "Previously and currently used in herbal medicine for kidney stones"
+}

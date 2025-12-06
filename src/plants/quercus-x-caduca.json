@@ -1,0 +1,78 @@
+{
+  "fullName": "Quercus x caduca",
+  "name": "quercus-x-caduca",
+  "commonNames": [
+    "Hybrid Oak"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/quercus-x-caduca/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Quercus",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern U.S.A. and Texas"
+  ],
+  "distribution": [
+    "AL ",
+    "FL ",
+    "GA ",
+    "LA ",
+    "MS ",
+    "NC ",
+    "SC ",
+    "TX ",
+    "VA"
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Early through late spring brownish-green insignificant flowers appear."
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "bark-color": [
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Ridges"
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Brown stems"
+  ]
+}

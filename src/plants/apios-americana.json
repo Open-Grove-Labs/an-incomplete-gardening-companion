@@ -1,0 +1,239 @@
+{
+  "fullName": "Apios americana",
+  "name": "apios-americana",
+  "commonNames": [
+    "America-Hodoimo",
+    "American Groundnut",
+    "Cinnamon Vine",
+    "Groundnut",
+    "Hodoimo",
+    "Hopniss",
+    "Indian Potato",
+    "Potato Bean"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/apios-americana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Apios",
+  "species": "americana",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Canada, southeastern and central U.S.A."
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "CO ",
+    "CT ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "IA ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "LA ",
+    "MA ",
+    "MD ",
+    "ME ",
+    "MI ",
+    "MN ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "ND ",
+    "NE ",
+    "NH ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "RI ",
+    "SC ",
+    "SD ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "VT ",
+    "WI ",
+    "WV\nCanada: NB ",
+    "NS ",
+    "ON ",
+    "PE ",
+    "QC"
+  ],
+  "wildlife-value": [
+    "Larval host for Silver-spotted Skipper (Epargyreus clarus). Mammals will eat the fruits and roots."
+  ],
+  "play-value": [
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "edibility": [
+    "Cooked, mature tubers are similar to a potato but have a nuttier flavor and finer texture. They also have 3 times the protein of potatoes as well as numerous other health benefits. The legume is also edible."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fleshy dry bean-shaped legume 2-4 inches long with several seeds July to Sept."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Irregular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Maroon or reddish-brown pea-like flowers with 5 petals in compact racemes arising from leaf axils. Blooms from June to Aug."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Egg-shaped pinnately compound leaves with 5-7 leaflets up to 2 inches long and 1 inch wide. Hairs sometimes present on the paler undersides."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Twining green stems"
+  ],
+  "landscape-location": [
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "Native Americans used the tubers extensively for food and taught settlers how to use them."
+}

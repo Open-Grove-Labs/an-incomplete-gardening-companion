@@ -1,0 +1,248 @@
+{
+  "fullName": "Acer saccharum",
+  "name": "acer-saccharum",
+  "commonNames": [
+    "Hard Maple",
+    "Leucoderme",
+    "Northern Sugar Maple",
+    "Sugar Maple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/acer-saccharum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Acer",
+  "species": "saccharum",
+  "family": "Sapindaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Layering",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "North America"
+  ],
+  "distribution": [
+    "Eastern North America",
+    "from Georgia to Canada"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Members of the genus Acer support Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed. The seeds are eaten by birds and small mammals. The cavities are utilized by cavity-nesting birds.  Deer and moose browse the stems and leaves. Porcupines consume the bark and can girdle the upper stem. Butterflies and other pollinating insects enjoy the nectar from the flowers."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Pieces Used in Games",
+    "Shade ",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Nesting"
+  ],
+  "edibility": [
+    "Sap used for maple syrup"
+  ],
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 120 ft. 0 in.",
+    "Width: 30 ft. 0 in. - 60 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Native Plant",
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Oval"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet",
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Samara"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is U-shaped, paired, papery-winged samara that averages 1 inch in length. Color is green maturing to brown. Available from June to September in North Carolina."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Separate male and female flowers are greenish-yellow drooping panicles on long slender stems in clusters up to 3 inches long. In North Carolina, the flowers are available from April to June."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Palmasect"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "3 to 6 inches long and wide with 5 lobes. The basal lobes are relatively small, while the upper lobes are larger and deeply notched. The tip acuminate, base cordate and margins entire. Color is dark green in summer, changing to yellow, orange and red in fall."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Scaly"
+  ],
+  "bark-description": [
+    "The  bark variable but generally light gray to gray-brown, rough, deeply furrowed, darker with scales as the tree matures."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Scaly"
+  ],
+  "stem-bud-terminal": [
+    "Only 1 terminal bud, larger than side buds"
+  ],
+  "stem-bud-scales": [
+    "Enclosed in more than 2 scales"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-lenticels": [
+    "Conspicuous"
+  ],
+  "stem-description": [
+    "Stems are slender with lenticels. Stems and buds can be green, brown to reddish-brown. Buds are 1/4\"-1/2\", cone-shaped, acute, and have 4-8 pairs of lateral scales."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Recreational Play Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Native Garden",
+    "Nighttime Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "uses": "These trees can be tapped to make maple syrup. The wood is used for flooring, furniture and other items. Native Americans and early European settlers used this tree as a main source of sweetener. Native Americans are also known to have used the sap of this tree for candies, as a beverage, in beer (fresh or fermented), and used to cook meat."
+}

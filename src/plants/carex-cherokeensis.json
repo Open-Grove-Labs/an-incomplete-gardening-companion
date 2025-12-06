@@ -1,0 +1,208 @@
+{
+  "fullName": "Carex cherokeensis",
+  "name": "carex-cherokeensis",
+  "commonNames": [
+    "Cherokee Sedge",
+    "Sedges"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/carex-cherokeensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Carex",
+  "species": "cherokeensis",
+  "family": "Cyperaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "SE and central USA"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "FL ",
+    "GA ",
+    "KY ",
+    "LA ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "OK ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA"
+  ],
+  "wildlife-value": [
+    "Provides cover for small animals like toads and nesting material for birds. This plant also supports various Satyr larvae."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 6 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Native Plant",
+    "Ornamental Grasses and Sedges"
+  ],
+  "habit/form": [
+    "Arching",
+    "Clumping",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Spring",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "2 inch long wheat-like greenish seed heads in spring to early summer."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Grass-like greenish flower is produced in mid-spring in several, drooping pistillate spikes that mature to brown and resemble wheat."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Sheath",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Slender deep green glossy grass-like leaves with parallel veins are arching and 16 inches long by 1/4 inch wide."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Flexible green stems"
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Meadow",
+    "Naturalized Area",
+    "Pond",
+    "Riparian",
+    "Small Space",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heat",
+    "Wet Soil"
+  ]
+}

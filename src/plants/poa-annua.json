@@ -1,0 +1,137 @@
+{
+  "fullName": "Poa annua",
+  "name": "poa-annua",
+  "commonNames": [
+    "Annual Blue",
+    "Annual Bluegrass",
+    "Annual Meadowgrass",
+    "Low Speargrass",
+    "Meadow Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/poa-annua/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Poa",
+  "species": "annua L.",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "P. annua is native to temperate areas of Eurasia and Africa."
+  ],
+  "distribution": [
+    "P. annua is a cosmopolitan grass that is listed as one of the most aggressive weeds invading areas from sea level up to 1200 m in elevation. It can be found from the Arctic to the Antarctic regions in practically all terrestrial ecosystems. It is listed as a weed in 38 crops in more than 80 countries within and outside its native distribution range. It grows in a wide variety of soils",
+    "tolerates trampling",
+    "mowing",
+    "and frozen conditions",
+    "and is a frequent weed in areas heavily trafficked by livestock or humans. This species has the potential to outcompete other plants and crops. The list of countries in which this species now occurs may not be complete",
+    "as P. annua has spread to almost all areas of the world where temperate and subtropical crops are grown",
+    "and to some relatively undisturbed habitats."
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Irregular"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The spikelets are stalked, awnless, 1 to 2 cm (3/8 to 3/4 in.) long when flowering, and loosely arranged on delicate paired or spreading branches. The pollen is a known allergen and contributes to hay fever."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves are flat, slightly keeled with characteristic 'tramlines'. The leaves are smooth and abruptly contracted at the apices to give a characteristic 'boat-shaped tip'. A further characteristic is that the leaves are often transversely wrinkled. The leaves are folded in the sheath which is smooth and somewhat compressed.\nScreen reader support enabled."
+  ],
+  "stem-is-aromatic": "N",
+  "problems": [
+    "Weedy"
+  ]
+}

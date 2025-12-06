@@ -1,0 +1,112 @@
+{
+  "fullName": "Evolvulus glomeratus",
+  "name": "evolvulus-glomeratus",
+  "commonNames": [
+    "Blue Daze",
+    "Brazillian Dwarf Morning-glory",
+    "Dwarf Morning-glory"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/evolvulus-glomeratus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Evolvulus",
+  "species": "glomeratus",
+  "family": "Convolvulaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "South America"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 6 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Ground Cover",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Spreading"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Blue"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Half inch wide blue blossoms, with white centers. Flowers usually close up at night and on cloudy days. Blooms from June to frost."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "One inch long oval leaves."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems root easily when they touch the ground."
+  ],
+  "landscape-location": [
+    "Container"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ]
+}

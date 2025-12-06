@@ -1,0 +1,210 @@
+{
+  "fullName": "Crataegus pinnatifida",
+  "name": "crataegus-pinnatifida",
+  "commonNames": [
+    "Chinese Hawberry",
+    "Chinese Hawthorn",
+    "Hawthorn",
+    "Hawthorne",
+    "Mountain Hawthorn",
+    "Thornapple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/crataegus-pinnatifida/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Crataegus",
+  "species": "pinnatifida",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Russian Far East to China and Japan"
+  ],
+  "distribution": [
+    "Northern China and Korea"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "This plant provides nectar for pollinators.  It is a larval host plant for Gray Hairstreak (Strymon melinus), Red-spotted Purple (Limenitis arthemis astyanax), and Viceroy (Limenitis archippus). Red-spotted Purple and Viceroy rarely use this host plant in North Carolina."
+  ],
+  "edibility": [
+    "The fruit is edible, raw or cooked, with a pleasant flavor. The orange fruit has a mealy texture with an acid taste and a slight bitterness but is fairly nice raw. It ripens fairly late. The fruit can be used in making pies, preserves, etc, and can also be dried for later use. In China, the fruit is an ingredient used in sweet and sour sauce."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 23 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 23 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Open"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Pome"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Globular, 3/4 inch light red fruit, edible, and attractive to birds."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "White, 3/4 inch flowers in 3 inch clusters. Flower blooms from April to May. Initially an unpleasant odor, but turning more pleasant."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Leaves are oval to wedge shaped, notched on the edges, 2 to 4 inches long with 5-9 lobes."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Scaly"
+  ],
+  "bark-plate-shape": [
+    "Irregular"
+  ],
+  "bark-description": [
+    "Bark is thin and gray. On old stems, it breaks up into narrow scales."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Multi-stemmed, twiggy branches."
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Flowering Tree",
+    "Hedge"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Fire",
+    "Pollution",
+    "Wind"
+  ],
+  "uses": "The wood is strong, heavy, tough, and hard, but has little commercial value."
+}

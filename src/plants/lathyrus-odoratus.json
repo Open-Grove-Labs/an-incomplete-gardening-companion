@@ -1,0 +1,151 @@
+{
+  "fullName": "Lathyrus odoratus",
+  "name": "lathyrus-odoratus",
+  "commonNames": [
+    "Annual Sweet Pea",
+    "Sweet Pea"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lathyrus-odoratus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lathyrus",
+  "species": "odoratus",
+  "family": "Fabacaeae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "S. Italy, Sicilia"
+  ],
+  "climbing-method": [
+    "Tendrils",
+    "Twining"
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Poisonous",
+    "Vine"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Irregular",
+    "Lipped"
+  ],
+  "flower-petals": [
+    "fused petals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Various colors (except yellow) including red, mauve, peach, lilac, white, pink, and scarlet pea-like in elongated clusters appear May-July"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves alternate, pinnately divided, each with 2 or more leaflets and a terminal tendril"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Herbaceous vine with winged stems"
+  ],
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Cottage Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Lathyrism\": paralysis, slow and weak pulse, shallow breathing, convulsions"
+  ],
+  "poison-toxic-principle": [
+    "Amine, phenol, and glycoside"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Seeds"
+  ],
+  "uses": "It has been used medicinally"
+}

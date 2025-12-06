@@ -1,0 +1,129 @@
+{
+  "fullName": "Gratiola viscidula",
+  "name": "gratiola-viscidula",
+  "commonNames": [
+    "Hedge Hyssop",
+    "Short's hedgehyssop",
+    "Viscid Hedgehyssop"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/gratiola-viscidula/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Gratiola",
+  "species": "viscidula",
+  "family": "Plantaginaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Central & South Eastern U.S.A"
+  ],
+  "distribution": [
+    "Del.",
+    "D.C.",
+    "Fla.",
+    "Ga.",
+    "Ky.",
+    "Md.",
+    "N.C.",
+    "Ohio",
+    "S.C.",
+    "Tenn.",
+    "Va.",
+    "W.Va."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Water Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Dense",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Occasionally Wet"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "2 White with yellow center flowers on long stems grows in each leaf axis. They have 5 petals but 2 are often fused."
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Green leaves are clasping to the stem and lance-shaped."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-description": [
+    "Densely glandular puberulent green stem have a sticky feel."
+  ],
+  "landscape-location": [
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Water Garden"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "fullName": "Pinus serotina",
+  "name": "pinus-serotina",
+  "commonNames": [
+    "Bay Pine",
+    "Black Bark Pine",
+    "Marsh Pine",
+    "Pocosin Pine",
+    "Pond Pine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pinus-serotina/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pinus",
+  "species": "serotina",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern seaboard, S. New Jersey to Florida"
+  ],
+  "distribution": [
+    "NJ southwest to AL",
+    "east to FL"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "This plant supports Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed. This plant attracts birds, butterflies, moth larvae, and mammals."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Conical",
+    "Open",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "2 to 3 in., light yellow-brown, globose cones, armed with a small spine, that have either a round or pointed tip.  The scales are flat and the spine at the tip can easily come off.  They only open in response to heat from a fire and stay on the tree for many years after. Fruit displays in August."
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Flowers bloom in April."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Yellow-green 6 to 8 in. needles in bundles of 3 (3 per fascicle), sometimes 4.  They are thin, flexible, and may grow with a slight twist, tufting at the ends.  They fall off the tree after 3 to 4 years."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Ridges",
+    "Shredding"
+  ],
+  "bark-plate-shape": [
+    "Irregular",
+    "Rectangle"
+  ],
+  "bark-description": [
+    "Irregular furrowed/cross-checked into rectangular, flat, scaly plates. Dark brown bark that is broken into irregular, flattened, somewhat scaly plates."
+  ],
+  "stem-color": [
+    "Orange"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Covered with a powdery bloom (glaucous)"
+  ],
+  "stem-description": [
+    "The twigs are stout (yellow-orange) and glaucous.  They darken as they age."
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Nighttime Garden",
+    "Winter Garden"
+  ],
+  "attracts": [
+    "Moths",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Fire",
+    "Wet Soil"
+  ],
+  "uses": "Used for lumber and pulpwood and sawtimber"
+}

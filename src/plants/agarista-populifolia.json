@@ -1,0 +1,182 @@
+{
+  "fullName": "Agarista populifolia",
+  "name": "agarista-populifolia",
+  "commonNames": [
+    "Coast Leucothoe",
+    "Fetterbush",
+    "Florida Doghobble",
+    "Florida Leucothoe"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/agarista-populifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Agarista",
+  "species": "populifolia",
+  "family": "Ericaceae",
+  "country-or-region-of-origin": [
+    "Southeastern USA"
+  ],
+  "wildlife-value": [
+    "It provides excellent winter cover and nesting sites for songbirds. Flowers attract bees and butterflies."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "This plant is highly resistant to damage from deer."
+  ],
+  "edibility": [
+    "Poisonous"
+  ],
+  "dimensions": [
+    "Height: 8 ft. 0 in. - 12 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 8 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Arching",
+    "Erect"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Displays from September to October"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-description": [
+    "Fragrant, creamy white urceolate flowers in axillary (growing from an axil) raceme from April to May."
+  ],
+  "leaf-color": [
+    "Green",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Leathery",
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Glossy, simple, alternate, leathery, rich green leaves that grow on stems that often arch gracefully. Its foliage, tinged with copper-red on new growth, remains green through the winter. Leaves are similar to laurel."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Multi-stemmed"
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Hedge"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Erosion"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Watering of mouth, nose, eyes, later nausea, vomiting, sweating, abdominal pain, headache, weakness, skin tingling, convulsions"
+  ],
+  "poison-toxic-principle": [
+    "Andromedotoxin"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves"
+  ]
+}

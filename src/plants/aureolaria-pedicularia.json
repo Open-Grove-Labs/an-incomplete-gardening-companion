@@ -1,0 +1,182 @@
+{
+  "fullName": "Aureolaria pedicularia",
+  "name": "aureolaria-pedicularia",
+  "commonNames": [
+    "Fern-Leaf False Foxglove",
+    "Smooth False Foxglove",
+    "Yellow False Foxglove"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/aureolaria-pedicularia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Aureolaria",
+  "species": "pedicularia",
+  "family": "Orobanchaceae",
+  "life-cycle": [
+    "Annual",
+    "Biennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central and Eastern USA"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "FL",
+    "GA",
+    "KY",
+    "LA",
+    "MO",
+    "MS",
+    "NC",
+    "OK",
+    "SC",
+    "TN",
+    "TX",
+    "GS"
+  ],
+  "wildlife-value": [
+    "Attracts bees, ruby throated hummingbirds, and butterflies"
+  ],
+  "plant-type": [
+    "Annual",
+    "Ground Cover",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Oval seed capsule about ½\" long that has a slender beak at its apex. Contains many seeds."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "1-1.5 in., funnel-shaped, yellow flowers on leafy raceme; five flaring lobes at tip.  It blooms late summer to early fall."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "3 inches long 2 inches wide medium green to a purple-green rosette of basal leaves the first year are deeply lobed. In the second year, similar but smaller stem leaves appear and are opposite, lanceolate to ovate, mostly entire, hairs on the undersides, sessile with 3-7 pairs of lobes."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Smooth stem covered with glandular hairs, may be purple"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Dry Soil"
+  ]
+}

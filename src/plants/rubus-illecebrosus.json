@@ -1,0 +1,158 @@
+{
+  "fullName": "Rubus illecebrosus",
+  "name": "rubus-illecebrosus",
+  "commonNames": [
+    "Ballon berry",
+    "Blackberry",
+    "Dewberry",
+    "Roseberry",
+    "Strawberry-Raspberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rubus-illecebrosus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rubus",
+  "species": "illecebrosus",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "East Asia and Japan"
+  ],
+  "wildlife-value": [
+    "This plant provides nectar for pollinators."
+  ],
+  "edibility": [
+    "Fruit is edible, either raw or cooked, and cooking the berries is said to improve the flavor."
+  ],
+  "plant-type": [
+    "Edible",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruits are unusually large for the genus, each oblong, red, up to 3⁄4 inch long with 50–100 drupelets. Fruit has a sweet taste, although some feel the fruit is insipid when eaten raw."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers are produced either one at a time or in clumps of 2-3, each with 5 petals longer than those of most related species. Blooms from April to June."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Hedge"
+  ],
+  "attracts": [
+    "Pollinators"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "fullName": "Ranunculus hybrids",
+  "name": "ranunculus-hybrids",
+  "commonNames": [
+    "Persian Buttercup"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ranunculus-hybrids/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ranunculus",
+  "species": "hybrids",
+  "family": "Ranunculaceae",
+  "country-or-region-of-origin": [
+    "Eastern Mediterranean"
+  ],
+  "plant-type": [
+    "Bulb",
+    "Poisonous"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "Fruit a head of small, dry achenes."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Flower yellow, thimblelike, often shiny"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "leaves alternate, palmately lobed or divided"
+  ],
+  "stem-is-aromatic": "N",
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Ingestion causes burning of the mouth, abdominal pain, vomiting, depression, anorexia, hypersalivation, wobbly gait, and bloody diarrhea. Skin redness, burning sensation, and blisters following contact with cell sap."
+  ],
+  "poison-toxic-principle": [
+    "Protoanemonin, released from the glycoside ranunculin."
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

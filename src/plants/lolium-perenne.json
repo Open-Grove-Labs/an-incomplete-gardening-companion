@@ -1,0 +1,55 @@
+{
+  "fullName": "Lolium perenne",
+  "name": "lolium-perenne",
+  "commonNames": [
+    "Perennial Ryegrass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lolium-perenne/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lolium",
+  "species": "perenne",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Asia, Africa"
+  ],
+  "plant-type": [
+    "Turfgrass"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High",
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "fruit-type": [
+    "Caryopsis"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn"
+  ],
+  "resistance-to-challenges": [
+    "Foot Traffic"
+  ]
+}

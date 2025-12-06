@@ -1,0 +1,154 @@
+{
+  "fullName": "Causonis japonica",
+  "name": "causonis-japonica",
+  "commonNames": [
+    "Bushkiller",
+    "Japanese Cayratia Herb",
+    "Sorrel Vine",
+    "Yabu Garashi"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/causonis-japonica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Causonis",
+  "species": "japonica",
+  "family": "Vitaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical and Subtropical Asia, Australia and the West Pacific"
+  ],
+  "distribution": [
+    "HI",
+    "LA",
+    "MS",
+    "NC",
+    "TX"
+  ],
+  "climbing-method": [
+    "Tendrils"
+  ],
+  "plant-type": [
+    "Vine",
+    "Weed"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "White or purple grape-like fruit with 2-4 triangular seeds"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small cup-shaped pinkish or yellowish flowers occur in umbrels late summer"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The green leaves are compound with five leaflets, 2 on each side and one at the tip with a longer stem. Margins are toothed and the undersides are whitish in color. Hairs can be present on both surfaces. Leaflets are 1-3 inches long and 1/2 to 1.5 inches wide. New growth can have a reddish color. Tendrils grow opposite of the leaves."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-description": [
+    "Stems are laterally flattened. Cut stems produce a sticky exudate. Branches can have a purplish-green color"
+  ],
+  "problems": [
+    "Invasive Species",
+    "Weedy"
+  ]
+}

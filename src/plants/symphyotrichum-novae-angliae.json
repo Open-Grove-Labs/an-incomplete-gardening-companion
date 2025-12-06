@@ -1,0 +1,151 @@
+{
+  "fullName": "Symphyotrichum novae-angliae",
+  "name": "symphyotrichum-novae-angliae",
+  "commonNames": [
+    "New England Aster"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/symphyotrichum-novae-angliae/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Symphyotrichum",
+  "species": "novae-angliae",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern North America"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "Host plant for the Pearl Crescent (Phyciodes tharos) caterpillars which have several broods and appear from April through November in the north and throughout the year in the deep south and Mexico. Flower nectars are attractive to bees, hover flies,ne and migrating Monarch butterflies. Songbirds and small mammals eat the seeds. Members of the genus Symphyotrichum support the following specialized bees: Andrena (Callandrena s.l.) asteris, Andrena (Callandrena s.l.) asteroides, Andrena (Cnemidandrena) hirticincta, Andrena (Cnemidandrena) nubecula, Andrena (Callandrena s.l.) placata, Andrena (Callandrena s.l.) simplex, and Colletes simulans."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Moderate deer resistance."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 7 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "The herb produces a dry seed (achene) that displays from October to November."
+  ],
+  "flower-color": [
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-description": [
+    "Large, purple flowers with a yellow center mature from August to October."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough",
+    "Velvety"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Alternate, rough, and hairy. The leaves have a smooth margin."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The stem is fuzzy."
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

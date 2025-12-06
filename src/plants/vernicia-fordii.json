@@ -1,0 +1,236 @@
+{
+  "fullName": "Vernicia fordii",
+  "name": "vernicia-fordii",
+  "commonNames": [
+    "Tung Nut",
+    "Tung Oil Tree",
+    "Tungoil Tree"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/vernicia-fordii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Vernicia fordii",
+  "species": "fordii",
+  "family": "Euphorbiaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "China and Vietnam"
+  ],
+  "distribution": [
+    "AL",
+    "CA",
+    "FL",
+    "GA",
+    "LA",
+    "MS",
+    "PR",
+    "TX"
+  ],
+  "wildlife-value": [
+    "Attractive to bees, who pollinate the flowers."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Screening",
+    "Shade "
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule",
+    "Drupe"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "2-3\" fruits are large, globular, split into segments and contain a single large seed"
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Flowers are pale pink to white, with red veins. They have 5-7 petals in large clusters and bloom before the leaves emerge. Each flower has  2 green or reddish sepals"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Dark green leaves are alternate, simple, long-stalked, and heart-shaped but may be shallowly 3-lobed.  They range from 6\" to 10\" long and 4-8 inches wide.  The petioles are long with 2 conspicuous red glands at the base of each leaf. Both sides may have sparse hairs"
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Furrowed"
+  ],
+  "bark-description": [
+    "The bark is smooth, thin, brownish gray or green-gray with reddish dots. It exudes a milky white sap when cut."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-leaf-scar-shape": [
+    "C-shaped, Cresent shaped"
+  ],
+  "stem-lenticels": [
+    "Conspicuous"
+  ],
+  "stem-description": [
+    "Twigs are dark gray-brown with numerous reddish lenticels and circular leaf scars."
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Poor Soil"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Children",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "One seed can be fatal for an adult. Symptoms may include severe stomach pain, vomiting, diarrhea, weakness, slowed breathing, and poor reflexes; may be fatal."
+  ],
+  "poison-toxic-principle": [
+    "Glycoside and phytotoxin"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

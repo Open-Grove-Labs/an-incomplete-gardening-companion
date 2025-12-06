@@ -1,0 +1,169 @@
+{
+  "fullName": "Euphorbia esula",
+  "name": "euphorbia-esula",
+  "commonNames": [
+    "Green Spurge",
+    "Leafy Spurge"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/euphorbia-esula/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Euphorbia",
+  "species": "esula",
+  "family": "Euphorbiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Azores to Temperate Eurasia"
+  ],
+  "distribution": [
+    "Non-native species in Western and Eastern two-thirds of North America."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "drought"
+  ],
+  "edibility": [
+    "toxic"
+  ],
+  "plant-type": [
+    "Perennial",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Leafy spurge produces a very small, 3-chambered capsule that produces tiny seeds. When mature, the capsule \"explodes\" to eject the seeds."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers are small with a basal pair of bright yellow-green petal-like bracts. Clusters of the bracts appear in late spring, while the actual flowers do not develop until early summer."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Pale green leaves are numerous but scattered. The leaves are small, lanceolate, 1.5 to 3 inches long and up to 1 inch broad, with a slightly wavy margin."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Stems are simple, but with umbrella-like branching and dense leaves."
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "The milky white latex sap found in all plant parts can cause mild to severe contact dermatitis. If contact with the eyes occurs the sap can cause temporary to permanent damage to the cornea. If eaten, blistering can occur on lips and oral mucosa. Avoid ingesting plant parts and keep plants away from pets and children."
+  ],
+  "poison-toxic-principle": [
+    "Diterpene esters in milky latex"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Sap/Juice"
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "fullName": "Hydrangea",
+  "name": "hydrangea",
+  "commonNames": [
+    "French Hydrangea",
+    "Mountain Hydrangea",
+    "Oak-leaf Hydrangea",
+    "Peegee Hydrangea"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hydrangea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hydrangea",
+  "family": "Hydrangeaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "USA, Asia"
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Mounding",
+    "Multi-stemmed",
+    "Rounded"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Less than 1/2\", oval, capsule, shaped like a cup, dry and hard.  Winged seeds insdie."
+  ],
+  "flower-color": [
+    "Blue",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cross",
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Terminal, round or umbrella-shaped corymb clusters in colors of white, pink, or blue (or sometimes purple). Flowers are 4- 5-parted. The sterile flowers (around the margin or the entire cluster) are much enlarged.\n\nBloom time varies per type but generally blooming falls between spring to fall."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Insignificant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Leaves are opposite, simple, stalked, pinnate venation, 4\"-8\" in long, toothed and sometimes lobed."
+  ],
+  "bark-color": [
+    "Light Brown"
+  ],
+  "bark-description": [
+    "Not particularly showy"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Houseplants",
+    "Naturalized Area",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Cutting Garden",
+    "English Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting",
+    "Hedge",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Only H. macrophylla is known to be toxic. TOXIC ONLY IF LARGE QUANTITIES EATEN.  Nausea, stomach pain, vomiting, and sweating."
+  ],
+  "poison-toxic-principle": [
+    "hydracyanosides (cyanogenic glycosides)."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Leaves",
+    "Stems"
+  ]
+}

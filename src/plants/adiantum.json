@@ -1,0 +1,73 @@
+{
+  "fullName": "Adiantum",
+  "name": "adiantum",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/adiantum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Adiantum",
+  "family": "Pteridaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "distribution": [
+    "tropical",
+    "temperate"
+  ],
+  "play-value": [
+    "Shade "
+  ],
+  "plant-type": [
+    "Fern",
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Native Plant"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Creeping"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "pinnae & pinnules can be unipinnate (1-pinnate), bipinnate (2-pinnate), tripinnate, (3-pinnate) or tetrapinnate"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Shade Garden"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Squirrels"
+  ]
+}

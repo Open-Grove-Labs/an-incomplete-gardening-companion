@@ -1,0 +1,102 @@
+{
+  "fullName": "Berberis 'JC Raulston'",
+  "name": "berberis-jc-raulston",
+  "commonNames": [
+    "Hybrid Grapeholly",
+    "'JC Raulston' Mahonia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/berberis-jc-raulston/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Berberis",
+  "family": "Berberidaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "edibility": [
+    "Not poisonous, but berries contain berberine that can cause stomach upset, especially with children."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Winter"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Shiny, spiky evergreen leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "design-feature": [
+    "Border",
+    "Hedge",
+    "Security"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ]
+}

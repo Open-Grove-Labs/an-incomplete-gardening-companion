@@ -1,0 +1,208 @@
+{
+  "fullName": "Cycas taitungensis",
+  "name": "cycas-taitungensis",
+  "commonNames": [
+    "Emperor Sago",
+    "Prince Sago",
+    "Tongue Tied Sago Palm"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cycas-taitungensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cycas",
+  "species": "taitungensis",
+  "family": "Cycadaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Taiwan"
+  ],
+  "distribution": [
+    "United States: AL",
+    "CA",
+    "FL",
+    "GA",
+    "NC",
+    "OK",
+    "SC",
+    "TX",
+    "and WA"
+  ],
+  "wildlife-value": [
+    "Pollinated by insects."
+  ],
+  "play-value": [
+    "Easy to Grow"
+  ],
+  "edibility": [
+    "The pith contains edible starch that can be processed to make sago. The starch has to be carefully washed to remove the toxins that are in the pith."
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "The male plant produces golden pineapple-shaped cones that can measure 18-21 inches long and 3 to 5 inches wide. The female plant produces a golden rounded cone about 5 inches in diameter with a thickly packed seedhead. Pollination occurs from April to June. The seeds are orange to red in color and mature between September and October."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Fronds"
+  ],
+  "leaf-shape": [
+    "Oblong"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The leaves are dark green, glossy, and measure 40-70 inches long and 8-12 inches wide. There are 50 or more leaves and 130-200 pairs of leaflets. The leaflets measure 5 to 8 inches long and 0.5 inches in width. The leaves are leathery and sparsely pubescent with flat margins.  Leaflets are entire and are often spine like at the base."
+  ],
+  "bark-color": [
+    "Black"
+  ],
+  "surface/attachment": [
+    "Scaly"
+  ],
+  "bark-description": [
+    "The bark is black and scaly."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stem is reddish-brown in color."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Salt"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Spines/Thorns"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Ingestion of any part of this plant may cause permanent internal damage or death. Symptoms of poisoning may include vomiting, diarrhea, weakness, seizures, and liver failure. Pets are attracted to this plant. Pet symptoms of poisoning include nosebleeds, bruising, and blood in stools."
+  ],
+  "poison-toxic-principle": [
+    "All part of this plant contain the toxin cycasin, but the seeds have the highest concentration."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

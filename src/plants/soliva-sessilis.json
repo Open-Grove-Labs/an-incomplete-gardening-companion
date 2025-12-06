@@ -1,0 +1,138 @@
+{
+  "fullName": "Soliva sessilis",
+  "name": "soliva-sessilis",
+  "commonNames": [
+    "Bindi Weed",
+    "Field Burweed",
+    "Lawn Burweed",
+    "Spurweed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/soliva-sessilis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Soliva",
+  "species": "sessilis",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Peru to Brazil and Southern South America"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 1 in. - 0 ft. 2 in.",
+    "Width: 0 ft. 2 in. - 0 ft. 6 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Prostrate"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "The flattened 'seeds' are less than a 1/4 inch with a two-lobed wing along either side and two spines at one end, one of which is especially sharp. The fruit usually mature in spring and summer."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Head",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Tiny yellow green disk flowers (no ray flowers) in the leaf axils. The flower-heads are roughly hemispherical in shape, and 1/4 inch across when the 'seeds' are mature. The flowering season is February-July."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Palmatifid"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Small feathery leaves resembling parsley.  The leaves are borne on stalks up to 3/4 inch long and have deeply divided leaf blades. These relatively small leaf blades (3/4 inch long and 1/2 inch wide) are covered in soft hairs (i.e. pilose). The first leaves are arranged in a rosette, while leaves are also alternately arranged along the stems."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "1 to 10 light or dark green stems slighty to very hairy with purple spots"
+  ],
+  "landscape-location": [
+    "Lawn"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

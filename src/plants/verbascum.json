@@ -1,0 +1,193 @@
+{
+  "fullName": "Verbascum",
+  "name": "verbascum",
+  "commonNames": [
+    "Beggar's Blanket",
+    "Mullein",
+    "Old Man's Flannel"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/verbascum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Verbascum",
+  "family": "Scrophulariaceae",
+  "life-cycle": [
+    "Biennial",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Asia, Africa"
+  ],
+  "wildlife-value": [
+    "Its abundant pollen-rich flowers attract several species of bees as well as hummingbirds."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Buffer",
+    "Colorful",
+    "Easy to Grow",
+    "Screening"
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet",
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "2-3 feet tall spikes of 1 inch, 5-petaled, saucer-shaped blooms in various colors."
+  ],
+  "leaf-color": [
+    "Gray/Silver"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves are spirally arranged, often densely hairy, though glabrous (hairless) in some species. The basal rosettes can be up to 2 foot wide."
+  ],
+  "stem-color": [
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Powdery, branched stems."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Patio",
+    "Slope/Bank",
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Cutting Garden",
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Poor Soil"
+  ],
+  "problems": [
+    "Invasive Species",
+    "Short-lived",
+    "Weedy"
+  ],
+  "uses": "Verbascum flowers have been used in traditional Austrian medicine internally as a tea or externally for the treatment of disorders of the respiratory tract, skin, veins, gastrointestinal tract, and the locomotor system."
+}

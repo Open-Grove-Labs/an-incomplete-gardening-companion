@@ -1,0 +1,195 @@
+{
+  "fullName": "Tamarix ramosissima",
+  "name": "tamarix-ramosissima",
+  "commonNames": [
+    "Five Stamen Tamarix",
+    "Salt Cedar",
+    "Tamarisk",
+    "Tamrix"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/tamarix-ramosissima/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Tamarix",
+  "species": "ramosissima",
+  "family": "Tamaricaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Europe, Asia, Southern Russia to China"
+  ],
+  "distribution": [
+    "California",
+    "Colorado",
+    "Georgia",
+    "Hawaii",
+    "Kansas",
+    "Louisiana",
+    "Mississippi",
+    "Montana",
+    "Nebraska,\nNevada",
+    "New Mexico",
+    "North Carolina",
+    "North Dakota",
+    "Oklahoma",
+    "Oregon",
+    "South Carolina",
+    "South\nDakota",
+    "Texas",
+    "Utah",
+    "Virginia",
+    "Washington",
+    "and Wyoming."
+  ],
+  "play-value": [
+    "Wildlife Food Source",
+    "Wind Break"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "deer damage"
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Multi-stemmed",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Fruits are dry capsules that split open and disperse many seeds."
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Pink, feathery racemes in dense spike-like plumes that bloom in spring and summer on new wood."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Fine-textured, juniper-like foliage that is compound, alternate, scale-like and tightly overlapping along the stem. Lanceolate in shape with sharp to tapered tips"
+  ],
+  "stem-color": [
+    "Gold/Yellow",
+    "Gray/Silver",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-description": [
+    "Reddish, slender, arching branchlets are light red or orange-yellow and weeping when young. Older bark is grey."
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Poor Soil",
+    "Salt"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

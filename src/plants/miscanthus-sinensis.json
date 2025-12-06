@@ -1,0 +1,184 @@
+{
+  "fullName": "Miscanthus sinensis",
+  "name": "miscanthus-sinensis",
+  "commonNames": [
+    "Chinese Silvergrass",
+    "Chinese Silver Grass",
+    "Eulalia",
+    "Japanese silver grass",
+    "Maidengrass",
+    "Maiden Grass",
+    "Susuki"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/miscanthus-sinensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Miscanthus",
+  "species": "sinenesis",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Asia"
+  ],
+  "wildlife-value": [
+    "Birds are attracted to the seeds"
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Cover/Habitat"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Some cultivars have shown good resistance to phytophthora."
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 12 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Ornamental Grasses and Sedges"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Cascading",
+    "Clumping",
+    "Columnar",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Aggregate",
+    "Caryopsis"
+  ],
+  "flower-color": [
+    "Gray/Silver",
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Good Dried",
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "Inflorescences a terminal panical of spikelets that unfurl atop the central vertical stalks, and differ among the numerous cultivars in terms of their time of emergence, color, separation from the upper foliage (well-separated or immersed within it), and Winter persistence. Secondary axes in elongate, finger-like racemes that grow up to 8\" long. Spikelets are paired, less than an inch in size, lanceolate, and with long silky hairs basally. As fruits develop, axes develop hairs that spread for seed dispersal."
+  ],
+  "leaf-color": [
+    "Green",
+    "Variegated",
+    "White"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Arching blades may range from 0.25\" to 2\" wide, and 3' to 5' long, sometimes with variegation on the medium-green foliage that is silver, white, cream, or yellow on the midrib. Leaves are flat, linear sheated, inconspicuously serrulate."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems are cane-like, erect, spreading, bearing leaves reducing in size upwards and terminating in an inflorescence."
+  ],
+  "attracts": [
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Humidity",
+    "Salt",
+    "Wet Soil",
+    "Wind"
+  ],
+  "problems": [
+    "Invasive Species",
+    "Weedy"
+  ]
+}

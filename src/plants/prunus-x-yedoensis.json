@@ -1,0 +1,186 @@
+{
+  "fullName": "Prunus x yedoensis",
+  "name": "prunus-x-yedoensis",
+  "commonNames": [
+    "Japanese Flowering Cherry",
+    "Potomac Cherry",
+    "Tokyo Cherry",
+    "Yoshino Cherry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-x-yedoensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Prunus",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Japan"
+  ],
+  "wildlife-value": [
+    "Fruits attract birds and tree is larval host to butterflies."
+  ],
+  "dimensions": [
+    "Height: 30 ft. 0 in. - 40 ft. 0 in.",
+    "Width: 20 ft. 0 in. - 50 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Open",
+    "Rounded",
+    "Spreading",
+    "Vase"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Small plack drupes 1/2\" diameter"
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Flowers are pure or snow-white in color for 2-3 weeks. Inflorescence is a congested corymb. it is 5-6 flowered. Flowers have a slight almond fragrant."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Bright green leaves are alternate, simple, elliptic, acuminate, rotund to broadly cuneate, serrate with inconspicuous short-stalked glands borne on tooth apex, and veins are pubescent below. Petiole bears 2 or more large wart-like glands on petiole apex, one or more glands are commonly in contact with the blade base or on lower blade margin. Leaves are 2.5-4.5 inches in size and have a yellow to gold fall color."
+  ],
+  "bark-description": [
+    "Glossy bark with prominent horizontal lenticels add winter interest"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Butterfly Garden",
+    "Cottage Garden"
+  ],
+  "design-feature": [
+    "Flowering Tree",
+    "Foundation Planting",
+    "Shade Tree",
+    "Small groups",
+    "Small Tree",
+    "Specimen",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Heat",
+    "Humidity",
+    "Urban Conditions"
+  ],
+  "problems": [
+    "Messy",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ]
+}

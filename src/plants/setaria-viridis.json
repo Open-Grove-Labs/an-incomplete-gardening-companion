@@ -1,0 +1,122 @@
+{
+  "fullName": "Setaria viridis",
+  "name": "setaria-viridis",
+  "commonNames": [
+    "Bottle Grass",
+    "Giant Green Foxtail",
+    "Green Bristlegrass",
+    "Green Foxtail",
+    "Green Millet",
+    "Pigeongrass",
+    "Wild Millet"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/setaria-viridis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Setaria",
+  "species": "viridis",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "Old World, Australia"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Multi-stemmed",
+    "Prostrate"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "fruit-type": [
+    "Caryopsis"
+  ],
+  "fruit-description": [
+    "Oval, tapered and flattened seeds fall from the spikelet"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "Spike-like panicle that is 1-4 inches long, erect and often nods as it reaches the tip. 2-6 spikelets (flower clusters) are densely packed along the panicle. At the base of each are 1-3 bristles that are green or purple"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Sheath",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Light green leaves are 2-12 inches long and about .5 to 1 inch wide with fine but distinctive veins and a drooping form. They are scabrous above, usually glabrous below and sheaths are sometimes purplish at the base with a few hairs."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-description": [
+    "Stems are green, smooth, erect to ascending the lower part is often prostrate, then grows upward."
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

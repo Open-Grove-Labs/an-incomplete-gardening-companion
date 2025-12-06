@@ -1,0 +1,56 @@
+{
+  "fullName": "Melampodium cinereum",
+  "name": "melampodium-cinereum",
+  "commonNames": [
+    "Hoary Blackfoot"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/melampodium-cinereum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Melampodium",
+  "species": "cinereum",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Texas, Mexico"
+  ],
+  "plant-type": [
+    "Perennial"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-description": [
+    "Daisy like flowers appear from mid-winter through mid-summer."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

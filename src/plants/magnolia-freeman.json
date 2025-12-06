@@ -1,0 +1,101 @@
+{
+  "fullName": "Magnolia 'Freeman'",
+  "name": "magnolia-freeman",
+  "commonNames": [
+    "Freeman Magnolia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/magnolia-freeman/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Magnolia",
+  "family": "Magnoliaceae",
+  "wildlife-value": [
+    "Wildlife value as cover."
+  ],
+  "dimensions": [
+    "Height: 60 ft. 0 in. - 80 ft. 0 in.",
+    "Width: 30 ft. 0 in. - 50 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Columnar"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaf is simple in shape and has a leathery feel to it. It is dark green in color."
+  ],
+  "bark-color": [
+    "Dark Brown"
+  ],
+  "stem-is-aromatic": "N"
+}

@@ -1,0 +1,56 @@
+{
+  "fullName": "Rosa 'Frau Karl Druschki'",
+  "name": "rosa-frau-karl-druschki",
+  "commonNames": [
+    "Frau Karl Druschki rose",
+    "Snow Queen rose",
+    "White American Beauty rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-frau-karl-druschki/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "plant-type": [
+    "Perennial",
+    "Rose",
+    "Shrub",
+    "Vine"
+  ],
+  "habit/form": [
+    "Arching",
+    "Climbing"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-description": [
+    "Large, double blooms; pink tinted buds; does poorly with rain - flowers close into brown ball; recurrent flowering; 35 petals"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "arching stems, almost thornless"
+  ],
+  "resistance-to-challenges": [
+    "Poor Soil"
+  ]
+}

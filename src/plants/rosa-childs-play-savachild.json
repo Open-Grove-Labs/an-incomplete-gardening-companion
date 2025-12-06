@@ -1,0 +1,44 @@
+{
+  "fullName": "Rosa Child's Play 'SAVachild'",
+  "name": "rosa-childs-play-savachild",
+  "commonNames": [
+    "Child's Play"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-childs-play-savachild/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Rose"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-description": [
+    "Creamy pink blend, Small, semi-double, exhibition form flowers; singly or in small clusters; repeats"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "dark green"
+  ],
+  "stem-is-aromatic": "N"
+}

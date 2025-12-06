@@ -1,0 +1,172 @@
+{
+  "fullName": "Viburnum x pragense",
+  "name": "viburnum-x-pragense",
+  "commonNames": [
+    "Pragense Viburnum",
+    "Prague Viburnum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/viburnum-x-pragense/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Viburnum",
+  "family": "Viburnaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "wildlife-value": [
+    "Mildly resistant to deer. Attracts birds and butterflies"
+  ],
+  "dimensions": [
+    "Height: 8 ft. 0 in. - 12 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 12 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Oval",
+    "Rounded"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Red drupes mature to black and persist into winter."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup",
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Pink buds open creamy white on 3 to 6 in. flat-topped cyme that are slightly fragrant."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "2-4 inch long glossy leaves have a corrugated look. Undersides have whitish hairs."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn"
+  ],
+  "landscape-theme": [
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

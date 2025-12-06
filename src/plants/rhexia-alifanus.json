@@ -1,0 +1,163 @@
+{
+  "fullName": "Rhexia alifanus",
+  "name": "rhexia-alifanus",
+  "commonNames": [
+    "Savanna Meadow Beauty",
+    "Smooth Meadow Beauty"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rhexia-alifanus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rhexia",
+  "species": "alifanus",
+  "family": "Melastomataceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern and central U.S.A."
+  ],
+  "distribution": [
+    "AL ",
+    "FL ",
+    "GA ",
+    "LA ",
+    "MS ",
+    "NC ",
+    "SC ",
+    "TX"
+  ],
+  "wildlife-value": [
+    "This plant attracts bumblebees."
+  ],
+  "plant-type": [
+    "Native Plant"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is an upright vase-shaped capsule with numerous seeds. Displays from July to October."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Purplish pink 4-petaled flowers with 8 conspicuous stamens topped by bright yellow anthers. Blooms in panicles from May to September."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves are opposite, sessile, lanceolate to elliptic in outline, with entire margins."
+  ],
+  "stem-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Smooth yellow-green stems up to 4 feet tall"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Meadow",
+    "Naturalized Area",
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "attracts": [
+    "Bees"
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "fullName": "Peperomia prostrata",
+  "name": "peperomia-prostrata",
+  "commonNames": [
+    "String of Turtles",
+    "Trailing Peperomia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/peperomia-prostrata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Peperomia",
+  "species": "prostrata",
+  "family": "Piperaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Leaf Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Ecuador"
+  ],
+  "play-value": [
+    "Easy to Grow"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 9 in. - 1 ft. 0 in.",
+    "Width: 0 ft. 3 in. - 0 ft. 4 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Succulent",
+    "Vine"
+  ],
+  "habit/form": [
+    "Cascading",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "flower-color": [
+    "Brown/Copper"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The plant flower is a tiny, upright, brown spike that appears tail-like. Indoor plants rarely flower."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "Variegated",
+    "White"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Orbicular"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves are tiny, round, green with dark green marbled markings, and less than 1-inch in diameter. The tiny leaves resemble the shells of miniature turtles that are strung together. The leaves are multi-colored patterns when young. As the leaf matures, it is usually dark and light green."
+  ],
+  "stem-color": [
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stems are delicate, trailing, and red."
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants"
+  ]
+}

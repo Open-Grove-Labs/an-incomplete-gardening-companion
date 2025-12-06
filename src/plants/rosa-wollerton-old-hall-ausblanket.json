@@ -1,0 +1,62 @@
+{
+  "fullName": "Rosa Wollerton Old Hall 'Ausblanket'",
+  "name": "rosa-wollerton-old-hall-ausblanket",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-wollerton-old-hall-ausblanket/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Rose",
+    "Shrub",
+    "Vine"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Multi-stemmed"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

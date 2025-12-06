@@ -1,0 +1,175 @@
+{
+  "fullName": "Eutrema japonicum",
+  "name": "eutrema-japonicum",
+  "commonNames": [
+    "Japanese horseradish",
+    "Wasabi"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/eutrema-japonicum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Eutrema",
+  "species": "japonicum",
+  "family": "Brassicaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South Korea, S Sakhalin to Japan"
+  ],
+  "distribution": [
+    "Taiwan",
+    "and New Zealand and China. In the United States: Blue Ridge Mountains of North Carolina",
+    "rain forest of Oregon Coast",
+    "and Tennessee."
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "edibility": [
+    "Wasabi rhizomes are finely grated into a green paste about the consistency of toothpaste, which produces a distinct spicy condiment similar to horseradish and hot mustard.  It is served with sushi, salads, poultry, sausage, steamed rice, soups, and a garnish for bread.  The leaves, flowers, leafstalks, and sliced rhizomes are used to make a Japanese pickle called wasabi-zuke.  Young leaves are used in salads and sandwiches. Note, eating raw leaves can cause diarrhea."
+  ],
+  "plant-type": [
+    "Edible",
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-type": [
+    "Siliqua"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is linear 1/4 to 3/4 inch long and wide, and grooved lengthwise."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Cross"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small clusters of tiny, white, cross shaped flowers (1/4 to 1/10 of an inch) that bloom in late winter to early spring."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The attractive simple leaves are 3 to 6 inches long and 3 to 7 inches wide, palmately veined, toothed and divided into 3-6 leaflets. Each leaf is borne on long leaf stalks. with small leaflets in between."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Edible Garden",
+    "Shade Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "uses": "Wasabi is studied for medicinal uses, including as an anti-inflammatory, antibacterial, and its potential to reduce osteoporosis, heart disease, and cancer."
+}

@@ -1,0 +1,188 @@
+{
+  "fullName": "Platanthera lacera",
+  "name": "platanthera-lacera",
+  "commonNames": [
+    "Green Fringed Orchid",
+    "Ragged Fringed Orchid"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/platanthera-lacera/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Platanthera",
+  "species": "lacera",
+  "family": "Orchidaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern and central North America"
+  ],
+  "distribution": [
+    "United States: Ala.",
+    "Ark.",
+    "Conn.",
+    "Del.",
+    "D.C.",
+    "Ill.",
+    "Ind.",
+    "Kans.",
+    "Ky.",
+    "Maine",
+    "Md.",
+    "Mass.",
+    "Mich.",
+    "Minn.",
+    "Miss.",
+    "Mo.",
+    "N.H.",
+    "N.J.",
+    "N.Y.",
+    "N.C.",
+    "Ohio",
+    "Okla.",
+    "Pa.",
+    "R.I.",
+    "S.C.",
+    "Tex.",
+    "Vt.",
+    "Va.",
+    "W.Va.",
+    "Wis.\nCanada: Manitoba",
+    "Newfoundland",
+    "Nova Scotia",
+    "Ontario",
+    "Quebec"
+  ],
+  "wildlife-value": [
+    "Flowers attract moths."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "narrowly ellipsoid seed capsules about ¾\" long containing numerous tiny seeds,"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Creamy to yellowish-green flowers in a spike-like cluster; lacerated lower lip creates a fringed appearance. Pollinated by moths."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Linear",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "2-5 alternate leaves along each stem, developing from sheaths. They are 2-8\" long and ½–2\" across, becoming smaller as they ascend the central stem with the upper leaves being bract-like."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The stout central stem is light green, terete and glabrous."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Pond",
+    "Riparian",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "attracts": [
+    "Moths"
+  ]
+}

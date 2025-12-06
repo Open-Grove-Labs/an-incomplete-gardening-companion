@@ -1,0 +1,133 @@
+{
+  "fullName": "Salvia 'Amistad'",
+  "name": "salvia-amistad",
+  "commonNames": [
+    "Friendship Sage"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/salvia-amistad/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Salvia",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "South America"
+  ],
+  "wildlife-value": [
+    "Pollinators are attracted to the nectar of the long-lasting flowers."
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "Bracts",
+    "fused petals"
+  ],
+  "flower-description": [
+    "Royal purple to violet tubluar flowers with lips have dark bracts at the base"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Deltoid"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Glossy dark green triangle shaped leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Meadow",
+    "Pool/Hardscape",
+    "Recreational Play Area",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "fullName": "Delosperma nubigenum",
+  "name": "delosperma-nubigenum",
+  "commonNames": [
+    "Cloud-loving Hardy Ice Plant",
+    "Hardy Ice Plant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/delosperma-nubigenum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Delosperma",
+  "species": "nubigenum",
+  "family": "Aizoaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "South Africa"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Drought tolerant; salt tolerant"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 2 in. - 0 ft. 3 in.",
+    "Width: 0 ft. 9 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Solitary chartreuse-yellow, daisy-like flowers in spring."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Glossy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Red/Burgundy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Thick, fleshy, shiny, bright, light green leaves 1.2 in. long that get a reddish tinge in fall."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Erosion",
+    "Salt"
+  ]
+}

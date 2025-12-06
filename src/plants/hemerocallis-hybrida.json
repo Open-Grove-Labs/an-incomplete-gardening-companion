@@ -1,0 +1,147 @@
+{
+  "fullName": "Hemerocallis hybrida",
+  "name": "hemerocallis-hybrida",
+  "commonNames": [
+    "Daylily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hemerocallis-hybrida/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hemerocallis",
+  "species": "hybrida",
+  "family": "Asphodelaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Clumping",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "Variegated",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star",
+    "Trumpet"
+  ],
+  "flower-description": [
+    "2 to 6 in. trumpet-shaped flowers last only 1 day; range of colors; nectar source for hummingbirds and butterflies"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "6-14 in. long, narrow leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Patio",
+    "Slope/Bank",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden",
+    "Cottage Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Heat",
+    "Poor Soil",
+    "Salt",
+    "Urban Conditions"
+  ],
+  "problems": [
+    "Problem for Cats"
+  ]
+}

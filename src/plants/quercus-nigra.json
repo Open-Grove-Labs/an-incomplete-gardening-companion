@@ -1,0 +1,282 @@
+{
+  "fullName": "Quercus nigra",
+  "name": "quercus-nigra",
+  "commonNames": [
+    "Black Oak",
+    "North American Barren Oak",
+    "North American Black Oak",
+    "Oaks",
+    "Possum Oak",
+    "Water Oak"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/quercus-nigra/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Quercus",
+  "species": "nigra",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Central & Eastern U.S.A"
+  ],
+  "distribution": [
+    "Native:  United States--Al",
+    "AR",
+    "DE",
+    "FL",
+    "GA",
+    "KY",
+    "LA",
+    "MD",
+    "MS",
+    "MO",
+    "NJ",
+    "NC",
+    "OK",
+    "SC",
+    "TN",
+    "TX",
+    "and VA"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Oak trees support a wide variety of Lepidopteran.  You may see Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed. Banded Hairstreak (Satyrium calanus), which have one flight from June-August everywhere but Florida where they emerge April-May. Edward's Hairstreak (Satyrium edwardsii), has one flight from May-July in the south and June-July in the north.  Gray Hairstreak (Strymon melinus), has three to four flights in the south from February-November and two flights in the north from May-September.  White-M Hairstreak (Parrhasius m-album) has three broods in the north from February-October.  Horace’s Duskywing (Erynnis horatius) has three broods in Texas and the deep south from January-November, and two broods in the north from April-September.  Juvenal’s Duskywing (Erynnis juvenalis) has one brood from April-June, appearing as early as January in Florida. Acorns are eaten by woodpeckers, blue jays, ducks, small mammals, wild turkeys, white-tailed deer, and black bears."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Edible fruit ",
+    "Wildlife Food Source",
+    "Wildlife Nesting"
+  ],
+  "edibility": [
+    "Acorns (nuts) are edible after tannins are leached or boiled out"
+  ],
+  "dimensions": [
+    "Height: 50 ft. 0 in. - 80 ft. 0 in.",
+    "Width: 50 ft. 0 in. - 70 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Poisonous",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Conical",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is an 1/2 to 1-inch nearly black acorn with a flat, scaled cap that covers about 1/3 the nut. The acorn requires two growing seasons to reach maturity. Involucral bracts are in shallow cups and are imbricated. In North Carolina, the acorns are available from September to November."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Male flowers in drooping catkins and female flowers in spikes. In North Carolina, flowers are available in the month of April."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Obovate",
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves are 2 to 4 inches long and 1 to 2 inches wide, bluish green on the upper surface and appear paler and hairy on the undersides. They are alternate, simple, narrowly obovate to spatulate, the apex is shallowly 3-lobed or no lobes, lobes are bristle-tipped to lacking bristles, the base is long and tapering from the middle of the leaf, they are entire and sub coriaceous. The midrib has two conspicuous spreading lateral veins where the leaf broadens, bearing pubescent tuft in axils. Leaves may persist throughout the winter in zones 8 and 9."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Ridges",
+    "Scaly"
+  ],
+  "bark-description": [
+    "The bark is brown and smooth when the tree is young.  As the tree ages it becomes gray black, furrowed, and rough."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Smooth/Hairless"
+  ],
+  "stem-bud-terminal": [
+    "Cluster of terminal buds"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "The stems are slender, thin, and reddish-brown. The bud are ovoid, 1/4\" long, angled above and pointed, scales imbricate, and brown."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Naturalized Area",
+    "Pond",
+    "Recreational Play Area",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden",
+    "Native Garden",
+    "Nighttime Garden",
+    "Pollinator Garden",
+    "Rain Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Compaction",
+    "Deer",
+    "Drought",
+    "Fire",
+    "Pollution",
+    "Salt",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Problem for Horses",
+    "Weak Wood"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Abdominal pain, constipation then diarrhea (occasionally bloody), depression, frequent urination, discolored urine, jaundice; acorns can obstruct the digestive tract"
+  ],
+  "poison-toxic-principle": [
+    "Gallotannins, quercitrin, and quercitin."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves"
+  ],
+  "uses": "Used as timber, fuel, veneer, and plywood but it is not good for finished lumber as it splits when drying. In the case of the Native Americans, this tree was also used for food and medicine."
+}

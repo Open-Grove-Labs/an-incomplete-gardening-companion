@@ -1,0 +1,175 @@
+{
+  "fullName": "Rumex sanguineus",
+  "name": "rumex-sanguineus",
+  "commonNames": [
+    "Bloody Dock",
+    "Red Veined Dock",
+    "Red-Veined Dock",
+    "Red Veined Sorrel",
+    "Red-Veined Sorrel"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rumex-sanguineus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rumex",
+  "species": "sanguineus",
+  "family": "Polygonaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, N. Iran"
+  ],
+  "distribution": [
+    "Naturalized in parts of US and Canada"
+  ],
+  "edibility": [
+    "Young leaves are edible raw or cooked, having a tart flavor.  Older leaves are bitter and tough.  Less commonly grown for eating than other species."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 1 ft. 6 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Herbaceous Perennial",
+    "Vegetable"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Star-shaped flowers in early Summer on stems 2-3 ft. tall.  Mature from green to red-brown."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblanceolate",
+    "Oblong"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Deeply red-purple veined leaves."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Reddish flowering stem"
+  ],
+  "landscape-location": [
+    "Container",
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "May cause mild stomach upset or irritate skin in those sensitive.  Oxalic acid can bind to nutrients if ingested in large quantities, preventing absorption."
+  ],
+  "poison-toxic-principle": [
+    "Oxalic acid"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

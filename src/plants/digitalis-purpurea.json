@@ -1,0 +1,211 @@
+{
+  "fullName": "Digitalis purpurea",
+  "name": "digitalis-purpurea",
+  "commonNames": [
+    "Common Foxglove",
+    "Foxglove"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/digitalis-purpurea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Digitalis",
+  "species": "purpurea",
+  "family": "Plantaginaceae",
+  "life-cycle": [
+    "Biennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe"
+  ],
+  "wildlife-value": [
+    "Nectar attracts bumblebees and hummingbirds."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Browsing by deer, contains a chemical that deer avoid."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 6 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Perennial",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Dense",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Rounded fruit capsule which splits open at maturity to release the numerous small brown, ridged seeds."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Tubular"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Blooms grow on tall spikes as a 1-sided raceme with  blooms closely grouped together. They are 2-3 inch long tubular flowers and come in multiple colors of white, pinks and purple with purple and white spots inside the petals. An elongate, terminal raceme, 1-2' long to sparcely branched, bracteate, with flowers subsecund, borne on one side, or borne around the rachis in some hybrids. Flowers are large, nodding, purple to pale pink or white, mauve or yellowish in some hybrids; corolla tube inflated, campanulate, 1.5-2\" long, tube inside ciliate, usually heavily marked with white, edged darker purple maculation, lobes 4, upper lip shorter than lower lip."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Cuneate",
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The first year it forms a tight rosette of coarse leaves with prominent veins that are up to a foot long and covered with gray-white hairs on the upper surface and are wooly or hairy below. The clump remains low and close to the ground. In the second year, an upright flower stem with smaller leaves is produced from the center of the basal clump. Alternate, simple, ovate to lanceolate, rugose, acute, broad cuneate to subtorund, pubescent; basal leaves long petiolate, petiole and blade reducing upward on cauline leaves."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "landscape-location": [
+    "Rock Wall",
+    "Vertical Spaces",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Nausea, vomiting, diarrhea, stomach pain, severe headache, irregular and slow pulse, tremors, unusual color visions, convulsions, Cardiac arrhythmias, death"
+  ],
+  "poison-toxic-principle": [
+    "cardiac glycosides"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Roots",
+    "Stems"
+  ],
+  "uses": "Was used to treat heart conditions, but is highly poisonous if used incorrectly."
+}

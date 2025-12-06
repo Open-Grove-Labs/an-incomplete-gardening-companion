@@ -1,0 +1,294 @@
+{
+  "fullName": "Hedera helix",
+  "name": "hedera-helix",
+  "commonNames": [
+    "Algerian Ivy",
+    "Baltic Ivy",
+    "Branching Ivy",
+    "California Ivy",
+    "Common Ivy",
+    "English Ivy",
+    "Glacier Ivy",
+    "Hahn's Self Branching English Ivy",
+    "Needlepoint Ivy",
+    "Sweetheart Ivy"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hedera-helix/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hedera",
+  "species": "helix",
+  "family": "Araliaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Scandinavia east to Russia"
+  ],
+  "distribution": [
+    "Argentina",
+    "Morocco",
+    "New South Wales",
+    "New Zealand",
+    "Queensland",
+    "South Australia",
+    "Tasmania",
+    "United States",
+    "Victoria",
+    "and Western Australia"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "climbing-method": [
+    "Clinging",
+    "Tendrils"
+  ],
+  "edibility": [
+    "Leaves and berries are toxic to humans."
+  ],
+  "dimensions": [
+    "Height: 20 ft. 0 in. - 80 ft. 6 in.",
+    "Width: 3 ft. 0 in. - 50 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Houseplant",
+    "Perennial",
+    "Poisonous",
+    "Vine",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Climbing",
+    "Creeping",
+    "Prostrate"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet",
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b",
+    "13a",
+    "13b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Aggregate",
+    "Berry",
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Conspicuous cluster of black berry-like drupes."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Umbel"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers small, greenish-yellow, 5-parted. An umbel or compound umbels. Only occur on mature branches."
+  ],
+  "leaf-color": [
+    "Green",
+    "Variegated",
+    "White"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Palmasect"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Evergreen, 3-5 palmate lobes with palmate venation when juvenile, ovate to rhombic on mature/adult branches borne well off the ground; leaves dark green above and lustrous, prominently whitish-gray becoming lighter green with age borne adjacent to major veins. Leaves are typically 4 inches long × 2.5 to 5 inches wide."
+  ],
+  "bark-color": [
+    "Green"
+  ],
+  "surface/attachment": [
+    "Exfoliating"
+  ],
+  "bark-plate-shape": [
+    "Round"
+  ],
+  "bark-description": [
+    "Usually not visible under leaf cover unless plant is climbing a structure or tree."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Smooth/Hairless"
+  ],
+  "stem-bud-terminal": [
+    "Only 1 terminal bud, smaller than side buds"
+  ],
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Produces adventitious roots for climbing. Individual English ivy plants may have both juvenile and adult stems. The juvenile phase typically forms the ground cover. Juvenile English ivy begins to climb when vertical structure is available (e.g., trees, shrubs, buildings, utility poles), and vertical stems transition to the adult phase."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heavy Shade",
+    "Salt"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Invasive Species",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Contact with plant cell sap causes severe skin irritation with redness, itching, and blisters. Ingestion of berries causes burning sensation in the throat. Ingestion of leaves can result in delirium, stupor, convulsions, hallucinations, fever and rash, vomiting, abdominal pain, hypersalivation, and diarrhea. Foliage is more toxic than berries. English ivy contains allergens that may affect humans."
+  ],
+  "poison-toxic-principle": [
+    "Triterpenoid saponins and polyacetylene compounds"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ],
+  "uses": "Historically, English ivy was used as a topical agent for its antifungal and antimicrobial properties."
+}

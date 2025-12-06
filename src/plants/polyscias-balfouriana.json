@@ -1,0 +1,171 @@
+{
+  "fullName": "Polyscias balfouriana",
+  "name": "polyscias-balfouriana",
+  "commonNames": [
+    "Aralia Balfour",
+    "Balfour Aralia",
+    "Balfour Polyscias",
+    "Dinner Plate Aralia",
+    "Plate Aralia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/polyscias-balfouriana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Polyscias",
+  "species": "balfouriana",
+  "family": "Araliaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "New Guinea to Queensland"
+  ],
+  "distribution": [
+    "Cambodia",
+    "Dominican Republic",
+    "Haiti",
+    "New Caledonia",
+    "Puerto Rico"
+  ],
+  "play-value": [
+    "Easy to Grow",
+    "Shade ",
+    "Wind Break"
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a"
+  ],
+  "fruit-description": [
+    "It rarely fruits in cultivation."
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Umbel"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "The blooms appear as panicles of umbels. It rarely flowers in cultivation."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery",
+    "Papery"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Obovate",
+    "Ovate",
+    "Reniform"
+  ],
+  "leaf-margin": [
+    "Crenulate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Rounded trifoliate (3 leaflets) leaves with coarsely crenulate or shallowly serrate margins.  Leaflets are elliptical to reniform and occasionally ovate to obovate."
+  ],
+  "bark-color": [
+    "Dark Brown"
+  ],
+  "stem-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Twisting green stems speckled with gray spots"
+  ],
+  "landscape-location": [
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Hedge",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Humidity"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Skin irritation"
+  ],
+  "poison-toxic-principle": [
+    "Unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

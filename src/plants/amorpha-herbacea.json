@@ -1,0 +1,169 @@
+{
+  "fullName": "Amorpha herbacea",
+  "name": "amorpha-herbacea",
+  "commonNames": [
+    "Clusterspike False Indigo",
+    "Dwarf Indigo Bush",
+    "Leadplant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/amorpha-herbacea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Amorpha",
+  "species": "herbacea",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Leaf Cutting",
+    "Root Cutting",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Southeast United States"
+  ],
+  "distribution": [
+    "AL ",
+    "FL ",
+    "GA ",
+    "NC ",
+    "SC"
+  ],
+  "wildlife-value": [
+    "Host plant for the silver-spotted skipper and southern dogface butterflies.  Attracts native bees."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Larval Host "
+  ],
+  "edibility": [
+    "Not edible"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Horizontal"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Flattened pod .5\" long. Displays from July to August."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "May-July flower spikes 6-8 inches long white to lavender petals"
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The veined leaves are alternate with 25-33 opposite leaflets hairless."
+  ],
+  "stem-color": [
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Meadow",
+    "Naturalized Area",
+    "Near Septic",
+    "Patio",
+    "Pond",
+    "Riparian",
+    "Slope/Bank",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Hedge",
+    "Mass Planting",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ]
+}

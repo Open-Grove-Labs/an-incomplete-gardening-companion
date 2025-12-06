@@ -1,0 +1,197 @@
+{
+  "fullName": "Cercis racemosa",
+  "name": "cercis-racemosa",
+  "commonNames": [
+    "Chain Flowered Redbud",
+    "Chain-flowered Redbud",
+    "Pendulous Redbud"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cercis-racemosa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cercis",
+  "species": "racemosa",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Southern & Central China"
+  ],
+  "wildlife-value": [
+    "The flowers provide nectar for bees and once pollinated form leguminous pods, the seed can be consumed by birds.  Members of the genus Cercis support the following specialized bee: Habropoda laboriosa."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Buffer",
+    "Shade ",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The brown/tan seed pod is wide, flat and glabrous.  They will grow to 3-4\" long and 3/4\" wide."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Light pink to silver/rose/purple flowers are produced in mid-spring, in 2-4\"-long, pendulous chains of 20-40 flowers, resembling wisteria in appearance. Flower color is not as vivid as other redbud types."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Light green to blue-green, heart-shaped leaves.  Young leaves have glaucous undersides with purplish veins."
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Light Brown"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "bark-description": [
+    "Larger branches are gray to sandy-brown. Smooth, gray bark on older trees."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ]
+}

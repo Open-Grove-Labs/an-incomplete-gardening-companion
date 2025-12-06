@@ -1,0 +1,176 @@
+{
+  "fullName": "Capsella bursa-pastoris",
+  "name": "capsella-bursa-pastoris",
+  "commonNames": [
+    "Shepherd's Purse"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/capsella-bursa-pastoris/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Capsella",
+  "species": "bursa-pastoris",
+  "family": "Brassicaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eurasia, Africa"
+  ],
+  "distribution": [
+    "Worldwide"
+  ],
+  "wildlife-value": [
+    "Attracts wildlife including bees, flies, butterflies and deer."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "The leaves are edible."
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers are less than 1/8\"  (3 mm) across and each consists of 4 white petals, 4 greenish sepals, a pistil with a single style, and several stamens."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Oblanceolate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Basal leaves have smooth edges when young becoming pinnately lobed as they mature. Basal rosettes can be up to 9\" wide. Flowering stalks have alternate leaves that are also pinnately lobed, which also clasp to the stem.  The lower sides of the leaves central veins are often covered with oppressed hairs."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The stems are light green to dark reddish-purple.  They are usually smooth on the upper side and appressed-hairy on the underside."
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Specialized Bees"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "Young leaves can be used in salads and have a mild, peppery taste. The leaves are often used in tradtional Chinese cuisine. This plant is also rich in vitamin-K and has been used to treat nosebleeds and hemmorrhages."
+}

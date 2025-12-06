@@ -1,0 +1,222 @@
+{
+  "fullName": "Echium",
+  "name": "echium",
+  "commonNames": [
+    "Blue Devil.",
+    "Blueweed",
+    "Viper's Bugloss"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/echium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Echium",
+  "family": "Boraginaceae",
+  "life-cycle": [
+    "Biennial",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Macaronesia, Europe to Central Asia, N. Africa"
+  ],
+  "distribution": [
+    "Naturalized in US"
+  ],
+  "wildlife-value": [
+    "Host plant to some Lepidoptera species including Coleophora onosmella and orange swift.  Hummingbirds are attracted to the tubular flowers."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Wildlife Larval Host "
+  ],
+  "edibility": [
+    "Some species are used as food by preparing tender shoots and stems."
+  ],
+  "plant-type": [
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Schizocarp"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Schizocarps dividing into mostly 4 nutlets"
+  ],
+  "flower-color": [
+    "Blue",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Many 5 petaled tubular flowers are produced on tall spikes. They can be blue, pink, red, white or purple and vary in size. Bloom time can be spring or summer depending on the species."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly",
+    "Rough"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Coarsely hairy, alternate, simple bristly, lance-shaped to elliptical leaves that vary in size. Some produce a rosette of leaves the first year and then a stem the second or third year."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Green stems that may have purple spotting and many hairs"
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "CAUSES ONLY LOW TOXICITY IF EATEN. SKIN IRRITATION MINOR, OR LASTING ONLY FOR A FEW MINUTES. CAUSES SEVERE PAIN IN THE MOUTH IF EATEN!  Digestive upset and liver damage as well as skin irritation from the coarse hairs."
+  ],
+  "poison-toxic-principle": [
+    "Pyrrolizidine alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ],
+  "uses": "The oil from the plants is used in cosmetics and herbal medicine."
+}

@@ -1,0 +1,199 @@
+{
+  "fullName": "Veronica arvensis",
+  "name": "veronica-arvensis",
+  "commonNames": [
+    "Common Speedwell",
+    "Corn Speedwell",
+    "Field Speedwell",
+    "Speedwell",
+    "Wall Speedwell"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/veronica-arvensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Veronica",
+  "species": "arvensis",
+  "family": "Plantaginaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Asia, Africa"
+  ],
+  "distribution": [
+    "Forests",
+    "streambanks",
+    "prairies",
+    "savannas",
+    "glades",
+    "tops of bluffs",
+    "fields",
+    "lawns",
+    "railroads",
+    "roadsides",
+    "and open",
+    "disturbed areas."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 2 in. - 0 ft. 8 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Prostrate"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "1/8 inch long heart-shaded capsule with numerous yellow seeds."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Raceme",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flower is a blue-violet to blue corolla with 4 petal-like lobes and 4 hairy green sepals. They bloom near the apex of the stems in mid-spring to mid-summer."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear",
+    "Oblong",
+    "Orbicular",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenulate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The yellow-green lower leaves are up to 3/8\" long and across and are hairy, oval-orbicular, crenate along their margins, and opposite with very short stems. The middle to upper leaves are up to ¼\" long, linear-oblong to lanceolate in shape, slightly crenate or smooth, alternate and sessile. They are hairy and yellow-green to green."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Prostrate to erect stems"
+  ],
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Poor Soil",
+    "Rabbits"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "The herb is alterative, antiscorbutic and diuretic. It has been used used for the treatment of scurvy, impurities of the blood etc. It is also used as a remedy for scrofulous affections, especially of the skin, and is bruised and applied externally for healing burns and ulcers."
+}

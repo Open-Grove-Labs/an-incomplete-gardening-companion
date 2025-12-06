@@ -1,0 +1,207 @@
+{
+  "fullName": "Alocasia",
+  "name": "alocasia",
+  "commonNames": [
+    "Elephant's-Ear",
+    "Taro"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/alocasia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Alocasia",
+  "family": "Araceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical and Subtropical Asia To Eastern Australia"
+  ],
+  "distribution": [
+    "Native: Bangladesh",
+    "Borneo",
+    "Cambodia",
+    "China",
+    "East Himalaya",
+    "India",
+    "Japan",
+    "Laos",
+    "Malaya",
+    "Myanmar",
+    "Nepal",
+    "New South Wales",
+    "Philippines",
+    "Queensland",
+    "Sri Lanka",
+    "Taiwan Thailand",
+    "Vietnam",
+    "West Himalaya. Introduced:  Brazil",
+    "Costa Rica Cuba",
+    "Dominican Republic",
+    "Haiti",
+    "Honduras",
+    "Jamaica",
+    "New Zealand",
+    "Nicaragua",
+    "Paraguay",
+    "Portugal",
+    "Puerto Rico",
+    "Sudan",
+    "Tibet",
+    "Tonga",
+    "Trinidad-Tobago",
+    "Venezuela",
+    "and the United States--Hawaii."
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "play-value": [
+    "Colorful"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer resistance"
+  ],
+  "bulb-storage": [
+    "Store in a dry and cool location."
+  ],
+  "edibility": [
+    "The corm and stem can be eaten but must be thoroughly cooked to destroy the calcium oxalate crystals. Once cooked, it can be used as a cooked vegetable added to soups and stews."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "Flowers are seldom seen. However, they are small, clustered on a creamy white spadix, and surrounded by a modified greenish leaf or spathe."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Gray/Silver",
+    "Green",
+    "Red/Burgundy",
+    "Variegated"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "leaf-margin": [
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The leaves are heart to arrowhead-shaped (12 to 36 inches long), each held singly atop long and sturdy succulent stems. Leaves are prominently veined and sometimes variegated."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Rain Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Poisonous by ingestion, dermatitis, and eye injury. Symptoms may include painful irritation of lips, mouth, tongue, and throat after chewing; difficulty of speaking; nausea and diarrhea, vomiting, delirium, and death. People with a tendency to rheumatism, arthritis, gout, kidney stones, and hyperacidity should be especially cautious."
+  ],
+  "poison-toxic-principle": [
+    "Calcium oxalate crystals"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "fullName": "Utricularia",
+  "name": "utricularia",
+  "commonNames": [
+    "Bladderwort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/utricularia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Utricularia",
+  "family": "Lentibulariaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "North America and most places in the world"
+  ],
+  "distribution": [
+    "Every state"
+  ],
+  "wildlife-value": [
+    "It provides a place for swamp critters to lay their eggs and shelter for animals like turtles, salamanders, and bullfrogs."
+  ],
+  "plant-type": [
+    "Carnivorous",
+    "Water Plant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small flowers with 2 asymmetrical petals in pink, purple, white or yellow appear in spring and summer and are held above the water on 1-5 inch stems. They range in size from 2 mm to 10 cm wide. The epiphytic species of South America have the showiest flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Modified stems and leaves act as anchors and storage. Bladders trap small water insects. Leaves are a star-shaped mat with delicate, threadlike stems. Terrestrial species sometimes produce a few photosynthetic leaf-shoots."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Most species form long, thin, sometimes branching stems or stolons beneath the surface of the substrate whether it be water or soil."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

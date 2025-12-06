@@ -1,0 +1,222 @@
+{
+  "fullName": "Cercis orbiculata",
+  "name": "cercis-orbiculata",
+  "commonNames": [
+    "Arizona Redbud",
+    "Pata De Vaca",
+    "Western Redbud"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cercis-orbiculata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cercis",
+  "species": "orbiculata",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southwestern U.S.A."
+  ],
+  "distribution": [
+    "AZ",
+    "CA",
+    "NV",
+    "UT"
+  ],
+  "fire-risk-rating": [
+    "high flammability"
+  ],
+  "wildlife-value": [
+    "The nectar from the flowers attracts butterflies and bees.  Native bees use this plant for nesting materials.  Birds enjoy the legumes seeds."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Buffer",
+    "Edible fruit ",
+    "Screening",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "The flowers and seed pods are edible."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 25 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Rounded",
+    "Spreading",
+    "Vase"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet",
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "The fruit is in the form of a pointed, flat legume that range from 2-4\" in length.  Each pod will contain 7 seeds and will remain on the tree into winter."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Early spring showy pea-like flowers appear"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The heart shaped leaves each have 7 to 9 prominent veins."
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Thin, shiny brown branches."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Patio",
+    "Recreational Play Area",
+    "Slope/Bank",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Flowering Tree",
+    "Mass Planting",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Songbirds"
+  ],
+  "uses": "Native Americans make bows from the wood and baskets from the young stems."
+}

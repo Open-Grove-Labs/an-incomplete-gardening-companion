@@ -1,0 +1,209 @@
+{
+  "fullName": "Lyonia mariana",
+  "name": "lyonia-mariana",
+  "commonNames": [
+    "Fetterbush",
+    "Maleberry",
+    "Piedmont Staggerbush",
+    "Staggerbush"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lyonia-mariana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lyonia",
+  "species": "mariana",
+  "family": "Ericaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "SE and Central U.SA., NC"
+  ],
+  "distribution": [
+    ": AL ",
+    "AR ",
+    "CT ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "LA ",
+    "MD ",
+    "MO ",
+    "NC ",
+    "NJ ",
+    "NY ",
+    "OK ",
+    "PA ",
+    "RI ",
+    "SC ",
+    "TX ",
+    "VA"
+  ],
+  "wildlife-value": [
+    "Fetterbush is a nectar plant. Members of the genus Lyonia support the following specialized bees: Colletes productu and Melitta (Cilissa) melittoides."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Oval 5 parted seed capsule. Displays from September to October."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Tubular",
+    "Urn"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small, white or pink, urn-shaped to tubular blooms that droop in terminal clusters. Blooms from April to May."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Leathery green leaves with red fall color"
+  ],
+  "stem-color": [
+    "Green",
+    "Pink",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Poor Soil",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Signs of Toxicity occur usually within six hours of consuming the plant.  Symptoms include lack of coordination, excessive salivation, abdominal pain, bloating, nausea, vomiting, diarrhea, headache,  weakness, muscular spasms, watering of eyes and nose, slow pulse, colic, ataxia, depression, sweating,  tingling of skin, convulsions, paralysis, coma, and sometimes even death.\nToxicity in sheep, goats, cattle, and horses is most likely to occur in late winter or early spring when other forage is not available.  Livestock are found down, unable to stand with their head weaving from side to side."
+  ],
+  "poison-toxic-principle": [
+    "Andromedotoxin, Grayanotoxins"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves"
+  ],
+  "uses": "The Cherokee use an infusion of the plant for toe itch, 'ground-itch' and ulcers"
+}

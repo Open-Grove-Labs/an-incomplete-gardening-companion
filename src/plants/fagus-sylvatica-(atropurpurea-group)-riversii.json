@@ -1,0 +1,156 @@
+{
+  "fullName": "Fagus sylvatica (Atropurpurea Group) 'Riversii'",
+  "name": "fagus-sylvatica-(atropurpurea-group)-riversii",
+  "commonNames": [
+    "Common Beech 'Riversii'",
+    "European Beech 'Riversii'"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/fagus-sylvatica-atropurpurea-group-riversii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Fagus",
+  "species": "sylvatica",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "plant-type": [
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-description": [
+    "Triangular nuts surrounded by spiny bracts.  Nuts are edible."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Insignificant"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Monecious, yellow-green flowers bloom from April-May. Female flowers are short spikes, male flowers are long-stemmed drooping round clusters."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Orange"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "5\" long glossy leaves with wavy mostly smooth-margined that start out deep purple in the spring, turn green-purple in the summer and copper orange in the fall.  The veins are prominent and parallel."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "bark-description": [
+    "Smooth pale gray bark makes for excellent winter interest."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Screen/Privacy",
+    "Shade Tree",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

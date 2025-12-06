@@ -1,0 +1,205 @@
+{
+  "fullName": "Acalypha gracilens",
+  "name": "acalypha-gracilens",
+  "commonNames": [
+    "Shortsalk Copperleaf",
+    "Slender Copperleaf",
+    "Slender Threeseed Mercury",
+    "Three-seeded Mercury"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/acalypha-gracilens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Acalypha",
+  "species": "gracilens",
+  "family": "Euphorbiaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central and eastern United States."
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "CT ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "IA ",
+    "IL ",
+    "IN ",
+    "KY ",
+    "LA ",
+    "MA ",
+    "MD ",
+    "ME ",
+    "MI ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NH ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "RI ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "VT ",
+    "WI ",
+    "WV"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Native Plant",
+    "Weed",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is less than an inch around. Each female flower has the capacity to produce three seeds if well pollinated. There is one variety, monococca, which produces only one seed. After pollination, a small, three lobed 'crown' develops with a seed in each developed lobe. The plant is air pollinated."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Raceme",
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Crown"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Insignificant half inch flowers, but colorful bracts that bloom mid-spring. The flowers are carried in the axils of the leaves, (that is, the point where the leaf emerges from the stem). The plant produces female and male flowers held on a raceme less than half an inch long. The female flower, at the base, has tiny, bright green bracts with serrated edges and translucent 'hairs' at the base of the pistil. It is only after pollination has occurred that the flowers become more obvious. The male flowers are held at the end of the raceme in a tight cluster of many flowers around a quarter of an inch long. They have white to golden yellow petals."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Filiform",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves are set alternately on the stem, very narrow and between one and two inches long. They are a bright green color turning reddish copper in the autumn."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The stem is slender and usually straight with branching. It carries small hairs along its entire length. The color can vary from green to reddish-brown."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

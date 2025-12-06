@@ -1,0 +1,185 @@
+{
+  "fullName": "Lathyrus latifolius",
+  "name": "lathyrus-latifolius",
+  "commonNames": [
+    "Everlasting Pea",
+    "Perennial Pea",
+    "Perennial Sweet Pea",
+    "Sweet Pea"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lathyrus-latifolius/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lathyrus",
+  "species": "latifolius",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Central & Southern Europe and NW. Africa"
+  ],
+  "climbing-method": [
+    "Tendrils",
+    "Twining"
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Vine",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Tendrils"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-description": [
+    "Fruits are a flattened, narrow legume with fleshy, round, green seeds. Young fruits and seeds (peas) are edible once cooked."
+  ],
+  "flower-color": [
+    "Blue",
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers have 5-15 petals. They are pea-like in elongated clusters and corolla is up to 1\" in size. They can be magenta-purple, rose-pink, white, yellow, or blue in color. Inflorescence is a raceme, axillary. Peduncle length exceeds the length of leaves. They bloom in midsummer to fall."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Leaves are ternately compound with the 3rd leaflet being a 3-branched tendril. They are alternate, pinnately divided, and each has 2 or more leaflets and a terminal tendril. Leaflets are oblong to elliptic, acute, mucronate, cuneate, entire, 3-5 veined, blue-green, and up to 4\" long. Stipules are persistent and leaflike."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Stems are green, alate, and are either pubescent or glabrous. They have leafy wings."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Recreational Play Area",
+    "Slope/Bank",
+    "Vertical Spaces",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Children's Garden"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "TOXIC ONLY IF LARGE QUANTITIES EATEN.  \"Lathyrism\": paralysis, slow and weak pulse, shallow breathing, and convulsions, tremors, seizures and possibly death"
+  ],
+  "poison-toxic-principle": [
+    "Amine, phenol, and glycoside, Aminoproprionitrite"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Seeds"
+  ]
+}

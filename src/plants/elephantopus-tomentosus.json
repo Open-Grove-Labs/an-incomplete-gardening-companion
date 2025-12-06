@@ -1,0 +1,146 @@
+{
+  "fullName": "Elephantopus tomentosus",
+  "name": "elephantopus-tomentosus",
+  "commonNames": [
+    "Common Elephant's Foot",
+    "Devil's Grandmother",
+    "Elephant's Foot"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/elephantopus-tomentosus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Elephantopus",
+  "species": "tomentosus",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern U.S.A."
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "FL",
+    "GA",
+    "KY",
+    "LA",
+    "MD",
+    "MS",
+    "NC",
+    "OK",
+    "SC",
+    "TN",
+    "TX",
+    "VA"
+  ],
+  "wildlife-value": [
+    "Attracts butterflies and other pollinators.  The leaves are eaten by wildlife."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Weed",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "Ribbed achene"
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb",
+    "Head",
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Flowers are in head form arranged in panicles or corymbs.  4 to 5 lobed (funnelform) disk flowers are pink or purple, rarely white surrounded by three conspicuous bracts. Bloom from August through November."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblanceolate",
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The leaves are veined, typically basal lying flat on the ground, however, you may find a few alternate leaves along the stem."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The hairy stem has few (if any) small leaves and divides into flowering stalks."
+  ],
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "Used in Asia for treatment of pain and inflammation."
+}

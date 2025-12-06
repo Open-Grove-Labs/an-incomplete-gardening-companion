@@ -1,0 +1,220 @@
+{
+  "fullName": "Galanthus nivalis",
+  "name": "galanthus-nivalis",
+  "commonNames": [
+    "Common Snowdrop",
+    "Snowdrop",
+    "Snowdrops"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/galanthus-nivalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Galanthus",
+  "species": "nivalis",
+  "family": "Amaryllidaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Europe and Southwestern Asia"
+  ],
+  "distribution": [
+    "Native to a large area of Europe",
+    "from Spain in the west",
+    "eastwards to Ukraine. Naturalized in North Carolina and Virginia as well as several other states."
+  ],
+  "wildlife-value": [
+    "Polinated by bees."
+  ],
+  "edibility": [
+    "Bulbs are toxic if eaten"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 4 in. - 0 ft. 10 in.",
+    "Width: 0 ft. 3 in. - 0 ft. 6 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is a more or less spherical capsule, 1/2 inch in diameter. The pale brown seeds are about 0.1 inch long."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "6 petals/rays",
+    "Tepals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "A solitary faintly scented early bloomer. Bell-shaped white flower, held on a slender pedicel.  6 tepals, three outer are white are white, oblong, entire, obtuse, 1.5-2 cm. Three inner segments are white with an apical green mark, entire, emarginate, cuneate, elliptic, shorter than outter 3 tepals. The flower scape is terminated by large, green bract."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Each bulb generally produces two to three linear, or very narrowly lanceolate, grass-like, greyish-green leaves from its base. Basal, linear, usually paired, glaucous, 3.5 x .25\" at flowering."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "The green scape (the leafless, flower-bearing stalk) is 2 to 7 inches long and bears a single erect flower bud, a spathe of 2 membranous bracts."
+  ],
+  "landscape-location": [
+    "Houseplants",
+    "Naturalized Area",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Pollinator Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Causes low toxicity if eaten in quantity; can result in nausea, vomiting, and diarrhea."
+  ],
+  "poison-toxic-principle": [
+    "Phenanthridine alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Roots"
+  ]
+}

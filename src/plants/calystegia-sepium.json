@@ -1,0 +1,245 @@
+{
+  "fullName": "Calystegia sepium",
+  "name": "calystegia-sepium",
+  "commonNames": [
+    "Appalachia False Bindweed",
+    "Bearbind",
+    "Bellbind",
+    "Bingham's False Bindweed",
+    "Bracted Bindweed",
+    "Bugle Vine",
+    "Devil's Guts",
+    "Great Bindweed",
+    "Heavenly Trumpets",
+    "Hedgebell",
+    "Hedge Bindweed",
+    "Hedge False Bindweed",
+    "Large Bindweed",
+    "Old Man's Nightcap",
+    "Rutland Beauty",
+    "Wild Morning Glory"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/calystegia-sepium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Calystegia",
+  "species": "sepium",
+  "family": "Convolvulaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Eurasia"
+  ],
+  "distribution": [
+    "USA: Lower continental 48 states.\nCanada: AB",
+    "BC",
+    "MB",
+    "NB",
+    "NL",
+    "NS",
+    "ON",
+    "PE",
+    "QC",
+    "SK",
+    "YT"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Wildlife Cover/Habitat",
+    "Wildlife Larval Host "
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "plant-type": [
+    "Perennial",
+    "Vine",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Climbing",
+    "Horizontal"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Prickles",
+    "Spines",
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Oval seed capsules are a little less than ½ inch across. 2-4 dull brown to black seeds are released when the capsule splits open"
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Living for one day, the white to pink funnel-shaped flowers close up around noon unless it is cloudy.  The slightly 5-lobed flowers are 2.5- 3 inches across with bracts at the base that do not overlap. The corollas are white to pale pink and deep in the throat is yellow. Slender petioles are about 1/2 the length of the leaves. Bloom time is summer"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "2.5- 5 inch by 1-2 inch leathery alternate leaves are triangular in shape and sparsely to moderately distributed along the stems.  The basal lobes are squared off but sometimes more rounded. and strongly indented. \nPaler undersides may have fine hairs. Margins are slightly hairy."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-lenticels": [
+    "Not Conspicuous"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The twining stems are light green to red, glabrous to slightly hairy, and terete."
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Pollution",
+    "Poor Soil"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

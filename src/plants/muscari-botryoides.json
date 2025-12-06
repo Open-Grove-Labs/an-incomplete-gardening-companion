@@ -1,0 +1,104 @@
+{
+  "fullName": "Muscari botryoides",
+  "name": "muscari-botryoides",
+  "commonNames": [
+    "Compact Grape Hyacinth",
+    "Italian Grape Hyacinth",
+    "Small Grape Hyacinth"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/muscari-botryoides/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Muscari",
+  "species": "botryoides",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "country-or-region-of-origin": [
+    "Europe"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 4 in. - 0 ft. 6 in.",
+    "Width: 0 ft. 2 in. - 0 ft. 6 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Columnar",
+    "Erect"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "Purple/Lavender"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "English Garden",
+    "Fairy Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ]
+}

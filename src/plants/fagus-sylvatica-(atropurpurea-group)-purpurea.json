@@ -1,0 +1,191 @@
+{
+  "fullName": "Fagus sylvatica (Atropurpurea Group) 'Purpurea'",
+  "name": "fagus-sylvatica-(atropurpurea-group)-purpurea",
+  "commonNames": [
+    "Copper beech",
+    "Purple beech"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/fagus-sylvatica-atropurpurea-group-purpurea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Fagus",
+  "species": "sylvatica",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe"
+  ],
+  "wildlife-value": [
+    "Mammals and birds eat the fruits"
+  ],
+  "play-value": [
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "Nuts are edible"
+  ],
+  "dimensions": [
+    "Height: 60 ft. 0 in. - 80 ft. 0 in.",
+    "Width: 40 ft. 0 in. - 56 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Pyramidal",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet",
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-description": [
+    "Fruits are triangular nuts with spiny coverings"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small catkins in the spring"
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Entire",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "2- 4 inch long leaves are purple in the spring and turn green as the season progresses. In fall they are copperish. They are ovate to elliptical in shape with entire to create to undulate margins and parallel veins. Trees tend to hold onto their leaves through winter."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "bark-description": [
+    "Smooth thin grey bark that can be easily damaged."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Smooth gray to brown stems"
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Specimen",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Small Mammals"
+  ]
+}

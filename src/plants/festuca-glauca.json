@@ -1,0 +1,132 @@
+{
+  "fullName": "Festuca glauca",
+  "name": "festuca-glauca",
+  "commonNames": [
+    "Blue Fescue",
+    "Common Blue Fescue",
+    "Elijah Blue"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/festuca-glauca/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Festuca",
+  "species": "glauca",
+  "family": "Poaceae",
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "North East Spain to North West Italy and Southern France"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 0 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ornamental Grasses and Sedges"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Semi-evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Dense",
+    "Mounding"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Caryopsis"
+  ],
+  "flower-color": [
+    "Blue",
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Pollution",
+    "Poor Soil"
+  ]
+}

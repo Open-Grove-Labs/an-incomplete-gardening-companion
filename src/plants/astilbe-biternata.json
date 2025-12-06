@@ -1,0 +1,184 @@
+{
+  "fullName": "Astilbe biternata",
+  "name": "astilbe-biternata",
+  "commonNames": [
+    "Appalachian False Goatsbeard",
+    "False Goat's Beard"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/astilbe-biternata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Astilbe",
+  "species": "biternata",
+  "family": "Saxifragaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "West Virginia to SE. U.S.A"
+  ],
+  "distribution": [
+    "GA ",
+    "KY",
+    "MD",
+    "MS",
+    "NC",
+    "SC",
+    "TN",
+    "VA",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Pollinators enjoy the nectar from the flowers."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit resistant"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Perennial",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Follicle"
+  ],
+  "fruit-description": [
+    "Small follicles in clusters in summer to fall."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Large, elongated, much-branched, terminal cluster of many small, white or yellowish flowers; ten stamens; hairy flower stalk; 4-5 narrow petals. Blooms May-July.  It is dioecious with separate male and female plants."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Bright green, up to 2-foot, pinnately compound leaves divided into two parts; divided again into three-toothed or lobed, ovate leaflets; terminal leaflet has three lobes. Leaflets are 3-6 inches by 1.5-3 inches"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cutting Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Small groups"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits",
+    "Wet Soil"
+  ]
+}

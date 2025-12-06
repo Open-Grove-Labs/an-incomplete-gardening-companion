@@ -1,0 +1,200 @@
+{
+  "fullName": "Baptisia aberrans",
+  "name": "baptisia-aberrans",
+  "commonNames": [
+    "Eastern Prairie Blue Wild Indigo",
+    "Glade Wild Indigo"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/baptisia-aberrans/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Baptisia",
+  "species": "aberrans",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern United States."
+  ],
+  "distribution": [
+    "Kentucky",
+    "North Carolina",
+    "Tennessee",
+    "and Georgia"
+  ],
+  "wildlife-value": [
+    "Attracts bees. This is a larval host plant for butterflies like Wild Indigo Dustywing."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer damage; tolerates drought, poor soils, dry soil, and erosion"
+  ],
+  "edibility": [
+    "Low toxicity from ingestion."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 1 ft. 6 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Perennial",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-description": [
+    "Inflated, stalked bean pod with several seeds. The seeds inside of the pod are yellow to brown. Fruits display from June to August."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Raceme",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Irregular",
+    "Lipped"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small lavender-blue flowers stand up on a raceme or spike, bloom from April to May."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves are entire, green, trifoliate, and appear in groups of 3 at the end of a stem. Three-parted leaves turn black upon drying."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "stems are smooth and often waxy, pale green"
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Drought Tolerant Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Diseases",
+    "Drought",
+    "Dry Soil",
+    "Erosion",
+    "Insect Pests",
+    "Poor Soil"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Causes low toxicity if eaten. Symptoms include nausea, vomiting, and diarrhea. All parts are poisonous."
+  ],
+  "poison-toxic-principle": [
+    "Baptisin and cytisine"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

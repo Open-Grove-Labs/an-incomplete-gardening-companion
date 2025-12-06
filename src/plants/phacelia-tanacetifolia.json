@@ -1,0 +1,146 @@
+{
+  "fullName": "Phacelia tanacetifolia",
+  "name": "phacelia-tanacetifolia",
+  "commonNames": [
+    "Bee Phacelia",
+    "Blue Tansy",
+    "Facelia",
+    "Fiddleneck",
+    "Lacy Phacelia",
+    "Lacy Scorpion-Weed",
+    "Tansy Phacelia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/phacelia-tanacetifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Phacelia",
+  "species": "tanacetifolia",
+  "family": "Boraginaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "California to Mexico"
+  ],
+  "wildlife-value": [
+    "Flowers attract bees and other pollinators.  It provides high-quality nectar and pollen.  It also supports beneficial predators and parasitoids."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "fruit-description": [
+    "Two brown wrinkled seeds are produced in the ovoid fruit. Seeds drop to the ground when the fruit is mature."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-description": [
+    "Early to late spring and into the summer dense clusters of dusty purple-blue flowers open sequentially on fiddle-head shaped stems.  There are 5 fuzzy sepals and the bell-shaped flowers have a fused corolla center parts of the flowers, darker purple stamens and styles stick out beyond the petals."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate",
+    "Pinnatifid"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Fern-like leaves variable sizes up to 8\" bipinnatifid oblong to ovate compound divided into leaflets with toothed lobes."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Erect, or semi-erect, glandular with short stiff hairs, succulent"
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heat"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

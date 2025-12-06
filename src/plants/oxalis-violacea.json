@@ -1,0 +1,91 @@
+{
+  "fullName": "Oxalis violacea",
+  "name": "oxalis-violacea",
+  "commonNames": [
+    "Violet Woodsorrel",
+    "Violet Wood Sorrel",
+    "Violet Wood-sorrel"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/oxalis-violacea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Oxalis",
+  "species": "violacea",
+  "family": "Oxalidaceae",
+  "edibility": [
+    "EDIBLE PARTS: Small amounts of leaves, flowers, seeds, tubers/roots eaten raw are not dangerous. Leaves, flowers, seeds, tubers/"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous",
+    "Weed",
+    "Wildflower"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Green",
+    "Orange",
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "flowers 5-parted, white, yellow, lavender, or rose.  Rose-purple flowers on stalk rising above the leaves; five flaring petals; green sepals with orange tips"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Purple/Lavender"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "leaves long-stalked with 3 leaflets.  Palmately divided leaves with three leaflets; inversely heart-shaped; reddish or purplish underside"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "All parts of the plant have toxic potential, although the possibility of serious effects is usually limited to ingestions of large quantities. Consuming Oxalis species can produce colic in horses, and kidney failure is possible if significant amounts are eaten.\nCaution: large quantities may cause trembling, cramps, and staggering as in grazing animals."
+  ],
+  "poison-toxic-principle": [
+    "Soluble calcium oxylates"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

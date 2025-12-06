@@ -1,0 +1,225 @@
+{
+  "fullName": "Lonicera acuminata",
+  "name": "lonicera-acuminata",
+  "commonNames": [
+    "Fragrant Grove Honeysuckle",
+    "Henry's Honeysuckle",
+    "Vine Honeysuckle"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lonicera-acuminata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lonicera",
+  "species": "acuminata",
+  "family": "Caprifoliaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Western China, tropical Asia and Tibet"
+  ],
+  "distribution": [
+    "Introduced to England and Northern France."
+  ],
+  "wildlife-value": [
+    "Birds are attracted to the berries, butterflies, and hummingbirds to the nectar."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Screening",
+    "Wildlife Food Source"
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 12 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 8 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Semi-evergreen",
+    "Deciduous",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Round berries, 1/6 to 1/4 inch in diameter, are blue-black and covered with purplish bloom, ovoid,  seeds ellipsoid to oblong, slightly compressed."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Half inch funnel-shaped flowers are fragrant and yellow on the outside with purple on the inside petals. Flowers are paired, axillary at apices of branchlets. The corollas are bilabiate, white tinged red, becoming yellow-tinged orange or purple."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear",
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The shiny green leave, 2.5 x .75 inches, have margins that are curved downwards. Leaves are occasionally 3-whorled;  leaf blade is ovate or oblong to linear-lanceolate. Leaves are short-stalked and more or less hirsute, leathery leaves with often somewhat ciliate edges. To reduce the evaporation rate, the leaves can also get rolled in slightly."
+  ],
+  "bark-color": [
+    "Light Brown"
+  ],
+  "surface/attachment": [
+    "Scaly"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Mature branches become hollow."
+  ],
+  "landscape-location": [
+    "Rock Wall",
+    "Vertical Spaces",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Butterfly Garden",
+    "Garden for the Blind",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Rabbits"
+  ],
+  "uses": "Stems are used in constructing fences."
+}

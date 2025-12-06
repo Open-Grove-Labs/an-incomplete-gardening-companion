@@ -1,0 +1,209 @@
+{
+  "fullName": "Lycoris squamigera",
+  "name": "lycoris-squamigera",
+  "commonNames": [
+    "Magic Lily",
+    "Mystery Lily",
+    "Naked Ladies",
+    "Resurrection Lily",
+    "Sesame Lily",
+    "Surprise Lily",
+    "Upstart"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lycoris-squamigera/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lycoris",
+  "species": "squamigera",
+  "family": "Amaryllidaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Southeast China, Korea, and Japan"
+  ],
+  "distribution": [
+    "Native: Southeast China",
+    "Korea",
+    "and Japan.  Introduced:  United States"
+  ],
+  "wildlife-value": [
+    "The flowers attract butterflies and hummingbirds. The plant is deer and rabbit resistant."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Easy to Grow",
+    "Fragrance"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 6 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 6 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a"
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "The flowers are 3 inches in diameter, fragrant, rose-pink with purplish veins, and funnel or trumpet-shaped. They appear on 2-foot naked stems in late summer to fall. They bloom in groups of 6-8 and have 6 recurved slightly wavy petals and are slightly nodding. Blooms appear from August to September."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves are up to 12 inches long and 1 inch wide, silvery grayish green, strap-like leaves in a basal arrangement. They appear in late winter to early spring, and then they die back in late spring before the flowers emerge."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Meadow",
+    "Naturalized Area",
+    "Patio",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Cutting Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Rabbits"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "CAUSES ONLY LOW TOXICITY IF EATEN.  Abdominal pain, salivation, shivering, nausea, vomiting, and diarrhea."
+  ],
+  "poison-toxic-principle": [
+    "Lycorine, an alkaloid"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Roots"
+  ]
+}

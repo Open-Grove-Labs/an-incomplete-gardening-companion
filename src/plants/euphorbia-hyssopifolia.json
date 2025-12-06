@@ -1,0 +1,175 @@
+{
+  "fullName": "Euphorbia hyssopifolia",
+  "name": "euphorbia-hyssopifolia",
+  "commonNames": [
+    "Hyssopleaf Sandmat",
+    "Hyssopleaf spurge",
+    "Hyssop Spurge"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/euphorbia-hyssopifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Euphorbia",
+  "species": "hyssopifolia L.",
+  "family": "Euphorbiaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "North and south America"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "AZ",
+    "FL",
+    "GA",
+    "HI",
+    "LA",
+    "MD",
+    "MS",
+    "NC",
+    "NM",
+    "SC",
+    "TX",
+    "AR and UT"
+  ],
+  "plant-type": [
+    "Annual",
+    "Poisonous",
+    "Weed"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Erect",
+    "Prostrate"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The three-parted capsule contains ridged seeds"
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers are cyathias that grow in small clusters in the leaf axils. The center is the actual flower and may be surrounded by white bract-like leaves that turn pinkish with age."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Green leaves are opposite, finely serrated and about 1/2 inch long. The bases are usually asymmetrical and the tip is broadly acute. May have reddish or purple makings."
+  ],
+  "stem-color": [
+    "Gold/Yellow",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Plants have long, smooth, branched stems, often reddish or yellowish in color. Stems contain a milky sap"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "The milky white latex sap found in all plant parts can cause mild to severe contact dermatitis. If contact with the eyes occurs the sap can cause temporary to permanent damage to the cornea. If eaten, blistering can occur on lips and oral mucosa. Avoid ingesting plant parts and keep plants away from pets and children."
+  ],
+  "poison-toxic-principle": [
+    "Diterpene esters in milky latex"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ]
+}

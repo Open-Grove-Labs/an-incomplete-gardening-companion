@@ -1,0 +1,98 @@
+{
+  "fullName": "Monotropa",
+  "name": "monotropa",
+  "commonNames": [
+    "Ghost Plant",
+    "Indian-pipe",
+    "Pinesap"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/monotropa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Monotropa",
+  "family": "Ericaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Northern America"
+  ],
+  "distribution": [
+    "Maine to California and from Florida to Alaska. It is absent from the southwest",
+    "intermountain west and the central Rocky mountains"
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Wildflower"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "5a",
+    "6a",
+    "7a",
+    "8a",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "0.7 in. nodding solitary flower at end of a scaly stalk; 4-5 petals and 10 stamens; flowers usually occur in clusters"
+  ],
+  "leaf-color": [
+    "Black",
+    "Pink",
+    "White"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Scale-like waxy-white to pinkish-white; contains no chlorophyll; dries to a blackish color"
+  ],
+  "stem-color": [
+    "White"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "resistance-to-challenges": [
+    "Heavy Shade"
+  ],
+  "uses": "Has been used as a nervine in herbal medicine"
+}

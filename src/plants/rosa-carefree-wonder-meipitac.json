@@ -1,0 +1,56 @@
+{
+  "fullName": "Rosa Carefree Wonder 'MEIpitac'",
+  "name": "rosa-carefree-wonder-meipitac",
+  "commonNames": [
+    "Carefree Wonder",
+    "Dynastic"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-carefree-wonder-meipitac/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "plant-type": [
+    "Rose",
+    "Shrub"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-description": [
+    "Medium pink with creamy white to pink reverse; Semi-double, cupped bloom in clusters or single; mid-season to frost; 26 petals"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "semi-glossy, medium green leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "resistance-to-challenges": [
+    "Diseases"
+  ]
+}

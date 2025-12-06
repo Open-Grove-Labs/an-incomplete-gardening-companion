@@ -1,0 +1,213 @@
+{
+  "fullName": "Brassica oleracea (Acephala Group)",
+  "name": "brassica-oleracea-(acephala-group)",
+  "commonNames": [
+    "Collard",
+    "Collards",
+    "Decorative Kale",
+    "Decorative Kales",
+    "Flowering Kale",
+    "Flowering Kales",
+    "Kale",
+    "Kales",
+    "Ornamental Cabbage",
+    "Ornamental Cabbages",
+    "Ornamental Kale"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/brassica-oleracea-acephala-group/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Brassica",
+  "species": "oleracea",
+  "family": "Brassicaceae",
+  "life-cycle": [
+    "Annual",
+    "Biennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Mediterranean"
+  ],
+  "edibility": [
+    "Leaves are edible raw or cooked.  Cooking can help to tenderize tough leaves."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 8 in. - 1 ft. 2 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Cool Season Vegetable",
+    "Edible",
+    "Vegetable"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "fruit-type": [
+    "Siliqua"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Short-beaked siliqua 5\" long and round in cross-section.  They dry and split when ripe."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Edible"
+  ],
+  "flower-shape": [
+    "Cross"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Rarely flowers, a terminal raceme with 20-40 flowers. 4 petaled yellow to yellow-white, clawed with 6 stamens."
+  ],
+  "leaf-color": [
+    "Green",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "Variegated",
+    "White"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Oblanceolate",
+    "Pinnatisect"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "This plant can be green, purplish, pink, red to white, purple, or marbled. Loose rosettes (not solid heads), lyrate or pinnately divided, with undulate and sometimes fringed margins, thick, glaucous."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Covered with a powdery bloom (glaucous)"
+  ],
+  "stem-description": [
+    "Usually unbranched"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Hanging Baskets",
+    "Naturalized Area",
+    "Patio",
+    "Small Space",
+    "Vertical Spaces",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "problems": [
+    "Problem for Horses"
+  ]
+}

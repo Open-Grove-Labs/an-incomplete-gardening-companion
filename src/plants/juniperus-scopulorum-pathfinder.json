@@ -1,0 +1,165 @@
+{
+  "fullName": "Juniperus scopulorum 'Pathfinder'",
+  "name": "juniperus-scopulorum-pathfinder",
+  "commonNames": [
+    "Pathfinder Juniper"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/juniperus-scopulorum-pathfinder/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Juniperus",
+  "species": "scopulorum",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "wildlife-value": [
+    "Cones attract birds and other wildlife."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 8 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Dense",
+    "Erect",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Blue",
+    "White"
+  ],
+  "display/harvest-time": [
+    "Winter"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Small white or blue cone."
+  ],
+  "flower-color": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Conifers do not flower; tree can be dioecious (male or female)"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant",
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Scale-like, bluish gray foliage in flat sprays. Overall dense foliage."
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Exfoliating"
+  ],
+  "bark-description": [
+    "exfoliating or striated"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Lawn"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Screen/Privacy",
+    "Shade Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Pollution",
+    "Rabbits",
+    "Wind"
+  ]
+}

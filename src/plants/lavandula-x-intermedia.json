@@ -1,0 +1,152 @@
+{
+  "fullName": "Lavandula x intermedia",
+  "name": "lavandula-x-intermedia",
+  "commonNames": [
+    "Hybrid Lavender",
+    "Lavandin"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lavandula-x-intermedia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lavandula",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "wildlife-value": [
+    "Attracts butterflies, bees, and moths."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Cover/Habitat"
+  ],
+  "edibility": [
+    "Leaves, petals, and flower tips."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 2 ft. 6 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "habit/form": [
+    "Broad",
+    "Mounding",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Fragrant",
+    "Good Cut",
+    "Good Dried",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "1.5 to 2.5 in. spike of lavender-purple, white, pink, lilac flowers in summer"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "1-1.7\" gray-green to bluish-green leaves.  In warmer climates, they can be evergreen."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Meadow",
+    "Patio",
+    "Pool/Hardscape",
+    "Recreational Play Area",
+    "Slope/Bank",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden",
+    "Edible Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies"
+  ]
+}

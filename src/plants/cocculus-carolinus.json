@@ -1,0 +1,190 @@
+{
+  "fullName": "Cocculus carolinus",
+  "name": "cocculus-carolinus",
+  "commonNames": [
+    "Carolina coralbead",
+    "Carolina Moonseed",
+    "Carolina Redberried Moonseed",
+    "Carolina Snailseed",
+    "Coral-beads",
+    "Coralbells",
+    "Red Berried Moonseed",
+    "Snail Seed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cocculus-carolinus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cocculus",
+  "species": "carolinus",
+  "family": "Menispermaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern United States."
+  ],
+  "distribution": [
+    "Virginia south to Florida",
+    "west to Texas",
+    "Mexico."
+  ],
+  "wildlife-value": [
+    "This plant attracts birds and it is often used as shelter by mid-sized mammals."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heat, drought, and soil compaction tolerant."
+  ],
+  "climbing-method": [
+    "Scrambler",
+    "Twining"
+  ],
+  "edibility": [
+    "The \"berries\" (technically drupes) are enjoyed by birds, but not edible by humans."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 15 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Semi-evergreen",
+    "Deciduous",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Creeping",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-description": [
+    "Loose clusters of shiny, dark red, pea sized fruit display from September to October. The single crescent-shaped seed inside each drupe resembles a third quarter moon or small snail shell."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Tiny greenish white flowers bloom in June and July in loose, drooping, terminal and axillary clusters."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate",
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Dark green, glossy leaves to 4 inches long) are of varying shapes ranging from oval to heart-shaped to triangular."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Twining stems allow the plant to climb. Stems are not very woody and easily broken."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

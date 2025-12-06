@@ -1,0 +1,48 @@
+{
+  "fullName": "Sabulina verna",
+  "name": "sabulina-verna",
+  "commonNames": [
+    "Moss Sandwort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sabulina-verna/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sabulina",
+  "species": "verna",
+  "family": "Caryophyllaceae",
+  "plant-type": [
+    "Ground Cover"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

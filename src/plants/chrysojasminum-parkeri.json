@@ -1,0 +1,109 @@
+{
+  "fullName": "Chrysojasminum parkeri",
+  "name": "chrysojasminum-parkeri",
+  "commonNames": [
+    "Dwarf Flowering Jasmine",
+    "Dwarf Jasmine",
+    "Himalayan Jasmine",
+    "Parker Jasmine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/chrysojasminum-parkeri/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Chrysojasminum",
+  "species": "parkeri",
+  "family": "Oleaceae",
+  "country-or-region-of-origin": [
+    "Western Himalaya"
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Mounding",
+    "Spreading"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    ".5-.7\" yellow flowers bloom in late spring to summer on new wood."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Dark green leaves with 3 to 5 leaflets."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Rock Garden"
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "fullName": "Tecoma stans",
+  "name": "tecoma-stans",
+  "commonNames": [
+    "Esperanza",
+    "Trumpetbush",
+    "Trumpetflower",
+    "Yellowbells",
+    "Yellow Bells",
+    "Yellow Bignonia",
+    "Yellow Elder",
+    "Yellow Trumpetbush",
+    "Yellow Trumpetflower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/tecoma-stans/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Tecoma",
+  "species": "stans",
+  "family": "Bignoniaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical and Subtropical Americas, and West Indies"
+  ],
+  "distribution": [
+    "Native:  Central America",
+    "South America as far as northern Argentina",
+    "United States--AZ",
+    "FL",
+    "NM",
+    "and TX",
+    "and the West Indies"
+  ],
+  "wildlife-value": [
+    "Bees, hummingbirds, and other pollinators nectar at the flowers. It is the larval host for the Dogface butterfly and adult food for the Plebeian sphinx (Paratrea plebeja).  Small mammals eat the seeds and leaves."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Easy to Grow",
+    "Wildlife Larval Host "
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gray/Silver",
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "After flowering, a long thin capsule forms that measure 4 to 10 inches long. Initially, they are green and then become grayish-brown as they mature.  The capsule contains multiple small papery seeds."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The flowers are bright yellow, showy, and trumpet-shaped. They are about 2 inches long and have a few pale red veins inside the tube. The flowers are arranged in clusters or racemes and are mildly fragrant. They bloom from spring to frost. In some tropical areas, they may bloom all year long."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves are odd-pinnately compound with 5 to 13 leaflets. The leaflet is lanceolate to elliptic, 1.5 to 5 inches long, 1-2 inches wide,  and medium to olive green.  The leaf arrangement is opposite, and the margins are serrated."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Fissured",
+    "Lenticels"
+  ],
+  "bark-description": [
+    "The bark is light gray to brown. The bark has white lenticels when the shrub is young. As the shrub ages, the bark becomes fissured."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The twigs are thin and green. They turn reddish-brown as the shrub ages. The branches tend to droop and have no thorns. The shrub is multi-trunked."
+  ],
+  "landscape-location": [
+    "Container",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Drought Tolerant Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Hedge",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators",
+    "Small Mammals"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Heat"
+  ],
+  "uses": "Native Americans in the southwest U.S. and Mexico used the shrub for bowmaking, bee fodder, and medicines. The roots were brewed to make a native beer."
+}

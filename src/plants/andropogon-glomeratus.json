@@ -1,0 +1,131 @@
+{
+  "fullName": "Andropogon glomeratus",
+  "name": "andropogon-glomeratus",
+  "commonNames": [
+    "Bluestem",
+    "Broomsedge",
+    "Bush Beard Grass",
+    "Bushy beardgrass",
+    "Bushy Bluestem"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/andropogon-glomeratus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Andropogon",
+  "species": "glomeratus",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "fire-risk-rating": [
+    "extreme flammability"
+  ],
+  "wildlife-value": [
+    "Members of the genus Andropogon supports Common Wood-Nymph (Cercyonis pegala) larvae which have one brood from late May to October. Adult Common Wood-Nymph butterflies feed on rotting fruit and flower nectar. This plant also supports various Skipper larvae. Provides excellent cover year-round. Seeds are eaten by songbirds and small mammals."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "deer, moist and damp soil"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Ornamental Grasses and Sedges",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-description": [
+    "Fruit displays from October to November."
+  ],
+  "flower-color": [
+    "Gray/Silver",
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Good Dried"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower-description": [
+    "This plant has interesting beard-like flowers that bloom from September to October. The inflorescence has densely clustered, bushy bracts at top of stems. The inflorescence is good in cut or dried arrangements."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Orange"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "This plant has 3/8 in. wide green leaves in summer which turns copper-orange in fall and retains color well into winter.  Foliage has a reddish tint."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Winter Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Pollution",
+    "Wet Soil"
+  ]
+}

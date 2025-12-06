@@ -1,0 +1,137 @@
+{
+  "fullName": "Rubus",
+  "name": "rubus",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rubus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rubus",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "wildlife-value": [
+    "Fruits attract birds. Provides nectar for bees, food for birds and mammals, and thickets provide shelter for small mammals."
+  ],
+  "plant-type": [
+    "Edible"
+  ],
+  "habit/form": [
+    "Arching",
+    "Erect",
+    "Prostrate"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "fruit-type": [
+    "Aggregate",
+    "Drupe"
+  ],
+  "fruit-description": [
+    "Fruits vary in size and color with many maturing to black or red. Usually edible but vary in taste and sugar content. They also vary as to when they are available."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb",
+    "Solitary"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "White to pink flowers sometimes in clusters that vary in size depending on the species"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Doubly Serrate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Leaves vary in size depeding on the species. Many have hairs and prickles on the leave. Most are compound leaves"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems often with prickles"
+  ],
+  "landscape-location": [
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

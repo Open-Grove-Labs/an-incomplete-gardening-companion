@@ -1,0 +1,191 @@
+{
+  "fullName": "Oxalis articulata",
+  "name": "oxalis-articulata",
+  "commonNames": [
+    "Oxalis",
+    "Pink Oxalis",
+    "Pink Wood Sorrel"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/oxalis-articulata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Oxalis",
+  "species": "articulata",
+  "family": "Oxalidaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "South America"
+  ],
+  "edibility": [
+    "EDIBLE PARTS: Small amounts of leaves, flowers, seeds, tubers/roots eaten raw are not dangerous.  They have a lemon-like sour flavor."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 0 ft. 8 in.",
+    "Width: 0 ft. 6 in. - 0 ft. 8 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Perennial",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Rounded",
+    "Spreading"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruits are a dehiscent capsule that is fleshy and ejects seeds when ripe."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Saucer",
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers are pink, white, magenta, or yellow in color. They grow up to an inch in size and have 5 petals that are partially fused at the base. Flowers have 10 stamens that are in 2 whorls of 5. Inflorescence is an umbel up to 3\" in diameter with a long pedicel."
+  ],
+  "leaf-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves are basal, ternately compound, obovate with a notch at the top, and are erect to spreading. Leaves have 3 clover-like leaflets that are obcordate to incised triangular, entire, bright green or burgundy in color, and fold down at night. Petioles are slender and succulent."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems are acaulescent."
+  ],
+  "landscape-location": [
+    "Houseplants",
+    "Lawn",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "resistance-to-challenges": [
+    "Poor Soil"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "CAUSES ONLY LOW TOXICITY IF EATEN. Large quantities may cause trembling, cramps, and staggering in grazing animals, but there are no documented cases in humans.\nAll parts of the plant have toxic potential, although the possibility of serious effects is usually limited to ingestions of large quantities. Consuming Oxalis species can produce colic in horses, and kidney failure is possible if significant amounts are eaten."
+  ],
+  "poison-toxic-principle": [
+    "Soluble calcium oxylates"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

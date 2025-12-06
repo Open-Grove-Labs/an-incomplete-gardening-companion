@@ -1,0 +1,122 @@
+{
+  "fullName": "Rubus repens",
+  "name": "rubus-repens",
+  "commonNames": [
+    "Blackberry",
+    "Dewberry",
+    "Dewdrop",
+    "False Violet",
+    "Robin Runaway",
+    "Star Violet"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rubus-repens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rubus",
+  "species": "repens",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern  and Central North America"
+  ],
+  "wildlife-value": [
+    "Excellent cover year round for birds and small mammals. Butterflies and other insects are attracted to the blooms for its nectarwildlife plant, pollinator garden, nectar plant mid-spring, nectar plant late spring, nectar plant early summer. Fruits are eaten by songbirds and other animals. White-tailed deer and rabbits browse the leaves."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Moderately resistent to deer."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Creeping"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Occasionally Wet"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "A few, nearly dry, small white drupes are produced."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Flowers bloom from April to June."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Orbicular",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "The False violet has simple, ovate-orbiculate leaves with long petioles."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ]
+}

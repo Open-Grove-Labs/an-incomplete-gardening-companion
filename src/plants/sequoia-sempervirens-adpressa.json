@@ -1,0 +1,121 @@
+{
+  "fullName": "Sequoia sempervirens 'Adpressa'",
+  "name": "sequoia-sempervirens-adpressa",
+  "commonNames": [
+    "Adpressa Coastal Redwood",
+    "Coastal Redwood"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sequoia-sempervirens-adpressa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sequoia",
+  "species": "sempervirens",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Broad",
+    "Conical",
+    "Dense"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-description": [
+    "No flowers"
+  ],
+  "leaf-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-shape": [
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Oblong .2 to .3 in. densely arranged needles tipped in white when young"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Patio",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Hedge",
+    "Mass Planting"
+  ]
+}

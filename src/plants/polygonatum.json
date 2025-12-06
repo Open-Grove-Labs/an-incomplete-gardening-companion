@@ -1,0 +1,193 @@
+{
+  "fullName": "Polygonatum",
+  "name": "polygonatum",
+  "commonNames": [
+    "Solomon's Seal"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/polygonatum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Polygonatum",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Temp. Northern Hemisphere"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Shade"
+  ],
+  "edibility": [
+    "Young shoots can be boiled for 10 minutes and served like asparagus. Whole shoots can be cut up and put into salad,"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 0 ft. 9 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Herbaceous Perennial",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Arching"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Pendulous, black-blue 1/4\" berries dangle from the leaf axils in the fall."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers are yellowish-green to white, tubular campanulate, axillary, and are on 1 to 3 peduncles, nodding, on underside of leafy stem. These fragrant flowers smell lily-like and bloom from late spring to early summer May-June."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Good Cut"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Linear",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Leaves are usually alternate, upright, parallel-veined, distichate, simple, linear-lanceolate to elliptic-ovate, and entire. Leaves are 4\" long and are attractive in flower arrangements. Leaves are sessile to short petiole."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems are unbranched, and erect to arching."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cutting Garden",
+    "Rain Garden",
+    "Shade Garden"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Erosion",
+    "Heavy Shade",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Vomiting, diarrhea."
+  ],
+  "poison-toxic-principle": [
+    "Anthraquinone"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ]
+}

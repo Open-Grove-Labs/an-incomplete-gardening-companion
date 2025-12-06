@@ -1,0 +1,145 @@
+{
+  "fullName": "Cephalotaxus harringtonia 'Prostrata'",
+  "name": "cephalotaxus-harringtonia-prostrata",
+  "commonNames": [
+    "Prostrate Japanese Plum-Yew",
+    "Spreading Japanese Plum-Yew"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cephalotaxus-harringtonia-prostrata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cephalotaxus",
+  "species": "harringtonia",
+  "family": "Taxaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer resistant"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Arching",
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-description": [
+    "round seed covered by a thin, fleshy coat that matures to red."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Glossy, dark green leaves, new growth in spring is pale lime green; 0.7-1.7 in. distichously arranged needles that resemble those of a  yew (Taxus sp.)"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Shade Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting",
+    "Hedge",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Heat",
+    "Humidity"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "All plants in this botanical group are quite poisonous if ingested but are not dangerous to handle. Nervousness, trembling, slow pulse, pupil dilation, difficult breathing, abdominal pain, vomiting, diarrhea, weakness, convulsions; seizures, sudden death from acute heart failure if eaten in quantity."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloid taxine, Volatile oil"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Leaves",
+    "Seeds"
+  ]
+}

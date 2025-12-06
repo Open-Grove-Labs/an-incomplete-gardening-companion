@@ -1,0 +1,84 @@
+{
+  "fullName": "Calceolaria crenatiflora",
+  "name": "calceolaria-crenatiflora",
+  "commonNames": [
+    "Pocketbook Plant",
+    "Poor Man's Orchid",
+    "Pouch Flower",
+    "Slipperwort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/calceolaria-crenatiflora/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Calceolaria",
+  "species": "crenatiflora",
+  "family": "Calceolariaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "Central and South America"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 2 ft. 0 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Orange",
+    "Pink"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "One inch blossoms in yellow, spotted with orange-brown,red or rose-pink with a swollen lower lip resembling a pocketbook. Dense mass of flowers often covering the foliage."
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ]
+}

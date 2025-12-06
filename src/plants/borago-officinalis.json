@@ -1,0 +1,213 @@
+{
+  "fullName": "Borago officinalis",
+  "name": "borago-officinalis",
+  "commonNames": [
+    "Borage",
+    "Cool Tankard",
+    "Cover Crop",
+    "Starflower",
+    "Tailwort",
+    "Talewort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/borago-officinalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Borago",
+  "species": "officinalis",
+  "family": "Boraginaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Mediterranean"
+  ],
+  "wildlife-value": [
+    "Attracts bees and other wildlife."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "poor soil"
+  ],
+  "edibility": [
+    "In general, the flowers (used as edible flowers) and leaves (used in salads, teas, and sandwiches) are edible.\n\nMore specifically, the wrinkled, dull gray-green leaves that are covered with bristly hairs are edible. They can be eaten raw or cooked in the same manner as spinach, but have the taste and scent of a salty cucumber. Used as an herb or added to a salad. It is best to chop the leaves up finely as the hairy leaves do not leave a pleasant feeling in the mouth. Once dried, the leaves lose their flavor.\n\nThe stems are also flavorful and can be used once dried for flavoring beverages."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 7 in. - 3 ft. 2 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 4 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Herb"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Blue"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Obovate",
+    "Ovate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Edible, wrinkled, ovate, dull gray-green leaves grow up to 6\" long. They taste like cucumber. The leaves are covered with bristly hairs."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The branched stems are covered with bristly hairs."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Patio",
+    "Slope/Bank",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Poor Soil"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Vomiting, diarrhea, dermatitis"
+  ],
+  "poison-toxic-principle": [
+    "Tannins, mucilage"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves"
+  ],
+  "uses": "The flowers are used for creating a blue dye. Once added to an acid, it will turn pink."
+}

@@ -1,0 +1,175 @@
+{
+  "fullName": "Watsonia",
+  "name": "watsonia",
+  "commonNames": [
+    "Bourbon Watsonia",
+    "Bugle Lily",
+    "Bulbil Bugle-lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/watsonia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Watsonia",
+  "family": "Iridaceae",
+  "life-cycle": [
+    "Annual",
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Southern Africa, Lesotho, Swaziland"
+  ],
+  "wildlife-value": [
+    "Attractive to hummingbirds and pollinating insects."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Easy to Grow"
+  ],
+  "bulb-storage": [
+    "Bulbs can be dug up and stored in a cool, dry environment."
+  ],
+  "plant-type": [
+    "Annual",
+    "Bulb",
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Wood-textured oblong capsules containing several seeds."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Showy spikes with up to 25 flowers come in white, orange, pink, purple, and yellow/red."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Leaf color may include green.  They grow in a fan like arrangement below the blooms."
+  ],
+  "stem-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stem color may include green or yellow/green.  The stiffly erect stems can be both simple or branched."
+  ],
+  "landscape-location": [
+    "Container",
+    "Meadow",
+    "Patio",
+    "Pool/Hardscape",
+    "Vertical Spaces",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cutting Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Wind"
+  ]
+}

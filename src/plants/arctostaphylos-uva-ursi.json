@@ -1,0 +1,275 @@
+{
+  "fullName": "Arctostaphylos uva-ursi",
+  "name": "arctostaphylos-uva-ursi",
+  "commonNames": [
+    "Bearberry",
+    "Bear's grape",
+    "Hog Craneberry",
+    "Kinnikinnick",
+    "Sandberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/arctostaphylos-uva-ursi/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Arctostaphylos",
+  "species": "uva-ursi",
+  "family": "Ericaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Layering",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "North America"
+  ],
+  "distribution": [
+    "AK",
+    "AZ",
+    "CA",
+    "CO",
+    "CT",
+    "DE",
+    "IA",
+    "ID",
+    "IL",
+    "IN",
+    "MA",
+    "ME",
+    "MI",
+    "MN",
+    "MT",
+    "ND",
+    "NH",
+    "NJ",
+    "NM",
+    "NV",
+    "NY",
+    "OH",
+    "OR",
+    "PA",
+    "RI",
+    "SD",
+    "UT",
+    "VA",
+    "WA",
+    "WI",
+    "WY"
+  ],
+  "wildlife-value": [
+    "Bears, birds and other wildlife will often eat the berries.  Butterflies and hummingbirds are attracted to the flowers.  It is the host plant for Hoary Elfin, Brown Elfin and Freija Fritellary butterflies."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Edible fruit ",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "good drought tolerance; good salt spray tolerance"
+  ],
+  "edibility": [
+    "The berries are edible."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Creeping",
+    "Dense",
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruit is .2- to .5-in. and green, but it turns red in fall."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "This plant has small, urn-shaped, white to pinkish flowers in spring."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "This plant has 1-in., leathery, dark green leaves which are teardrop shape. They are yellow-green in the springtime, dark green in the summer months and may turn bronze or reddish-purple in the winter."
+  ],
+  "bark-color": [
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Exfoliating"
+  ],
+  "bark-description": [
+    "Papery, reddish, exfoliating bark."
+  ],
+  "stem-color": [
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Showy red stems."
+  ],
+  "landscape-location": [
+    "Container",
+    "Meadow",
+    "Naturalized Area",
+    "Patio",
+    "Riparian",
+    "Rock Wall",
+    "Slope/Bank",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Edible Garden",
+    "Pollinator Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Salt"
+  ],
+  "uses": "Landscape"
+}

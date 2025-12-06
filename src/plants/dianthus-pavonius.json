@@ -1,0 +1,138 @@
+{
+  "fullName": "Dianthus pavonius",
+  "name": "dianthus-pavonius",
+  "commonNames": [
+    "Grass Rose Pink",
+    "Peacock-eye Pink",
+    "Pinks"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dianthus-pavonius/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dianthus",
+  "species": "pavonius",
+  "family": "Caryophyllaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "France, Italy"
+  ],
+  "distribution": [
+    "Central Europe and Spain"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit resistant"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 2 in. - 0 ft. 6 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Brown seeds within a cylindrical capsule."
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "Bearded, single-toothed, flowers with a blue or brown heart bloom April to June."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Blue-green pointed leaves."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Rock Wall",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Rabbits"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Ingestion may cause minor stomach upset"
+  ],
+  "poison-toxic-principle": [
+    "Unidentified, possibly a glycoside"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves"
+  ]
+}

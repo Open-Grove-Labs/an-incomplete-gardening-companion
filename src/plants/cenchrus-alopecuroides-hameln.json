@@ -1,0 +1,147 @@
+{
+  "fullName": "Cenchrus alopecuroides 'Hameln'",
+  "name": "cenchrus-alopecuroides-hameln",
+  "commonNames": [
+    "Fountain Grass",
+    "Hameln Dwarf Fountain Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cenchrus-alopecuroides-hameln/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cenchrus",
+  "species": "alopecuroides",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "wildlife-value": [
+    "Birds are attracted to this plant."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ornamental Grasses and Sedges"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Spreading"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Good Dried",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-description": [
+    "The flower spike resembles a bottle brush."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Cream/Tan",
+    "Gold/Yellow"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The seed heads are very attractive, will last into winter."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Patio",
+    "Pond",
+    "Pool/Hardscape",
+    "Slope/Bank",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Drought",
+    "Erosion",
+    "Pollution",
+    "Rabbits",
+    "Wet Soil"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "fullName": "Prunus domestica subsp. insititia 'Shropshire Prune'",
+  "name": "prunus-domestica-subsp-insititia-shropshire-prune",
+  "commonNames": [
+    "Damson"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-domestica-subsp-insititia-shropshire-prune/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Prunus",
+  "species": "domestica subsp. insititia",
+  "family": "Roseaceae",
+  "edibility": [
+    "The small to medium sized fruit has blue skin and yellow flesh. It is said the flesh has an astringent taste which makes it more suitable to make jams, canning or preserving. Ripens from August to early September."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Oval"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Blue",
+    "Gold/Yellow"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "The small to medium sized fruit has blue skin and yellow flesh. Ripens from August to early September."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "The white, clustered flowers bloom in April."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The green elliptic leaves have fine tooth on the margin."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Stems, leaves, seeds contain cyanide, particularly toxic in the process of wilting: brick red mucous membranes, dilated pupils, difficulty breathing, panting, shock."
+  ],
+  "poison-toxic-principle": [
+    "Cyanogenic glycosides"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Seeds",
+    "Stems"
+  ]
+}

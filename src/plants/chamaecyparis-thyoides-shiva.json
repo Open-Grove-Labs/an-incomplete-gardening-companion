@@ -1,0 +1,111 @@
+{
+  "fullName": "Chamaecyparis thyoides 'Shiva'",
+  "name": "chamaecyparis-thyoides-shiva",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/chamaecyparis-thyoides-shiva/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Chamaecyparis",
+  "species": "thyoides",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting",
+    "Root Cutting"
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-description": [
+    "Forms non-showy cones"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Short, needle-like leaves with feathery, blue-green foliage that turns brownish in winter."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn"
+  ],
+  "landscape-theme": [
+    "Rain Garden"
+  ],
+  "design-feature": [
+    "Foundation Planting",
+    "Hedge",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "fullName": "Fatoua villosa",
+  "name": "fatoua-villosa",
+  "commonNames": [
+    "Hairy Crabweed",
+    "Mulberryweed",
+    "Mulberry Weed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/fatoua-villosa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Fatoua",
+  "species": "villosa",
+  "family": "Moraceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Japan, Australia, Eastern Asia"
+  ],
+  "distribution": [
+    "New York",
+    "Southeastern United States from Virginia to Florida",
+    "west to Texas and Oklahoma",
+    "north to the Ohio River Valley. Sporadic populations reported in California and Washington."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herb",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a"
+  ],
+  "fruit-color": [
+    "White"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruit is a three-anged, white, oval achene with explosively expelled seeds."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Green",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Feathery, dense clusters of light green pistillate and staminate flowers in the same cymes, with cymes subtended by a thin bract."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Papery",
+    "Velvety"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Deltoid",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Dentate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Papery triangular to heart-shaped leaves."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Hairy"
+  ],
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Erect hairy stems that can secrete a milky sap when cut. Stems are branched with hooked trichomes."
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

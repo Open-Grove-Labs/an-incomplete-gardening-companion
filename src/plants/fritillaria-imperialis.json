@@ -1,0 +1,161 @@
+{
+  "fullName": "Fritillaria imperialis",
+  "name": "fritillaria-imperialis",
+  "commonNames": [
+    "Crown Imperial Fritillary",
+    "Crown Imperials",
+    "Imperial fritillary"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/fritillaria-imperialis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Fritillaria",
+  "species": "imperialis",
+  "family": "Liliaceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Western Asia, Southern Turkey and Iran to the Western Himalaya"
+  ],
+  "distribution": [
+    "Introduced to Austria and Bulgaria"
+  ],
+  "edibility": [
+    "Fresh bulbs poisonous but edible after cooking."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Bulb"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-description": [
+    "Showy, fragrant, blooms appear in mid-spring, April/May, and into June. Each stem is topped with orange or red, drooping, bell-shaped flowers, each with a tuft of leaf-like bracts."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Leaves (to 6 inches long) with wavy margins appear in whorls around the lower half of the stem."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Each bulb produces a 4 foot tall, straight, flowering stem."
+  ],
+  "landscape-location": [
+    "Container",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Drought"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Fresh bulbs are poisonous but edible after cooking. They contain steroidal alkaloids"
+  ],
+  "poison-toxic-principle": [
+    "steroidal alkaloid"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Seeds"
+  ]
+}

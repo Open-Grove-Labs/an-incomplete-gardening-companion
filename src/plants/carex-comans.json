@@ -1,0 +1,146 @@
+{
+  "fullName": "Carex comans",
+  "name": "carex-comans",
+  "commonNames": [
+    "Mop-headed Sedge",
+    "New Zealand Hairy Sedge",
+    "Sedges"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/carex-comans/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Carex",
+  "species": "comans",
+  "family": "Cyperaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "New Zealand"
+  ],
+  "wildlife-value": [
+    "This plant supports various Satyr larvae."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ornamental Grasses and Sedges"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Dense",
+    "Weeping"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "Flowers late spring to early summer, male flowers are in terminal while female flowers are in lateral spikles.  Insignificant, this plant is grown for its interesting leaves."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Sheath"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex",
+    "Rosulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Sharp margined very narrow 1/16\" wide 12-12\" long pale green to bronze with brown purple lower sheaths"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-description": [
+    "Triangular stems"
+  ],
+  "landscape-location": [
+    "Container",
+    "Pond",
+    "Riparian",
+    "Slope/Bank",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Drought Tolerant Garden",
+    "Pollinator Garden",
+    "Rock Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Wet Soil"
+  ]
+}

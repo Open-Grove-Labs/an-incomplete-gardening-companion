@@ -1,0 +1,170 @@
+{
+  "fullName": "Magnolia 'Genie'",
+  "name": "magnolia-genie",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/magnolia-genie/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Magnolia",
+  "species": "soulangeana",
+  "family": "Magnoliaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "France"
+  ],
+  "wildlife-value": [
+    "Birds and butterflies are attracted."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Buffer",
+    "Colorful",
+    "Fragrance",
+    "Screening"
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 13 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "The black-red buds open into 6\", showy maroon-purple flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Light Gray"
+  ],
+  "bark-description": [
+    "The smooth bark is attractive in a winter garden."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Typically grows as a low branched tree."
+  ],
+  "landscape-location": [
+    "Container",
+    "Lawn",
+    "Patio",
+    "Pool/Hardscape",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Cutting Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Flowering Tree",
+    "Foundation Planting",
+    "Screen/Privacy",
+    "Small Tree",
+    "Specimen",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Songbirds"
+  ],
+  "uses": "Landscape"
+}

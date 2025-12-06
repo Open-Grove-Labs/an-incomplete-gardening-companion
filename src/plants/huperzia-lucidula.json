@@ -1,0 +1,55 @@
+{
+  "fullName": "Huperzia lucidula",
+  "name": "huperzia-lucidula",
+  "commonNames": [
+    "Shining Clubmoss"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/huperzia-lucidula/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Huperzia",
+  "species": "lucidula",
+  "family": "Lycopodiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern North America"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "Spores display from June to August."
+  ],
+  "flower-description": [
+    "No flowers, produces spores"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Native Garden",
+    "Winter Garden"
+  ],
+  "attracts": [
+    "Songbirds"
+  ]
+}

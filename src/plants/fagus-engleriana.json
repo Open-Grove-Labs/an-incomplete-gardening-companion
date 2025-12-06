@@ -1,0 +1,219 @@
+{
+  "fullName": "Fagus engleriana",
+  "name": "fagus-engleriana",
+  "commonNames": [
+    "Chinese Beech",
+    "Engler's Beech"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/fagus-engleriana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Fagus",
+  "species": "engleriana",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central and South East China"
+  ],
+  "distribution": [
+    "Western Europe and North America"
+  ],
+  "wildlife-value": [
+    "Fruits are eaten by mammals and birds."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "Nutmeats, in small quantities, are edible raw or cooked. Young leaves can be cooked for greens in the spring."
+  ],
+  "dimensions": [
+    "Height: 60 ft. 0 in. - 70 ft. 0 in.",
+    "Width: 45 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Poisonous",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Multi-stemmed",
+    "Rounded",
+    "Vase"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-description": [
+    "A 3-angled nut inside of a weakly spiny husk. The fruit, known as beechnuts or mast, drop in autumn. They are small, roughly triangular and edible, usually with a bitter taste."
+  ],
+  "flower-color": [
+    "Insignificant"
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The female flowers in April and May are borne in pairs; the male flowers are borne in wind-pollinated catkins in spring."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Four inch alternate, simple leaves. Glabrous except for long silky hairs on veins below, lateral veins in 9–14 pairs."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn",
+    "Meadow",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Children's Garden",
+    "Cottage Garden",
+    "English Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Shade Tree",
+    "Specimen",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Can cause stomach upset if eaten raw or unripe."
+  ],
+  "poison-toxic-principle": [
+    "Saponic Glycoside"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Seeds"
+  ],
+  "uses": "Nuts are pressed for oils. The wood is used in construction and for firewood."
+}

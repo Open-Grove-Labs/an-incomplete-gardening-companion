@@ -1,0 +1,84 @@
+{
+  "fullName": "Quercus x comptoniae",
+  "name": "quercus-x-comptoniae",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/quercus-x-comptoniae/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Quercus",
+  "family": "Fagacacae",
+  "country-or-region-of-origin": [
+    "South U.S.A. (TX to LA)"
+  ],
+  "wildlife-value": [
+    "Nuts provide a high calorie food source for deer, wild turkey, northern bobwhite, black bear, ducks."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-description": [
+    "Acorns ripen mid-October- December"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Dark green above lighter below variablt shapes and margins entire to lobed."
+  ],
+  "stem-is-aromatic": "N",
+  "attracts": [
+    "Small Mammals"
+  ],
+  "resistance-to-challenges": [
+    "Poor Soil"
+  ],
+  "problems": [
+    "Problem for Horses"
+  ]
+}

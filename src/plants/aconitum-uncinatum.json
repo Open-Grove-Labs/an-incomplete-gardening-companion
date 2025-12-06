@@ -1,0 +1,234 @@
+{
+  "fullName": "Aconitum uncinatum",
+  "name": "aconitum-uncinatum",
+  "commonNames": [
+    "Appalachian Blue Monkshood",
+    "Blue Rocket",
+    "Devil's Helmet",
+    "Eastern Blue Monkshood",
+    "Eastern Monkshood",
+    "Monkshood",
+    "Southern Blue Monkshood",
+    "Wild Monkshood",
+    "Wolf's Bane"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/aconitum-uncinatum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Aconitum",
+  "species": "uncinatum",
+  "family": "Ranunculaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Native Plant"
+  ],
+  "distribution": [
+    "AL",
+    "DC",
+    "GA",
+    "IL",
+    "IN",
+    "KY ,MD",
+    "NC",
+    "NH",
+    "OH",
+    "PA",
+    "SC",
+    "TN",
+    "VA",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Butterfly nectar source"
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "Not edible"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is dry and will split open when ripe. It displays from September to November."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers are white or blue-purple with the upper part hood- or helmit-like.     They have 1-in. deep purple or purplish blue flowers clustered at the end of stems; five sepals; upper sepal forms a rounded hood, concealing part of two claw-like petals. Flowers bloom from August to October."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The veined leaves are alternate, simple, palmately and 3 to 5 (though sometimes up to 9) lobed. They are up to 6-inches.  They are similar to buttercup."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Has a slender, weak branching stem."
+  ],
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Poisonous if ingested.     HIGHLY TOXIC, MAY BE FATAL IF EATEN!     Burning of lips and mouth, numbness of throat; intense vomiting and diarrhea, muscular weakness and spasms, weak pulse, paralysis of the respiratory system, convulsions; may be fatal"
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids aconitine and others"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

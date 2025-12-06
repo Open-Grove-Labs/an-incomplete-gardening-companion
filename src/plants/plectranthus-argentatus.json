@@ -1,0 +1,145 @@
+{
+  "fullName": "Plectranthus argentatus",
+  "name": "plectranthus-argentatus",
+  "commonNames": [
+    "Silver Crest",
+    "Silver Plectranthus",
+    "Silver Spur Flower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/plectranthus-argentatus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Plectranthus",
+  "species": "argentatus",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Queensland to North East New South Wales"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "This plant is seldom damaged by deer."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial",
+    "Houseplant"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Blue",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "July to August upright termial racemes with 1/2\" long flowers."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft",
+    "Velvety"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Ovate, scalloped pointed-tipped opposite leaves up to 4\" long and coverd with silvery hairs."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Hairy green-purple stems"
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio",
+    "Pool/Hardscape",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Dry Soil"
+  ]
+}

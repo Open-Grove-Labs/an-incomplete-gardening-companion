@@ -1,0 +1,97 @@
+{
+  "fullName": "Malus toringo",
+  "name": "malus-toringo",
+  "commonNames": [
+    "Siebold Crabapple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/malus-toringo/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Malus",
+  "species": "toringo",
+  "family": "Rosaceae",
+  "wildlife-value": [
+    "Food source for birds, small mammals, and deer."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Highly resistant to scab"
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Mounding"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "This plant has 0.4 in. yellow to red fruit, which persists."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-description": [
+    "This plant has pink buds that fade to white and are fragrant. Flowers may range from pale pink to rose."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Edible Garden"
+  ]
+}

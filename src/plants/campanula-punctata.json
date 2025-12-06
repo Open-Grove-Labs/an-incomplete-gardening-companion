@@ -1,0 +1,193 @@
+{
+  "fullName": "Campanula punctata",
+  "name": "campanula-punctata",
+  "commonNames": [
+    "Campanula",
+    "Canterbury Bells",
+    "Spotted Bellflower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/campanula-punctata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Campanula",
+  "species": "punctata",
+  "family": "Campanulaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Sibera, China, Japan"
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Colorful"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "deer"
+  ],
+  "edibility": [
+    "The leaves and roots are edible, and this plant is a delicacy in Korea (where the plant is called 'do-ra-jee'). While the roots are edible in a variety of ways (raw, dried, or cooked), they are very small which may be hard to cook with. The leaves can be eaten raw in salads and can taste anywhere from mild to sweet to even bitter depending on the season (bitter flavor happens generally mid-summer)."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 6 in. - 2 ft. 6 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Arching",
+    "Clumping",
+    "Erect",
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Good Cut",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Cup",
+    "Star",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "fused petals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "White to pale pink flowers (with purple spots inside) bloom for a long time, from late spring through summer."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "This plant has green, velvety, heart-shaped to oval leaves in basal rosettes."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Cottage Garden",
+    "Cutting Garden",
+    "Edible Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "fullName": "Pilea pumila",
+  "name": "pilea-pumila",
+  "commonNames": [
+    "Clearweed",
+    "Coolwort",
+    "Richweed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pilea-pumila/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pilea",
+  "species": "pumila",
+  "family": "Urticaceae",
+  "country-or-region-of-origin": [
+    "Canada, Central U.S.A."
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasional Flooding"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "Tiny green with black stripes achenes spread by wind."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-description": [
+    "Wind-pollianted flowers form from mid-summer to fall in racemes 1\" long in the leaf axils.  Petal-less lowers are green-white-yellow less than 1/8\""
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Dark green, simple, opposite, ovate, hairless leaves serrate margins.  Three major veins with netted side veins. Undersides are almost white.  Petioles are 1\" or longer."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Woodland"
+  ]
+}

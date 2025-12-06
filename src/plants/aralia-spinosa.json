@@ -1,0 +1,236 @@
+{
+  "fullName": "Aralia spinosa",
+  "name": "aralia-spinosa",
+  "commonNames": [
+    "Angelica Tree",
+    "Devil's Walkingstick",
+    "Devil's Walking Stick",
+    "Hercules' Club",
+    "Hercules's Club",
+    "Hercules's-Club",
+    "Prickly Ash",
+    "Prickly Elder"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/aralia-spinosa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Aralia",
+  "species": "spinosa",
+  "family": "Araliaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern USA, NC"
+  ],
+  "distribution": [
+    "Throughout"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Butterflies and other pollinators nectar at the blooms of this plant.  Its fruit is eaten by songbirds, small mammals, foxes, racoons and opossums."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "fire, range of soil conditions; transplant; deer; drought; many urban pollutants"
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 35 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Purple/Lavender"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-description": [
+    "This plant has a compact cluster of purple-black fleshy fruits. The flowers are followed by clusters of fleshy, spherical, black drupes that ripen in late July-October. Its drupes are quite attractive to birds."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "This plant has 3 to 4 ft. cluster of creamy white flowers in summer. The Devil's walking stick has small, 5-petaled, white flowers (to 1/8” across) bloom in huge, terminal, clusters of umbellose panicles (to 24” long) in June-September. The flowers are quite showy and very attractive to bees. Flower blooms from June to September."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Orange"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Orange",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The Devil's walking stick has alternate, compound, bipinnate to tripinnate, medium to dark green leaves that grow 2-5 feet long and 2-4 feet wide, with individual leaflets (2-4” long) having toothed margins. Its new foliage is bronze in color and turns pale yellow to dull purple brown or even yellow to red-orange in fall. This plant is ringed with conspicuous leaf scars and spines."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray",
+    "Light Brown",
+    "Light Gray"
+  ],
+  "bark-description": [
+    "The bark is gray-brown with persisting prickles and shallow furrows."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Fire",
+    "Pollution",
+    "Urban Conditions"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Spines/Thorns"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "CAUSES ONLY LOW TOXICITY IF EATEN. SKIN IRRITATION MINOR OR LASTING ONLY FOR A FEW MINUTES. Poisonous by ingestion or dermatitis. [Poisonous parts:  Raw, unripe berries (not poisonous when ripe though still not edible); bark and roots]. Symptoms may include:     Skin irritation from bark and roots; symptoms of ingestion are hypersalivation, vomiting,  and diarrhea. Handling its bark and roots may cause allergic skin reactions."
+  ],
+  "poison-toxic-principle": [
+    "Araliin"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Fruits",
+    "Roots"
+  ]
+}

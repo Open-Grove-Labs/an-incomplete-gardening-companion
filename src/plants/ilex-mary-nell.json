@@ -1,0 +1,171 @@
+{
+  "fullName": "Ilex 'Mary Nell'",
+  "name": "ilex-mary-nell",
+  "commonNames": [
+    "Mary Nell Holly"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ilex-mary-nell/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ilex",
+  "family": "Aquifoliaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern United States"
+  ],
+  "wildlife-value": [
+    "Fruit provide winter food; dense foliage provide protection for birds and small mammals."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "Use caution. Human ingestion of berries can cause minor toxic reaction."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Winter"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "Numerous bright red berries persist through winter and are attractive to wildlife. For best fruiting, site in full sun."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small, white flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery",
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Large glossy green leaves with short spines on margins."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Cottage Garden",
+    "Cutting Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Foundation Planting",
+    "Hedge",
+    "Specimen"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Minor toxicity. Ingestion may cause vomiting, diarrhea, or other illness in humans."
+  ],
+  "poison-toxic-principle": [
+    "Saponins"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ]
+}

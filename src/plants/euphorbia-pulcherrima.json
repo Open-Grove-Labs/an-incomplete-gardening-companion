@@ -1,0 +1,176 @@
+{
+  "fullName": "Euphorbia pulcherrima",
+  "name": "euphorbia-pulcherrima",
+  "commonNames": [
+    "Bird-of-Paradise Flower",
+    "Christmas Flower",
+    "Flame-Leaf Flower",
+    "Lobster Flower",
+    "Poinsettia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/euphorbia-pulcherrima/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Euphorbia",
+  "species": "pulcherrima",
+  "family": "Euphorbiaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Western Mexico"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 7 ft. 0 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Semi-evergreen",
+    "Deciduous",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Cup-shaped inconspicuous tiny yellow \"flowers\" cluster above the showy red, pink, or white leafy bracts. A large yellow gland appears on the rim of the \"flower\" (the cluster of flowers called a cyathium).  Seasonal bloomer but most often grown to bloom in winter through spring."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Denticulate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Large, ovate alternate leaves, with or without blunt teeth on the margin."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems contain a milky sap."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Pollution",
+    "Rabbits"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "The milky white latex sap found in all plant parts can cause mild to severe contact dermatitis. If contact with the eyes occurs the sap can cause temporary to permanent damage to the cornea. If eaten, blistering can occur on lips and oral mucosa. Avoid ingesting plant parts and keep plants away from pets and children."
+  ],
+  "poison-toxic-principle": [
+    "Diterpene esters in milky latex"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

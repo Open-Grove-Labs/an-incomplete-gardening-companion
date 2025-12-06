@@ -1,0 +1,194 @@
+{
+  "fullName": "Marrubium vulgare",
+  "name": "marrubium-vulgare",
+  "commonNames": [
+    "Horehound",
+    "White Horehound"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/marrubium-vulgare/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Marrubium",
+  "species": "vulgare",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Leaf Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Northern Africa, Southwestern and Central Asia"
+  ],
+  "distribution": [
+    "Canada",
+    "United States",
+    "Central and South America."
+  ],
+  "wildlife-value": [
+    "Attracts bees and other wildlife."
+  ],
+  "edibility": [
+    "Teas and beer, cough remedy, and flavoring in hard candies and crafts are produced from the leaves."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Herb",
+    "Herbaceous Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-description": [
+    "Seeds ripen from August to October."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Clusters of small white flowers in dense whorls around the upper stem in the leaf axils."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Up to 2 inch long, rounded, crinkled gray green leaves with scalloped margins and covered in downy hairs."
+  ],
+  "stem-color": [
+    "White"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Upright, square, woolly white stems."
+  ],
+  "landscape-location": [
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "It has been used in herbal medicine since the 1st century and is still used today."
+}

@@ -1,0 +1,42 @@
+{
+  "fullName": "Rosa Rotes Meer 'HANpur'",
+  "name": "rosa-rotes-meer-hanpur",
+  "commonNames": [
+    "Exception",
+    "Purple Pavement",
+    "Rotesmaer",
+    "Rotes Meer"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-rotes-meer-hanpur/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Rose"
+  ],
+  "flower-color": [
+    "Pink",
+    "Red/Burgundy"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-description": [
+    "Magenta and light crimson; Large, open semi-double blooms; yellow stamens; 25 petals; repeats"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

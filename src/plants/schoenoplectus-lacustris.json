@@ -1,0 +1,27 @@
+{
+  "fullName": "Schoenoplectus lacustris",
+  "name": "schoenoplectus-lacustris",
+  "commonNames": [
+    "Common Clubrush",
+    "Lakeshore Bulrush"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/schoenoplectus-lacustris/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Schoenoplectus",
+  "species": "lacustris",
+  "family": "Cyperaceae",
+  "plant-type": [
+    "Water Plant"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

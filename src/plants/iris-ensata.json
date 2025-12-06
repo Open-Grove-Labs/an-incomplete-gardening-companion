@@ -1,0 +1,167 @@
+{
+  "fullName": "Iris ensata",
+  "name": "iris-ensata",
+  "commonNames": [
+    "Japanese Flag",
+    "Japanese Iris",
+    "Japanese Water Iris",
+    "Russian Iris",
+    "Sword-Leaved Iris"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/iris-ensata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Iris",
+  "species": "ensata",
+  "family": "Iridaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Asia, Siberia, Japan and Eastern Europe"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "deer, wet soil; generally no diseases or insect pests"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 1 ft. 6 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial",
+    "Perennial",
+    "Poisonous",
+    "Water Plant"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "flower-color": [
+    "Blue",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Butterfly-like, 6-parted with 3 outer, spreading or pendent \"falls\" and 3 inner, erect \"standards\", with standards being smaller than the falls."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Sheath"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Strap-like leaves are up to 24 inches tall in a knife shape"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Patio",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cutting Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Diseases",
+    "Insect Pests",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "CAUSES ONLY LOW TOXICITY IF EATEN. SKIN IRRITATION MINOR, OR LASTING ONLY FOR A FEW MINUTES.  Nausea, salivation, vomiting, abdominal pain, lethargy, diarrhea, elevated temperature following ingestion; skin irritation upon contact with seeds, rootstock, or cell sap."
+  ],
+  "poison-toxic-principle": [
+    "Pentacylic terpenoids (zeorin, missourin and missouriensin), Irisin, iridin, or irisine"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Roots",
+    "Sap/Juice",
+    "Seeds"
+  ],
+  "uses": "Water garden, borders, flower beds, cut flowers"
+}

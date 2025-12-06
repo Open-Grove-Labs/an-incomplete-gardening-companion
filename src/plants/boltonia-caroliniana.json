@@ -1,0 +1,160 @@
+{
+  "fullName": "Boltonia caroliniana",
+  "name": "boltonia-caroliniana",
+  "commonNames": [
+    "Carolina Doll's Daisy"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/boltonia-caroliniana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Boltonia",
+  "species": "caroliniana",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Achenes are not winged as some species in this Genus are."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Clusters of white to pink to lilac flowers appear in late summer to fall. There are multiple rays surrounding the yellow disc flowers. They are about 1 inch across."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Waxy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Waxy narrow green leaves are lance-shaped to elliptical. They are 3- 5.5 inches long and 3/4 to 1 inch wide with an entire margin"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Waxy green stems"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden",
+    "Cottage Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Small groups"
+  ],
+  "attracts": [
+    "Pollinators"
+  ]
+}

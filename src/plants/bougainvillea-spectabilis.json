@@ -1,0 +1,231 @@
+{
+  "fullName": "Bougainvillea spectabilis",
+  "name": "bougainvillea-spectabilis",
+  "commonNames": [
+    "Bougainvillea",
+    "Great Bougainvillea",
+    "Paper Flower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/bougainvillea-spectabilis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Bougainvillea",
+  "species": "spectabilis",
+  "family": "Nyctaginaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Brazil"
+  ],
+  "distribution": [
+    "It can be found cultivated and naturalized across Asia",
+    "Africa",
+    "tropical America",
+    "the West Indies",
+    "the Mediterranean region",
+    "and on many islands in the Pacific and Indian Oceans in tropical and warm temperate regions."
+  ],
+  "wildlife-value": [
+    "It is pollinated by night moths,  bees, and butterflies."
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 40 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 41 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Perennial",
+    "Shrub",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Cascading",
+    "Climbing",
+    "Clumping",
+    "Dense",
+    "Multi-stemmed",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet",
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Winged achenes are 1-1.5 cm, elongate, 5-ribbed containing 1 seed and are distributed by wind and water."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers are found in axillary clusters of three, each flower with a purple, red, pink, or orange bract beneath. The calyx is tubular with 5 lobes approximately 2 cm long. The tube is the same color as the bracts, with white lobes approximately 3 mm long and  5-10 stamens."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "leaf-feel": [
+    "Leathery",
+    "Papery"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Sinuate",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The actual leaves are green. Branches are covered with long, soft hairs. Leaves are elliptical or ovate with the apex acute, obtuse, or acuminate and the base obtuse, rounded, or attenuate, slightly asymmetrical. Lower surfaces are softly hairy with prominent venation and slender petioles. This plant also has modified leaves called bracts (that may look like petals) and give the appearance of flowers."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems have long narrow thorns in the axils of leaves."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Hanging Baskets",
+    "Patio",
+    "Pool/Hardscape",
+    "Rock Wall",
+    "Slope/Bank",
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Drought Tolerant Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Hedge",
+    "Mass Planting",
+    "Screen/Privacy",
+    "Security",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Moths",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Heat",
+    "Pollution",
+    "Salt"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ],
+  "uses": "The extract and decoction of this plant have been used as fertility control among the tribal people in many countries. It also is believed to have anticancer, antihepatotoxic, anti-inflammatory, antihyperlipidemic, antimicrobial, antioxidant, and antiulcer properties. Bougainvillea spectabilis contains pinitol, which has an insulin-like effect and has the potential for development as a treatment for diabetes."
+}

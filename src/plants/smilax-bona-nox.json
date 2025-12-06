@@ -1,0 +1,227 @@
+{
+  "fullName": "Smilax bona-nox",
+  "name": "smilax-bona-nox",
+  "commonNames": [
+    "Bullbriar",
+    "Catbriar",
+    "Dunes Saw Greenbrier",
+    "Greenbriar",
+    "Saw Greenbrier",
+    "Stretchberry Vine",
+    "Tramp's Trouble"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/smilax-bona-nox/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Smilax",
+  "species": "bona-nox",
+  "family": "Smilacaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central and Eastern U.S.A., Mexico"
+  ],
+  "distribution": [
+    "Delaware  south to Florida",
+    "west to Kansas and Texas",
+    "north to Illinois",
+    "Indiana",
+    "Ohio",
+    "and in parts of Bermuda",
+    "Mexico"
+  ],
+  "wildlife-value": [
+    "Fruits are eaten by wood ducks, ruffed grouse, wild turkeys, fish crows, black bears, opossums, raccoons, squirrels, and songbirds. Deer browse the leaves. It also provides cover for birds and small animals."
+  ],
+  "climbing-method": [
+    "Tendrils"
+  ],
+  "edibility": [
+    "Cooked roots can be ground into a powder and made into gelatine. Young shoots can be eaten raw or cooked."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Native Plant",
+    "Vine",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Semi-evergreen",
+    "Deciduous",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "appendage": [
+    "Prickles",
+    "Tendrils"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "One-seeded drupes are eaten by birds and help with dispersal. The fruits look like clusters of small grapes."
+  ],
+  "flower-color": [
+    "Green",
+    "Insignificant",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Umbel"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-petals": [
+    "6 petals/rays",
+    "Tepals"
+  ],
+  "flower-description": [
+    "Male and female flower on different plants appearing from March-June.  Flowers are small and appear in the axils of leaves though are inconspicuous."
+  ],
+  "leaf-color": [
+    "Green",
+    "Variegated",
+    "White"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Deltoid"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The thick leaves often have a pair of lobes at the base and often have prickly margins. They are green, mottled with white."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Green"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Upper stems are smooth lower stems have prickles  and are hairy."
+  ],
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "attracts": [
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heat",
+    "Humidity",
+    "Poor Soil"
+  ],
+  "problems": [
+    "Spines/Thorns",
+    "Weedy"
+  ],
+  "uses": "Native Americans used leaves as cigarette wrappers, roots to treat urinary infections and to make bread."
+}

@@ -1,0 +1,180 @@
+{
+  "fullName": "Washingtonia robusta",
+  "name": "washingtonia-robusta",
+  "commonNames": [
+    "Mexican Fan Palm"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/washingtonia-robusta/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Washingtonia",
+  "species": "robusta",
+  "family": "Arecaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico"
+  ],
+  "distribution": [
+    "Florida",
+    "California",
+    "Hawaii and Texas."
+  ],
+  "edibility": [
+    "Fruits are edible but thin fleshed"
+  ],
+  "dimensions": [
+    "Height: 50 ft. 0 in. - 100 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Many black pea-sized fruits produced"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small cream-colored flowers in large drooping clusters are slightly fragrant in June."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Rich green palmate leaves are up to 3=5 feet long and 4 feet wide and are divided halfway to the base.  The tips are slightly drooping"
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Light Gray",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Furrowed"
+  ],
+  "bark-description": [
+    "The reddish-brown trunk is ringed with closely set leaf scars that weathers to a light gray."
+  ],
+  "stem-color": [
+    "Green",
+    "Orange"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "3 ft long green leaf stems are edged with orange saw-tooth spines"
+  ],
+  "landscape-location": [
+    "Coastal"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden"
+  ],
+  "design-feature": [
+    "Specimen",
+    "Street Tree"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heat",
+    "Humidity",
+    "Salt",
+    "Wind"
+  ],
+  "problems": [
+    "Messy"
+  ]
+}

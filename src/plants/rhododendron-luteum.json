@@ -1,0 +1,214 @@
+{
+  "fullName": "Rhododendron luteum",
+  "name": "rhododendron-luteum",
+  "commonNames": [
+    "Honeysuckle Azalea",
+    "Pontic Azalea",
+    "Sweet Pontica Azalea",
+    "Yellow Azalea"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rhododendron-luteum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rhododendron",
+  "species": "luteum",
+  "family": "Ericaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Native to Poland to Caucasus and Turkey"
+  ],
+  "wildlife-value": [
+    "Attracts hummingbirds and butterflies. Members of the genus Rhododendron support the following specialized bee: Andrena (Andrena) cornelli."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Rabbits"
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Cream/Tan"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The capsules are ovate, sparsely to moderately covered with hairs, and measure about 1.5 mm by 0.6 mm.  The seeds are tiny, oval,  and pale to dark chestnut brown."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The flower has a sweet fragrance and is yellow with a dark yellow blotch on the upper petal. The bloom is tubular in shape and measures 2 inches across.  It has 5 stamens that are 2 inches long and extend beyond the 3/4 inch corolla. They appear in dense clusters or racemes of 7 to 17 flowers on a single bare stem.  The flowers bloom in May, just before or at the same time the new leaves appear."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear",
+    "Oblanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The stems are reddish-brown in color and hairy."
+  ],
+  "landscape-location": [
+    "Patio",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Rabbits"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "The nectar of the plant may cause mouth irritation, nausea, vomiting if small amounts are ingested. Larger amounts of nectar ingested may result in confusion, low blood pressure, or irregular heart rhythm."
+  ],
+  "poison-toxic-principle": [
+    "Grayanotoxins--neurotoxin"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Sap/Juice"
+  ]
+}

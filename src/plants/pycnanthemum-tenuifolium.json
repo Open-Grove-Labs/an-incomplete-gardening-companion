@@ -1,0 +1,254 @@
+{
+  "fullName": "Pycnanthemum tenuifolium",
+  "name": "pycnanthemum-tenuifolium",
+  "commonNames": [
+    "Mountain Mint",
+    "Narrow-leafed Mountain Mint",
+    "Narrow-leaf Mountain Mint",
+    "Slender Mountain Mint"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pycnanthemum-tenuifolium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pycnanthemum",
+  "species": "tenuifolium",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Leaf Cutting",
+    "Root Cutting",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Canada to Central & Eastern U.S.A"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "CT",
+    "DC",
+    "DE",
+    "FL",
+    "GA",
+    "IA",
+    "IL",
+    "IN",
+    "KS",
+    "KY",
+    "LA MA",
+    "MD ME MI",
+    "MN",
+    "MO. MS",
+    "NC",
+    "NE NH",
+    "NJ",
+    "NY OH",
+    "OK",
+    "PA",
+    "RI",
+    "SC",
+    "TN",
+    "TX",
+    "VA",
+    "VT",
+    "WI",
+    "WV"
+  ],
+  "wildlife-value": [
+    "This plant supports Wavy-lined Emerald (Synchlora aerata) larvae. This plant attracts bees, butterflies and other pollinators including native sweat bees."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "The dried leaves and flowers are used for making teas and flavorings."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Displays from September to October."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Good Cut",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small whitish flowers with a touch of pink in numerous rounded cymes; two lips with lower lip having three lobes. Blooms from June to August."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Fragrant",
+    "Good Dried"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Acicular",
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "1\" to 2\" narrow (almost needle like), opposite leaves that are fragrant."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-description": [
+    "Square multi-stems"
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Pond",
+    "Riparian",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Garden for the Blind",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Erosion"
+  ],
+  "uses": "Rubbing the leaves skin has been used as a mosquito repellent."
+}

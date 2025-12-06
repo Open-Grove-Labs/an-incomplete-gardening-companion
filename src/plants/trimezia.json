@@ -1,0 +1,164 @@
+{
+  "fullName": "Trimezia",
+  "name": "trimezia",
+  "commonNames": [
+    "Apostle Plant",
+    "Apostle's Iris",
+    "Fan Iris",
+    "Poor Man's Orchid",
+    "Walking Iris"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/trimezia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Trimezia",
+  "family": "Iridaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical and subtropical Americas"
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Buffer",
+    "Colorful",
+    "Easy to Grow",
+    "Shade "
+  ],
+  "plant-type": [
+    "Bulb"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-description": [
+    "Inconspicuous."
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head",
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The showy flowers are a cross between an orchid and an iris.  Its outer petals spread in a horizontal position.  Three inner petals are curled."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The long sword shaped foliage grows in fan-like manner.  They emerge from the soil with no stem."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Near Septic",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Rock Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting",
+    "Small groups",
+    "Specimen"
+  ]
+}

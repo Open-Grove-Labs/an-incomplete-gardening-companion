@@ -1,0 +1,186 @@
+{
+  "fullName": "Erysimum cheiranthoides",
+  "name": "erysimum-cheiranthoides",
+  "commonNames": [
+    "Treacle Mustard",
+    "Wallflower Mustard",
+    "Worm-seed Mustard",
+    "Wormseed Mustard",
+    "Wormseed Wallflower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/erysimum-cheiranthoides/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Erysimum",
+  "species": "cheiranthoides",
+  "family": "Brassicaceae",
+  "life-cycle": [
+    "Annual",
+    "Biennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Japan"
+  ],
+  "wildlife-value": [
+    "Bees, beetles, and flies frequent are frequent visitors."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Easy to Grow"
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "8a",
+    "8b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Siliqua"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is a slender pod that contains a single row of seeds.  The pod will split open when ripe."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers are formed as rounded clusters of 1/2\", 4 petaled yellow flowers bloom in the summer at the top of the plant and the tips of the stems.  Each flower will have 6 stamens, of which 2 are shorter than the other 4."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves have little or no stalk.  The surface of the leaves have tiny star-shaped hairs.  The leaves become smaller as they ascend the stem.  The basal leaves will wither as the plant flowers."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The ribbed stems will elongate as the plant matures.  The flowers form at the top of the stems, while its fruits will form below."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Poor Soil"
+  ],
+  "problems": [
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "uses": "Wildflower"
+}

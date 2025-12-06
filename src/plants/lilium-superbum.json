@@ -1,0 +1,154 @@
+{
+  "fullName": "Lilium superbum",
+  "name": "lilium-superbum",
+  "commonNames": [
+    "Turk's Cap Lily",
+    "Turk's-cap Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lilium-superbum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lilium",
+  "species": "superbum",
+  "family": "Liliaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Central & Eastern U.S.A"
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Fruit is available September-October."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "2.5-4 inch orange-red flowers thickly spotted with purple.  The six tepals are curved backward such that the tips often touch. 4-12 blooms per stalk in loose clusters from July-August."
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "4-7 inch long and 1 inch across elliptic to lance-shaped leaves are arranged in whorls around the stems."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-description": [
+    "Sturdy smooth round stem to 8 feet tall."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators",
+    "Small Mammals"
+  ],
+  "problems": [
+    "Problem for Cats"
+  ]
+}

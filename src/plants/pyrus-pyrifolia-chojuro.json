@@ -1,0 +1,94 @@
+{
+  "fullName": "Pyrus pyrifolia 'Chojuro'",
+  "name": "pyrus-pyrifolia-chojuro",
+  "commonNames": [
+    "Chojuro Asian Pear"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pyrus-pyrifolia-chojuro/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pyrus",
+  "species": "pyrifolia",
+  "family": "Rosaceae",
+  "edibility": [
+    "This medium to large sized fruit has a yellow to brownish skin with crisp, juicy white flesh. It is sweet and mild, a little coarse in texture. Great for eating fresh. It can be stored for five months. Ripens in late August."
+  ],
+  "dimensions": [
+    "Height: 8 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 7 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Rounded"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "This medium to large sized fruit has a yellow to brownish skin with crisp, juicy white flesh. It is sweet and mild, a little coarse in texture. Great for eating fresh. It can be stored for five months. Ripens in late August."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "The five-petalled white flower blooms in spring."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Green, glossy leaf is oval in shape, pointed at the end."
+  ],
+  "stem-is-aromatic": "N"
+}

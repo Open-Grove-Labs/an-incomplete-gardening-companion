@@ -1,0 +1,157 @@
+{
+  "fullName": "Amaranthus tricolor",
+  "name": "amaranthus-tricolor",
+  "commonNames": [
+    "Amarante Douteuse",
+    "Calaloo",
+    "Callaloo",
+    "Chinese Spinach",
+    "Floramor",
+    "Flower-Gentle",
+    "Fountain Plant",
+    "Joseph's Coat",
+    "St. Joseph's coat",
+    "Tampala",
+    "Three-colored Amaranth"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/amaranthus-tricolor/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Amaranthus",
+  "species": "tricolor",
+  "family": "Amaranthaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical Asia"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heat, drought, poor soil"
+  ],
+  "edibility": [
+    "Seeds, leaves"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 6 in. - 5 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Insignificant"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-description": [
+    "Small flower spikes are in leaf axis."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "Variegated"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "This annual plant is known for its brightly colored foliage rather than its flowers.  Leaves come in a variety of interesting, attractive, and multi-colored foliage (of green, purple, yellow, gold, red, pink, and copper)."
+  ],
+  "stem-color": [
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Drought Tolerant Garden"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heat",
+    "Poor Soil"
+  ],
+  "uses": "Grain crop, leaf vegetable"
+}

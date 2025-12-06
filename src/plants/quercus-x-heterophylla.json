@@ -1,0 +1,204 @@
+{
+  "fullName": "Quercus x heterophylla",
+  "name": "quercus-x-heterophylla",
+  "commonNames": [
+    "Bartram Oak"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/quercus-x-heterophylla/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Quercus",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central and northeast U.S.A."
+  ],
+  "wildlife-value": [
+    "Many caterpillars feed on oaks and provide food for birds. They provide nesting and shelter sites, and acorns feed birds and mammals."
+  ],
+  "play-value": [
+    "Shade ",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Larval Host ",
+    "Wildlife Nesting"
+  ],
+  "edibility": [
+    "Acorns are edible once the tannins are leached out."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Open",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Sparse acorns look similar to Q. rubra but have larger caps."
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Male flowers in catkins, 1 to a few female flowers are short"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Various leaf shapes from lanceolate to ovate, smooth to sparsely toothed margins and 6-7\" long.  Upper leaves are glossy and smooth undersides are lighter in color and have hairs in the vein axils.  Red-brown fall color."
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Ridges",
+    "Scaly",
+    "Smooth"
+  ],
+  "bark-description": [
+    "Gray bark remains smooth until the tree is very mature. Becomes shallowly furrowed into broad hard scaly ridges."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn",
+    "Meadow",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Rain Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Wind"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Stomach pain, constipation and later bloody diarrhea, excessive thirst and urination."
+  ],
+  "poison-toxic-principle": [
+    "Gallotannins, quercitrin, and quercitin."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves"
+  ]
+}

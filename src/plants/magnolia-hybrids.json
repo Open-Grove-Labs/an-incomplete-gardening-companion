@@ -1,0 +1,91 @@
+{
+  "fullName": "Magnolia hybrids",
+  "name": "magnolia-hybrids",
+  "commonNames": [
+    "Hybrid Magnolias"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/magnolia-hybrids/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Magnolia",
+  "species": "hybrids",
+  "family": "Magnoliaceae",
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 25 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed",
+    "Pyramidal",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

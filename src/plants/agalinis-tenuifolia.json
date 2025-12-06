@@ -1,0 +1,190 @@
+{
+  "fullName": "Agalinis tenuifolia",
+  "name": "agalinis-tenuifolia",
+  "commonNames": [
+    "Common False Foxglove",
+    "Gerardia",
+    "Slender Agalinis",
+    "Slender-leaved False Foxglove"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/agalinis-tenuifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Agalinis",
+  "species": "tenuifolia",
+  "family": "Orobanchaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Canada, Central and Eastern North America"
+  ],
+  "wildlife-value": [
+    "Members of the genus Agalinus support butterfly larvae and adults.  Common Buckeye (Junonia coenia) larvae appear from May to October and in the deep south they appear year-round. Common Buckeye adult butterflies feed on flower nectar. Members of the genus Agalinis support the following specialized bee: Anthophorula (Anthophorisca) micheneri, Leaf-cutting bees (Megachile spp.). Syrphid flies feed on pollen."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 0 ft. 7 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "1/4\" shiny globular capsule with wind dispersed seeds."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Funnel"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-description": [
+    "Single purple pink bell to funnel shaped flowers form in the upper leaf axils.  They have 5 lobes and a spotted throat and hairy edges.  The two top petals are smaller and form a hood the larger three lower petals flare out.  Stamen and style are white.  Flowers are short-lived lasting only a day or two and only a few flowers on a branch bloom at a time.  The flowers are on a longer pedicle (flower stalk) than A. purpurea."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Simple, linear, 3/4\"-2\" long 1/8\" wide with entire margins and large midrib vein.  In dry conditions leaves may take on a purple -red hue."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Angled stems with narrow ridges, green but can turn purple-red in drought, smooth to the touch."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Meadow",
+    "Naturalized Area",
+    "Riparian",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Dry Soil",
+    "Wet Soil"
+  ]
+}

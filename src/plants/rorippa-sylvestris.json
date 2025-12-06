@@ -1,0 +1,42 @@
+{
+  "fullName": "Rorippa sylvestris",
+  "name": "rorippa-sylvestris",
+  "commonNames": [
+    "Creeping Yellowcress",
+    "Fieldcress",
+    "Southern Yellowcress",
+    "Yellowcress",
+    "Yellow Fieldcress"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rorippa-sylvestris/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rorippa",
+  "species": "sylvestris",
+  "family": "Brassicaceae",
+  "country-or-region-of-origin": [
+    "Europe to Siberia and North West China"
+  ],
+  "plant-type": [
+    "Weed"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "problems": [
+    "Weedy"
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "fullName": "Cyperus prolifer",
+  "name": "cyperus-prolifer",
+  "commonNames": [
+    "Cypress Isocladus",
+    "Dwarf Egyptian Papyrus Grass",
+    "Dwarf Papyrus",
+    "Minature Cyperus",
+    "Miniature Flatsedge",
+    "Miniature Papyrus"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cyperus-prolifer/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cyperus",
+  "species": "prolifer",
+  "family": "Cyperaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Africa"
+  ],
+  "play-value": [
+    "Buffer",
+    "Easy to Grow"
+  ],
+  "plant-type": [
+    "Shrub",
+    "Water Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Semi-evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Arching",
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low",
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is a light brown achene, containing one seed.  It does not open to release its seed."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Spike",
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "A flat, leaf-like bract is produce at the top of the stem.  Rays radiate stiffly from the center."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Sheath",
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leafless stem topped with spiral of dark green, pendulous leaves and greenish brown flower spikelets.  The leaves are inconspicuous."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The flowering culms/stems stand erect.  They are joined to the rhizome underground that spreads to form colonies."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio",
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "uses": "Water plant"
+}

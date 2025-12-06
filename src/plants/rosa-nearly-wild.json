@@ -1,0 +1,38 @@
+{
+  "fullName": "Rosa 'Nearly Wild'",
+  "name": "rosa-nearly-wild",
+  "commonNames": [
+    "Nearly Wild"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-nearly-wild/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Rose"
+  ],
+  "habit/form": [
+    "Rounded"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Rose-pink; Single small flowers on short stems; five petals; quickly reblooms"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

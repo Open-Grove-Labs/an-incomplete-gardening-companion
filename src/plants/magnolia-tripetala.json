@@ -1,0 +1,129 @@
+{
+  "fullName": "Magnolia tripetala",
+  "name": "magnolia-tripetala",
+  "commonNames": [
+    "Umbrella Magnolia",
+    "Umbrella-tree"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/magnolia-tripetala/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Magnolia",
+  "species": "tripetala",
+  "family": "Magnoliaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern U.S.A. to Oklahoma"
+  ],
+  "wildlife-value": [
+    "This plant is a food source for birds and mammals."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 40 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-type": [
+    "Aggregate"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "Fruit type is an aggregate of follicles. It displays from July to October."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "Creamy white flowers bloom from April to May. Flowers have an unpleasant odor."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblong"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Large leaves (up to 24\" long and 10\" wide) are clustered at end of stems, near the bud. Like Bigleaf Magnolia the bud is also a light green color that resembles a paint brush."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "design-feature": [
+    "Flowering Tree"
+  ],
+  "attracts": [
+    "Small Mammals",
+    "Songbirds"
+  ]
+}

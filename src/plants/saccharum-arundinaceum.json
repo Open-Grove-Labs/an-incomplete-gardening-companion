@@ -1,0 +1,91 @@
+{
+  "fullName": "Saccharum arundinaceum",
+  "name": "saccharum-arundinaceum",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/saccharum-arundinaceum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Saccharum",
+  "species": "arundinaceum",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical and Subtropical Asia"
+  ],
+  "wildlife-value": [
+    "This is a larval host plant that supports various skipper larvae and Common Wood-Nymph (Cercyonis pegala) which have one brood from late May to October. Adult Common Wood-Nymph butterflies feed on rotting fruit and flower nectar."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 12 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ornamental Grasses and Sedges"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Semi-evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Fall"
+  ],
+  "flower-description": [
+    "Purple flowers spikes appear in fall and are 12' tall"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The ends of the leaves have a drooping quality"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ]
+}

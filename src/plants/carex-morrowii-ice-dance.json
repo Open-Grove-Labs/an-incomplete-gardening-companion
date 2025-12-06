@@ -1,0 +1,112 @@
+{
+  "fullName": "Carex morrowii 'Ice Dance'",
+  "name": "carex-morrowii-ice-dance",
+  "commonNames": [
+    "Ice Dance Carex"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/carex-morrowii-ice-dance/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Carex",
+  "species": "morrowii",
+  "family": "Cyperaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 1 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ornamental Grasses and Sedges",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Semi-evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Dense",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Brown/Copper"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "leaf-color": [
+    "Green",
+    "Variegated",
+    "White"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Creamy white, marginal variegation"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Riparian",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Rain Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Erosion",
+    "Heavy Shade",
+    "Wet Soil"
+  ]
+}

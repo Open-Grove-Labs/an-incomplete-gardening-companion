@@ -1,0 +1,217 @@
+{
+  "fullName": "Bougainvillea glabra",
+  "name": "bougainvillea-glabra",
+  "commonNames": [
+    "Bougainvillea",
+    "Lesser Bougainvillea",
+    "Paperflower",
+    "Paper Flower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/bougainvillea-glabra/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Bougainvillea",
+  "species": "glabra",
+  "family": "Nyctaginaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "native to Brazil and Peru"
+  ],
+  "distribution": [
+    "naturalized in Hawaii and parts of Texas and Florida"
+  ],
+  "wildlife-value": [
+    "Bougainvillea is attractive to bees, butterflies, and birds."
+  ],
+  "climbing-method": [
+    "Scrambler"
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Perennial",
+    "Shrub",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Arching",
+    "Cascading",
+    "Climbing",
+    "Multi-trunked",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Elongated achene which is less than 1/2 inch long and has a dry hard covering."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Around the center of pink, red, or purple bracts, the flowers are much smaller than the bracts and are generally white."
+  ],
+  "leaf-color": [
+    "Green",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "Variegated"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblanceolate",
+    "Oblong",
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Glossy leaves are green or variegated. They are generally glabrous (smooth and hairless) but may have small hairs. Bracts, or modified leaves, are in shades of red, pink, and purple."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "It has thorny stems."
+  ],
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Pool/Hardscape",
+    "Rock Wall",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Border",
+    "Hedge",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Heat",
+    "Salt",
+    "Wind"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ],
+  "uses": "It is used as a botanical insecticide. In Mexico, an infusion is used to treat gastrointestinal and respiratory problems."
+}

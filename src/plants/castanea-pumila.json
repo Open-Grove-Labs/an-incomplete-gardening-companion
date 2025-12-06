@@ -1,0 +1,242 @@
+{
+  "fullName": "Castanea pumila",
+  "name": "castanea-pumila",
+  "commonNames": [
+    "Allegheny Chinquapin",
+    "American Chinquapin",
+    "Chinquapin",
+    "Common Chinquapin",
+    "Dwarf Chestnut"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/castanea-pumila/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Castanea",
+  "species": "pumila",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central & E. U.S.A"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "IN ",
+    "KY ",
+    "LA ",
+    "MA ",
+    "MD ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "WV"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "Larval host for butterflies. This plant is moderately resistant to damage from deer.  Its nuts are eaten by woodpeckers, bluejays, small mammals, wild turkeys, black bears, and white-tailed deer."
+  ],
+  "play-value": [
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "edibility": [
+    "Nuts are edible"
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Native Plant",
+    "Perennial",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "The fruit is a spiny 1-1.5 inch bur that houses a single chestnut brown, shiny nut.  Its fruits mature in autumn and winter."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Catkin"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Both male and female flowers on the same plant. Male flowers are borne in the leaf axils (the upper angle between a leaf stalk or branch and the stem or trunk from which it is growing), elongated, yellow to white, clustered, and have a strong odor. The female flowers are rounder with a diameter up to 1 inch. Blooms from May to July."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The leaves of the Chinkapin are alternate, simple, short-stemmed, prominently veined, oblong with fine pointed teeth or bristles, 3 to 5 inches long and 1.5-2 inches wide. They are bright yellow-green n the top and silvery tomentose (covered with densely matted woolly hairs) on the lower surface."
+  ],
+  "bark-color": [
+    "Light Brown"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Scaly"
+  ],
+  "bark-description": [
+    "The bark is light brown tinged with red, slightly furrowed and broken into loose plate-like scales."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Scaly"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Twigs are densely hairy (tomentose) when young, becoming shiny brown with densely reddish-hairy buds with 2-3 overlapping scales."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Naturalized Area",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Native Garden"
+  ],
+  "design-feature": [
+    "Small Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heat"
+  ],
+  "problems": [
+    "Messy"
+  ],
+  "uses": "Wood used for fence posts, railway ties, and fuel"
+}

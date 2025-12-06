@@ -1,0 +1,192 @@
+{
+  "fullName": "Fraxinus latifolia",
+  "name": "fraxinus-latifolia",
+  "commonNames": [
+    "Oregon ash"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/fraxinus-latifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Fraxinus",
+  "species": "latifolia",
+  "family": "Oleaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southwestern Canada to California"
+  ],
+  "distribution": [
+    "Oregan",
+    "CA",
+    "WA"
+  ],
+  "wildlife-value": [
+    "Seeds are eaten by songbirds, squirrels, and waterfowl. Deer and elk will graze its foliage and sprouts. It also provides food to some butterfly larvae."
+  ],
+  "play-value": [
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Samara"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Female trees produce winged samara with a single seed and single wing in hanging clusters. They are 1- 2 inches long"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Insignificant male and female inflorescences are borne in clusters on separate trees."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Odd pinnately compound yellow-green leaves with 5-7 leaflets. Each leaflet is 2-4.75 by 1-3 inches with a rounded base and pointed tip. The margin is serrate to entire. The end leaflet is wider, less serrated and often convex which helps to differentiate it from other ash trees. Fall color is yellow"
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Fissured",
+    "Ridges"
+  ],
+  "bark-description": [
+    "The bark is dark gray-brown and matures to a woven pattern of deep fissures and ridges."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Twigs are opposite and stout with opposing buds and wooly hairs"
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Rain Garden"
+  ],
+  "design-feature": [
+    "Shade Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "uses": "Native Americans used its wood for canoe paddles and digging sticks."
+}

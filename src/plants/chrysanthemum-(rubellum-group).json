@@ -1,0 +1,169 @@
+{
+  "fullName": "Chrysanthemum (Rubellum Group)",
+  "name": "chrysanthemum-(rubellum-group)",
+  "commonNames": [
+    "Chrysanthemum",
+    "Hardy Chrysanthemum",
+    "Hardy Garden Mum",
+    "Heritage Mum",
+    "Mums",
+    "Old-fashioned Mum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/chrysanthemum-rubellum-group/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Chrysanthemum",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Eurasia to Indo-China, Subarctic America, to Canada"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Mounding",
+    "Open",
+    "Oval"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The composite head is composed of a yellow center (called disk flowers) and petals of either pink, cream, white, red, or lavender (called ray flowers)."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Leaves at the bottom (4 inches) are longer than those are the top and have more defined margins (generally dentate and lobed) compared to the newer/top leaves."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Rock Wall",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "problems": [
+    "Contact Dermatitis"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Dermatitis caused by irritant oil in leaves. SKIN IRRITATION SEVERE! Redness, scaling, blisters. Vomiting, diarrhea, hyper salivation, incoordination, dermatitis,"
+  ],
+  "poison-toxic-principle": [
+    "Dermatitis caused by irritant oil in leaves. SKIN IRRITATION SEVERE! Redness, scaling, blisters. Vomiting, diarrhea, hyper saliv"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves"
+  ]
+}

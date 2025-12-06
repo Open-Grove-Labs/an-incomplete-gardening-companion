@@ -1,0 +1,218 @@
+{
+  "fullName": "Hypericum perforatum",
+  "name": "hypericum-perforatum",
+  "commonNames": [
+    "Common St. John's-wort",
+    "Goatweed",
+    "Klamath Weed",
+    "St. Johns Wort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hypericum-perforatum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hypericum",
+  "species": "perforatum",
+  "family": "Hypericaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, North Africa, Western Asia"
+  ],
+  "distribution": [
+    "Throughout the United States and Canada"
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "Ingestion of St John's wort can reduce the effectiveness of prescription medicine."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 0 ft. 9 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Perennial",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Mounding",
+    "Multi-stemmed",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Each 3-celled seed capsule is well-rounded at the base, becoming conical at its apex. Each cell of the seed capsule contain numerous seeds, which are oblong, flattened, and black. The surface of each seed is somewhat roughened by numerous small pits, rather than smooth."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Yellow petals with black dots on margins; bushy stamens. Solitary or cymose, terminal or axillary. Yellow (usually) 5-petaled (rarely 4), 5 sepals (rarely 4); stamens numerous, in bundles or in showy boss. The upper stems terminate in flat-headed clusters of several flowers. Each flower is about ¾ of an inch across. There are scattered black dots along the margins of the petals."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves are about 1 inch long and 1/3 of an inch across. They are oblong, hairless, and sessile. The surface of these leaves is perforated by numerous translucid dots, and there are often scattered black dots along the margin of the lower surface."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Contains 2 to 4 (up to 6) ridges on newer growth, smooth and rounded on older growth."
+  ],
+  "landscape-location": [
+    "Recreational Play Area",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Poor Soil"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Skin contact with the sap, or ingestion of the plant, can cause photosensitivity in some people. Common side-effects are gastointestinal disturbances, allergic reactions and fatigue, ulcerative and exudative dermatitis."
+  ],
+  "poison-toxic-principle": [
+    "Hypericin"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Sap/Juice"
+  ],
+  "uses": "Native Americans have been known to use this plant for medicinal purposes.  Flowers can be used as a yellow dye plant."
+}

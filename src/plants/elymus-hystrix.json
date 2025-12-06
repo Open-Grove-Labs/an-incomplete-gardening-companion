@@ -1,0 +1,135 @@
+{
+  "fullName": "Elymus hystrix",
+  "name": "elymus-hystrix",
+  "commonNames": [
+    "Bottle Brush Grass",
+    "Bottlebrush Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/elymus-hystrix/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Elymus",
+  "species": "hystrix",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "North, Central and Eastern U.S.A"
+  ],
+  "wildlife-value": [
+    "Seeds attract birds."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Drought tolerant."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Ornamental Grasses and Sedges"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Caryopsis"
+  ],
+  "fruit-description": [
+    "Fruit displays from July to September."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Flowers bloom from May to July."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Riparian",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Garden for the Blind",
+    "Native Garden"
+  ],
+  "attracts": [
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Drought",
+    "Dry Soil",
+    "Erosion",
+    "Heavy Shade",
+    "Pollution"
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "fullName": "Rosa spinosissima",
+  "name": "rosa-spinosissima",
+  "commonNames": [
+    "Burnet Rose",
+    "Scottish Briar",
+    "Scottish Rose",
+    "Stachel Rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-spinosissima/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "species": "spinosissima",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Europe to South Western Siberia and NW. Iran and Algeria"
+  ],
+  "wildlife-value": [
+    "Pollinating insects, butterflies, and birds"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Rose"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Mounding",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Achene",
+    "Aggregate"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The rosehips are round-blue-black fruits"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "A profusion of single, creamy-white, fragrant blooms with 5 petals in late spring to early summer. Blooms are up to 2 inches across."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The compound leaves are shiny with 9-11 leaflets. Leaf venation is pinnate and margins are usually serrated. Leaflets are elliptic to ovate in shape."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Red/Burgundy"
+  ],
+  "bark-description": [
+    "The adult plant bark is thin and smooth"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-bud-scales": [
+    "Enclosed in 2 scales"
+  ],
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The stem has many reddish-brown prickles of various sizes. Stem matures from reddish-green to reddish brown"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "English Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge",
+    "Mass Planting",
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Poor Soil",
+    "Salt"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ]
+}

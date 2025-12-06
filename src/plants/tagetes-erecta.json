@@ -1,0 +1,246 @@
+{
+  "fullName": "Tagetes erecta",
+  "name": "tagetes-erecta",
+  "commonNames": [
+    "African Marigold",
+    "American Marigold",
+    "Aztec Marigold",
+    "Big Marigold",
+    "Mexican Marigold"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/tagetes-erecta/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Tagetes",
+  "species": "erecta",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico to Guatemala"
+  ],
+  "distribution": [
+    "Southern North America"
+  ],
+  "wildlife-value": [
+    "attracts butterflies"
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Colorful"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "This plant is seldom damaged by deer. Some cultivars have good to excellent resistance to phytophthora and fusarium wilt."
+  ],
+  "edibility": [
+    "Sap or juice can cause a rash."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Perennial",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy",
+    "Variegated",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Yellow, orange, mahogany, bronze, creamy white and bicolor; double solitary 2 to 6 inch flowers blooming on slender heads from early summer to early fall."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Gland-dotted and aromatic; leaves opposite at the bottom and  alternate above, pinnately lobed and appearing divided, the lobes narrow and toothed."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "Y",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "The stem is striated, sometimes ridged, smooth or slightly with villi, cylindrical, oval and herbaceous to slightly woody, with resin channels in the bark, which are aromatic when squeezed."
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heat"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Skin redness, burning pain, and blisters when broken skin is in contact with cell sap plus sunlight; nose and eye irritation from the aroma of flowers"
+  ],
+  "poison-toxic-principle": [
+    "Phototoxic thiophene derivatives"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Roots",
+    "Sap/Juice"
+  ],
+  "uses": "Popular in the cut flower trade, the plant was gathered for ceremonial and decorative uses by the Aztecs."
+}

@@ -1,0 +1,247 @@
+{
+  "fullName": "Ilex myrtifolia",
+  "name": "ilex-myrtifolia",
+  "commonNames": [
+    "Myrtle Leaf Holly"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ilex-myrtifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ilex",
+  "species": "myrtifolia",
+  "family": "Aquifoliaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Alabama"
+  ],
+  "distribution": [
+    "Virginia to Florida and west to Texas. Mexico",
+    "Bahamas",
+    "Cuba",
+    "Puerto Rico"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Fruits are attractive to birds. Members of the genus Ilex support the following specialized bee: Colletes banksi."
+  ],
+  "play-value": [
+    "Buffer",
+    "Edible fruit ",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "particularly resistant to pests and diseases"
+  ],
+  "edibility": [
+    "Use caution. Human consumption of berries can cause minor toxic reaction."
+  ],
+  "dimensions": [
+    "Height: 20 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Conical",
+    "Open",
+    "Oval",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet",
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Long-lasting"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Berry",
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Berry like drupe 1/4 inch diameter, usually red but may be yellow; persistent from fall through winter."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Insignificant"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers are dioecious. The male flowers are small, greenish white in short branched clusters. The female flowers have 4 small greenish white petals and can occur solitary or in small clusters."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery",
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Thick shiny evergreen leaves are oblong, oblanceolate or lanceolate, 1/2 to 1 1/2 inches long with entire margins or sometimes a few sharp teeth above the middle. The underside of the wax-myrtle type leaves have no glands and are paler."
+  ],
+  "bark-color": [
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "bark-description": [
+    "Dark Gray, thin, smooth to warty when young but becoming scaly with age."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Lawn",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Hedge",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Salt",
+    "Wet Soil"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Minor toxicity. Ingestion may cause vomiting, diarrhea, or other illness in humans."
+  ],
+  "poison-toxic-principle": [
+    "Saponins"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ]
+}

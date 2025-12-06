@@ -1,0 +1,182 @@
+{
+  "fullName": "Rhexia mariana",
+  "name": "rhexia-mariana",
+  "commonNames": [
+    "Maryland Meadow Beauty",
+    "Pale Meadow Beauty"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rhexia-mariana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rhexia",
+  "species": "mariana",
+  "family": "Melastomataceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "SE U.S.A., NC"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "LA ",
+    "MA ",
+    "MD ",
+    "MI ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NJ ",
+    "NY ",
+    "OK ",
+    "PA ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "WV"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Seed pods are small and brown, resembling urns."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The 2 inches wide, 4 petaled flowers are white, pink, purple, or pale pink and have long stamens with bright yellow curved anthers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves are opposite and elliptic, lanceolate, or ovate, up to 3 inches long and 1.25 inches across. The leaves are 3-nerved with the surface nearly glabrous to hairy. They may take on a maroon coloring in the fall."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Green stem is glandular-hairy"
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Pond",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "attracts": [
+    "Bees"
+  ]
+}

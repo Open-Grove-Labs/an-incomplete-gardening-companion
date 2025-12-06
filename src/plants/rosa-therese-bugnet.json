@@ -1,0 +1,54 @@
+{
+  "fullName": "Rosa 'Therese Bugnet'",
+  "name": "rosa-therese-bugnet",
+  "commonNames": [
+    "Therese Bugnet"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-therese-bugnet/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "plant-type": [
+    "Rose",
+    "Shrub"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-description": [
+    "Light pink buds, fuchsia-red fading to pink, Clusters of large, double blooms; 35 petals; repeats"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "long, narrow, dark green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "long"
+  ],
+  "design-feature": [
+    "Hedge"
+  ]
+}

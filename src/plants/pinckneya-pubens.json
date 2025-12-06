@@ -1,0 +1,118 @@
+{
+  "fullName": "Pinckneya pubens",
+  "name": "pinckneya-pubens",
+  "commonNames": [
+    "Feverbark",
+    "Fever Tree",
+    "Georgia Bark",
+    "Pinckneya",
+    "Poinsettia Tree"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pinckneya-pubens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pinckneya",
+  "species": "pubens",
+  "family": "Rubiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Leaf Cutting",
+    "Seed"
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Multi-stemmed",
+    "Open"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "1\" brown fruit"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Tiny greenish flowers with long lasting 2\" salmon pink poinsettia like sepals"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Rich green leaves, no significant fall color"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Usually multistemmed"
+  ],
+  "landscape-theme": [
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Hummingbirds"
+  ]
+}

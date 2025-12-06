@@ -1,0 +1,152 @@
+{
+  "fullName": "Spathiphyllum",
+  "name": "spathiphyllum",
+  "commonNames": [
+    "Peace Lily",
+    "Spathe Flower",
+    "White Sails"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/spathiphyllum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Spathiphyllum",
+  "family": "Araceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico, Tropical America, Malesia, and Western Pacific"
+  ],
+  "edibility": [
+    "Leaves poisonous if eaten in large quantities."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Semi-evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Mounding",
+    "Rounded"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "The inflorescence is spadix and spathe with white, sail-like 4 inch to 12 inch blooms above the foliage. The spathe is white to greenish-white, oblong to oblong-lanceolate, and cuspidate. It is concave to flat, has an acuminate tip, and spreads or curves around the spadix. The spadix is greenish-white or cream, shorter than spathe; peduncle exceeding foliage."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Oblong",
+    "Ovate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Leaves are basal rosettes. They are erect, simple, ovate-lanceolate to elliptic-oblong, 4 to 25 inches long and 1 to 10 inches wide. They are acuminate, dark green, glossy, rugose, and have a prominent mid-rib often with numerous impressed lateral veins. The petiole is shorter than or equal in length to the blade.  No variegation."
+  ],
+  "stem-color": [
+    "Insignificant"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems are acaulescent, having no visible above-ground stem."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "The leaves of the Peace Lily can be poisonous if eaten in large quantities. Symptoms include severe pain in the mouth and a burning sensation to the lips, tongue, and throat, excessive drooling, vomiting (not horses), difficulty swallowing"
+  ],
+  "poison-toxic-principle": [
+    "Calcium oxalate crystals"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves"
+  ]
+}

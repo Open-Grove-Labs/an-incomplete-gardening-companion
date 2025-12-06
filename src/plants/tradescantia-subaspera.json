@@ -1,0 +1,233 @@
+{
+  "fullName": "Tradescantia subaspera",
+  "name": "tradescantia-subaspera",
+  "commonNames": [
+    "Spiderwort",
+    "Wideleaf Spiderwort",
+    "Zigzag Spiderwort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/tradescantia-subaspera/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Tradescantia",
+  "species": "subaspera",
+  "family": "Commelinaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern United States"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "DC",
+    "FL",
+    "GA",
+    "IL",
+    "IN",
+    "KY",
+    "LA",
+    "MO",
+    "MS",
+    "NC",
+    "NY",
+    "OH",
+    "PA",
+    "SC",
+    "TN",
+    "VA",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Valuable plant for native bees."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Shade "
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 2 ft. 6 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "After flowering, 3-chambered seed capsules are produced.  Each contain several seeds."
+  ],
+  "flower-color": [
+    "Blue",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Showy, 1\", three petaled violet flowers with yellow stamens.  Each petal is oval or broadly ovate.  The smaller sepals are ovate and typically hairy.  The flowers bloom for a period of time, however, only a few at a time.  The flowers are typically smaller than other spiderworts."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The dark green leaves can reach a length of up to 12\", while the width is typically 2\".  The shape of the leaves can vary somewhat, from linear-lanceolate to elliptic-lanceolate.  The upper surface of the downward arching leaves is dark green and typically smooth.  The lowers surface is a somewhat lighter green and also typically smooth.  Both upper and lower surfaces can have minute hairs."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-description": [
+    "The central stem is a medium green and slightly tapered.  It can be slightly hairy, or smooth."
+  ],
+  "landscape-location": [
+    "Houseplants",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Native Garden",
+    "Rock Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Specialized Bees"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Skin irritation with redness and itching, but of low risk."
+  ],
+  "poison-toxic-principle": [
+    "Unidentified, possibly oxalate crystals."
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves"
+  ]
+}

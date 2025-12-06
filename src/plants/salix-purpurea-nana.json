@@ -1,0 +1,27 @@
+{
+  "fullName": "Salix purpurea 'Nana'",
+  "name": "salix-purpurea-nana",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/salix-purpurea-nana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Salix",
+  "species": "purpurea",
+  "family": "Salicaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Africa"
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

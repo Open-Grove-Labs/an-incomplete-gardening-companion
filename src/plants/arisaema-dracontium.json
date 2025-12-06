@@ -1,0 +1,219 @@
+{
+  "fullName": "Arisaema dracontium",
+  "name": "arisaema-dracontium",
+  "commonNames": [
+    "Dragon Arum",
+    "Dragon-Root",
+    "Green Dragon"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/arisaema-dracontium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Arisaema",
+  "species": "dracontium",
+  "family": "Araceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "E. Canada, eastern and central USA, to NE. Mexico"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "CT ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "IA ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "LA ",
+    "MA ",
+    "MD ",
+    "MI ",
+    "MN ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NE ",
+    "NH ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "VT ",
+    "WI ",
+    "WV\nCanada: ON ",
+    "QC"
+  ],
+  "edibility": [
+    "The root is considered edible once it has been dried, aged and processed. Has been used in herbal medicine."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Green",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "Club-shaped cluster of many berries in late summer. Start out green and mature to dark red."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "This plant has slender, tapered, greenish-white spadix exceeding the length of the narrow, pointed spathe. It is 4 in. long. Blooms in May. Jack-in-the-pulpit type bloom"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Generally produces 1 large compound leaf with a long stem and  7-13 leaflets that are held out horizontally over the plant."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Pond",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rain Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Small groups"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Songbirds"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Irritation and swelling of lips, tongue, and throat if it is eaten raw"
+  ],
+  "poison-toxic-principle": [
+    "Calcium oxalate crystals and other toxins"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ],
+  "uses": "Used in rituals by Native Americans"
+}

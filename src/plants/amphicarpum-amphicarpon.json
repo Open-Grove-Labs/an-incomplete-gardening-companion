@@ -1,0 +1,143 @@
+{
+  "fullName": "Amphicarpum amphicarpon",
+  "name": "amphicarpum-amphicarpon",
+  "commonNames": [
+    "Blue Maidencane",
+    "Hairy Maidencane",
+    "New Jersey Goober-grass",
+    "Peanut Grass",
+    "Pine-barrens Goobergrass",
+    "Pine-barrens Peanut Grass",
+    "Pursh's Blue Maidencane"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/amphicarpum-amphicarpon/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Amphicarpum",
+  "species": "amphicarpon",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern U.S.A."
+  ],
+  "distribution": [
+    "North America",
+    "northeastern USA and southeast"
+  ],
+  "fire-risk-rating": [
+    "high flammability"
+  ],
+  "plant-type": [
+    "Annual",
+    "Native Plant",
+    "Ornamental Grasses and Sedges"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Two types of flowers are produced by this plant.  The aerial flowers produce conventional seeds, while underground self-fertile flowers produce underground seeds."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Sheath"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The linear or lanceolate hairy leaves are mostly basal."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Pond",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rain Garden"
+  ],
+  "uses": "Wetlands"
+}

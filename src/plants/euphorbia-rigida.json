@@ -1,0 +1,200 @@
+{
+  "fullName": "Euphorbia rigida",
+  "name": "euphorbia-rigida",
+  "commonNames": [
+    "Gopher Spurge",
+    "Rigid Spurge",
+    "Upright Myrtle Spurge"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/euphorbia-rigida/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Euphorbia",
+  "species": "rigida",
+  "family": "Euphorbiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "South Europe and Western Asia"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Drought tolerant, and deer resistant.  Tolerates rocky soils and dry conditions.."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low",
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Lobed oval green capsule"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-description": [
+    "Small star-shaped yellow-green flowers surrounded by chartreuse, bright yellow bracts on terminal stems in April-June."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "1-1.5 inch long blue-green succulent type lance-shaped and acuminate leaves spiral around the thick stem. Fall color is red to bronze tones."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Green stems die back after flowering"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Patio",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "The milky white latex sap found in all plant parts can cause mild to severe contact dermatitis. If contact with the eyes occurs the sap can cause temporary to permanent damage to the cornea. If eaten, blistering can occur on lips and oral mucosa. Avoid ingesting plant parts and keep plants away from pets and children."
+  ],
+  "poison-toxic-principle": [
+    "Diterpene esters in milky latex"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Sap/Juice",
+    "Stems"
+  ]
+}

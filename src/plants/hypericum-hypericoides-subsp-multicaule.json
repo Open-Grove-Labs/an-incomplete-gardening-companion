@@ -1,0 +1,247 @@
+{
+  "fullName": "Hypericum hypericoides subsp. multicaule",
+  "name": "hypericum-hypericoides-subsp-multicaule",
+  "commonNames": [
+    "Decumbent St. Andrew's Cross",
+    "Low St. John's-wort",
+    "Multi-stem St. Andrew's-cross",
+    "Reclining St. Andrew's Cross",
+    "Straggling St. John's-wort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hypericum-hypericoides-subsp-multicaule/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hypericum",
+  "species": "hypericoides",
+  "family": "Hypericaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern North America."
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "DC",
+    "DE ",
+    "GA ",
+    "IL ",
+    "KS ",
+    "KY ",
+    "LA ",
+    "MA ",
+    "MD ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA"
+  ],
+  "wildlife-value": [
+    "This plant attracts birds, bees, and other pollinators."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Mounding",
+    "Multi-stemmed",
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Oval capsules taper abruptly to the short beaks and contain numerous seeds. Fruit displays from July to November."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cross"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Four sepals and four narrow yellow petals each a 1/2 inch long form an X shape. They appear in groups of 1-3 in the upper leaf axils and have multiple long stamens. Flowers bloom from June to August."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Linear",
+    "Oblanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "1\" long simple, opposite, entire margins, oblanceolate to linear, wider at the tips than the middle, with glands on leaf surface. Leaves are sessile (no stems)."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-surface": [
+    "Corky Ridges"
+  ],
+  "stem-description": [
+    "Younger stems are dark red. Older stems are woody and angular with ridges."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Pond",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Dry Soil"
+  ],
+  "problems": [
+    "Short-lived"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Contact with the sap can cause photosensitivity in sensitive people."
+  ],
+  "poison-toxic-principle": [
+    "Unidentified, possibly a glycoside"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Sap/Juice"
+  ]
+}

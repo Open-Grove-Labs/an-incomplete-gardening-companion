@@ -1,0 +1,70 @@
+{
+  "fullName": "Leucocoprinus birnbaumii",
+  "name": "leucocoprinus-birnbaumii",
+  "commonNames": [
+    "Flowerpot Parasol",
+    "Lemon-Yellow-Lepiota",
+    "Plantpot Dapperling",
+    "Yellow Houseplant Mushroom",
+    "Yellow Pleated Parasol"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/leucocoprinus-birnbaumii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Leucocoprinus",
+  "species": "birnbaumii",
+  "family": "Agaricaceae",
+  "country-or-region-of-origin": [
+    "USA, NC"
+  ],
+  "distribution": [
+    "Throughout NC especially in greenhouses",
+    "and potted plants in houses and shopping malls."
+  ],
+  "edibility": [
+    "NOT EDIBLE!"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 1 in. - 0 ft. 3 in.",
+    "Width: 0 ft. 1 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Mushroom",
+    "Poisonous"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Lawn",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "This species is related to species known to be toxic so should not be eaten. Symptoms may include mild to severe diarrhea, vomiting, nausea, and other gastrointestinal upsets. Their exact level of toxicity is unknown."
+  ],
+  "poison-toxic-principle": [
+    "Possibly similar to related mushrooms"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Stems"
+  ]
+}

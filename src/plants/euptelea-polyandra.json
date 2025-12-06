@@ -1,0 +1,122 @@
+{
+  "fullName": "Euptelea polyandra",
+  "name": "euptelea-polyandra",
+  "commonNames": [
+    "Euptelea"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/euptelea-polyandra/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Euptelea",
+  "species": "polyandra",
+  "family": "Eupteleaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central & Southern Japan"
+  ],
+  "edibility": [
+    "Leaves can be cooked and eaten, but typically as a \"famine\" food."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Pyramidal",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Inconspicuous flowers in spring displaying red stamens."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Attractive fall color."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge",
+    "Screen/Privacy"
+  ],
+  "uses": "Food plant for moth larvae."
+}

@@ -1,0 +1,207 @@
+{
+  "fullName": "Phedimus spurius",
+  "name": "phedimus-spurius",
+  "commonNames": [
+    "Creeping Stonecrop",
+    "Stonecrop",
+    "Two-row Stonecrop"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/phedimus-spurius/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Phedimus",
+  "species": "spurius",
+  "family": "Crassulaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "North Eastern Turkey to Northern Iran"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "flowers attract bees and butterflies"
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Textural ",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "good drought tolerance"
+  ],
+  "edibility": [
+    "Stems and leaves, when very young and tender, may be eaten raw. Later, until they flower, they may be briefly cooked."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 2 in. - 0 ft. 6 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Semi-evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Creeping",
+    "Dense",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "White, pink to purplish star-shaped flowers on 6 in. stems in summer"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Slippery"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Red/Burgundy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves arranged in two columns along the stem; deciduous towards the stem base and evergreen near the tip; foliage takes on burgundy hues in fall"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Naturalized Area",
+    "Recreational Play Area",
+    "Rock Wall",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden",
+    "Drought Tolerant Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Erosion",
+    "Pollution",
+    "Rabbits"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Unknown, but possibly gastrointestinal symptoms."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids sedine, sedamine, and others."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Roots",
+    "Stems"
+  ]
+}

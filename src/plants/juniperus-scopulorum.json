@@ -1,0 +1,214 @@
+{
+  "fullName": "Juniperus scopulorum",
+  "name": "juniperus-scopulorum",
+  "commonNames": [
+    "Colorado Red Cedar",
+    "Mountain Red Cedar",
+    "River Juniper",
+    "Rocky Mountain Juniper",
+    "Rocky Mountain Red Cedar",
+    "Seaside Juniper",
+    "Western Juniper",
+    "Western Red Cedar"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/juniperus-scopulorum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Juniperus",
+  "species": "scopulorum",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Western Canada, western USA to Northern Mexico"
+  ],
+  "distribution": [
+    "Native: Canada--British Columbia and Alberta",
+    "Mexico Northeast",
+    "Mexico Northwest",
+    "and the United States--CO",
+    "ID",
+    "MT",
+    "NE",
+    "NV",
+    "NM",
+    "ND",
+    "OR",
+    "SD",
+    "UT",
+    "WA",
+    "and WY."
+  ],
+  "fire-risk-rating": [
+    "high flammability"
+  ],
+  "wildlife-value": [
+    "Birds eat the cones. It provides nesting sites and cover. Host plant to the olive butterfly. Deer resistant."
+  ],
+  "play-value": [
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 30 ft. 0 in. - 40 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Erect",
+    "Pyramidal",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Blue"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is a round, two-lobed, 0.2 to 0.3 inches in diameter, dark blue, heavily glaucous, and a berry-like cone.  The immature berry is green and glaucous. It ripens to a bluish-purple with a white, waxy bloom. The seed cone is resinous to fibrous and contains 1 to 3 brownish seeds that are 4-5 mm in diameter. They ripen the second year from mid-September to mid-December. They remain on the tree until the following spring. The seeds are dispersed mainly by birds."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "The tree is dioecious or produces male and female flowers on separate plants. Both male and female flowers are present from mid-April to mid-June. The female flowers are greenish-yellow and have two ovules. They open in the following spring before pollination. The male flowers are yellow with six stamens and appear on short branchlets.  The pollen is dispersed by the wind.  The female flowers have 3 to 8 pointed scales that become fleshy and fuse to form a small strobili or berry."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Insignificant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Adult foliage is opposite, scale-like and varies in color from bluish-silvery or light to dark green. They usually have an inconspicuous gland on the surface of the leaf. The leaves are appressed or spreading and measure 1 to 3 mm long. The juvenile foliage is more needle-like, measures 5 to 7 mm long, and pointed with white coated needles. The foliage has a musty scent."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Light Gray",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Exfoliating"
+  ],
+  "bark-description": [
+    "The bark is reddish-brown or gray and sheds or exfoliates in thin strips."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The small branchlets are smooth, but larger branchlets exfoliate in plates."
+  ],
+  "landscape-location": [
+    "Lawn"
+  ],
+  "design-feature": [
+    "Screen/Privacy",
+    "Small Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Pollution",
+    "Salt"
+  ],
+  "uses": "The aromatic wood is used for cedar chests and for lumber, fence posts, and fuel. Native Americans used the juniper berries for food and decorations. The bark was woven to make cradles. It was also used for firewood for heating and cooking. When the wood is cured, it is resistant to decay."
+}

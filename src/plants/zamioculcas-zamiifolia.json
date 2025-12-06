@@ -1,0 +1,163 @@
+{
+  "fullName": "Zamioculcas zamiifolia",
+  "name": "zamioculcas-zamiifolia",
+  "commonNames": [
+    "Aroid Palm",
+    "Emerald Palm",
+    "Eternity Plant",
+    "Zanzibar Gem",
+    "Zuzu Plant",
+    "ZZ Plant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/zamioculcas-zamiifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Zamioculcas",
+  "species": "zamiifolia",
+  "family": "Araceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Leaf Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Africa"
+  ],
+  "distribution": [
+    "Native: Kenya",
+    "KwaZulu-Natal",
+    "Malawi",
+    "Mozambique",
+    "Tanzania",
+    "and Zimbabwe"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Poisonous",
+    "Succulent"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Semi-evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Arching",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-description": [
+    "Rarely flowers.  Sheath-like green spathe surrounds a white spadix. (an upright spike of creamy white flowers)"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Pinnately compound glossy green leaves with thick petioles that can grow up to 2-4' long.  Around 25 leaflets, each elliptic and about 1-2\" long."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-description": [
+    "Thick, fleshy stems from a rhizome.  They start out broad and taper towards the top."
+  ],
+  "landscape-location": [
+    "Houseplants"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "diarrhea, vomiting"
+  ],
+  "poison-toxic-principle": [
+    "calcium oxalate"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves"
+  ]
+}

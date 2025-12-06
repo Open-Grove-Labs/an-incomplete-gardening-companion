@@ -1,0 +1,17 @@
+{
+  "fullName": "Hoya",
+  "name": "hoya",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hoya/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hoya",
+  "family": "Apocynaceae",
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

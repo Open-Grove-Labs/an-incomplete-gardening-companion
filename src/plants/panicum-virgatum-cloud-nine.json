@@ -1,0 +1,116 @@
+{
+  "fullName": "Panicum virgatum 'Cloud Nine'",
+  "name": "panicum-virgatum-cloud-nine",
+  "commonNames": [
+    "Tall Switch Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/panicum-virgatum-cloud-nine/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Panicum",
+  "species": "virgatum",
+  "family": "Poaceae",
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "North America"
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ornamental Grasses and Sedges"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Caryopsis"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer",
+    "Winter"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Pond",
+    "Riparian"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Erosion",
+    "Pollution",
+    "Wet Soil"
+  ]
+}

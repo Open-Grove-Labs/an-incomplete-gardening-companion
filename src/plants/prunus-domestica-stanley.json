@@ -1,0 +1,111 @@
+{
+  "fullName": "Prunus domestica 'Stanley'",
+  "name": "prunus-domestica-stanley",
+  "commonNames": [
+    "Stanley European Plum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-domestica-stanley/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Prunus",
+  "species": "domestica",
+  "family": "Rosaceae",
+  "edibility": [
+    "The medium sized fruit has a blue skin and pale yellow flesh. The fruit is sweet and juicy. The high sugar content makes it a great choice for canning and drying. Ripens in early September."
+  ],
+  "dimensions": [
+    "Height: 18 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 18 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Vase"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Blue",
+    "Gold/Yellow"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-description": [
+    "The medium sized fruit has a blue skin and pale yellow flesh."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "The white blossom is a good ornamental feature."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The green elliptic leaves have fine tooth on the margin."
+  ],
+  "stem-is-aromatic": "N",
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Stems, leaves, seeds contain cyanide, particularly toxic in the process of wilting: brick red mucous membranes, dilated pupils, difficulty breathing, panting, shock."
+  ],
+  "poison-toxic-principle": [
+    "Cyanogenic glycosides"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Seeds",
+    "Stems"
+  ]
+}

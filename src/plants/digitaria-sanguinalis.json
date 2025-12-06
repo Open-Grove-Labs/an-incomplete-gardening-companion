@@ -1,0 +1,165 @@
+{
+  "fullName": "Digitaria sanguinalis",
+  "name": "digitaria-sanguinalis",
+  "commonNames": [
+    "Crabgrass",
+    "Crop Grass",
+    "Hairy Crabgrass",
+    "Hairy Finger Grass",
+    "Large Crabgrass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/digitaria-sanguinalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Digitaria",
+  "species": "sanguinalis",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "Eurasia"
+  ],
+  "distribution": [
+    "Wide distribution worldwide."
+  ],
+  "edibility": [
+    "The grain is edible and nutritious"
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Prostrate"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Caryopsis"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Produces many seeds remove plants before they set seed to reduce the population the following growing season."
+  ],
+  "flower-color": [
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Panicle",
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "There are many pairs of one-flowered spikelets along the length of each raceme that can be up to 8 inches long.  They occur along one side of the flattened stalk mid-summer to early fall."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Sheath",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaf blades are up to 6\" long and nearly ½\" across and are dull light green. They can be slightly curly along the margins and are often hairy toward the base."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Stems are prostrate, spreading, and rooting at nodes. They can be branched at nodes."
+  ],
+  "landscape-location": [
+    "Lawn"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "Used as a hand-forged grain in the past."
+}

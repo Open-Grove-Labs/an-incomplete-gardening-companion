@@ -1,0 +1,263 @@
+{
+  "fullName": "Carya tomentosa",
+  "name": "carya-tomentosa",
+  "commonNames": [
+    "Big-bud Hickory",
+    "Mockernut Hickory",
+    "Squarenut",
+    "White Heart Hickory",
+    "White Hickory"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/carya-tomentosa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Carya",
+  "species": "tomentosa",
+  "family": "Juglandaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "S. Ontario to Central & E. U.S.A"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "CT ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "IA ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "LA ",
+    "MA ",
+    "MD ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NH ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "RI ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "WV"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "The Mockernut hickory is a host plant for Banded Hairstreak (Satyrium calanus) caterpillars which have one flight from June-August everywhere but Florida where they emerge April-May and many moths including the Luna moth.  This is a larval host plant for butterflies and moths.  It also supports Hickory Horndevil (Citheronia regalis) which have one brood and appear from May to mid-September. Adult Hickory Horndevil moths do not feed. The nuts are eaten by squirrels, chipmunks and black bears. Fruit is consumed by wood ducks, red-bellied woodpeckers, red fox, squirrels, beaver, eastern cottontail, eastern chipmunk, turkey, white-tailed deer, wild turkey, and white-footed mice. Provide cavities for woodpeckers, black ratsnake, raccoons, and carolina chickadees"
+  ],
+  "play-value": [
+    "Edible fruit ",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer. Fire in the landscape. Heat and drought tolerant."
+  ],
+  "edibility": [
+    "Nuts are edible by humans but shells are hard to crack"
+  ],
+  "dimensions": [
+    "Height: 60 ft. 0 in. - 80 ft. 0 in.",
+    "Width: 40 ft. 0 in. - 60 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Native Plant",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Broad",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-description": [
+    "4-segmented husks are 1.5-3 inches wide and are green maturing to yellow then brown. Contains 1 light brown oval slightly compressed nut with a thick shell and edible seeds. Displays in October."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "It has both male and female flowers that are non-showy.  The male flowers are drooping greenish-yellow catkins up to 6\" long. The female flowers are on short spikes with a feathery reddish stigmata being exerted from the green calyx. Blooms from April to May."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "9-20 inch long compound leaves are alternate, odd-pinnate and dark yellowish-green.  They have 5 to 7 toothed ovate-lanceolate leaflets that are 3-6 inches long by 1-2 inches wide. Bases are cuneate to rounded and tips are tapered and acute. Undersides have orange-brown hairs. The stem is covered with resinous, pungent hairs and is aromatic when cut or bruised. The leaves turn an attractive yellow in fall."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Ridges",
+    "Smooth"
+  ],
+  "bark-description": [
+    "The bark of both young and old trees exhibit smooth, rounded interlacing ridges with shallow furrows."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Hairy"
+  ],
+  "stem-bud-terminal": [
+    "Only 1 terminal bud, larger than side buds"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The bark of branches is gray and smooth. Twigs are gray to grayish brown and stout. Young shoots are light green, light brown, or brown, densely pubescent. The terminal and stem buds are large at 1/2-3/4 inch, ovoid, with brown scales with hairs giving it the common name of Big-bud Hickory."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Naturalized Area",
+    "Recreational Play Area"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Native Garden",
+    "Nighttime Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Fire"
+  ],
+  "problems": [
+    "Messy"
+  ],
+  "uses": "Used as lumber, pulpwood, charcoal, fuelwood, veneer, ladder rungs, athletic goods, agricultural implements, dowels, gymnasium apparatus, poles, shafts, well pumps, furniture, pallets, blocking"
+}

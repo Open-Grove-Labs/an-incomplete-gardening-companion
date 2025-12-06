@@ -1,0 +1,130 @@
+{
+  "fullName": "Miscanthus sinensis 'Zebrinus'",
+  "name": "miscanthus-sinensis-zebrinus",
+  "commonNames": [
+    "Zebra Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/miscanthus-sinensis-zebrinus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Miscanthus",
+  "species": "sinensis",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "wildlife-value": [
+    "Deer resistant"
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ornamental Grasses and Sedges"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Open",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Caryopsis"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Pink",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Good Dried",
+    "Long-lasting"
+  ],
+  "flower-bloom-time": [
+    "Fall"
+  ],
+  "flower-description": [
+    "Tiny pink/copper-tinted flowers appear in tassel-like inflorescences above the foliage in late summer, gradually turning into silvery white plumes in fall. Flower plumes persist well into winter providing good winter interest."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Wide green leaves with irregularly spaced yellow horizontal bands"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Small groups",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Drought",
+    "Erosion",
+    "Pollution",
+    "Rabbits"
+  ]
+}

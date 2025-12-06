@@ -1,0 +1,58 @@
+{
+  "fullName": "Melaleuca viminalis",
+  "name": "melaleuca-viminalis",
+  "commonNames": [
+    "Callistemon viminalis",
+    "Crimson Bottlebrush",
+    "Prickly Bottlebrush",
+    "Weeping Bottlebrush"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/melaleuca-viminalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Melaleuca",
+  "species": "viminalis",
+  "family": "Myrtaceae",
+  "country-or-region-of-origin": [
+    "Australia"
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "habit/form": [
+    "Multi-trunked",
+    "Weeping"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Woody capsule"
+  ],
+  "flower-color": [
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-description": [
+    "Bright red spikes of 9-14 stamens"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

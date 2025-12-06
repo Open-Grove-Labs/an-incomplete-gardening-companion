@@ -1,0 +1,232 @@
+{
+  "fullName": "Rubus cuneifolius",
+  "name": "rubus-cuneifolius",
+  "commonNames": [
+    "Blackberry",
+    "Dewberry",
+    "Sand Blackberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rubus-cuneifolius/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rubus",
+  "species": "cuneifolius",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "New York and New Hampshire south to Florida and west to Louisian"
+  ],
+  "distribution": [
+    "AL",
+    "CT",
+    "DC",
+    "DE",
+    "FL",
+    "GA",
+    "LA",
+    "MA",
+    "MD",
+    "MS",
+    "NC",
+    "NH",
+    "NJ",
+    "NY ",
+    "PA",
+    "SC",
+    "TN",
+    "VA"
+  ],
+  "wildlife-value": [
+    "The nectar and pollen of the Sand blackberry flowers attract many kinds of insects, butterflies, and especially long-tongued and short-tongued bees. It provides protective cover year-round for numerous small animals and birds. The fruits are relished by songbirds, small mammals, foxes, raccoons and black bears. During the winter, birds and small mammals eat the seeds left from rotten fruit. White-tailed deer and rabbits browse the leaves."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Edible fruit ",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heat tolerant"
+  ],
+  "edibility": [
+    "The fruit can be eaten raw or cooked. Dry but sweet and with a good flavour. The fruit can be up to an inch long."
+  ],
+  "plant-type": [
+    "Edible",
+    "Native Plant",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Semi-evergreen",
+    "Deciduous",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Aggregate",
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruit can be eaten raw or cooked. Dry but sweet and with a good flavor. Black fruit displays from June to July."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "In bloom from April to June. The white flowers have 5 petals, 5 sepals and numerous stamens. The plant produces apomictic flowers, these produce fruit and viable seed without fertilization, each seedling is a genetic copy of the parent."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The compound leaves are densely white-hairy beneath. There are 3 leaflets that are broadest beyond the middle and have somewhat rounded tips. The leaves also tend to have a distinctive pleated look to them."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Upright canes are green to brow with age and armed with many prickles"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge",
+    "Security"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ]
+}

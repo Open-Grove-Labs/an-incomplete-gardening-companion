@@ -1,0 +1,169 @@
+{
+  "fullName": "Solanum viarum",
+  "name": "solanum-viarum",
+  "commonNames": [
+    "Sodom Apple",
+    "Tropical Soda Apple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/solanum-viarum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Solanum",
+  "species": "viarum",
+  "family": "Solanaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "South America"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "AZ",
+    "FL",
+    "GA",
+    "LA",
+    "MS",
+    "NC",
+    "PR",
+    "SC",
+    "TN and TX"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Shrub",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Green",
+    "White"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Round fruits are up to 1.5 inches across. Young fruits are mottle green maturing to bright yellow. Each can contain up to 400 seeds."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "5-petaled 1/2 inch white flowers appear in clusters nearly all year long"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Large flat lobed leaves are broadly ovate, are 4-8 inches long by 2-6 inches wide and densely hairy with prickles along the veins. Edges are wavy. Dark green above and light underneath."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Young stems are green and mature to brown with long prickles"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Children",
+    "Problem for Dogs"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Stomach upset, loss of appetite can occur if fruits are eaten in quantity"
+  ],
+  "poison-toxic-principle": [
+    "solasodine"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ]
+}

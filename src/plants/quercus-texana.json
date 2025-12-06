@@ -1,0 +1,234 @@
+{
+  "fullName": "Quercus texana",
+  "name": "quercus-texana",
+  "commonNames": [
+    "Nuttall Oak",
+    "Oaks",
+    "Shumard Oak",
+    "Texas Red Oak"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/quercus-texana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Quercus",
+  "species": "texana",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central southern US"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "IL",
+    "KY",
+    "LA",
+    "MO",
+    "MS",
+    "TN",
+    "TX"
+  ],
+  "wildlife-value": [
+    "Oak trees support a wide variety of Lepidopteran.  You may see Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed. Banded Hairstreak (Satyrium calanus), which have one flight from June-August everywhere but Florida where they emerge April-May. Edward's Hairstreak (Satyrium edwardsii), has one flight from May-July in the south and June-July in the north.  Gray Hairstreak (Strymon melinus), has three to four flights in the south from February-November and two flights in the north from May-September.  White-M Hairstreak (Parrhasius m-album) has three broods in the north from February-October.  Horace’s Duskywing (Erynnis horatius) has three broods in Texas and the deep south from January-November, and two broods in the north from April-September.  Juvenal’s Duskywing (Erynnis juvenalis) has one brood from April-June, appearing as early as January in Florida. Mildly resistant to deer. Birds and mammals eat the acorns."
+  ],
+  "edibility": [
+    "Acorns are edible once the tannins have been leached or boiled out."
+  ],
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 80 ft. 0 in.",
+    "Width: 30 ft. 0 in. - 60 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Poisonous",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet",
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "3/4 - 1-inch oval acorns with a shallow thin scaly brown cap covering 1/2- 1/3 of the nut. Matures in 2 years."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Male flowers are borne in clustered, yellowish-green catkins."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "4 to 9 in. alternate, simple leaves with 5 to 9 deeply cut lobes. Undersides are paler with hair tufts in the axils. It has reddish-purple new growth which turns dark green in summer. Fall color is reddish-orange and leaves fall clean."
+  ],
+  "bark-color": [
+    "Black",
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Ridges"
+  ],
+  "bark-description": [
+    "The bark at first is grey-brown and smooth. Turns black with flat ridges with age."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Twigs are brown to grey and hairless. The buds are grey-brown, ovoid, slightly pubescent with ciliate scales."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Naturalized Area",
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Nighttime Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Specimen",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Urban Conditions",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Stomach pain, constipation and later bloody diarrhea, excessive thirst and urination if young leaves and raw acorns eaten."
+  ],
+  "poison-toxic-principle": [
+    "Gallotannins, quercitrin, and quercitin."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves"
+  ]
+}

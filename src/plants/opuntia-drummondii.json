@@ -1,0 +1,116 @@
+{
+  "fullName": "Opuntia drummondii",
+  "name": "opuntia-drummondii",
+  "commonNames": [
+    "Dune Prickly Pear"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/opuntia-drummondii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Opuntia",
+  "species": "drummondii",
+  "family": "Cactaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heat and drought tolerant."
+  ],
+  "edibility": [
+    "Ripe fruit edible raw or in jelly.  Pads can be eaten raw or cooked and have a mucilaginous texture. Remove spines and glochids from pads and fruit before eating."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Succulent"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Occasionally Dry"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-description": [
+    "Displays from August to October"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup",
+    "Funnel"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Blooms from April to June"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Cyndrilical stems (cladodes) with glochids (minute bristle-like, barbed hairs in clusters) dotting the surface."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Edible Garden"
+  ],
+  "attracts": [
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "fullName": "Paphiopedilum",
+  "name": "paphiopedilum",
+  "commonNames": [
+    "Lady Slipper Orchid"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/paphiopedilum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Paphiopedilum",
+  "family": "Orchidaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical Asia, China"
+  ],
+  "plant-type": [
+    "Epiphyte",
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Arching",
+    "Erect"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-description": [
+    "Singular flowers on stalks 3\"-24\" in height.  Most stand upright though some are arching.  All species' flowers have a \"pouch\" at the bottom of the flower, reminiscent of its namesake.  The lateral sepals may be fused.  The petal size, shape, and color varies among species, ranging anywhere from 1\"-12\" and round to thin to wavy.  The flowers last from 1-2 months."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The leaves may be relatively short and ovate to obovate in shape or longer and closer to linear.  They may be solid in color or mottled."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Heavy Shade",
+    "Humidity"
+  ]
+}

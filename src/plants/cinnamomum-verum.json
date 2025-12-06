@@ -1,0 +1,205 @@
+{
+  "fullName": "Cinnamomum verum",
+  "name": "cinnamomum-verum",
+  "commonNames": [
+    "Ceylon cinnamon",
+    "Ceylon cinnamon tree",
+    "Cinnamon",
+    "Cinnamon bark tree",
+    "Kayu Manis",
+    "True cinnamon"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cinnamomum-verum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cinnamomum",
+  "species": "verum",
+  "family": "Lauraceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Sri Lanka"
+  ],
+  "wildlife-value": [
+    "Host plant for Chilasa clytia (cinnamon butterfly).  Birds are attracted to the fruits."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Fragrance",
+    "Shade ",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "edibility": [
+    "The inner bark is edible dried and ground and used as a spice for both savory and sweet cooking.  Oils are also extracted from the plant and used as flavoring."
+  ],
+  "dimensions": [
+    "Height: 30 ft. 0 in. - 50 ft. 0 in.",
+    "Width: 20 ft. 0 in. - 40 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet",
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-color": [
+    "Purple/Lavender"
+  ],
+  "fruit-value-to-gardener": [
+    "Fragrant"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fleshy, green fruits will mature to dark purple.  They form as drupes and will contain one seed.  Although they have a cinnamon aroma, they are not used for the production of cinnamon."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Winter"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers have an unpleasant aroma."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The large leaves can grow up to lengths of 10\".  They have 3 distinct yellow veins.  Young leaves can have a reddish tint."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Red/Burgundy"
+  ],
+  "bark-description": [
+    "The bark is fragrant."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Recreational Play Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Flowering Tree",
+    "Shade Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "uses": "It is used to treat a wide variety of medical conditions."
+}

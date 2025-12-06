@@ -1,0 +1,174 @@
+{
+  "fullName": "Vitex rotundifolia",
+  "name": "vitex-rotundifolia",
+  "commonNames": [
+    "Beach Vitex",
+    "Roundleaf Chastetree",
+    "Round-leaf Vitex"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/vitex-rotundifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Vitex",
+  "species": "rotundifolia",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Korea"
+  ],
+  "wildlife-value": [
+    "Flowers attract butterflies."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet",
+    "6-feet-12 feet",
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Purple/Lavender"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Globose fleshy drupe 1/4\" diameter round green when unripe,  purple-black when ripe becoming dark brown when dry."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Lipped",
+    "Tubular"
+  ],
+  "flower-description": [
+    "Purple blue 3\" cymes arranged in a pyramidal panicle.  Flowers two-lipped with 5 lobes."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Round, dark gray-green leaves 2 1/2\" long with whitish-gray on the underside.  Base tapering to rounded apex subacuminate to rounded."
+  ],
+  "surface/attachment": [
+    "Fissured"
+  ],
+  "bark-description": [
+    "Older stems have attractive fissured bark."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Erosion",
+    "Poor Soil",
+    "Salt",
+    "Wind"
+  ],
+  "problems": [
+    "Invasive Species",
+    "Weedy"
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "fullName": "Quercus stellata",
+  "name": "quercus-stellata",
+  "commonNames": [
+    "Oaks",
+    "Post Oak"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/quercus-stellata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Quercus",
+  "species": "stellata",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central and Eastern United States"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "CT ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "IA ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "LA ",
+    "MA ",
+    "MD ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "RI ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "WV.\nEastern and central United States: Massachusetts and New York south to Florida",
+    "and west to Texas",
+    "Kansas",
+    "Missouri",
+    "and Iowa."
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Oak trees support a wide variety of Lepidopteran.  You may see Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed. Banded Hairstreak (Satyrium calanus), which have one flight from June-August everywhere but Florida where they emerge April-May. Edward's Hairstreak (Satyrium edwardsii), has one flight from May-July in the south and June-July in the north.  Gray Hairstreak (Strymon melinus), has three to four flights in the south from February-November and two flights in the north from May-September.  White-M Hairstreak (Parrhasius m-album) has three broods in the north from February-October.  Horace’s Duskywing (Erynnis horatius) has three broods in Texas and the deep south from January-November, and two broods in the north from April-September.  Juvenal’s Duskywing (Erynnis juvenalis) has one brood from April-June, appearing as early as January in Florida. The acorns are eaten by woodpeckers, blue jays, small mammals, wild turkeys, white-tailed deer, and black bear."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "resistant to fire and mildly resistant to damage by deer."
+  ],
+  "edibility": [
+    "Acorns are edible once the tannins have been leached or boiled out."
+  ],
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 50 ft. 0 in.",
+    "Width: 35 ft. 0 in. - 50 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Irregular",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The brown, egg-shaped acorns are produced either solitary or in pairs and are either sessile or short-stalked. They are 1/2 to 3/4 inch long with caps extending to about one-third of the length of the acorn. The caps have small appressed scales that are light gray or light tan. Acorns are reddish-brown and ½ inch to 1 inch long. Displays from September to November."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Male flowers occur in drooping yellowish catkins. Female flowers are shorter and occur near the tips of twigs. Also male green catkin. Blooms in April"
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Insignificant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Leathery green leaves are 3 to 8 inches long with wavy to deeply lobed margins with pinnate and reticulated venation. The lobes are rounded and up to 4 on each side with the upper pair often much larger than the others giving it a maltese cross shape.  Fall color varies from non-showy brown to yellow and leaves may persist into winter."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Ridges",
+    "Scaly"
+  ],
+  "bark-description": [
+    "The bark is scaly in younger trees.  Mature trees with gray to brownish-gray, rough-textured, and ridged with horizontal cross-breaks"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Hairy"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Branch bark and larger twigs are gray and more smooth, while smaller twigs and young shoots are pale brown and densely short-pubescent."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Nighttime Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Diseases",
+    "Drought",
+    "Dry Soil",
+    "Fire",
+    "Poor Soil"
+  ],
+  "problems": [
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Stomach pain, constipation and later bloody diarrhea, excessive thirst and urination if young leaves or raw acorns eaten."
+  ],
+  "poison-toxic-principle": [
+    "Gallotannins, quercitrin, and quercitin."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves"
+  ],
+  "uses": "Wood is marketed as White Oak and used for construction timbers, posts and railroad cross-ties."
+}

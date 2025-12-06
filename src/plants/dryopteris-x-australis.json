@@ -1,0 +1,165 @@
+{
+  "fullName": "Dryopteris x australis",
+  "name": "dryopteris-x-australis",
+  "commonNames": [
+    "Dixie Wood Fern",
+    "Dryopteris australis"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dryopteris-x-australis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dryopteris",
+  "species": "australis",
+  "family": "Dryopteridaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "SE USA"
+  ],
+  "distribution": [
+    "Virginia south to Louisiana."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heavy Shade, This plant is seldom damaged by deer."
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Fern",
+    "Native Plant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Semi-evergreen",
+    "Deciduous",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Creeping",
+    "Erect",
+    "Vase"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-description": [
+    "No fruits. This plants reproduces via spores."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Fronds"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Crenate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Slender, lustrous, dark green fronds. The fertile terminal quarter of the frond has smaller segments and does not produce viable spores. Bipinnate with alternating bright green leaflets grow 4-5' tall."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Near Septic",
+    "Pond",
+    "Riparian",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rain Garden",
+    "Shade Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Dry Soil",
+    "Heavy Shade",
+    "Wet Soil"
+  ]
+}

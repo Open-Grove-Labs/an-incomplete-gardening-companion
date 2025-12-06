@@ -1,0 +1,110 @@
+{
+  "fullName": "Neoregelia",
+  "name": "neoregelia",
+  "commonNames": [
+    "Blushing Bromeliad",
+    "Bromeliad"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/neoregelia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Neoregelia",
+  "family": "Bromeliaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "South Tropical America"
+  ],
+  "distribution": [
+    "Native: Brazil Northeast",
+    "Brazil South",
+    "Brazil Southeast",
+    "Peru",
+    "and Venezuela"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 2 in. - 1 ft. 0 in.",
+    "Width: 0 ft. 3 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Epiphyte",
+    "Houseplant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Very Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Blue",
+    "White"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-description": [
+    "The white or blue flowers are usually small and contained in the cup. Only a few are open at any given time, but there are many of them, and they open over an extended period."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "Red/Burgundy",
+    "Variegated"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves are in a basal rosette, form a funnel-like central 'vase', are simple, strap-shaped, toothed and spinose. They can be green, silver, maroon, or red and banded, spotted, striped or marbled. The size varies depending on the species and can be from 1 inch to 10 inches long."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio"
+  ],
+  "resistance-to-challenges": [
+    "Dry Soil",
+    "Humidity"
+  ]
+}

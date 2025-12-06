@@ -1,0 +1,117 @@
+{
+  "fullName": "Utricularia inflata",
+  "name": "utricularia-inflata",
+  "commonNames": [
+    "Inflated Bladderwort",
+    "Large Floating Bladderwort",
+    "Swollen Bladderwort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/utricularia-inflata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Utricularia",
+  "species": "inflata",
+  "family": "Lentibulariaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "WA, Central and eastern U.S.A."
+  ],
+  "wildlife-value": [
+    "Food for muskrats and waterfowl. Habitat for aquatic\ninvertebrates."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 2 in. - 1 ft. 8 in.",
+    "Width: 0 ft. 6 in. - 0 ft. 10 in."
+  ],
+  "plant-type": [
+    "Carnivorous",
+    "Native Plant",
+    "Perennial",
+    "Water Plant"
+  ],
+  "habit/form": [
+    "Erect",
+    "Spreading"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The fruit is a capsule with many seeds July to December"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Yellow snap-dragon-like yellow flowers bloom from May to November in groups of 3-10 above the water."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Finely divided filaments, not necessarily true leaves."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Water Garden"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

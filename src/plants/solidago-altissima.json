@@ -1,0 +1,163 @@
+{
+  "fullName": "Solidago altissima",
+  "name": "solidago-altissima",
+  "commonNames": [
+    "Canada Goldenrod",
+    "Canadian Goldenrod",
+    "Goldenrod",
+    "Late Goldenrod",
+    "Shorthair Goldenrod",
+    "Tall Goldenrod"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/solidago-altissima/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Solidago",
+  "species": "altissima",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "North America, Canada, Mexico"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "This plant supports Wavy-lined Emerald (Synchlora aerata) larvae. Bees, butterflies, and beetles, especially flower (soldier) beetles (Chauliognathus) are strongly attracted to the nectar-rich flowers.  Members of the genus Solidago support the following specialized bees: Andrena (Callandrena s.l.) asteris, Andrena (Callandrena s.l.) braccata, Andrena (Cnemidandrena) hirticincta, Andrena (Cnemidandrena) nubecula, Andrena (Callandrena s.l.) simplex, Perdita (Perdita) octomaculata, Melissodes (Eumelissodes) fumosus, Colletes simulans, and Colletes solidaginis."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "deer resistant"
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Good Dried",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Blooms from August through November. Small, dark yellow flowers form a plume-like feathery inflorescence. Several flowering stems emerge from the top of the plant bearing masses of tiny yellow flowers in compact heads. The flowerhead occur along the upper part of each flowering stem. Individual plants typically remain in bloom about 3 weeks."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves are about 4-6\" long and 1\" wide, becoming slightly smaller towards the apex of the plant. Usually have small teeth along the margins, otherwise the margins are smooth. Underside of leaves is usually pubescent."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The stems have lines of white hairs, stand erect and reach 2 to 6 feet. Stems occur either singly or in clusters and are covered in narrow green hairy leaves that are between 2.5 and 3.5 inches long."
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Border"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

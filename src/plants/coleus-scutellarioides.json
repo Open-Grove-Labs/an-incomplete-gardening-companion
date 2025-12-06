@@ -1,0 +1,186 @@
+{
+  "fullName": "Coleus scutellarioides",
+  "name": "coleus-scutellarioides",
+  "commonNames": [
+    "Coleus",
+    "Coleus Wizard",
+    "Painted Nettle",
+    "Trailing Coleus"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/coleus-scutellarioides/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Coleus",
+  "species": "scutellarioides",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Southeast Asia and Malaysia; Asia and tropical Africa"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "This plant is seldom damaged by deer."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 3 ft. 0 in.",
+    "Width: 0 ft. 6 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Houseplant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-description": [
+    "Nutlet"
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-description": [
+    "Flowers are small, blue-violet, in slender, terminal clusters, and irregularly shaped. Blue-white two lipped nettle-like flowers appear in racemes, early summer to fall but are not showy and can distract from the leaves. The flowers are insignificant. The calyx of the flower is persistent and resembles a saucer hence the Latin name \"scutella.\""
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "Variegated",
+    "White"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are ovate to oblong toothed and frequently feature a mixture of colors and patterns including red, burgundy, and pink. This plant is grown for its multi-colored foliage. \n\nThis plant has opposite, simple leaves on 4-angled stems. They are often blotched with various colors and patterns."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-description": [
+    "Stems can be semi-succulent and light green, making them stand out from the leaves. This plant has 4-angled stems."
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants",
+    "Patio",
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "English Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heavy Shade"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "SKIN IRRITATION MINOR OR LASTING ONLY FOR A FEW MINUTES.  Allergic dermatitis with red rash after repeated and frequent contact."
+  ],
+  "poison-toxic-principle": [
+    "Diterpene coleonol, coleon O"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves"
+  ]
+}

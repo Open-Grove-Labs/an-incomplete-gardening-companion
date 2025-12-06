@@ -1,0 +1,294 @@
+{
+  "fullName": "Quercus robur",
+  "name": "quercus-robur",
+  "commonNames": [
+    "Common Oak",
+    "English Oak",
+    "European Oak",
+    "French Oak",
+    "Pedunculate Oak",
+    "Polish Oak",
+    "Truffle Oak"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/quercus-robur/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Quercus",
+  "species": "robur",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Northern Africa, and Western Asia"
+  ],
+  "distribution": [
+    "Native: Albania",
+    "Austria",
+    "Baltic States",
+    "Belarus",
+    "Belgium",
+    "Bulgaria",
+    "Central European Russia",
+    "Czechoslovakia",
+    "Denmark",
+    "East European Russia",
+    "Finland",
+    "France",
+    "Germany",
+    "Great Britain",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Netherlands",
+    "North Caucasus",
+    "North European Russia",
+    "Northwest European Russia",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "South European Russia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "Transcaucasus",
+    "Turkey",
+    "Ukraine",
+    "and Yugoslavia.  Introduced: Canada--British Columbia",
+    "New Brunswick",
+    "Nova Scotia",
+    "Prince Edward Island; Canary Islands",
+    "Madeira",
+    "New Zealand",
+    "and the United States."
+  ],
+  "wildlife-value": [
+    "Oak trees support a wide variety of Lepidopteran.  You may see Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed. Banded Hairstreak (Satyrium calanus), which have one flight from June-August everywhere but Florida where they emerge April-May. Edward's Hairstreak (Satyrium edwardsii), has one flight from May-July in the south and June-July in the north.  Gray Hairstreak (Strymon melinus), has three to four flights in the south from February-November and two flights in the north from May-September.  White-M Hairstreak (Parrhasius m-album) has three broods in the north from February-October.  Horace’s Duskywing (Erynnis horatius) has three broods in Texas and the deep south from January-November, and two broods in the north from April-September.  Juvenal’s Duskywing (Erynnis juvenalis) has one brood from April-June, appearing as early as January in Florida. Green oak moth ( Tortrix viridana ) feeds on oak leaves in its caterpillar form and then rolls itself up in a leaf to pupate.  The caterpillar is prey to four speices of ichneumon wasps.  Gall wasps also lay their young inside leaves causing the plant to create oak apples or galls.  Acorns are eaten by many birds and mammals which in turn attract birds of prey like owls and hawks.  Woodpeckers feed on insects in the bark."
+  ],
+  "play-value": [
+    "Shade ",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 70 ft. 0 in.",
+    "Width: 40 ft. 0 in. - 70 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Oval",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruits are acorns that measure 0.8 to 1.2 inches long and appear yellowish-green to brown. The acorns are elongated and egg-shaped. They appear on a  stalk that measures 1 to 4 inches long. The cup covers about 1/4 to 1/3 of the nut.  The acorns appear singularly or in clusters of 2 to 5. The acorns mature in one season, but the tree is usually about 25 to 30 years old before the acorns appear."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The flowers are male and female catkins that emerge with leaves in the spring.  The male flowers are slender, yellowish-green,  2 to 3 inches long, drooping, and appear in elongated clusters. The female flowers are very small and appear on short spikes in clusters of 3 to 4 at the leaf axils."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves are small and measure 3 to 5 inches long.  They are alternate, simple, and have 3 to 7 pairs of deep-rounded lobes with very short petioles. The distinguishing feature is the \"ear lobes\" that appear at the base of the leaf. Leaves are dark green on the upper surface and bluish-green underneath.  The leaves may appear glossy or dull, smooth, and sparsely pubescent. The leaf color will remain green into the fall, then turn yellow and brown, and will persist through the winter months."
+  ],
+  "bark-color": [
+    "Black",
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Fissured",
+    "Furrowed",
+    "Ridges"
+  ],
+  "bark-description": [
+    "The trunk of the tree is short, and the bark is grayish-brown to black and deeply fissured with age."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Smooth/Hairless"
+  ],
+  "stem-bud-terminal": [
+    "Cluster of terminal buds"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Twigs are yellow-brown and glabrous.  The brown buds are angled, short, oval, and smooth, with each scale margin being light brown."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Meadow",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Nighttime Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Specimen",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Pollinators",
+    "Predatory Insects",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "problems": [
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Stomach pain, constipation and later bloody diarrhea, excessive thirst and urination if young leaves or raw acorns eaten."
+  ],
+  "poison-toxic-principle": [
+    "Gallotannins, quercitrin, and quercitin."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves"
+  ],
+  "uses": "High-quality wood for furniture, tool making and shipbuilding.  Acorns were roasted to make an inferior coffee substitute.  Used in the leather tanning process."
+}

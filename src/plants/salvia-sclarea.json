@@ -1,0 +1,212 @@
+{
+  "fullName": "Salvia sclarea",
+  "name": "salvia-sclarea",
+  "commonNames": [
+    "Clary Sage",
+    "Clear Eye",
+    "Europe Sage",
+    "Eyebright"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/salvia-sclarea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Salvia",
+  "species": "sclarea",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Biennial",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Mediterranean region of southern Europe to Central Asia"
+  ],
+  "wildlife-value": [
+    "Flowers attract native bees and butterflies.  This plant is resistant to damage by deer."
+  ],
+  "edibility": [
+    "Leaves are delicious in omelets, fritters, and stews; flavoring of beers and wines; oil."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Mounding",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Cream/Tan"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Schizocarp"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Schizocarp has 4 chambers with 1 nutlet each"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Two-lipped white to lavender flowers surrounded by mauve-pink bracts,\nlarge whorls of 4 to 6 flowers in upright panicles above the foliage."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft",
+    "Velvety"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Basal rosette of fragrant grey-green wrinkled leaves"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-leaf-scar-shape": [
+    "C-shaped, Cresent shaped"
+  ],
+  "stem-lenticels": [
+    "Not Conspicuous"
+  ],
+  "landscape-location": [
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Rabbits"
+  ],
+  "uses": "Seeds used to clear the sight and reduce inflammation of the eye. The plant has also been used for its antispasmodic, astringent, properties and to reduce flatulence."
+}

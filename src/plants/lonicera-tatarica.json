@@ -1,0 +1,231 @@
+{
+  "fullName": "Lonicera tatarica",
+  "name": "lonicera-tatarica",
+  "commonNames": [
+    "Tatarian Honeysuckle"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lonicera-tatarica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lonicera",
+  "species": "tatarica",
+  "family": "Caprifoliaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Layering",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Siberia and central and eastern Asia"
+  ],
+  "distribution": [
+    "Eastern and mid-western USA and Canada"
+  ],
+  "wildlife-value": [
+    "The flowers are pollinated by the ruby-throated hummingbird, hummingbird moths (Hemaris spp.), bumblebees, large carpenter bees, mason bees, leaf-cutting bees (Megachile spp.), and green metallic bees (Agapostemon spp., Augochlorella spp., etc.) Berries are eaten by robins, starlings, cedar waxwings, and other birds which help to disperse the seeds. White-tailed deer lightly browse the foliage and eastern cottontail rabbit will eat the fruits."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Fragrance",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 8 ft. 0 in. - 12 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 12 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Poisonous",
+    "Shrub",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Erect",
+    "Multi-stemmed",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The abundant paired berries are 0.25 inches, orange to red when ripe and containing numerous seeds. They often persist throughout winter."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Trumpet",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Trumpet-shaped flowers are .7 to 1 inch and develop in pairs in the axils of the leaves from May to June. Flowers are deeply 5-lobed, tubular, usually pink to red and rarely white."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Insignificant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Orbicular",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Bluish-green leaves are 1½-2½\" long and ¾-1½\" across and the undersides are pale green."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Peeling",
+    "Shredding"
+  ],
+  "bark-description": [
+    "The bark of older branches is gray to grayish brown with narrow longitudinal ridges; with age, it becomes shaggy from shredded strips of bark and can often peel in vertical strips."
+  ],
+  "stem-is-aromatic": "N",
+  "attracts": [
+    "Bees",
+    "Hummingbirds",
+    "Moths",
+    "Pollinators",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Drought"
+  ],
+  "problems": [
+    "Frequent Disease Problems",
+    "Poisonous to Humans",
+    "Problem for Children",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Symptoms include diarrhea, vomiting, and abdominal pains. No human deaths have been reported from consumption of the berries."
+  ],
+  "poison-toxic-principle": [
+    "Saponins"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ]
+}

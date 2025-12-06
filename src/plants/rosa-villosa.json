@@ -1,0 +1,161 @@
+{
+  "fullName": "Rosa villosa",
+  "name": "rosa-villosa",
+  "commonNames": [
+    "Apple Rose",
+    "Shaggy Rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-villosa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "species": "villosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Layering",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Europe: Scandanavia south to Spain and west to the Caucasus."
+  ],
+  "distribution": [
+    "Great Britain",
+    "Baltic",
+    "New England"
+  ],
+  "edibility": [
+    "A layer of hairs surround the seeds under the flesh of the fruit that can irritate the mouth and digestive tract if ingested."
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Dense",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "1 to 2 inch single blush-pink flowers; large, bristly orange-red hips; blossoms from June to early fall."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Glossy blue-green leaves; may develop good yellow fall color"
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The bark of the branches are dark brown and smooth. The bark of the younger branches is reddish, slightly frosted and mostly velvety soft hairy."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Walkways"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Hedge"
+  ],
+  "uses": "The fruit is often used to make rose hip jelly."
+}

@@ -1,0 +1,80 @@
+{
+  "fullName": "Tillandsia",
+  "name": "tillandsia",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/tillandsia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Tillandsia",
+  "family": "Bromeliaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical & Subtropical America"
+  ],
+  "plant-type": [
+    "Epiphyte",
+    "Houseplant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "flower-color": [
+    "Blue",
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Green",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-description": [
+    "Inflorescence is usually a spike, terminal, with colorful bracts. Flowers are green, white, violet, red, blue, pink, cream, yellow, corolla cylindrical or lobes spreading; bracts red, yellow, pink, blue, green; stamens exserted."
+  ],
+  "leaf-color": [
+    "Gray/Silver"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves are simple, bundled, in a rosette or in 2 rows, entire, covered with absorbent gray scales. Various shapes and sizes depending on the species"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stem is short, simple; few roots, wiry."
+  ],
+  "landscape-location": [
+    "Houseplants"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "fullName": "Sorghum halepense",
+  "name": "sorghum-halepense",
+  "commonNames": [
+    "Johnsongrass",
+    "Johnson Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sorghum-halepense/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sorghum",
+  "species": "halepense",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Mediteranean and Middle East"
+  ],
+  "distribution": [
+    "throughout"
+  ],
+  "fire-risk-rating": [
+    "high flammability"
+  ],
+  "wildlife-value": [
+    "pasture grass"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "drought"
+  ],
+  "edibility": [
+    "Low toxicity if eaten. Seed cam be eaten in small quantities raw or cooked. Used whole in a similar manner to rice or millet, or ground into a flour for bread, cakes."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Poisonous",
+    "Weed"
+  ],
+  "habit/form": [
+    "Arching",
+    "Dense",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "display/harvest-time": [
+    "Spring"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Seeds ripen September and October. Capsules are 1 inch with husk and 1/2 inch without."
+  ],
+  "flower-color": [
+    "Brown/Copper"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Each panicle is up to 18 inches long and 9 inches wide, broader toward the bottom than the top and somewhat airy in appearance when fully open. The inflorescence is a panicle with branches tipped by a raceme. The panicle is lanceolate, or pyramidal. Primary panicle branches whorled at most nodes; moderately divided. Individual spiklets are  4.5-5 mm. long"
+  ],
+  "leaf-color": [
+    "Green",
+    "White"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Sheath"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves occur primarily along the lower half of each stem. The leaf blades are up to 24 inches long and 1 to 3 inches across; they are widely spreading, arching, or ascending. The upper blade surface is medium to dark green, while the lower blade surface is more pale; both are smooth. The larger leaf have prominent central veins that are pale-colored. The junctions of leaf blades and sheaths have narrow strips of fine white hairs. Leaves occur primarily along the lower half of each stem."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The stems are light green, terete, and glabrous.  Each culm terminates in a panicle of spikelets."
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil"
+  ],
+  "problems": [
+    "Invasive Species",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Causes low toxicity in humans if the leaves are eaten, which can occur if the plant is mixed with, or mistaken for, grain sorghum. There have been no known cases of human poisoning. The foliage that becomes wilted from frost or hot, dry weather can contain sufficient amounts of hydrogen cyanide to harm cattle and horses if it is eaten in quantity. Young plants are more toxic than mature ones"
+  ],
+  "poison-toxic-principle": [
+    "Cyanogenic glycoside, hydrocyanic acid"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves"
+  ]
+}

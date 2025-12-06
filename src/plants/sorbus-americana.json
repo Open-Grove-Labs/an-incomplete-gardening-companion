@@ -1,0 +1,235 @@
+{
+  "fullName": "Sorbus americana",
+  "name": "sorbus-americana",
+  "commonNames": [
+    "American Mountain Ash",
+    "American Rowan",
+    "American Rowan Tree",
+    "Mountain-Ash"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sorbus-americana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sorbus",
+  "species": "americana",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Northeastern North America"
+  ],
+  "distribution": [
+    "USA: CT ",
+    "GA ",
+    "IL ",
+    "MA ",
+    "MD ",
+    "ME ",
+    "MI ",
+    "MN ",
+    "NC ",
+    "NH ",
+    "NJ ",
+    "NY ",
+    "PA ",
+    "RI ",
+    "SC ",
+    "TN ",
+    "VA ",
+    "VT ",
+    "WI ",
+    "WV\nCanada: NB ",
+    "NL ",
+    "NS ",
+    "ON ",
+    "PE ",
+    "QC"
+  ],
+  "fire-risk-rating": [
+    "high flammability"
+  ],
+  "wildlife-value": [
+    "Fruits are eaten by many birds and mammals. Preferred plant for browsing by moose and white tailed deer."
+  ],
+  "edibility": [
+    "Berries may be made into jellies."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 35 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Open",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b"
+  ],
+  "fruit-color": [
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Long-lasting"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Pome"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Bright red-orange 1/4 inch berry-like pomes ripen in late summer and fall (September-October) and remain on the tree into winter."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Urn"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "3-6 inch across dense flattened corymbs of 1/8-1/4 inch urn-shaped creamy white flowers with 4 petals appear in June-July."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Gray/Silver"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "6-10 inch compound leaves have 9-17  dark yellow-green, 2-4 inch leaflets with unequal wedge-shaped or rounded bases and serrated margins. Undersides are paler. New leaves are downy but become smooth with age. The foliage turns yellow in fall."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Scaly"
+  ],
+  "bark-description": [
+    "Smooth gray with numerous lenticels when young.  As the tree ages, cracks, splits, and scaly patches develop."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Hairy"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Stems downy at first, later become smooth, brown tinged with red. Stem buds are dark red with hairs."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Naturalized Area",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "design-feature": [
+    "Flowering Tree",
+    "Shade Tree"
+  ],
+  "attracts": [
+    "Bees",
+    "Small Mammals",
+    "Songbirds"
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "fullName": "Pinus strobus",
+  "name": "pinus-strobus",
+  "commonNames": [
+    "Eastern White Pine",
+    "North American White Pine",
+    "Northern White Pine",
+    "Soft Pine",
+    "White Pine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pinus-strobus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pinus",
+  "species": "strobus",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central and Eastern Canada, Central and Eastern United States"
+  ],
+  "distribution": [
+    "Native: United States--AL",
+    "CT",
+    "DE",
+    "GA",
+    "IL",
+    "IN",
+    "IA",
+    "KY",
+    "ME MD",
+    "MA",
+    "MI",
+    "MN",
+    "NH",
+    "NJ",
+    "NY",
+    "NC",
+    "OH",
+    "PA",
+    "RI",
+    "SC",
+    "TN",
+    "VT",
+    "VA",
+    "WV",
+    "and WI; Canada--Manitoba",
+    "New Brunswick",
+    "Newfoundland",
+    "Nova Scotia",
+    "Ontario",
+    "Prince Edward Island",
+    "and Quebec.  Introduced:  Austria",
+    "Belgium",
+    "Bulgaria",
+    "Central European Russia",
+    "Czechoslovakia",
+    "Denmark",
+    "France",
+    "Germany",
+    "Great Britain",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Korea",
+    "Norway",
+    "Poland",
+    "Romania",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "and Turkey."
+  ],
+  "fire-risk-rating": [
+    "high flammability"
+  ],
+  "wildlife-value": [
+    "This plant supports Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed. Its white pine seeds are favored by black bears, rabbits, red squirrels, and many birds.  The bark is eaten by mammals such as beavers, porcupines, rabbits, and mice. The tree also serves as a shelter for many birds and small mammals."
+  ],
+  "play-value": [
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 50 ft. 0 in. - 80 ft. 0 in.",
+    "Width: 20 ft. 0 in. - 40 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Conical",
+    "Horizontal",
+    "Oval",
+    "Pyramidal",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet",
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "No fruits.  Cylindrical, brown, resinous cones on the Eastern White Pine (4-8\" long) are usually not produced until the tree reaches 5-10 years old.  They fully mature by the summer of the second season, releasing seeds in July and August and persisting through September.  The cones are stalked, curved, and have white lines on the lower side, the scales lacking spines. Often curved that browns with age. Umbo is blunt and obtuse."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Insignificant",
+    "Red/Burgundy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "No flowers, cones.  In spring, cylindrical, yellow, male strobili, and the female strobili are light green tinged with red that matures in clusters appear in April."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Needles",
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Filiform"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Bluish-green needles  (3\" to 5\" long) are flexible, soft to the touch, and appear in bundles of five (5 per fascicle).  Each needle has 3-5 white lines of stomata on two surfaces of the needle.  The needle clusters are deciduous, falling off after approximately two years."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Smooth"
+  ],
+  "bark-plate-shape": [
+    "Round"
+  ],
+  "bark-description": [
+    "The bark is smooth and green with some lighter patches in young trees.  As the tree ages, the bark turns reddish brown to dark gray with prominent finely-scaly, rounded, long ridges and darker furrows."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver",
+    "Green",
+    "Orange"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stems are grayish-green to orangish-brown. The buds are oval and reddish-brown."
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Nighttime Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Hedge",
+    "Screen/Privacy",
+    "Shade Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Moths",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ],
+  "uses": "Used for tar, furniture, christmas tree and bark used as astringent and expectorant or antiseptic."
+}

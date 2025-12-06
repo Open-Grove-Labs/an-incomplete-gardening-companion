@@ -1,0 +1,216 @@
+{
+  "fullName": "Pyrus communis",
+  "name": "pyrus-communis",
+  "commonNames": [
+    "Common Pear",
+    "European Pear",
+    "Pear",
+    "Pears"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pyrus-communis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pyrus",
+  "species": "communis",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Europe to N. Iraq"
+  ],
+  "edibility": [
+    "Fruits edible raw, cooked, or dried.  Sweet and fragrant."
+  ],
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 50 ft. 0 in.",
+    "Width: 25 ft. 0 in. - 35 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Spreading"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Pome"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "Variable fruit sizes, shapes, and colors.  Teardrop shapes are most commonly known."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup",
+    "Saucer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "White flowers with all parts in fives in clusters in the spring."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Smooth"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "1-4 inch long green, oval, alternate leaves with serrated edges.  Yellow fall color."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Fissured",
+    "Furrowed",
+    "Lenticels"
+  ],
+  "bark-description": [
+    "The bark is smooth and gray with lenticels becoming blocky or furrowed with age."
+  ],
+  "stem-color": [
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-bud-scales": [
+    "Enclosed in more than 2 scales"
+  ],
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-lenticels": [
+    "Conspicuous"
+  ],
+  "stem-description": [
+    "Dwarf shoots on old wood.  New stems are pointed."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Meadow"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Flowering Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Songbirds"
+  ],
+  "problems": [
+    "Frequent Disease Problems",
+    "Frequent Insect Problems"
+  ]
+}

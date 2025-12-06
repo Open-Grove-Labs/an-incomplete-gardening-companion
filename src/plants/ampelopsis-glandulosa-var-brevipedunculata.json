@@ -1,0 +1,200 @@
+{
+  "fullName": "Ampelopsis glandulosa var. brevipedunculata",
+  "name": "ampelopsis-glandulosa-var-brevipedunculata",
+  "commonNames": [
+    "Porcelain Berry",
+    "Porcelain-berry",
+    "Porcelain Vine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ampelopsis-glandulosa-var-brevipedunculata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ampelopsis",
+  "species": "brevipedunculata",
+  "family": "Vitaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Japan and northern China"
+  ],
+  "wildlife-value": [
+    "It spreads very quickly since birds and mammals eat the fruit and disperse the seeds."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "drought tolerant"
+  ],
+  "climbing-method": [
+    "Tendrils",
+    "Twining"
+  ],
+  "edibility": [
+    "NOT EDIBLE! Berries are poisonous."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Dense",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Tendrils"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue",
+    "Green",
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The rounded to oval berries are blue, green, pink, turquoise, light blue, black, and lavender. They are born in clusters in late summer and fall and are dry or slightly fleshy."
+  ],
+  "flower-color": [
+    "Green",
+    "Insignificant",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Greenish to white, inconspicuous flowers develop in small clusters in mid-summer."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Leaves are deciduous, alternate, heart -shaped, simple or pinnately divided, and have coarse teeth along the margins. The leaves vary from slightly lobed to deeply dissected."
+  ],
+  "stem-is-aromatic": "N",
+  "attracts": [
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Invasive Species",
+    "Poisonous to Humans",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Poisonous through ingestion of fruits. Symptoms: Unknown; questionably poisonous, but use caution."
+  ],
+  "poison-toxic-principle": [
+    "Unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ]
+}

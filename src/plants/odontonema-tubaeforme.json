@@ -1,0 +1,40 @@
+{
+  "fullName": "Odontonema tubaeforme",
+  "name": "odontonema-tubaeforme",
+  "commonNames": [
+    "Firespike"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/odontonema-tubaeforme/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Odontonema",
+  "species": "tubaeforme",
+  "family": "Acanthaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "plant-type": [
+    "Annual"
+  ],
+  "flower-color": [
+    "Red/Burgundy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-description": [
+    "Crimson red flowers"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

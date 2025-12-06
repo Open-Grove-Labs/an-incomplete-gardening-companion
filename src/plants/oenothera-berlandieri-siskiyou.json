@@ -1,0 +1,34 @@
+{
+  "fullName": "Oenothera berlandieri 'Siskiyou'",
+  "name": "oenothera-berlandieri-siskiyou",
+  "commonNames": [
+    "Berlandier's Sundrops",
+    "Evening Primrose",
+    "Mexican Evening Primrose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/oenothera-berlandieri-siskiyou/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Oenothera",
+  "species": "berlandieri",
+  "family": "Onagraceae",
+  "plant-type": [
+    "Perennial"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "attracts": [
+    "Hummingbirds"
+  ]
+}

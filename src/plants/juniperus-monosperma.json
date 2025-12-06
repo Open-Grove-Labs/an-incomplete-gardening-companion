@@ -1,0 +1,156 @@
+{
+  "fullName": "Juniperus monosperma",
+  "name": "juniperus-monosperma",
+  "commonNames": [
+    "Cherrystone Juniper",
+    "New Mexico Juniper",
+    "One-seed Juniper",
+    "Oneseed Juniper",
+    "Sabina",
+    "Single-seeded Juniper",
+    "West Texas Juniper"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/juniperus-monosperma/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Juniperus",
+  "species": "monosperma",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "SW North America, along the Rockies from Wyoming to Mexico"
+  ],
+  "wildlife-value": [
+    "Fruit are consumed by birds."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue",
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "Bluish-black to copper-colored seed cones occur on the female plants."
+  ],
+  "flower-color": [
+    "Orange"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Inconspicuous orange flowers bloom in early spring."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Needles",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Fragrant foliage is scale-like on mature twigs; needle-like on juvenile shoots and seedlings. Leaves are dense on the twig in opposite pairs, foliage is yellowish-green to gray-green."
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Orange"
+  ],
+  "surface/attachment": [
+    "Exfoliating",
+    "Scaly"
+  ],
+  "bark-description": [
+    "Bark is thin, scaly and ashy. Gray-brown bark exfoliates in strips, exposing bright orange-brown bark beneath."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Drought Tolerant Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Small Tree"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil"
+  ]
+}

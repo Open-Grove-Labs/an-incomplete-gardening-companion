@@ -1,0 +1,164 @@
+{
+  "fullName": "Monstera adansonii",
+  "name": "monstera-adansonii",
+  "commonNames": [
+    "Adanson's Monstera",
+    "Cheese Plant",
+    "Five Hole Plant",
+    "Swiss Cheese Plant",
+    "Swiss Cheese Vine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/monstera-adansonii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Monstera",
+  "species": "adansonii",
+  "family": "Araceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Southern Mexico to Tropical America"
+  ],
+  "distribution": [
+    "Native:  Belize",
+    "Bolivia",
+    "Brazil",
+    "Colombia",
+    "Costa Rica",
+    "Ecuador",
+    "Guyana",
+    "Honduras",
+    "Mexico Southwest",
+    "Nicaragua",
+    "Panama",
+    "Peru",
+    "Suriname",
+    "Trinidad-Tobago",
+    "Venezuela",
+    "and Windward Islands.  Introduced:  Puerto Rico"
+  ],
+  "play-value": [
+    "Easy to Grow"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 13 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Poisonous",
+    "Vine"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spadix",
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "In the wild the flowers will appear in the spring as a creamy white spathe surrounded by a yellowish spike. Houseplants typically do not flower."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "If ingested, inflammation of the mouth, throat, eyes, and digestive tract, vomiting, drooling, and loss of appetite.  The sap causes skin irritation."
+  ],
+  "poison-toxic-principle": [
+    "Calcium oxalate crystals"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Stems"
+  ]
+}

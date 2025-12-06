@@ -1,0 +1,123 @@
+{
+  "fullName": "Pinus peuce",
+  "name": "pinus-peuce",
+  "commonNames": [
+    "Balkan Pine",
+    "Macedonian Pine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pinus-peuce/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pinus",
+  "species": "peuce",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Balkan peninsula"
+  ],
+  "wildlife-value": [
+    "This plant supports Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed."
+  ],
+  "dimensions": [
+    "Height: 30 ft. 0 in. - 60 ft. 0 in.",
+    "Width: 20 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "flower-color": [
+    "Brown/Copper"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "3 to 6 in. cylindrical cones, single or cluster of 3 to 4, becomes light brown"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "3 to 4 in. straight, stiff, dark green needles in bundles of 5.  Dark green on top and grayish-green on the underside. The overall effect is blue-green"
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "bark-description": [
+    "Young trees have smooth, silvery-gray bark.  As the tree ages, the bark becomes darker and rough.  Old trees have thick, brown square-fissured bark."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Meadow",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Nighttime Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "attracts": [
+    "Moths",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

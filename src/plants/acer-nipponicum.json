@@ -1,0 +1,171 @@
+{
+  "fullName": "Acer nipponicum",
+  "name": "acer-nipponicum",
+  "commonNames": [
+    "Nippon Maple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/acer-nipponicum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Acer",
+  "species": "nipponicum",
+  "family": "Sapindaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Japan"
+  ],
+  "wildlife-value": [
+    "Members of the genus Acer support Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Shade tolerant"
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet",
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Samara"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Fruit wings up to 2 inches long, held at obtuse angles, nutlets globose.  Seeds are often sterile."
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Attractive long pendulous racemes appear with leaves in the spring."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "leaf-margin": [
+    "Doubly Serrate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The leaves are deeply veined and have an interesting rough texture the underside is pubecent.\n\n    Leaves are 4 to 8 in., opposite, simple and light green with 3 to 5 oval shallow lobes that terminate in a point. The leaves are deeply cordate base, and margins are doubly serrate. Upper side of leaf is rough and almost embossed looking and has a rusty brown pubescence on underside. Yellow to golden brown color in the fall."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray",
+    "Green",
+    "Light Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "bark-description": [
+    "It has smooth gray-brown bark and intensely green bark on younger stems."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Intensely green bark on younger stems. The terminal bud is often aborted or lacking."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Nighttime Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Shade Tree"
+  ],
+  "attracts": [
+    "Moths",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Heavy Shade",
+    "Humidity"
+  ]
+}

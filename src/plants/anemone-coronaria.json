@@ -1,0 +1,160 @@
+{
+  "fullName": "Anemone coronaria",
+  "name": "anemone-coronaria",
+  "commonNames": [
+    "Anemones",
+    "Windflower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/anemone-coronaria/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Anemone",
+  "species": "coronaria",
+  "family": "Ranunculaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Mediterranean to Caucasus"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "summer drought"
+  ],
+  "bulb-storage": [
+    "Store in dry peat moss at 50-55 dg. F"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 10 in. - 1 ft. 6 in.",
+    "Width: 0 ft. 1 in. - 0 ft. 1 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial",
+    "Poisonous"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "This plant has small fruits often with plumose tails."
+  ],
+  "flower-color": [
+    "Black",
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "flower-description": [
+    "This flower blooms in mid-spring (April). The colors can be red, white, purple, or yellow-green. The flowers are cup-shaped with 5-many petal-like parts and many stamens."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Whorled"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves are alternate or whorled and finely divided."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Drought",
+    "Rabbits"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "TOXIC ONLY IF LARGE QUANTITIES EATEN. CAUSES SEVERE PAIN IN THE MOUTH IF EATEN! (Poisonous parts:     All parts when fresh). Poisonous through ingestion and dermatitis.\n\nSymptoms may include:     Inflammation and blistering upon contact with fresh sap; irritation of mouth, vomiting and diarrhea following ingestion."
+  ],
+  "poison-toxic-principle": [
+    "Protoanemonin"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

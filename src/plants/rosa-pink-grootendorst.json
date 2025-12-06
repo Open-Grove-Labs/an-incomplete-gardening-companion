@@ -1,0 +1,133 @@
+{
+  "fullName": "Rosa 'Pink Grootendorst'",
+  "name": "rosa-pink-grootendorst",
+  "commonNames": [
+    "Pink Grootendoorst"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-pink-grootendorst/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "wildlife-value": [
+    "Attracts bees."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Buffer",
+    "Fragrance",
+    "Textural "
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Rose",
+    "Shrub"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Pink, double blooms with fringed petals. With a carnation-like shape, the flowers are borne in small clusters.  Flowers have 25 to 30 petals and are recurrent."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Deciduous, crinkled, light green foliage that are heavily veined."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Prickly stemmed."
+  ],
+  "landscape-location": [
+    "Patio",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Foundation Planting",
+    "Hedge",
+    "Mass Planting",
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ]
+}

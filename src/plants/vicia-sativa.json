@@ -1,0 +1,203 @@
+{
+  "fullName": "Vicia sativa",
+  "name": "vicia-sativa",
+  "commonNames": [
+    "Common Vetch",
+    "Garden Vetch",
+    "Golden Tare",
+    "Vetch"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/vicia-sativa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Vicia",
+  "species": "sativa",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Asia, North Africa"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "Cross-pollinated bumblebees and other bees with long tongues.  Ants are attracted to the nectar."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "climbing-method": [
+    "Tendrils"
+  ],
+  "edibility": [
+    "The leaves can be made into teas, cooked or eaten with the young leaves."
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Tendrils"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Each somewhat flattened legume contains 4 to 8 seeds.  The rounded seeds are dispersed after the pod explosively opens."
+  ],
+  "flower-color": [
+    "Purple/Lavender"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Inconspicuous pea-shaped flowers occur in the area between the stems and leaf petioles (leaf axils). They occur in pairs and on flower stalks (peduncles) that range from 2-6 mm in length. The upper petal is broad, flares up and is notched in the center.  The two lateral petals are oval shaped and can be a darker color.  The flowers are replaced by elongated 1 1/2-3\" green, flattened seedpods which later become dark brown containing 4-8 seeds."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Linear",
+    "Oblong"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The 3-5\" leaves are very narrow.  Each is evenly-pinnate and has 5 to 6 pairs of leaflets, leaflets 3/4\" long and 1/4\" wide.  Tendrils form on the ends of the leaves. Long stems arise from fibrous roots, and are purple.  The leaves are medium light green on top and pale green on the bottom.  They are ribbed and slightly pubescent. along the bottom central vein."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "A single stem"
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Winter Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Small Mammals"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "unknown"
+  ],
+  "poison-toxic-principle": [
+    "unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Seeds"
+  ]
+}

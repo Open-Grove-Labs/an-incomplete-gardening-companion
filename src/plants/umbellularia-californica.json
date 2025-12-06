@@ -1,0 +1,236 @@
+{
+  "fullName": "Umbellularia californica",
+  "name": "umbellularia-californica",
+  "commonNames": [
+    "California bay",
+    "California Laurel",
+    "California-laurel",
+    "Myrtle-wood",
+    "Oregon-myrtle",
+    "Pacific-myrtle",
+    "Pepperwood",
+    "Spice-tree"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/umbellularia-californica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Umbellularia",
+  "species": "californica",
+  "family": "Lauraceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Southwest Oregon to Mexico"
+  ],
+  "distribution": [
+    "California",
+    "Mexico Northwest",
+    "and Oregon"
+  ],
+  "wildlife-value": [
+    "Insects are attracted to the blooms and aid in pollination. Birds, squirrels, and mice feed on the seeds and use the tree for shelter. In the early spring, deer and goats may eat the young sprouts when the leaves are less aromatic."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Fragrance",
+    "Screening",
+    "Shade ",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Verticillium"
+  ],
+  "edibility": [
+    "The leaves, seeds, and wood have strong chemical properties. Exercise caution if any part of this tree is used for food, seasoning, or medicinal purposes."
+  ],
+  "dimensions": [
+    "Height: 30 ft. 0 in. - 75 ft. 0 in.",
+    "Width: 30 ft. 0 in. - 75 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet",
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Each umbel has one to three fruit sets. The fruit is usually a solitary drupe that measures 0.75 inches in diameter and contains a single nutlike seed. The drupe may be elliptical to round, and it is initially green then changes in color from yellowish-green to purple. The drupes ripen in the fall."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers are clusters of fragrant creamy white or pale-yellow blooms that appear in the early spring from April to May. They bloom profusely and continue intermittently for several months. The flowers are 0.6 inches in diameter and grow on short-stemmed umbels. Each umbel has four to nine flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves are dark green, aromatic, leathery, and measure 1 to 4 inches long and 0.5 to 1-inch wide. They are alternate and lanceolate to narrowly oblong to elliptical.  The base and apex are pointed, and the margins are entire. The upper surface is shiny, smooth, and darker green.  The undersides are dull, smooth to sparsely hairy, and lighter green."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Light Brown",
+    "Light Gray",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Scaly",
+    "Smooth"
+  ],
+  "bark-description": [
+    "The young bark is smooth, thin, and grayish-brown. As the tree matures the bark becomes scaly and reddish-brown."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver",
+    "Green"
+  ],
+  "stem-is-aromatic": "Y",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The twigs are aromatic, round, slender, and smooth. They are light green and transition to grayish-brown with age."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Pond",
+    "Riparian",
+    "Slope/Bank"
+  ],
+  "design-feature": [
+    "Flowering Tree",
+    "Screen/Privacy",
+    "Shade Tree"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Salt"
+  ],
+  "problems": [
+    "Contact Dermatitis"
+  ],
+  "uses": "Native Americans used portions of the tree for medicinal purposes to treat poison oak dermatitis. It has also been used as an insecticide to repel fleas. The wood is very hard and is used for cabinets, veneer for furniture, interior trim, and woodenware."
+}

@@ -1,0 +1,230 @@
+{
+  "fullName": "Helianthus angustifolius",
+  "name": "helianthus-angustifolius",
+  "commonNames": [
+    "Narrow Leaf Sunflower",
+    "Narrow-Leaved Coreopsis",
+    "Sunflower",
+    "Swamp Sunflower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/helianthus-angustifolius/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Helianthus",
+  "species": "angustifolius",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "USA"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "IL ",
+    "IN ",
+    "KY ",
+    "LA ",
+    "MD ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "WV"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "Flowers provide nectar to pollinators from July until the first frost. This is a larval host plant that supports Silvery Checkerspot (Chlosyne nycteis).  The Silvery Checkerspot has at least 1-2 broods in the north from June-July in the deep south and Texas, they have as many as 3-4 broods from May through September. Songbirds, ruffed grouse, quail, mourning doves, and small mammals are attracted to seeds so leave standing dead flowers into the winter as natural bird feeders. Members of the genus Helianthus support the following specialized bees: Andrena (Callandrena s.l.) accepta, Andrena (Callandrena s.l.) aliciae, Andrena (Callandrena s.l.) helianthi, Melissodes (Eumelissodes) agilis, Dieunomia (Dieunomia) heteropoda, Megachile (Sayapis) pugnata, and Paranthidium (Paranthidium) jugatorium."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Colorful",
+    "Easy to Grow",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 2 ft. 6 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Displays from September to November"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "A profusion of 2-3 inch flowers with 10-20 yellow narrow pointed rays surrounds a purplish-brown disk. Has hairy bracts. Blooms in late summer into fall (July-frost)."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves are narrow, willowy, scratchy, simple, hairy and pointed at the tip. The leaves have three linear veins."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Green to purplish pubescent stems"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Poor Soil",
+    "Salt",
+    "Wet Soil"
+  ]
+}

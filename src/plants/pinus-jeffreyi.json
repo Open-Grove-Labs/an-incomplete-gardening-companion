@@ -1,0 +1,151 @@
+{
+  "fullName": "Pinus jeffreyi",
+  "name": "pinus-jeffreyi",
+  "commonNames": [
+    "Black Pine",
+    "Jeffrey's Pine",
+    "Yellow Pine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pinus-jeffreyi/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pinus",
+  "species": "jeffreyi",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Western U.S.A"
+  ],
+  "distribution": [
+    "Oregon south to Baja CA and western NV"
+  ],
+  "wildlife-value": [
+    "This plant supports Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed. Seeds are eaten by small mammals and birds. It provides cover for wildlife. Deer resistant"
+  ],
+  "play-value": [
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Conical",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-description": [
+    "Oval female cones are 6-10 inches long with inward-facing spines making them feel smooth."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Needles are 3 per fascicle, spreading-ascending, persisting 5-8 years, and 7-11 inches long. They are slightly twisted, blue-green, all surfaces with fine stomatal lines, margins finely serrulate, and apex acute to acuminate."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Scaly"
+  ],
+  "bark-plate-shape": [
+    "Irregular"
+  ],
+  "bark-description": [
+    "The bark is cinnamon brown, thick, deeply furrowed and cross-checked, forming large irregular scaly plates, with an odor of lemon, vanilla or pineapple during the growing season."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Cream/Tan",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-bud-scales": [
+    "No scales, covered in hair"
+  ],
+  "stem-surface": [
+    "Covered with a powdery bloom (glaucous)"
+  ],
+  "stem-description": [
+    "Branches are spreading-ascending. The twigs are stout purple-brown and often glaucous, aging rough. Buds ovoid, tan to pale red-brown, non-resinous. Scale margins conspicuously fringed."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Nighttime Garden",
+    "Winter Garden"
+  ],
+  "attracts": [
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil"
+  ],
+  "uses": "Wood is primarily used for lumber"
+}

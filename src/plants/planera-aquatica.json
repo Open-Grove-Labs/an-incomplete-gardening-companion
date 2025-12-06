@@ -1,0 +1,182 @@
+{
+  "fullName": "Planera aquatica",
+  "name": "planera-aquatica",
+  "commonNames": [
+    "Water Elm"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/planera-aquatica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Planera",
+  "species": "aquatica",
+  "family": "Ulmaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "SE USA"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "FL",
+    "GA",
+    "IL",
+    "KY",
+    "LA",
+    "MO",
+    "MS",
+    "NC",
+    "OK",
+    "SC",
+    "TN",
+    "TX"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Dutch elm disease"
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Multi-trunked",
+    "Spreading",
+    "Vase"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "display/harvest-time": [
+    "Spring"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The 1/2 inch fruit is a stalked leathery drupe with fleshy burr-like projections."
+  ],
+  "flower-color": [
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Flowers are very small with curling fuzzy stigmas."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Deltoid",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "1 to 3 inches long, 1/2 to 1 inch wide, dark green above, paler below. Bases usually unequal."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray",
+    "Light Brown",
+    "Light Gray",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Exfoliating",
+    "Patchy",
+    "Shredding"
+  ],
+  "bark-description": [
+    "Scaly, shredding, patchy and grayish-brown, some reddish where bark exfoliates."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Redish to gray-brown stems have hairs when young but become smooth with age."
+  ],
+  "landscape-location": [
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Water Garden"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "fullName": "Ilex 'Carolina Cardinal'",
+  "name": "ilex-carolina-cardinal",
+  "commonNames": [
+    "Carolina Cardinal Holly",
+    "Hybrid Winterberry Holly",
+    "Winterberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ilex-carolina-cardinal/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ilex",
+  "species": "verticillata x serrata",
+  "family": "Aquifoliaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "distribution": [
+    "Eastern and south central United States"
+  ],
+  "wildlife-value": [
+    "Birds are attracted to plentiful red fruits."
+  ],
+  "edibility": [
+    "Use caution. Human ingestion of berries can cause minor toxic reaction."
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-description": [
+    "Glossy, bright red drupe that lasts from fall through winter."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small white flowers in late spring, male flowers in clusters and female flowers solitary or in 2's and 3's."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Light green, simple, elliptical leaves 1 1/2 to 3 inches long and 3/4 to 1 1/4 inch wide."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "stem-color": [
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Smooth woody stems."
+  ],
+  "landscape-location": [
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Small groups"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Minor toxicity. Ingestion may cause vomiting, diarrhea, or other illness."
+  ],
+  "poison-toxic-principle": [
+    "Saponins"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ]
+}

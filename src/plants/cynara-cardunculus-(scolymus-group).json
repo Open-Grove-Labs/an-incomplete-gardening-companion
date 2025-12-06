@@ -1,0 +1,188 @@
+{
+  "fullName": "Cynara cardunculus (Scolymus Group)",
+  "name": "cynara-cardunculus-(scolymus-group)",
+  "commonNames": [
+    "Artichoke",
+    "Artichokes",
+    "French Artichoke",
+    "French Artichokes",
+    "Globe Artichoke",
+    "Globe Artichokes",
+    "Green Artichoke",
+    "Green Artichokes"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cynara-cardunculus-scolymus-group/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cynara",
+  "species": "cardunculus",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "North Africa and Western Europe"
+  ],
+  "distribution": [
+    "Widely cultivated in Mediterranean regions and other temperate areas"
+  ],
+  "wildlife-value": [
+    "Flowers are attractive to pollinators."
+  ],
+  "edibility": [
+    "The unopened buds can be eaten– once cooked, the base of the fleshy phyllaries (bracts) and the center heart are edible.  The flowers can be made into tea."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Vegetable"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "flower-color": [
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Dome"
+  ],
+  "flower-petals": [
+    "Bracts",
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "Large, scaly flowers up to 7\" grow on tall stalks, many smaller buds below a large terminal one.  Buds can be harvested and eaten or allowed to bloom into bright purple, thistle-like flowers."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Pinnatifid"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Deeply lobed, jagged leaves that grow in 3' clumps."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ],
+  "problems": [
+    "Contact Dermatitis"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Causes contact dermatitis."
+  ],
+  "poison-toxic-principle": [
+    "Cynaropicrin"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ]
+}

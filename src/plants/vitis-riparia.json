@@ -1,0 +1,274 @@
+{
+  "fullName": "Vitis riparia",
+  "name": "vitis-riparia",
+  "commonNames": [
+    "Frost Grape",
+    "Riverbank Grape",
+    "Wild Grape"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/vitis-riparia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Vitis",
+  "species": "riparia",
+  "family": "Vitaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "North America"
+  ],
+  "distribution": [
+    "Native to Canada:  Manitoba",
+    "New Brunswick",
+    "Nova Scotia",
+    "Ontario",
+    "and Quebec; Mexico Northeast; United States:  AL",
+    "AR",
+    "CO",
+    "CT",
+    "DC",
+    "IA",
+    "IL",
+    "IN",
+    "KS",
+    "KY",
+    "LA",
+    "MA",
+    "MD",
+    "ME",
+    "MI",
+    "MN",
+    "MO",
+    "MT",
+    "NE",
+    "NH",
+    "NJ",
+    "NM",
+    "NY",
+    "NC",
+    "ND",
+    "OH",
+    "OK",
+    "OR",
+    "PA",
+    "RI",
+    "SD",
+    "TN",
+    "TX",
+    "VT",
+    "VA",
+    "WV",
+    "WI",
+    "and WY; \nIntroduced:  Czechoslovakia",
+    "France",
+    "Hungry",
+    "Italy",
+    "Sardegna",
+    "Saskatchewan",
+    "Sicilia",
+    "South European Russia",
+    "Spain",
+    "and the State of Washington."
+  ],
+  "wildlife-value": [
+    "They are a food source for insects, songbirds, game birds, waterfowl, and mammals."
+  ],
+  "climbing-method": [
+    "Tendrils"
+  ],
+  "edibility": [
+    "The berries are sour until the first frost then they become sweeter. They may be eaten fresh, dried, or made into jellies or wine. It is important to properly identify the berries before ingestion."
+  ],
+  "plant-type": [
+    "Edible",
+    "Native Plant",
+    "Perennial",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "appendage": [
+    "Tendrils"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The immature fruits are small green berries. As they mature, the berries become bluish-black with a white bloom and measure 1/4 to 1/2- inch in diameter. They appear in clusters and mature in late summer and fall. They contain 1 to 4 flat, egg-shaped seeds."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers are about 1/8 inch in diameter. They have 5 tiny green to yellow petals. There are male and female flowers. The male flower has 5 long stamens and a button center. The female flower has a pistil, short style, and 5 functionless stamens. The tiny fragrant flowers are arranged in panicles up from 3 to 8 inches long. The flowers appear from late May to June and last about 2 weeks."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The leaves measure 4 to 6 inches long and nearly as wide.  They are simple, alternate, heart-shaped, 3-lobed, and the margins are toothed and hairy. Young leaves are yellow, shiny, and covered with hairs. As the leaf matures, the upper surface is green and hairless, and the lower surface is paler with hairs along the major leaf veins. The leaf stalks are 3 inches long, reddish, and may be hairy or smooth. The fall leaf color is yellow."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Exfoliating",
+    "Peeling",
+    "Shredding"
+  ],
+  "bark-description": [
+    "The bark is reddish-brown, exfoliating, shredding, and peeling in long strips. The trunk of a mature vine can measure up to 8 inches in diameter."
+  ],
+  "stem-color": [
+    "Gold/Yellow",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The branches are yellowish-green to reddish and smooth. There are a few hairs at the nodes. The tendrils develop opposite of the leaves and become woody as they mature."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Riparian",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "fullName": "Echeveria",
+  "name": "echeveria",
+  "commonNames": [
+    "Echeveria",
+    "Mexican Rosettes",
+    "Mexican Snowballs",
+    "Variegated Wax Plant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/echeveria/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Echeveria",
+  "family": "Crassulaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Leaf Cutting",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Texas to Argentina"
+  ],
+  "distribution": [
+    "introduced range includes Vietnam",
+    "New Zealand"
+  ],
+  "wildlife-value": [
+    "Attracts bumble bees and hummingbirds"
+  ],
+  "play-value": [
+    "Attracts Pollinators"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 1 in. - 1 ft. 0 in.",
+    "Width: 0 ft. 2 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Perennial",
+    "Succulent"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Tiny black seeds in a capsule"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The unscented flowers of this plant are tubular and usually deep pink with or without yellow markings. But the plant breeders have extended the range and you can find them salmon pink and sometimes yellow. They appear annually at the end a stem that is usually erect but sometimes droops. They hang down in a loose bunch attracting bumble bees and hummingbirds."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "Variegated",
+    "White"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Glossy",
+    "Smooth",
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Linear",
+    "Oblanceolate",
+    "Ovate",
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The leaves of this plant are what make it. They are thick and fleshy and come in a range of colors, shapes, sizes and markings. The color is better in full sun. They wither and drop off from the bottom and can be a source of disease if not removed.  They have a point at the tip, but can be distinguished from Aonium by the entire margins and more upright habit.  Most are smooth and hairless and some have a glaucous bloom on the surface."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Covered with a powdery bloom (glaucous)"
+  ],
+  "stem-description": [
+    "The stems of this plant are succulent and the same color as the leaves. Although they are very short at the start of the plant's life they do grow erectly and may branch. If you don't like the stem with a tuft at the top, cut off the tuft with and inch or so of stem and repot it."
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants",
+    "Patio",
+    "Pool/Hardscape",
+    "Rock Wall",
+    "Small Space",
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Foundation Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ]
+}

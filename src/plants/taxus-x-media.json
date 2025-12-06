@@ -1,0 +1,181 @@
+{
+  "fullName": "Taxus x media",
+  "name": "taxus-x-media",
+  "commonNames": [
+    "Foundation Yew",
+    "Yew"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/taxus-x-media/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Taxus",
+  "family": "Taxaceae",
+  "country-or-region-of-origin": [
+    "Artificial hybrid"
+  ],
+  "wildlife-value": [
+    "Birds are attracted to the red, fleshy arils of the female cones."
+  ],
+  "play-value": [
+    "Buffer",
+    "Screening",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 12 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The showy, red, fleshy cones are produced by female trees. Each cone contains a single seed."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-shape": [
+    "Linear",
+    "Oblong"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The pointed evergreen foliage is olive to dark green.  The undersides are a lighter green."
+  ],
+  "bark-color": [
+    "Dark Brown"
+  ],
+  "surface/attachment": [
+    "Scaly"
+  ],
+  "bark-description": [
+    "The brown bark has a scaly surface."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stem will remain green for two years, before turning brown."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Patio",
+    "Pool/Hardscape",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Garden for the Blind",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Border",
+    "Foundation Planting",
+    "Hedge",
+    "Mass Planting",
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Heavy Shade",
+    "Rabbits",
+    "Urban Conditions"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Nervousness, trembling, slow pulse, pupil dilation, difficult breathing, seizures (dogs), abdominal pain, vomiting, diarrhea, weakness, convulsions; may be fatal.\nEarly signs: muscular tremors, dyspnea, seizures in dogs."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloid taxine"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Leaves",
+    "Seeds"
+  ]
+}

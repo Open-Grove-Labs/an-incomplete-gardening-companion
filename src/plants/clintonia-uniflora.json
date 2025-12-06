@@ -1,0 +1,147 @@
+{
+  "fullName": "Clintonia uniflora",
+  "name": "clintonia-uniflora",
+  "commonNames": [
+    "Bead Lily",
+    "Bride's Bonnet",
+    "Queencup",
+    "Queen's Cup"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/clintonia-uniflora/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Clintonia",
+  "species": "uniflora",
+  "family": "Liliaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Alaska, Canada, South to California"
+  ],
+  "wildlife-value": [
+    "Ruffled grouse are attracted to the fruits."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 0 ft. 10 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "fruit-color": [
+    "Blue"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "Each flower is followed by a single, amethyst-blue berry."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "One (rarely two) white, star-like flower blooms on a short leafless stalk rising from a basal cluster of 2 or 3 leaves."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Oblong"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Rosettes of 2 to 3 oblong, glossy-green leaves, up to 8 inches in height and 3 inches wide, bear short flowering stalks with one or two white flowers."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Shade Garden"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Heavy Shade"
+  ]
+}

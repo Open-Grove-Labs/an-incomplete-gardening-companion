@@ -1,0 +1,145 @@
+{
+  "fullName": "Solidago ptarmicoides",
+  "name": "solidago-ptarmicoides",
+  "commonNames": [
+    "Goldenrod",
+    "Prairie Aster",
+    "Sneezewort Aster",
+    "Upland White Aster",
+    "Upland White Goldenrod"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/solidago-ptarmicoides/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Solidago",
+  "species": "ptarmicoides",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "central North America"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "This plant supports Wavy-lined Emerald (Synchlora aerata) larvae. Attracts bees, butterflies and othe polinators. Songbirds feed on seeds. Goldfinches love to eat the seed."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Tolerates drought and poor soil"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb",
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Blooms August through October. Daisy-like flowers in open, flat-topped clusters each containing 3 to 25 but sometimes as many as 50 flowers that bloom late summer to fall. Each flower has between 10 and 20 white rays and creamy white to pale yellow center disks."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough",
+    "Smooth"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Narrow pointed leaves can have smooth or rough textures. Lower leaves to 7 inches long are lanceolate-oval and stalked. Upper leaves are smaller, narrower, and widely spaced, eventually becoming stalkless near the top."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Drought Tolerant Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil"
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "fullName": "Ocimum basilicum",
+  "name": "ocimum-basilicum",
+  "commonNames": [
+    "Basil",
+    "Genovese Basil",
+    "Purple Basil",
+    "Saint Joseph's Wort",
+    "Sweet Basil",
+    "Thai Basil"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ocimum-basilicum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ocimum",
+  "species": "basilicum",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical Africa and Asia"
+  ],
+  "play-value": [
+    "Fragrance"
+  ],
+  "edibility": [
+    "Leaves and flowers in tea, as flavoring"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 4 in. - 3 ft. 0 in.",
+    "Width: 0 ft. 4 in. - 1 ft. 2 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Herb",
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Ascending"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The small white flowers are lipped in shape. They are arranged in whorled racemes with bracts at the base. Some ornamental varieties have spikes of showy purple flowers. Blooms in late summer."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender",
+    "Variegated",
+    "White"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are bright green and are attached directly to the base of the stem. Simple leaves and opposite in arrangement at right angles to each other. Ovate in shape with smooth margins and slight bulging between the veins. 1/2\"-3\" in length. Very fragrant. Ornamental varieties may have purple or variegated leaves."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Stem is thin and hollow and has a branching tendency. The cross-section is square in shape."
+  ],
+  "landscape-location": [
+    "Container",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ],
+  "uses": "Plant tops can be used to make green and yellow dyes."
+}

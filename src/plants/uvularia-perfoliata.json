@@ -1,0 +1,215 @@
+{
+  "fullName": "Uvularia perfoliata",
+  "name": "uvularia-perfoliata",
+  "commonNames": [
+    "Bellwort",
+    "Mealy Bellwort",
+    "Merrybells",
+    "Mohawk Weed",
+    "Perfoliate Bellwort",
+    "Strawbells",
+    "Straw Lily",
+    "Wild Oats",
+    "Yellow Bellwort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/uvularia-perfoliata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Uvularia",
+  "species": "perfoliata",
+  "family": "Colchicaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Canada and U.S.A."
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "CT",
+    "DC",
+    "DE",
+    "FL",
+    "GA",
+    "IN",
+    "KY",
+    "LA",
+    "MA",
+    "MD",
+    "ME",
+    "MS",
+    "NC",
+    "NH",
+    "NJ",
+    "NY",
+    "OH",
+    "OK",
+    "PA",
+    "RI",
+    "SC",
+    "TN",
+    "TX",
+    "VA",
+    "VT",
+    "WI",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Native bees seek out the nectar."
+  ],
+  "play-value": [
+    "Attracts Pollinators"
+  ],
+  "edibility": [
+    "The leaves and roots are edible."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect",
+    "Spreading"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "The fruit displays from June to August.  Each three sided capsule will split along 2 or more seams, releasing 2 or more seeds."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Yellow flowers bloom from April into early summer.  The interior surface of the flower has a roughened texture and contains small glands."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "There is one leaf per node along the stem.  The veined leaves are oblong with the widest area just below the middle and tapering at each end.   They are glabrous on the upper leaf and glaucous on the underside."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "The stems can be singular or branched.  They are slender and smooth to the touch."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Patio",
+    "Pond",
+    "Small Space",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "fullName": "Plantago lanceolata",
+  "name": "plantago-lanceolata",
+  "commonNames": [
+    "Buckhorn Plantain",
+    "English plantain",
+    "Lance Leaf Plantain",
+    "Lanceleaf Plantain",
+    "Narrow-leaf Plantain",
+    "Narrowleaf Plantain",
+    "Ribwort Plantain",
+    "Strap Leaf Plantain",
+    "Strapleaf Plantain"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/plantago-lanceolata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Plantago",
+  "species": "lanceolata",
+  "family": "Plantaginaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, including Britain"
+  ],
+  "wildlife-value": [
+    "Attracts wildlife"
+  ],
+  "plant-type": [
+    "Edible",
+    "Herb",
+    "Weed"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "1-2 smooth, boat-shaped, gel-type substance"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Bisexual, inconspicuous corolla 4-lobed, tubular."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Linear",
+    "Ovate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Stalked, erect.  Margins are sparsely toothed, parallel-veined."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "6 to 18\", slightly furrowed or angular, scattered hairs near the base."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

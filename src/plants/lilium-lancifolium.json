@@ -1,0 +1,38 @@
+{
+  "fullName": "Lilium lancifolium",
+  "name": "lilium-lancifolium",
+  "commonNames": [
+    "Tiger Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lilium-lancifolium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lilium",
+  "species": "lancifolium",
+  "family": "Liliaceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "country-or-region-of-origin": [
+    "Russia, Japan, Tibet"
+  ],
+  "plant-type": [
+    "Bulb"
+  ],
+  "flower-color": [
+    "Orange"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "problems": [
+    "Problem for Cats"
+  ]
+}

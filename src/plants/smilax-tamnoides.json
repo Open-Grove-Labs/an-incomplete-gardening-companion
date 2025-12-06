@@ -1,0 +1,234 @@
+{
+  "fullName": "Smilax tamnoides",
+  "name": "smilax-tamnoides",
+  "commonNames": [
+    "Bristly Greenbrier",
+    "China Root",
+    "Hagbrier",
+    "Hellfetter",
+    "Smilax Tamnoides Vas"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/smilax-tamnoides/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Smilax",
+  "species": "tamnoides",
+  "family": "Smilacaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "North America"
+  ],
+  "distribution": [
+    "Ontario",
+    "central and eastern U.S.A.",
+    "Mexico"
+  ],
+  "wildlife-value": [
+    "It is insect-pollinated by both bees and flies .Moth caterpillars feed on the leaves. Game birds and songbirds feed on the berries during fall and winter. Black Bears, Raccoons, and other mammals will also eat the berries. White-Tailed Deer may eat the foliage and stems."
+  ],
+  "play-value": [
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "climbing-method": [
+    "Tendrils"
+  ],
+  "edibility": [
+    "Young leaves, shoots, and tendrils can be added to salads"
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Native Plant",
+    "Shrub",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Climbing",
+    "Dense",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "A berry is about ¼\" in diameter, dark blue or black, and contains 1-3 seeds"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Gray/Silver",
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "6 petals/rays",
+    "Tepals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Each male has 6 yellow/white/green tepals and 6 stamens. Each female has 5 yellow/grey/green tepals, a single ovary, and a short tripartite style. The ovary is ovoid, shiny, and green."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Insignificant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Leaves are up to 5\" long and 4\" wide, oval to broadly ovate/obovate, smooth margins (or possibly denticulate, but not visible without magnification), rounded to pointed at the tip, rounded to heart-shaped at the base and hairless.  A leaf has 3-7 parallel veins; its upper surface is green, the lower surface is a lighter green. Leaves along the stem have a pair of tendrils at the base of the 3/4\" stalk."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-description": [
+    "Lower stems have straight spines and stiff bristles, while upper stems seldom have spines. Spines and bristles darken to brown or black with age."
+  ],
+  "landscape-location": [
+    "Riparian",
+    "Slope/Bank",
+    "Vertical Spaces",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rain Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Hedge"
+  ],
+  "attracts": [
+    "Bees",
+    "Moths",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Spines/Thorns",
+    "Weedy"
+  ],
+  "uses": "The prickles can be rubbed on the skin as a counter-irritant to relieve localized pains, muscle cramps, and twitching. Tea can be made from the leaves and stems for rheumatism and stomach problems. The wilted leaves have been used to treat boils. The crushed root has been used to wash leg ulcers."
+}

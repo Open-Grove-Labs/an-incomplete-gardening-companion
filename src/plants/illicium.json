@@ -1,0 +1,267 @@
+{
+  "fullName": "Illicium",
+  "name": "illicium",
+  "commonNames": [
+    "Anise Tree",
+    "Star Anise"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/illicium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Illicium",
+  "family": "Schisandraceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Layering",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Parts of SE Asia, SE US, Central America, and the Caribbean"
+  ],
+  "distribution": [
+    "Alabama",
+    "Assam",
+    "Borneo",
+    "Cambodia",
+    "North-Central",
+    "South-Central",
+    "and Southeast China",
+    "Cuba",
+    "Dominican Republic",
+    "East Himalaya",
+    "Florida",
+    "Georgia",
+    "Hainan",
+    "Haiti",
+    "Japan",
+    "Korea",
+    "Louisiana",
+    "Malaya",
+    "Central",
+    "Gulf",
+    "and Northeast Mexico",
+    "Mississippi",
+    "Myanmar",
+    "Nansei-shoto",
+    "Philippines",
+    "Sumatera",
+    "Taiwan",
+    "Thailand",
+    "Vietnam."
+  ],
+  "wildlife-value": [
+    "Provides cover for birds."
+  ],
+  "edibility": [
+    "Only the seed pods of Illicium verum (Chinese star anise) are recognized for culinary use in teas and as a spice. All other species have a variety of toxic characteristics in leaves, stems, and/or seed pods."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Semi-evergreen",
+    "Broadleaf Evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed",
+    "Pyramidal",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Fragrant"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Aggregate",
+    "Follicle"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is an aggregate of follicles arranged in a star-shaped whorl."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "Tepals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Flowers consist or 7 to 20 tepals, sometimes more than 20, depending on species. Flowers can also vary in color, size and description depending on species."
+  ],
+  "leaf-color": [
+    "Green",
+    "Variegated"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Alternate green leaves on petioles have entire margins. Their color (green to purple to varigated), shape, and feel vary depending on species."
+  ],
+  "stem-color": [
+    "Cream/Tan",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "Y",
+  "stem-description": [
+    "Stem color will vary depending on the species or cultivar."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Naturalized Area",
+    "Pond",
+    "Riparian",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Garden for the Blind",
+    "Rain Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heavy Shade",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "All species and cultivars of Illicium, except for I. verum (Chinese Star Anise), have varying levels of toxicity."
+  ],
+  "poison-toxic-principle": [
+    "Sesquiterpene lactones"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves",
+    "Seeds"
+  ],
+  "uses": "The seed pods of Illicium verum (Chinese Star Anise) can be used for culinary use in teas and as a spice. All other species have toxic characteristics in leaves, stems, and/or seed pods."
+}

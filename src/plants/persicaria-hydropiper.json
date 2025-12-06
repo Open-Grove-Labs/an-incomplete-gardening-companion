@@ -1,0 +1,141 @@
+{
+  "fullName": "Persicaria hydropiper",
+  "name": "persicaria-hydropiper",
+  "commonNames": [
+    "Marshpepper knotweed",
+    "Smartweed",
+    "Water-pepper"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/persicaria-hydropiper/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Persicaria",
+  "species": "hydropiper",
+  "family": "Polygonaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Temp. Eurasia to Western & Central Malesia, North Western Africa"
+  ],
+  "edibility": [
+    "Used as a spice.  Leaves, seeds, and stems are edible."
+  ],
+  "plant-type": [
+    "Edible",
+    "Herb",
+    "Weed",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-description": [
+    "Dark brown oval flattened nut."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme",
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Slender greenish-white nodding flower clusters having 5 sepals, 2-3 styles, 4-6 stamens, and no petals."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves have a strong peppery taste, often olive-green  Each leaf has a short petiole."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Smooth and hairless"
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Patio",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Mass Planting",
+    "Small groups"
+  ]
+}

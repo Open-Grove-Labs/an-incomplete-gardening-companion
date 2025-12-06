@@ -1,0 +1,48 @@
+{
+  "fullName": "Rosa 'Alain Blanchard'",
+  "name": "rosa-alain-blanchard",
+  "commonNames": [
+    "Alain Blanchard rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-alain-blanchard/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "plant-type": [
+    "Rose"
+  ],
+  "habit/form": [
+    "Dense"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Crimson; becomes spotted purple with age; yellow stamers"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Thin wiry branches"
+  ]
+}

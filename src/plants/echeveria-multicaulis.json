@@ -1,0 +1,167 @@
+{
+  "fullName": "Echeveria multicaulis",
+  "name": "echeveria-multicaulis",
+  "commonNames": [
+    "Copper Rose",
+    "Maroon",
+    "Painted Lady"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/echeveria-multicaulis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Echeveria",
+  "species": "multicaulis",
+  "family": "Crassulaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Leaf Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico"
+  ],
+  "distribution": [
+    "Southwest Mexico"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 4 in. - 0 ft. 10 in.",
+    "Width: 0 ft. 4 in. - 0 ft. 6 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Perennial",
+    "Succulent"
+  ],
+  "habit/form": [
+    "Mounding",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Tiny seeds in a dry capsule"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "May bloom multiple times during the year on short stalks with yellow to red tone cup-shaped flowers. Blooms multiple times in the plant's lifetime."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Smooth",
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Bright green fleshy leaves with red margins growing in a rosette."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Covered with a powdery bloom (glaucous)"
+  ],
+  "stem-description": [
+    "Short, succulent stems."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil"
+  ]
+}

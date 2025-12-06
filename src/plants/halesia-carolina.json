@@ -1,0 +1,243 @@
+{
+  "fullName": "Halesia carolina",
+  "name": "halesia-carolina",
+  "commonNames": [
+    "Carolina Silverbell",
+    "Common Silverbell",
+    "Mountain Silverbell",
+    "opossum wood",
+    "shittimwood",
+    "Silver Bell",
+    "snowbell tree"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/halesia-carolina/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Halesia",
+  "species": "carolina",
+  "family": "Styracaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "East Central to Southeastern United States"
+  ],
+  "distribution": [
+    "West Virginia to Ohio to Oklahoma and Illinois",
+    "south to Florida"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Attracts hummingbirds, and supports 7 different species of lepidopteran caterpillars including the Promethea moth. It is a host plant for the Eastern Tiger Swallowtail, Mourning Cloak, Eastern Comma, Red-spotted Purple, and Viceroy butterflies.  Buds and flower clusters are eaten by birds. Butterflies, bees, and other pollinators enjoy the nectar from the flowers."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "fire in the landscape."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 40 ft. 0 in.",
+    "Width: 25 ft. 0 in. - 35 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Irregular",
+    "Multi-trunked",
+    "Open",
+    "Pyramidal",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "A 1 to 2 inch, oblong 4-winged dry drupe with one hard seed which starts out green with a dark point at the base and turns brown persisting and providing winter interest. In North Carolina, fruits are available from August to September."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "White, tinged with pink, pendulous perfect, bell-shaped flowers, 1/2 to 3/4 of an inch long, in drooping clusters of 2 to 5 blooms from late April to May.  Four sepals form a cup with four prominent ribs and four petals are fused at the base. They appear in spring with the unfolding leaves.\n Flowers appear on second-year growth. In North Carolina, flowers are available from March to May."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves appear at the same time or just after bloom.  They are finely toothed, dull, dark green above, ovate-oblong 2 to 5 inches long with rounded base and acute apex.  Pubescent below and they turn yellow in the fall but drop early."
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Light Gray",
+    "Orange"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Ridges",
+    "Scaly"
+  ],
+  "bark-description": [
+    "Young bark is gray with vertical dark fissures that make it appear striped. Mature bark is scaly, ridged, and furrowed with reddish-brown bark appearing underneath. It separates into scales that strip off as the tree grows older."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Branching is irregular and begins low on the trunk. Second-year stems appear stringy. Twigs are brown and smooth, while young shoots are light green and pubescent."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Patio",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Native Garden",
+    "Nighttime Garden",
+    "Pollinator Garden",
+    "Shade Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Small Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Moths",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Fire"
+  ],
+  "uses": "Native ornamental. Heartwood is soft and cherry-colored streaked with white while the sapwood is cream-colored. When large enough, it is cut for lumber and used as a substitute for cherry."
+}

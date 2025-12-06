@@ -1,0 +1,155 @@
+{
+  "fullName": "Haworthia retusa",
+  "name": "haworthia-retusa",
+  "commonNames": [
+    "Aloe retusa",
+    "Cushion Aloe",
+    "Star Cactus"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/haworthia-retusa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Haworthia",
+  "species": "retusa",
+  "family": "Asphodelaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Leaf Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South Africa"
+  ],
+  "distribution": [
+    "provinces of South Africa"
+  ],
+  "play-value": [
+    "Colorful"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 2 in. - 0 ft. 4 in.",
+    "Width: 0 ft. 3 in. - 0 ft. 4 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Perennial",
+    "Succulent"
+  ],
+  "habit/form": [
+    "Creeping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Capsule ovoid to oblong, 3-locular. Seeds with angles winged."
+  ],
+  "flower-color": [
+    "Insignificant",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Raceme"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small, usually white, flowers in 20-inch tall racemes. Peduncle erect, simple, with a few sterile bracts; bracts membranous, small, lanceolate to ovate; pedicels short, ascending."
+  ],
+  "leaf-color": [
+    "Green",
+    "Orange",
+    "Pink"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The thick, triangular leaves are somewhat truncated, the tops covered by a translucent \"window\" that gives the leaf its triangular shape.  Bright light can cause many different colors to develop in the leaves."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Accent"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ]
+}

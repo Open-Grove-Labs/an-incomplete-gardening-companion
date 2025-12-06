@@ -1,0 +1,76 @@
+{
+  "fullName": "Sambucus williamsii",
+  "name": "sambucus-williamsii",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sambucus-williamsii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sambucus",
+  "species": "williamsii",
+  "family": "Viburnaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Siberia, Korea, Japan"
+  ],
+  "wildlife-value": [
+    "Flowers are pollinated by insects."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "surface/attachment": [
+    "Lenticels"
+  ],
+  "bark-description": [
+    "Narrow ellipitic lenticles"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Pith is brown"
+  ],
+  "landscape-theme": [
+    "Pollinator Garden",
+    "Shade Garden"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Heavy Shade",
+    "Pollution",
+    "Wind"
+  ]
+}

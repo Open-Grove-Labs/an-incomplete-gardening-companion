@@ -1,0 +1,214 @@
+{
+  "fullName": "Vaccinium corymbosum 'Premier'",
+  "name": "vaccinium-corymbosum-premier",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/vaccinium-corymbosum-premier/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Vaccinium",
+  "species": "corymbosum",
+  "family": "Ericaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Its fruits are eaten by wildlife, while the flowers are enjoyed by butterflies and other pollinators."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Buffer",
+    "Edible fruit ",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "The fruits can be eaten raw or used in baked goods and jellies."
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 8 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Small pale green berries become a purple color as they mature."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Urn"
+  ],
+  "flower-petals": [
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "leaf-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "bark-color": [
+    "Light Brown"
+  ],
+  "surface/attachment": [
+    "Ridges"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Multistemmed."
+  ],
+  "landscape-location": [
+    "Patio",
+    "Recreational Play Area"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden",
+    "Edible Garden",
+    "Pollinator Garden",
+    "Rain Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Border",
+    "Hedge",
+    "Mass Planting",
+    "Screen/Privacy",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Compaction",
+    "Drought",
+    "Dry Soil",
+    "Fire",
+    "Wet Soil"
+  ],
+  "uses": "This plant is grown for its edible fruits."
+}

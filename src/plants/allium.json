@@ -1,0 +1,192 @@
+{
+  "fullName": "Allium",
+  "name": "allium",
+  "commonNames": [
+    "Onion",
+    "Ornamental Onions"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/allium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Allium",
+  "family": "Amaryllidaceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Northern Hemisphere, North America and Eurasia"
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Fragrance",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "Flowers have a mildly bitter flavor and like young leaves can be eaten in small quantities raw in salads and sandwiches or cooked in tea and soups.  However, the plant also has poisonous characteristics as noted in the \"Poisonous to Humans\" section of this record. Toxicity can depend on the age of the person or animal, the age of the plant, the part of the plant ingested, how much is ingested, whether the person or animal has sensitivities or allergies, whether it's eaten raw or cooked, and so forth.  Consult with a medical professional for further details."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 0 ft. 6 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Edible",
+    "Herbaceous Perennial",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Fragrant",
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Cup",
+    "Star",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers are small, 6-parted, in a cluster at the top of a naked stem. They vary in shape depending on species but can either be tubular, bell, star, or cupped. Their spherical umbels can be shades white, pink, violet, or yellow and are oftentimes have long-lasting interest."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves are upright to spreading, long, slender, flat or cylindrical and hollow. Leaves are basal or stem-clasping.  Plants smell of garlic or onion. Varies per variety."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems are leafless and range from 6\"-5' depending on species."
+  ],
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Poisonous through ingestion. Symptoms may include nausea, vomiting, and diarrhea. (Poison parts: All parts; bulbs, bulblets, flowers, and stems)"
+  ],
+  "poison-toxic-principle": [
+    "Sulfides"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

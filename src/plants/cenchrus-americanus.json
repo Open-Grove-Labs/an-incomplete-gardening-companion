@@ -1,0 +1,206 @@
+{
+  "fullName": "Cenchrus americanus",
+  "name": "cenchrus-americanus",
+  "commonNames": [
+    "Millet",
+    "Pearl Millet",
+    "Yellow Bristle Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cenchrus-americanus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cenchrus",
+  "species": "americanus",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central Africa"
+  ],
+  "distribution": [
+    "Worldwide"
+  ],
+  "fire-risk-rating": [
+    "high flammability"
+  ],
+  "wildlife-value": [
+    "The seeds are highly attractive to birds."
+  ],
+  "play-value": [
+    "Easy to Grow",
+    "Edible fruit "
+  ],
+  "edibility": [
+    "Seeds can be eaten raw or cooked or used like rice in sweet or savoury dishes. It can be ground into a powder and used as a flour for making bread or porridge. The grain is often fermented to make various foods and the sweet tasting grains are eaten raw by children."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Ornamental Grasses and Sedges"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "White"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Caryopsis"
+  ],
+  "fruit-description": [
+    "The fruits are small, rounded grains that range in color from white to yellow and occasionally brown and purple."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Good Dried",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "The inflorescence is a terminal, bottle-brush like, dense raceme of tiny, wind pollinated flowers. The flowerheads can reach up to 1 and 3/4 feet long. Blooms from July to September."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The narrowly lanceolate leaves can reach up to 3 feet long and 3 inches wide."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The upright stems can reach up to 1 inch in diameter and have a dense covering of hairs at their nodes."
+  ],
+  "landscape-location": [
+    "Container",
+    "Meadow",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Poor Soil"
+  ],
+  "uses": "A dye plant, used medicinally and for hay for livestock."
+}

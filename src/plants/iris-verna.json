@@ -1,0 +1,169 @@
+{
+  "fullName": "Iris verna",
+  "name": "iris-verna",
+  "commonNames": [
+    "Dwarf Iris",
+    "Dwarf Violet Iris",
+    "Vernal Iris"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/iris-verna/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Iris",
+  "species": "verna",
+  "family": "Iridaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern United States"
+  ],
+  "distribution": [
+    "New York south to Florida and west to Mississippi River."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial",
+    "Native Plant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Semi-evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Spreading"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "8a",
+    "8b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Capsules 3-angled with single ridge at each angle, almost hidden in bases of spathes."
+  ],
+  "flower-color": [
+    "Blue",
+    "Brown/Copper",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Intensely fragrant flowers are light to deep blue or violet with a golden yellow signal. Rarely flowers are white. Flowers appear on 2 inch stalks before leaf growth begins."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Sheath",
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Obovate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Sword-shaped leaves, about 6 to 10 inches long, fairly narrow with reddish/purple base."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Native Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Poor Soil"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Salivation, vomiting, drooling, lethargy, diarrhea. Highest concentration in rhizomes. Can be toxic to cattle if ingested."
+  ],
+  "poison-toxic-principle": [
+    "Irisin"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Roots",
+    "Sap/Juice"
+  ]
+}

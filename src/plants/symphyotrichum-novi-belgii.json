@@ -1,0 +1,200 @@
+{
+  "fullName": "Symphyotrichum novi-belgii",
+  "name": "symphyotrichum-novi-belgii",
+  "commonNames": [
+    "Michaelmas Daisy",
+    "New England Aster",
+    "New York Aster",
+    "Sapphire Aster"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/symphyotrichum-novi-belgii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Symphyotrichum",
+  "species": "novi-belgii",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "E. Canada to NE. U.S.A."
+  ],
+  "distribution": [
+    "New York aster ranges from Newfoundland and Nova Scotia south to Georgia to Alabama",
+    "chiefly near the coast"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "Host plant for the Pearl Crescent butterfly. Flowers are attractive to bees and butterflies. Songbirds and small mammals eat the seeds. Members of the genus Symphyotrichum support the following specialized bees: Andrena (Callandrena s.l.) asteris, Andrena (Callandrena s.l.) asteroides, Andrena (Cnemidandrena) hirticincta, Andrena (Cnemidandrena) nubecula, Andrena (Callandrena s.l.) placata, Andrena (Callandrena s.l.) simplex, and Colletes simulans."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Moderate deer resistance."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Cascading",
+    "Erect"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "This wildflower produces a dry seed (achene) that matures in late fall. with a tuft of hairs (pappus)"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Numerous purple to pink ray flowers surrounds a yellow-orange center of disc flowers that mature in late summer to early fall. They are produced in terminal heads and are up to 2 inches across. Bracts overlap at base of the flower"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Auriculate",
+    "Lanceolate",
+    "Oblanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The simple leaves are alternate with a smooth margin, sessile and clasping to the stem. The shape is lanceolate to oblanceolate with an acute tip, auriculate to subcordate base, and hispidulous (short stiff hairs) above to soft-pubescent below. 4-6 inches long by 1-1.5 inches wide"
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Reddish stem with fine hairs"
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Meadow",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Diseases",
+    "Insect Pests"
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "fullName": "Typhonium",
+  "name": "typhonium",
+  "commonNames": [
+    "Dwarf Voodoo Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/typhonium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Typhonium",
+  "family": "Araceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Mongolia south to Myanmar, west to India, northeast Australia"
+  ],
+  "distribution": [
+    "Brazil",
+    "Cuba",
+    "Madagascar",
+    "and western Australia"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 9 in. - 1 ft. 0 in.",
+    "Width: 0 ft. 9 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Houseplant",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Irregular"
+  ],
+  "flower-description": [
+    "Flowers are long, pointed, pungent, velvety, maroon spathes in summer. Some feel that the flower's fragrance is foul."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are triangular, glossy, lobed, mid- to dark green."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Asian Garden"
+  ],
+  "design-feature": [
+    "Specimen"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "All parts of some species are poisonous if ingested. Contact may irritate skin, cause intestinal distress, or an allergic reaction."
+  ],
+  "poison-toxic-principle": [
+    "calcium oxalate"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves"
+  ]
+}

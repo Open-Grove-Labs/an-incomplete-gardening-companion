@@ -1,0 +1,208 @@
+{
+  "fullName": "Taxus cuspidata",
+  "name": "taxus-cuspidata",
+  "commonNames": [
+    "Japanese Yew"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/taxus-cuspidata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Taxus",
+  "species": "cuspidata",
+  "family": "Taxaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Korea, China, Russia and Japan"
+  ],
+  "wildlife-value": [
+    "Birds are attracted to the fruits."
+  ],
+  "play-value": [
+    "Buffer",
+    "Easy to Grow",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "Bark, leaves, seed pit (red, fleshy surrounding part, called the aril, is OK to eat)"
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Broad",
+    "Erect",
+    "Multi-stemmed",
+    "Vase"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The red arils, in small amounts, are edible. The green seed is toxic."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The needle like foliage is dark green with a yellow-tinged underside.  It can turn a reddish-brown or yellow color in the winter."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Scaly"
+  ],
+  "bark-description": [
+    "Scaly reddish-brown bark."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Multistemmed."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Patio",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Hedge",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Rabbits",
+    "Urban Conditions"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Nervousness, trembling, slow pulse, pupil dilation, difficult breathing, seizures (dogs), abdominal pain, vomiting, diarrhea, weakness, convulsions; may be fatal.\nEarly signs: muscular tremors, dyspnea, seizures in dogs."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloid taxine"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Leaves",
+    "Seeds"
+  ]
+}

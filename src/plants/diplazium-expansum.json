@@ -1,0 +1,95 @@
+{
+  "fullName": "Diplazium expansum",
+  "name": "diplazium-expansum",
+  "commonNames": [
+    "Great Fern"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/diplazium-expansum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Diplazium",
+  "species": "expansum",
+  "family": "Aspleniaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico, Tropical America"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer"
+  ],
+  "plant-type": [
+    "Fern"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "fruit-description": [
+    "No fruits. This plants reproduces via spores."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Fronds"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Deltoid",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenulate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Green fronds are up to 38 inches long.  8-12 pairs of pinnules (leaflets) are alternate to sub alternate and may or may not be stalked with crenulate to entire margins. The sori are light brown and on the undersides of the fronds."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Riparian",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Shade Garden",
+    "Water Garden"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

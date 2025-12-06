@@ -1,0 +1,72 @@
+{
+  "fullName": "Erianthus alopecuroides",
+  "name": "erianthus-alopecuroides",
+  "commonNames": [
+    "Silver Plume Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/erianthus-alopecuroides/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Erianthus",
+  "species": "alopecuroides",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern and central U.S.A."
+  ],
+  "wildlife-value": [
+    "This is a larval host plant that supports various skipper larvae and Common Wood-Nymph (Cercyonis pegala) which have one brood from late May to October. Adult Common Wood-Nymph butterflies feed on rotting fruit and flower nectar."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Ornamental Grasses and Sedges"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-description": [
+    "Fruits are available November-December."
+  ],
+  "flower-bloom-time": [
+    "Fall"
+  ],
+  "flower-description": [
+    "Flowers bloom in October."
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ]
+}

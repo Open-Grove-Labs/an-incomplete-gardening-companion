@@ -1,0 +1,108 @@
+{
+  "fullName": "Chamaecyparis thyoides 'Heatherbun'",
+  "name": "chamaecyparis-thyoides-heatherbun",
+  "commonNames": [
+    "Heatherbun Chamaecyparis"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/chamaecyparis-thyoides-heatherbun/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Chamaecyparis",
+  "species": "thyoides",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 8 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Purple/Lavender"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Blue-green needles with purplish winter color."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn"
+  ],
+  "landscape-theme": [
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Foundation Planting",
+    "Hedge",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ]
+}

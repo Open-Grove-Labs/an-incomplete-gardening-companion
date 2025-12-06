@@ -1,0 +1,189 @@
+{
+  "fullName": "Echeveria derenbergii",
+  "name": "echeveria-derenbergii",
+  "commonNames": [
+    "Blue Echeveria",
+    "Copper Rose",
+    "Maroon Chenille Plant",
+    "Painted Lady",
+    "Painted-Lady",
+    "Plush Plant",
+    "Wax Rosette"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/echeveria-derenbergii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Echeveria",
+  "species": "derenbergii",
+  "family": "Crassulaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Leaf Cutting",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico"
+  ],
+  "distribution": [
+    "Southwest Mexico"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 3 in. - 0 ft. 4 in.",
+    "Width: 0 ft. 3 in. - 0 ft. 3 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Perennial",
+    "Succulent"
+  ],
+  "habit/form": [
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Tiny seeds in a dry capsule"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Cup-shaped yellow flowers with red tips appear on pinkish-red stems late winter to early summer. Blooms multiple times in the plant's lifetime."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Glossy",
+    "Smooth",
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Triangular-shaped blue-green leaves with red margins and pointed apex in a rosette up to 3 inches across. It will make multiple offsets"
+  ],
+  "stem-color": [
+    "Blue",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Covered with a powdery bloom (glaucous)"
+  ],
+  "stem-description": [
+    "Short, succulent stems."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Rabbits"
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "fullName": "Perilla frutescens",
+  "name": "perilla-frutescens",
+  "commonNames": [
+    "Beefsteak Plant",
+    "Perilla",
+    "Shiso"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/perilla-frutescens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Perilla",
+  "species": "frutescens",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Himalayas to Southeast Asia"
+  ],
+  "edibility": [
+    "Leaves as a salad herb, flavoring"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 0 ft. 3 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Herb",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    ".06 inch reticulate nutlet gray-brown"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Lipped"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals",
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small, two-lipped bell-shaped white in spike-like inflorescences that emerge from leaf axils up to 4\" tall Blooms appear in the late summer through mid-fall and resemble nettles."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Wrinkled ovate opposite leaves up to 4\" long.  Purple or red leaves resemble the color of uncooked beef.  Edible and aromatic."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "Y",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Square with purple or green four grooves covered in short hairs, fragrant"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heat"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

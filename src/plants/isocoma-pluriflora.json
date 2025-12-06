@@ -1,0 +1,127 @@
+{
+  "fullName": "Isocoma pluriflora",
+  "name": "isocoma-pluriflora",
+  "commonNames": [
+    "Burrow Weed",
+    "Rayless Goldenrod",
+    "Southern Goldenbush",
+    "Southern Jimmy Weed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/isocoma-pluriflora/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Isocoma",
+  "species": "pluriflora",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Southwestern United States and Mexico"
+  ],
+  "distribution": [
+    "Texas",
+    "Arizona",
+    "Colorado",
+    "New Mexico"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "habit/form": [
+    "Arching",
+    "Dense",
+    "Erect"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b"
+  ],
+  "fruit-description": [
+    "The fruit is a cypsela, although it is often referred to as an achene."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Numerous flower heads of small blossoms form dense terminal cymes, straw colored with yellowish or greenish tips, 7-15 florets per flower head."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear",
+    "Oblanceolate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Gray green leaves are simple, alternate along the stems, linear and sticky. The margins entire to sparsely short-dentate. Leaves are 3/4 of an inch to 1 1/2 inches long and 1/8 of an inch wide."
+  ],
+  "stem-is-aromatic": "N",
+  "problems": [
+    "Problem for Horses"
+  ]
+}

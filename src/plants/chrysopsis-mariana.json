@@ -1,0 +1,241 @@
+{
+  "fullName": "Chrysopsis mariana",
+  "name": "chrysopsis-mariana",
+  "commonNames": [
+    "Golden Aster",
+    "Maryland Aster",
+    "Maryland Golden-Aster"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/chrysopsis-mariana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Chrysopsis",
+  "species": "mariana",
+  "family": "Asteracae",
+  "life-cycle": [
+    "Biennial",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern U.S.A., such as NC and Maryland"
+  ],
+  "distribution": [
+    "AL ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "KY ",
+    "LA ",
+    "MD ",
+    "MS ",
+    "NC ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "PA ",
+    "RI ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "WV\n\n(Southeastern US",
+    "from NY to OH and down to TX)"
+  ],
+  "wildlife-value": [
+    "Members of the genus Chrysopis support the following specialized bees: Andrena (Callandrena s.l.) fulvipennis, and Perdita (Hexaperdita) boltoniae. This plant attracts butterflies, bees, and pollinators. It is also moderately deer resistant."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "moderately deer resistant, drought"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 6 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "Red-brown achenes. Displays from July to November."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Head",
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial",
+    "Saucer"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Clusters of bright yellow, one-inch diameter flower heads with 13-21 rays appear late summer to fall. The petals and center of the flower are both yellow. Each flower has lanceolate, sticky flower bracts. Petals are narrow at each end and sticky bracts are below the petals. Blooms from June to October."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft",
+    "Velvety"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblanceolate",
+    "Oblong",
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The plant forms a rosette of basal, wholly leaves which are 2\"-6\" long and 1 3/8\" to 1.5\" wide with entire or dentate margins. The lower leaves are larger and stem leaves are smaller. The leaves are wooly when young and become smoother with age."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Upright silky wooly stems."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Drought Tolerant Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Diseases",
+    "Drought",
+    "Insect Pests",
+    "Poor Soil"
+  ],
+  "problems": [
+    "Short-lived"
+  ]
+}

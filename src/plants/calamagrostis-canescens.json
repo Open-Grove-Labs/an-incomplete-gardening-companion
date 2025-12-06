@@ -1,0 +1,136 @@
+{
+  "fullName": "Calamagrostis canescens",
+  "name": "calamagrostis-canescens",
+  "commonNames": [
+    "Purple Small-reed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/calamagrostis-canescens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Calamagrostis",
+  "species": "canescens",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe to Siberia and Turkey"
+  ],
+  "distribution": [
+    "Europe: northern",
+    "central",
+    "southwestern",
+    "southeastern",
+    "and eastern. Asia-temperate: Siberia",
+    "Caucasus",
+    "and western Asia.According to the USDA maps it does not appear in the US."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ornamental Grasses and Sedges",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Caryopsis"
+  ],
+  "fruit-description": [
+    "Caryopsis with adherent pericarp."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "The 2 to 7 inch flower is an open oblong shaped panicle, which is purple in late summer and turns tan as the season progresses."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Cream/Tan"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The flat, slender leaves have small hairs that create a rough texture.  The 2 to 7 inch long leaves are a 1/4 inch wide and narrow to a point at its apex. At the base where the leaf and stem meet, there may appear a hair-like membrane (ligule)."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Pond"
+  ]
+}

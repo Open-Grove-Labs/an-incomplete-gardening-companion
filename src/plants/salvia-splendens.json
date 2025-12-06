@@ -1,0 +1,152 @@
+{
+  "fullName": "Salvia splendens",
+  "name": "salvia-splendens",
+  "commonNames": [
+    "Salvia",
+    "Scarlet Sage"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/salvia-splendens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Salvia",
+  "species": "splendens",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Brazil"
+  ],
+  "wildlife-value": [
+    "Flowers attract hummingbirds and butterflies."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 0 ft. 8 in. - 0 ft. 10 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Schizocarp"
+  ],
+  "fruit-description": [
+    "Schizocarp has 4 chambers with 1 nutlet each"
+  ],
+  "flower-color": [
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "fused petals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Flowers red to scarlet; calyx scarlet, zygomorphic, 2-lipped, persisting in fruit with color fading; corolla scarlet, elongate tubular, to 1.3 inches long, ephemeral, short-lived, upper lobes longer than lower lobes. Inflorescence a terminal verticillate raceme; verticillasters 2-6 flowered."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "opposite, petiolate, ovate, crenate, short acuminate,rotund to subcordate, glabrate"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-description": [
+    "Erect, 8-30\" tall square stems"
+  ],
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Cutting Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "fullName": "Dimorphotheca sinuata",
+  "name": "dimorphotheca-sinuata",
+  "commonNames": [
+    "Cape Marigold"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dimorphotheca-sinuata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dimorphotheca",
+  "species": "sinuata",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Namibia to Cape Province"
+  ],
+  "wildlife-value": [
+    "Flowers attract butterflies and bees."
+  ],
+  "plant-type": [
+    "Annual"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "flower-color": [
+    "Orange",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Cup"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "2-2.5 inch yellow or orange daisy-like blooms"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Sinuate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves are light green with shallowly lobed margins. They are slender, spoon-shaped, reaching up to 3 inches long."
+  ],
+  "stem-color": [
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "fullName": "Amanita virosa",
+  "name": "amanita-virosa",
+  "commonNames": [
+    "Death Angel",
+    "Destroying Angel"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/amanita-virosa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Amanita",
+  "species": "virosa",
+  "family": "Amanitaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Asia"
+  ],
+  "distribution": [
+    "Restricted to Europe; not found in the United States."
+  ],
+  "edibility": [
+    "Poisonous. One cap of A. virosa is enough to kill an adult human."
+  ],
+  "plant-type": [
+    "Mushroom",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "One of the most poisonous mushrooms, it is highly toxic and can be fatal if eaten. Symptoms include vomiting and diarrhea, liver and kidney failure.  The toxins in this plant attack the central nervous system."
+  ],
+  "poison-toxic-principle": [
+    "Amanitin"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Stems"
+  ]
+}

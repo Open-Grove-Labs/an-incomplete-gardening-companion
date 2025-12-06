@@ -1,0 +1,127 @@
+{
+  "fullName": "Prunus persica var. nucipersica",
+  "name": "prunus-persica-var-nucipersica",
+  "commonNames": [
+    "Nectarines"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-persica-var-nucipersica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Prunus",
+  "species": "persica",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "wildlife-value": [
+    "This is a larval host plant to Eastern Tiger Swallowtail (Papilio glaucus).  You may see three flights from February-November in the deep south and two flights from May-September in the north."
+  ],
+  "play-value": [
+    "Edible fruit "
+  ],
+  "edibility": [
+    "Nectarine has a smooth skin, the flesh can be either yellow or white with delicate aroma, and clingstone or freestone. Usually, nectarines are a little bit smaller but sweeter than peaches, the skin is more reddish."
+  ],
+  "dimensions": [
+    "Height: 12 ft. 0 in. - 15 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "fruit-description": [
+    "Nectarine has a smooth skin, the flesh can be either yellow or white with delicate aroma, and clingstone or freestone. Usually, nectarines are a little bit smaller but sweeter than peaches, the skin is more reddish."
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "The five-petal, solid or paired pink flowers bloom early in spring, before leaf sprouts."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves are lanceolate shaped, 3-6 inches in length and 0.8-1.2 inches broad. Pinnately veined."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ],
+  "problems": [
+    "Frequent Disease Problems",
+    "Frequent Insect Problems",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "The pits contain cyanide compounds, which are poisonous. If a couple of pits are accidentally swallowed, it will not cause poisoning. The pits are more poisonous if they are ground up/crushed or the seeds are chewed. Fruit that has not been pitted should not be blended into a smoothie.\nSymptoms include Gasping, weakness, excitement, pupil dilation, spasms, convulsions, coma, respiratory failure."
+  ],
+  "poison-toxic-principle": [
+    "cyanide"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Seeds",
+    "Stems"
+  ]
+}

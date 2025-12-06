@@ -1,0 +1,132 @@
+{
+  "fullName": "​Dioscorea bulbifera",
+  "name": "​dioscorea-bulbifera",
+  "commonNames": [
+    "Air Potato",
+    "Air Potato Vine",
+    "Air Yam",
+    "Bitter Yam"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dioscorea-bulbifera/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dioscorea",
+  "species": "bulbifera",
+  "family": "Dioscoreaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Asia and sub-Saharan Africa"
+  ],
+  "distribution": [
+    "Hawaii",
+    "Texas",
+    "Louisiana",
+    "Mississippi",
+    "Alabama",
+    "Georgia and Florida and North Carolina"
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "edibility": [
+    "Inedible fruits"
+  ],
+  "plant-type": [
+    "Annual",
+    "Perennial",
+    "Vine",
+    "Weed"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Partially winged seeds in a capsule. Produced only if the plant flowers and is pollinated."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Fall"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Rarely flowers and only produces female flowers so far in the USA. inflorescences are panicles 4-6 inches long that may be borne singly or in groups of up to six in the leaf axils. Each inflorescence bears many tiny greenish-white flowers. Usually flowers in the fall."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Green leaves are 2-10 inches long with heart-shaped base and pointed tip. The veins fan out from the base of the leaf and give it a puckered look. The margins are entire"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Thick green twining stems"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

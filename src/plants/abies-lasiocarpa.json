@@ -1,0 +1,149 @@
+{
+  "fullName": "Abies lasiocarpa",
+  "name": "abies-lasiocarpa",
+  "commonNames": [
+    "Alpine Fir",
+    "Mountain Balsam Fir",
+    "Pino Real Blanco de las Sierras",
+    "Rocky Mountain Fir",
+    "Subalpine Fir",
+    "Western Balsam Fir",
+    "White Balsam Fir"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/abies-lasiocarpa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Abies",
+  "species": "lasiocarpa",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Alaska to Southern New Mexico"
+  ],
+  "play-value": [
+    "Screening",
+    "Wildlife Cover/Habitat"
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a"
+  ],
+  "fruit-color": [
+    "Black",
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "No fruits but cones are produced. Cones are resinous, purple, burgundy, brown, or black. The cones are erect and 2 to 4 inches long. They disintegrate in the fall to release winged seeds."
+  ],
+  "flower-description": [
+    "No flowers"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green",
+    "White"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Needles 1 to 1.5 inches long, crowded, pale bluish green to gray-green. They are whorled but twisted at the base making them appear two0ranked."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Fissured",
+    "Smooth"
+  ],
+  "bark-description": [
+    "Young tree have smooth grayish bark that becomes rough and fissured with age"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The stiff stout twigs have sparse brown pubescence. The buds are tan to dark brown, rounded and resinous with triangular scales."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Slope/Bank"
+  ],
+  "design-feature": [
+    "Screen/Privacy"
+  ]
+}

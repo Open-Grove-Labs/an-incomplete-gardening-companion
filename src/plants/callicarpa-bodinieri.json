@@ -1,0 +1,209 @@
+{
+  "fullName": "Callicarpa bodinieri",
+  "name": "callicarpa-bodinieri",
+  "commonNames": [
+    "Bodinier Beautyberry",
+    "Profusion Beautyberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/callicarpa-bodinieri/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Callicarpa",
+  "species": "bodinieri",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Southern China to Indo-China"
+  ],
+  "distribution": [
+    "Cambodia",
+    "China Southcentral",
+    "China Southeast",
+    "Laos",
+    "Thailand",
+    "and Vietnam"
+  ],
+  "wildlife-value": [
+    "Attracts bees, butterflies, and birds and seldom damaged by deer."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "Not poisonous but bitter taste"
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 8 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Open",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "fruit-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruits are a cluster of glossy purple berries. Each berry is about 1/8 -1/6 inches in diameter. They ripen in September and are more prominent after the leaves drop from the shrub.  The berries remain on the shrub until late fall and early winter. The 'Profusion' cultivar's berries are a large cluster of 30-40 violet colored berries."
+  ],
+  "flower-color": [
+    "Blue",
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The flowers are a cluster of lilac-colored blooms about 1.5 inched in diameter. They appear on the leaf axils in June through August, blooming on the new growth of the shrub. The 'Profusion' cultivar's flowers are pale pink blooms."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Purple/Lavender"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves are green, simple, and elliptic to ovate in shape. They are pubescent with pointed tips and serrated margins. They turn golden yellow in the fall. The 'Profusion' cultivar's leaves emerge bronze in the spring, turn dark green in the summer, and golden purple in the fall."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The stems are slender, arching, and downy covered."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Cutting Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

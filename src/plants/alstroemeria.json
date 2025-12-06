@@ -1,0 +1,200 @@
+{
+  "fullName": "Alstroemeria",
+  "name": "alstroemeria",
+  "commonNames": [
+    "Lily-of-the-Incas",
+    "Parrot Lily",
+    "Peruvian Lily",
+    "Princess Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/alstroemeria/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Alstroemeria",
+  "family": "Alstroemeriaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Argentina, Chile"
+  ],
+  "wildlife-value": [
+    "Attracts birds and pollinators"
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Easy to Grow"
+  ],
+  "bulb-storage": [
+    "Leave tuberous roots in moist planting medium and store at 35-41°F (2-5 °C)"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial",
+    "Perennial",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Flower's colors vary from orange, pink, rose, purple, red, yellow, white, to salmon. Flowers are often streaked or spotted with dark colors. Flowers are bilaterally symmetrical with 6 petal-like parts and long-lasting cut flowers."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Strap-like leaves that are narrowed at the base. The leaves are resupinate, twisted on the petioles so the underside faces upwards."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "This plant has erect stems."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Meadow",
+    "Patio",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cutting Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting",
+    "Screen/Privacy",
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "SKIN IRRITATION SEVERE! (All parts are poisonous). Poisonous through dermatitis or eye irritation. Symptoms may include skin irritation with fissures, crusting, blisters, and itching upon contact with cell sap."
+  ],
+  "poison-toxic-principle": [
+    "Glycosides (tuliposides) α-Methylene-γ-butyrolactones (tulipalin A)"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

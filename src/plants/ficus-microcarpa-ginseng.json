@@ -1,0 +1,143 @@
+{
+  "fullName": "Ficus microcarpa 'Ginseng'",
+  "name": "ficus-microcarpa-ginseng",
+  "commonNames": [
+    "Ficus Ginseng",
+    "Ginseng Ficus",
+    "Pot-bellied Ficus"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ficus-microcarpa-ginseng/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ficus",
+  "species": "microcarpa",
+  "family": "Moraceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "tropical and subtropical Asia"
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Irregular",
+    "Multi-stemmed",
+    "Multi-trunked"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit develops from the same structure the flowers are held in. They start out green and ripen to a reddish shade."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Like other Ficus species, the flower is inverted. The reproductive structures are located within the teardrop shape."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Dark green, teardrop-shaped leaves. Leathery with short, pointed, ridged tips."
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Light Brown",
+    "Light Gray"
+  ],
+  "bark-description": [
+    "Attractive greyish bark."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Small Space"
+  ],
+  "design-feature": [
+    "Specimen"
+  ],
+  "uses": "Has been used as shade tree and, for this reason, is frequently used as an indoor tree and in bonsai."
+}

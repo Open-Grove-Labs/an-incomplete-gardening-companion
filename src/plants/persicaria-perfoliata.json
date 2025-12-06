@@ -1,0 +1,130 @@
+{
+  "fullName": "Persicaria perfoliata",
+  "name": "persicaria-perfoliata",
+  "commonNames": [
+    "Asiatic Smartweed",
+    "Asiatic Tearthumb",
+    "Devil's Tail",
+    "Giant Climbing Tearthumb",
+    "Mile-a-minute",
+    "Mile-a-Minute Weed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/persicaria-perfoliata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Persicaria",
+  "species": "perfoliata",
+  "family": "Polygonaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "East Asia, Phillipines"
+  ],
+  "wildlife-value": [
+    "Birds are attracted to the fruits."
+  ],
+  "climbing-method": [
+    "Scrambler"
+  ],
+  "plant-type": [
+    "Vine",
+    "Weed"
+  ],
+  "habit/form": [
+    "Dense",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "fruit-color": [
+    "Blue",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-description": [
+    "Immature fruits are green turning purple and then attractive metallic blue.  They are self-pollinated, segmented and contain one glossy black or red-black seed.  They appear in grape-like groups at stem tips mid-summer and last through the first frost.  Fruits are buoyant so can float down waterways and are also transported by birds."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Spike"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Tiny white flowers, insignificant, lack any petals form around 1 inch long spikes in the axils of upper leaves or at the tips of stems."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Deltoid"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Triangular thin alternate lime green leaves 1-3 inches long and wide with prickles on the undersurface along the midrib.  Petioles are attached on the underside of the leaf in the middle."
+  ],
+  "stem-color": [
+    "Pink",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Slender pink to red stems have curved prickles along them.  Stems are jointed at the nodes with rounded leaf-like stipules called ocrea."
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "problems": [
+    "Invasive Species",
+    "Spines/Thorns",
+    "Weedy"
+  ]
+}

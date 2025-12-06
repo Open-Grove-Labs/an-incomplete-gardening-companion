@@ -1,0 +1,177 @@
+{
+  "fullName": "Cardiospermum corindum",
+  "name": "cardiospermum-corindum",
+  "commonNames": [
+    "Balloonvine",
+    "Balloon Vine",
+    "Faux Persil",
+    "Heartseed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cardiospermum-corindum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cardiospermum",
+  "species": "corindum",
+  "family": "Sapindaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern U.S.A. to Argentina, Africa, China, Srilanka"
+  ],
+  "wildlife-value": [
+    "A larval host plant for Miami blue (Hemiargus thomasi) and silver-banded hairstreak (Chlorostrymon simaethis) butterflies; occasional larval host for the gray hairstreak butterfly (Strymon melinus)."
+  ],
+  "climbing-method": [
+    "Tendrils"
+  ],
+  "plant-type": [
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "appendage": [
+    "Tendrils"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "1 inch wide oval to elliptical, green turning reddish-brown balloon-like capsular showy fruits. The seeds are round, green turning black, on thin paper walls inside the three parted bladder."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb",
+    "Panicle",
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Cross",
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "Colored Sepals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small, asymmetrical flowers are 4-10mm in size have four white petals.  Two of the four sepals are white to green and almost petal-like. The inflorescence is corymb-like to racemose to paniculate, producing flowers over a long season, all year in some climates."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Twice compound leaves divided into three parts with shallowly toothed (crenate to serrate) to deeply lobed pubescent leaflets.  They vary in size from roughly 1-4 inches in length and width.  The terminal leaflet is ovate.  The leaf stem may be narrowly winged."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Green stem with hairs"
+  ],
+  "landscape-location": [
+    "Coastal"
+  ],
+  "attracts": [
+    "Butterflies"
+  ]
+}

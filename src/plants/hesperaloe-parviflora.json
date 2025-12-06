@@ -1,0 +1,185 @@
+{
+  "fullName": "Hesperaloe parviflora",
+  "name": "hesperaloe-parviflora",
+  "commonNames": [
+    "Coral Yucca",
+    "Hummingbird Yucca",
+    "Redflower False Yucca",
+    "Red Yucca",
+    "Samandoque",
+    "Yellow Yucca"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hesperaloe-parviflora/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hesperaloe",
+  "species": "parviflora",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Texas, Mexico and Coahuila"
+  ],
+  "distribution": [
+    "Central Texas south to Coahuila in northern Mexico"
+  ],
+  "wildlife-value": [
+    "Flowers attract hummingbirds and butterflies."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Succulent"
+  ],
+  "habit/form": [
+    "Arching",
+    "Clumping",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Woody capsule"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Red, pink or coral tubular flowers grow on 4-6 foot red stalks. The centers are yellow."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The blue-green evergreen leaves grow in a basal clump and are 2-3 feet long and 1 inch wide. They become purple or reddish-brown in cold winter climates. Leaves have numerous white filament hairs on margins"
+  ],
+  "stem-color": [
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Red flower stalks"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Mass Planting",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Erosion",
+    "Heat",
+    "Pollution",
+    "Salt",
+    "Urban Conditions"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "fullName": "Lamium purpureum",
+  "name": "lamium-purpureum",
+  "commonNames": [
+    "Dead Nettle",
+    "Purple Archangel",
+    "Purple Dead Nettle",
+    "Purple Dead-nettle",
+    "Red Dead Nettle",
+    "Red Dead-nettle",
+    "Red Dead-nettle,",
+    "Velikdenche"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lamium-purpureum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lamium",
+  "species": "purpureum",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Macaronesia, Mediterranean, Europe to Western Siberia"
+  ],
+  "wildlife-value": [
+    "Bee attracted to the flower"
+  ],
+  "plant-type": [
+    "Perennial",
+    "Weed",
+    "Wildflower"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Purple/Lavender"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals",
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Purplish flowers have a top hooded petal with 2 lower lip petals. May be produced throughout the year. Sessile in whorls in the leave axils."
+  ],
+  "leaf-color": [
+    "Purple/Lavender"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Deltoid"
+  ],
+  "leaf-margin": [
+    "Serrate",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Crowded heart-shaped leaves tend to overlap; upper leaves are often purplish with greenish undersides and hairy. Short petioles. Wavy to serrated margins."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ]
+}

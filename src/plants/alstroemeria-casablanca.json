@@ -1,0 +1,168 @@
+{
+  "fullName": "Alstroemeria 'Casablanca'",
+  "name": "alstroemeria-casablanca",
+  "commonNames": [
+    "Casablanca Alstroemeria",
+    "Casablanca Princess Lily",
+    "Casablance Peruvian Lily",
+    "Lily of the Incas",
+    "Peruvian lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/alstroemeria-casablanca/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Alstroemeria",
+  "family": "Alstroemeriaceae",
+  "life-cycle": [
+    "Annual",
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "wildlife-value": [
+    "Hummingbirds"
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Wilt resistant"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Bulb",
+    "Houseplant",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Dense",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Insignificant"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals"
+  ],
+  "flower-description": [
+    "Large lily-like white heads with a yellow blush and cinnabar dashes.  The back of the petals has pale pink with green lines. Flowers bloom in late spring/ early summer."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Cutting Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Hedge",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "attracts": [
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Diseases",
+    "Insect Pests",
+    "Rabbits"
+  ]
+}

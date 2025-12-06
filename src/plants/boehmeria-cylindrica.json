@@ -1,0 +1,180 @@
+{
+  "fullName": "Boehmeria cylindrica",
+  "name": "boehmeria-cylindrica",
+  "commonNames": [
+    "Bog Hemp",
+    "False Nettle",
+    "Smallspike False Nettle"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/boehmeria-cylindrica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Boehmeria",
+  "species": "cylindrica",
+  "family": "Urticaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Canada, central and eastern United States"
+  ],
+  "distribution": [
+    "Florida to Texas and west to California",
+    "north to Southern Quebec",
+    "Southern Ontario and Minnesota. Introduced into France."
+  ],
+  "wildlife-value": [
+    "This is a larval host plant that supports Eastern Comma (Polygonia comma), Red Admiral (Vanessa atalanta), and Question Mark Butterfly (Polygonia interrogationis) caterpillars. Questionmark butterflies have an interesting life cycles: overwintered adult Question Mark butterflies lay eggs from spring until the end of May. These will appear as summer adults from May-September, laying eggs that then develop into the winter adult form. The winter adults appear in late August and shelter for the winter starting the cycle all over again. Adult Question Mark butterflies feed on rotting fruit, tree sap, dung, and carrion only visiting flowers for feeding when absolutely necessary. Fly larva (Neolasioptera boehmeriae) form spindle shaped galls on the leaves. Mammals browse the foliage of this plant."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Weed"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Small, oval-shaped seeds are covered in small, hook-like hairs. Once mature, the seeds are dark brown."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Late summer to early fall tiny greenish white wind pollinated flowers appear from the axils of the upper leaves.  They form head-like clusters in upward pointing spikes that are 1/2 to 3 inches long.  Plants are usually dioecous with male and female plants separate.  of the upper leaves. Sometimes the flowers are terminal, but more often they will develop additional leaves beyond the flowers. Male flowers are distributed along the spikes in bunches, while female flowers are produced along the spikes more or less continuously. These flowers are very small and lack petals. There is no floral scent; pollination is by wind."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Opposite (occasionally alternate) leaves with coarsely serrate margins 4 inches long and 2 1/2 inches wide with long thin petioles.  There is a central vein and two parallel secondary veins.  Does not have stinging hairs like other nettles."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Light green round or 4 angled or round, smooth to slightly pubecent."
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals"
+  ]
+}

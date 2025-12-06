@@ -1,0 +1,184 @@
+{
+  "fullName": "Acer cissifolium",
+  "name": "acer-cissifolium",
+  "commonNames": [
+    "Ivy-Leafed Maple",
+    "Ivyleaf Maple",
+    "Ivy-Leaved Maple",
+    "Vine-Leafed Maple",
+    "Vineleaf Maple",
+    "Vine-Leaved Maple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/acer-cissifolium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Acer",
+  "species": "cissifolium",
+  "family": "Sapindaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Japan"
+  ],
+  "wildlife-value": [
+    "Members of the genus Acer support Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed."
+  ],
+  "dimensions": [
+    "Height: 20 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 20 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Oval",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Samara",
+    "Schizocarp"
+  ],
+  "fruit-description": [
+    "Two-winged samara"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Small fragrant yellow flowers bloom in pendant racemes (to 4” long) in spring."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Obovate",
+    "Ovate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are 1.5 to 3 inches long, opposite, and trifoliate with three individual leaves. They are obovate or ovate to elliptic with pointed tips. The petiole is long and reddish, margins coarsely serrated. They are olive green in summer and have a modest yellow, red fall color. Undersides have whitish tufts in the axils of the veins."
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "bark-description": [
+    "Smooth gray bark"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Hairy"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Slender, pubescent, reddish purple in first year turning to a gray brown in the second year. Buds are terminal: reddish-purple 3/16\" long, valvate, pubescent, lower part of bud glabrous. laterals: similar, 1/2 as long, appressed."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Patio",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Nighttime Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Hedge",
+    "Shade Tree",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Moths",
+    "Pollinators"
+  ]
+}

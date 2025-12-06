@@ -1,0 +1,267 @@
+{
+  "fullName": "Crataegus uniflora",
+  "name": "crataegus-uniflora",
+  "commonNames": [
+    "Dwarf Hawthorn",
+    "Hawthorn",
+    "One-flowered Hawthorn",
+    "Oneflower Hawthorn",
+    "Thornapple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/crataegus-uniflora/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Crataegus",
+  "species": "uniflora",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South Eastern United States"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "KY ",
+    "LA ",
+    "MD ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Provides nesting sites and protection for birds, small mammals and other pollinators. It is a larval host plant for Gray Hairstreak (Strymon melinus), Red-spotted Purple (Limenitis arthemis astyanax), and Viceroy (Limenitis archippus). Red-spotted Purple and Viceroy rarely use this host plant in North Carolina. Flowers attract pollinators. It is a larval host plant. The fruits are eaten by birds and mammals."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Screening",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Larval Host ",
+    "Wildlife Nesting"
+  ],
+  "edibility": [
+    "Fruit can be eaten, raw or cooked, and is born singly, or in groups of up to 3 fruits."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 12 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Rounded",
+    "Spreading"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "appendage": [
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Pome"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Green yellow to dull red. Fruits are available September-October."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Solitary five petaled white flowers with cream or white colored anthers in April-May. Initial fragrance can be unpleasant, but attracts midges for pollination."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Oval to oblong leaves with margins serrated to crenate, bases cuneate, tip obtuse to broadly acute. Often glossy green and sparsely to moderately hairy. Half to one inch long by half inch or less wide. Stems short or missing. Leaves small and unlobed."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Scaly"
+  ],
+  "bark-description": [
+    "Thin, gray bark that, in older stems, breaks up into narrow scales."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Twigs are hairy, thorny and reddish-brown"
+  ],
+  "landscape-location": [
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Flowering Tree",
+    "Hedge"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Moths",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heat",
+    "Pollution"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ],
+  "uses": "Wood is strong, heavy, and hard, but not commercially valuable."
+}

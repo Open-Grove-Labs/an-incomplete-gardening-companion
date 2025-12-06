@@ -1,0 +1,111 @@
+{
+  "fullName": "Raphanus raphanistrum",
+  "name": "raphanus-raphanistrum",
+  "commonNames": [
+    "Rabano de Maleza",
+    "Wild Radish"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/raphanus-raphanistrum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Raphanus",
+  "species": "raphanistrum",
+  "family": "Brassicaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Asia, North Africa"
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "fruit-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "fruit-type": [
+    "Siliqua"
+  ],
+  "fruit-description": [
+    "Pods that are green purple when immature yellow-brown to grey with age.  Erect pods are on stalks, and contain red-brown egg-shaped seeds."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Pinnatisect"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Green to blue-green with some hairs that make it feel rough to the touch"
+  ],
+  "stem-color": [
+    "Blue",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-description": [
+    "Blue-green angular, unbranched or with a few branches at the base of the plant."
+  ],
+  "problems": [
+    "Problem for Horses",
+    "Weedy"
+  ]
+}

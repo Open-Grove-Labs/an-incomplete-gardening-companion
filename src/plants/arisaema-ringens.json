@@ -1,0 +1,191 @@
+{
+  "fullName": "Arisaema ringens",
+  "name": "arisaema-ringens",
+  "commonNames": [
+    "Cobra Lily",
+    "Japanese Cobra Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/arisaema-ringens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Arisaema",
+  "species": "ringens",
+  "family": "Araceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "China, Korea, Japan"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "The plant is pollinated by flies."
+  ],
+  "play-value": [
+    "Shade "
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "heavy shade, wet soil"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 1 ft. 6 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial",
+    "Perennial",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spadix",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Irregular"
+  ],
+  "flower-description": [
+    "This plant has a spathe that is striped in green and purple in contrast to the spadix/spike which has hues of yellow and white."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Sheath"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaflets are about 7 inches long, and the leaves are trifoliate."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Dull"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Rain Garden",
+    "Shade Garden"
+  ],
+  "resistance-to-challenges": [
+    "Heavy Shade",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Children"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "The plant causes an extremely unpleasant sensation similar to needles being stuck into the mouth and tongue if they are eaten."
+  ],
+  "poison-toxic-principle": [
+    "calcium oxalate"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Roots"
+  ]
+}

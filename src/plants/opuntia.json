@@ -1,0 +1,177 @@
+{
+  "fullName": "Opuntia",
+  "name": "opuntia",
+  "commonNames": [
+    "Prickly Pear Cactus",
+    "Rabbit Ears Cactus",
+    "Tree Cactus"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/opuntia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Opuntia",
+  "family": "Cactaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Americas"
+  ],
+  "distribution": [
+    "USA: AZ ",
+    "CA ",
+    "CO ",
+    "ID ",
+    "KS ",
+    "MO ",
+    "MT ",
+    "ND ",
+    "NE ",
+    "NM ",
+    "NV ",
+    "OK ",
+    "OR ",
+    "SD ",
+    "TX ",
+    "UT ",
+    "WA ",
+    "WY\nCanada: AB ",
+    "BC ",
+    "SK"
+  ],
+  "edibility": [
+    "Ripe fruit edible raw or in jelly.  Pads can be eaten raw or cooked and have a mucilaginous texture. Remove spines and glochids from pads and fruit before eating."
+  ],
+  "plant-type": [
+    "Edible",
+    "Native Plant",
+    "Poisonous",
+    "Succulent"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "fruit-color": [
+    "Pink",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "fruit-description": [
+    "Fleshy or dry, depending on the species"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-shape": [
+    "Cup",
+    "Funnel"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Variously colored, with many petals."
+  ],
+  "leaf-color": [
+    "Insignificant"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves are modified into large spines that cover the large, fleshy stems in clusters."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Hairy"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Flattened stems (cladodes, often called pads) that resemble thick leaves or shrublike with cylindric stems.  Glochids (minute bristle-like, barbed hairs in clusters) on the stems."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Houseplants",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Edible Garden",
+    "Native Garden"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Salt"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Painful skin and eye irritation following contact due to a splinter-like small infection from glochids lodged in the skin; internal effects in diabetics from ingestion."
+  ],
+  "poison-toxic-principle": [
+    "Unknown; possibly mechanical effect of glochids."
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Stems"
+  ],
+  "uses": "Used in traditional medicine"
+}

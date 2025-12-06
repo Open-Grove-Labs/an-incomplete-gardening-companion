@@ -1,0 +1,125 @@
+{
+  "fullName": "Austrocylindropuntia subulata 'Cristata'",
+  "name": "austrocylindropuntia-subulata-cristata",
+  "commonNames": [
+    "Crested Eve's Needle",
+    "Eve's Needle Crest"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/austrocylindropuntia-subulata-cristata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Austrocylindropuntia",
+  "species": "subulata",
+  "family": "Cactaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "play-value": [
+    "Textural "
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Succulent"
+  ],
+  "habit/form": [
+    "Broad"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-description": [
+    "The crested growth means it will not flower."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are fleshy and emerald green. appearing at the tops of the stem pads."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Narrow, undulating, emerald green succulent stems with white areoles and a few white spines."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Heat"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ]
+}

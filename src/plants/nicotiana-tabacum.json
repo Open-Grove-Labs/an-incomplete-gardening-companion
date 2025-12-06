@@ -1,0 +1,138 @@
+{
+  "fullName": "Nicotiana tabacum",
+  "name": "nicotiana-tabacum",
+  "commonNames": [
+    "Tobacco"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nicotiana-tabacum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nicotiana",
+  "species": "tabacum",
+  "family": "Solanaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South America"
+  ],
+  "wildlife-value": [
+    "Resistant to deer"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial",
+    "Poisonous"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Produces many minute seeds."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Green",
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Flowers tubular, cream, pink, or green-white, 5-lobed at the top."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Spatulate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Leaves large, alternate, simple, with sticky hairs."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Nighttime Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "HIGHLY TOXIC, MAY BE FATAL IF EATEN!  Vomiting, diarrhea, slow pulse, dizziness, collapse, and respiratory failure may occur if eaten."
+  ],
+  "poison-toxic-principle": [
+    "Nicotine and other alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fullName": "Rosa Red Cascade 'MOORcap'",
+  "name": "rosa-red-cascade-moorcap",
+  "commonNames": [
+    "Red Cascade"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-red-cascade-moorcap/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 1 ft. 6 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Rose"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-description": [
+    "Blood red; 1 in. double blooms; 40 petals; repeats continuously"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "bright green foliage"
+  ],
+  "stem-is-aromatic": "N"
+}

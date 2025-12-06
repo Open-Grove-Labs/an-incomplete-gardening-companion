@@ -1,0 +1,158 @@
+{
+  "fullName": "Ligustrum sinense 'Variegatum'",
+  "name": "ligustrum-sinense-variegatum",
+  "commonNames": [
+    "Variegated Chinese Privet",
+    "Variegated Privet"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ligustrum-sinense-variegatum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ligustrum",
+  "species": "sinense",
+  "family": "Oleaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Asia"
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Semi-evergreen",
+    "Broadleaf Evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Arching",
+    "Erect",
+    "Multi-stemmed",
+    "Spreading",
+    "Weeping"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruits are berry-like drupes that are less than an inch in size and toxic."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Flowers are white, fetid, and 1/3\" long. They grow on terminal panicles that are 2.5\"-4\" long in the spring."
+  ],
+  "leaf-color": [
+    "Cream/Tan",
+    "Green",
+    "Variegated"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The 1-3 inch long oval leaves are green with gray to creamy white borders. They are opposite, simple and margins are entire."
+  ],
+  "stem-color": [
+    "Gold/Yellow",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Stems are pubescent with gray-yellow coloration."
+  ],
+  "resistance-to-challenges": [
+    "Heavy Shade",
+    "Pollution",
+    "Poor Soil"
+  ],
+  "problems": [
+    "Frequent Disease Problems",
+    "Frequent Insect Problems",
+    "Invasive Species",
+    "Malodorous",
+    "Problem for Dogs",
+    "Weedy"
+  ]
+}

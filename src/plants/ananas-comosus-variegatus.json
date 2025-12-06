@@ -1,0 +1,189 @@
+{
+  "fullName": "Ananas comosus 'Variegatus'",
+  "name": "ananas-comosus-variegatus",
+  "commonNames": [
+    "Ivory Pinapple",
+    "Variegated Pineapple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ananas-comosus-variegatus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ananas",
+  "species": "comosus",
+  "family": "Bromeliaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Brazil, Tropical South America"
+  ],
+  "edibility": [
+    "Fruits are edible but not particularly tasty."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "The inflorescence is fused into a seedless syncarp formed by 100-200 individual spiral flowers to form the fruit. When the fruit is ripe it generates a waxy, tough outer rind made up of hexagonal shaped units that change from green to yellow or slightly brown as it ripens."
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers are in an erect, tight cluster. Each flower is made up of 3 sepals, 3 petals, 6 stamens typical of monocots."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Gray/Silver",
+    "Green",
+    "Pink",
+    "Red/Burgundy",
+    "Variegated",
+    "White"
+  ],
+  "leaf-feel": [
+    "Leathery",
+    "Prickly",
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are grey to green, variegated lengthwise with yellow to white stripes tinged with pinkish-red along the spiny margins. The reddish colors are more pronounced when grown in bright light."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Very small, if any stem.  Most leaves emerge directly from the soil."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Humidity"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Problem for Children",
+    "Spines/Thorns"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Mild skin irritation from contact with juice; mechanical damage from sharp-pointed, spiny leaves; irritation to the eyes from splashed juice; irritation of mouth, lips, and tongue from ingesting fruit. Throat irritation and strong laxative effect from ingestion of large quantities of RAW pineapple and/or sap from leaves; digestive tract benzoars from excessive consumption of pineapple cores."
+  ],
+  "poison-toxic-principle": [
+    "Bromelin, ethyl acrylate, and calcium oxalate crystals"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves",
+    "Sap/Juice"
+  ]
+}

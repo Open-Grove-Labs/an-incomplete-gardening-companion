@@ -1,0 +1,212 @@
+{
+  "fullName": "Vitis vinifera",
+  "name": "vitis-vinifera",
+  "commonNames": [
+    "Common Grape",
+    "Common Grape Vine",
+    "European Wine Grape",
+    "Grape",
+    "Purpleleaf Grape",
+    "Vine",
+    "Wine Grape"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/vitis-vinifera/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Vitis",
+  "species": "vinifera",
+  "family": "Vitaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting",
+    "Leaf Cutting",
+    "Root Cutting",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Mediterranean, Central Europe and southwestern Asia"
+  ],
+  "play-value": [
+    "Edible fruit ",
+    "Textural "
+  ],
+  "climbing-method": [
+    "Tendrils"
+  ],
+  "edibility": [
+    "Fruits edible raw, cooked, or dried to make raisins.  Some cultivars are grown to be fermented and used to make wine and vinegar."
+  ],
+  "plant-type": [
+    "Edible",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "appendage": [
+    "Tendrils"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet",
+    "12-24 feet",
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Clusters of oval-shaped berries.  Depending on the cultivar, they may be anywhere from green to red to deep purple in color.  The skin surface has a glaucous coating.  Some cultivars are bred to be seedless."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Insignificant"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Numerous pendulous clusters of tiny non-showy flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Large palmately lobed leaves, 3-5 in long with defined teeth.  Undersides may be slightly fuzzy. Tendrils at each node opposite the leaves."
+  ],
+  "bark-color": [
+    "Dark Brown"
+  ],
+  "surface/attachment": [
+    "Peeling"
+  ],
+  "bark-description": [
+    "The flaky bark peels off in fibrous strips."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-description": [
+    "The beauty of the vine can be seen in winter, when leaves, fruit and blooms are absent.  The growth habit make it an attractive addition to a winter garden."
+  ],
+  "landscape-location": [
+    "Patio",
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Border",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "problems": [
+    "Frequent Disease Problems",
+    "Frequent Insect Problems",
+    "Messy"
+  ],
+  "uses": "Used in food and winemaking"
+}

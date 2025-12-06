@@ -1,0 +1,215 @@
+{
+  "fullName": "Quercus cerris",
+  "name": "quercus-cerris",
+  "commonNames": [
+    "Moss-Cupped Oak",
+    "Oaks",
+    "Turkey Oak"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/quercus-cerris/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Quercus",
+  "species": "cerris",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Western Asia"
+  ],
+  "wildlife-value": [
+    "Oak trees support a wide variety of Lepidopteran.  You may see Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed. Banded Hairstreak (Satyrium calanus), which have one flight from June-August everywhere but Florida where they emerge April-May. Edward's Hairstreak (Satyrium edwardsii), has one flight from May-July in the south and June-July in the north.  Gray Hairstreak (Strymon melinus), has three to four flights in the south from February-November and two flights in the north from May-September.  White-M Hairstreak (Parrhasius m-album) has three broods in the north from February-October.  Horace’s Duskywing (Erynnis horatius) has three broods in Texas and the deep south from January-November, and two broods in the north from April-September.  Juvenal’s Duskywing (Erynnis juvenalis) has one brood from April-June, appearing as early as January in Florida. Acorns are a fall and winter food source for some mammals."
+  ],
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 60 ft. 0 in.",
+    "Width: 40 ft. 0 in. - 60 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Pyramidal",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet",
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The acorns are .5 to 1 inch long in groups of 1-4 with cups that cover 1/2 of the nut. Cup is bristly and fringed. Matures in 18 months."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Yellow-green male catkins. Female flowers in small clusters."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Insignificant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblanceolate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "4\"-5\" long rough dark green lanceolate to oblong leaves. Margins are entire or toothed and have 3-8 pairs of lobes. Acute apex, base rounded to truncated. Hairs present on the undersides along the veins. They stay on the tree into late fall with little fall color."
+  ],
+  "bark-color": [
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Fissured",
+    "Furrowed"
+  ],
+  "bark-description": [
+    "Dark gray ridged and furrowed bark reveals an orange\ncolor within its fissures"
+  ],
+  "stem-color": [
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Scaly"
+  ],
+  "stem-bud-terminal": [
+    "Cluster of terminal buds"
+  ],
+  "stem-bud-scales": [
+    "Enclosed in more than 2 scales"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The young shoots are gray and tomentose. The branches have raised leaf scars. The buds are small and reddish-brown in clusters and the bud scales extend beyond the bud. Each bud has more than three scales."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Lawn"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Drought Tolerant Garden",
+    "Nighttime Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Pollinators",
+    "Small Mammals"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Salt"
+  ],
+  "problems": [
+    "Messy",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Abdominal pain, constipation then diarrhea (occasionally bloody), depression, frequent urination, discolored urine, jaundice; acorns can obstruct the digestive tract"
+  ],
+  "poison-toxic-principle": [
+    "Gallotannin"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ]
+}

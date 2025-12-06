@@ -1,0 +1,248 @@
+{
+  "fullName": "Citrus x aurantium",
+  "name": "citrus-x-aurantium",
+  "commonNames": [
+    "Bergamot",
+    "Bergamot Orange",
+    "Bigarade Orange",
+    "Bitter Orange",
+    "Citrus bergamia",
+    "Seville Orange",
+    "Sour Orange"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/citrus-x-aurantium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Citrus",
+  "family": "Rutaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern Asia"
+  ],
+  "distribution": [
+    "Tropical and sub-tropical regions of the world",
+    "including Fiji",
+    "Samoa",
+    "Guam",
+    "middle east",
+    "India",
+    "Africa",
+    "Italy",
+    "Spain",
+    "England",
+    "the Caribbean",
+    "Bermuda",
+    "the Americas",
+    "Florida"
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Fragrance"
+  ],
+  "edibility": [
+    "Fruit is very bitter and sour.  The rind is boiled down with sugar to make marmalade."
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 16 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Houseplant",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Green",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Fragrant"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "The fruit is round, with an aromatic, thick peel, rough-surfaced, fragrant, becoming bright reddish-orange on maturity.  The pulp is very sour and bitter."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Large white fragrant flowers about 1 1/2 inches wide singly or in small clusters with 5 white petals that look like a star surrounding a tuft of up to 24 yellow stamens."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenulate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Evergreen leaves are very fragrant, usually ovate, 2 1/2 to 5 1/2 inches long and 1 1/2 to 4 inches wide, minutely toothed, dark green in color above, pale beneath."
+  ],
+  "bark-color": [
+    "Dark Brown"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "bark-description": [
+    "Smooth, brown bark with thorns from 1 in to 3 1/8 in long."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "New year's growth is green in color."
+  ],
+  "landscape-location": [
+    "Container",
+    "Lawn",
+    "Meadow"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Flowering Tree",
+    "Shade Tree"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Dry Soil"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Spines/Thorns"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Vomiting, diarrhea, depression; potential photosensitivity (dermatitis)"
+  ],
+  "poison-toxic-principle": [
+    "Essential oils and psoralens"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "uses": "The juice, peel, and essential oil (Neroli) in flowers have all been used in skin care products because of its antibacterial, antifungal, antiseptic, and anti-inflammatory properties. Sour orange is also used in perfume and hair care products to provide a fragrance of citrus."
+}

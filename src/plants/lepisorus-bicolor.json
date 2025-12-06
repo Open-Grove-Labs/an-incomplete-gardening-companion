@@ -1,0 +1,97 @@
+{
+  "fullName": "Lepisorus bicolor",
+  "name": "lepisorus-bicolor",
+  "commonNames": [
+    "Hardy Ribbon Fern",
+    "Sechuan Ribbon Fern"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lepisorus-bicolor/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lepisorus",
+  "species": "bicolor",
+  "family": "Polypodiaceae",
+  "country-or-region-of-origin": [
+    "Himalaya to China"
+  ],
+  "plant-type": [
+    "Fern",
+    "Houseplant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-description": [
+    "No fruits. This plants reproduces via spores."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-margin": [
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "15 inch long and 2 inch wide glossy upright green leaves with a wavy margin."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Houseplants"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

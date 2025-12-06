@@ -1,0 +1,205 @@
+{
+  "fullName": "Phacelia bipinnatifida",
+  "name": "phacelia-bipinnatifida",
+  "commonNames": [
+    "Fernleaf Phacelia",
+    "Loose-flowered Phacelia",
+    "Purple Phacelia",
+    "Spotted Phacelia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/phacelia-bipinnatifida/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Phacelia",
+  "species": "bipinnatifida",
+  "family": "Boraginaceae",
+  "life-cycle": [
+    "Biennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South eastern USA"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "GA ",
+    "IA ",
+    "IL ",
+    "IN ",
+    "KY ",
+    "MD ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "OH ",
+    "PA ",
+    "SC ",
+    "TN ",
+    "VA ",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Members of the genus Phacelia support the following specialized bees: Andrena (Micrandrena) lamelliterga, Andrena (Euandrena) phaceliae, Hoplitis (Robertsonella) simplex."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Ground Cover",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed",
+    "Spreading"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Capsules appear in June."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup",
+    "Saucer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Racemes of 4-12 blue to purple flowers are produced from April to May. Individual flowers are 1/2 incross with 5-lobed corolla, 5 sepals, 5 stamens, a slender style, and an ovary.\nThe racemes occur at the top of stems with some secondary ones forming in the axils of the upper stems."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The compound leaves have 3-5 leaflets that are ovate to oblong, shallow to deeply cleft with toothed margins. Leaves are up to 5 inches long and 3 inches wide. Leaves and stems are hairy"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The light green stems are round and covered with spreading glandular hairs."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Heavy Shade"
+  ]
+}

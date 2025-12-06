@@ -1,0 +1,106 @@
+{
+  "fullName": "Prunus salicina 'Byrongold'",
+  "name": "prunus-salicina-byrongold",
+  "commonNames": [
+    "Bryongold Japanese Plum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-salicina-byrongold/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Prunus",
+  "species": "salicina",
+  "family": "Rosaceae",
+  "edibility": [
+    "This cultivar produces round fruit with yellow skin and flesh. Red blush will occur on the skin during later mature period. Ripens from late June to early July. The fruit is firm with high quality."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "This cultivar produces round fruit with yellow skin and flesh. Red blush will occur on the skin during later mature period. Ripens from late June to early July. The fruit is firm with high quality."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "White fragrant flowers bloom in early spring."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The elliptic green leaves have fine tooth on the margin"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ]
+}

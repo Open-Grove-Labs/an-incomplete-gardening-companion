@@ -1,0 +1,151 @@
+{
+  "fullName": "Pistia stratiotes",
+  "name": "pistia-stratiotes",
+  "commonNames": [
+    "Nile Cabbage",
+    "Shellflower",
+    "Water Cabbage",
+    "Water Lettuce"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pistia-stratiotes/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pistia",
+  "species": "stratiotes",
+  "family": "Araceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical and subtropical regions worldwide, USA"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 3 in. - 0 ft. 6 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Poisonous",
+    "Water Plant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "Inconspicuous fruits"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Insignificant",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-description": [
+    "Inconspicuous flowers that grow in the centr of the leaf rosettes. Male flowers surround a female flower"
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "White"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Soft"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "A roughly 10 in. wide rosette of spongy, velvety, deeply veined lime green leaves that are whitish green on the underside."
+  ],
+  "stem-is-aromatic": "N",
+  "problems": [
+    "Poisonous to Humans",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Intense burning and swelling of lips, tongue, and throat.  Nausea vomiting and diarrhea may also occur when eaten in large quantities."
+  ],
+  "poison-toxic-principle": [
+    "Calcium oxalate crystals plus unknown toxins"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Roots"
+  ]
+}

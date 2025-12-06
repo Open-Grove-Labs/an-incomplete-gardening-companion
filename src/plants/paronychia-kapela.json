@@ -1,0 +1,81 @@
+{
+  "fullName": "Paronychia kapela",
+  "name": "paronychia-kapela",
+  "commonNames": [
+    "Nailwort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/paronychia-kapela/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Paronychia",
+  "species": "kapela",
+  "family": "Caryophyllaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "plant-type": [
+    "Ground Cover"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "flower-color": [
+    "Gray/Silver",
+    "Green",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-description": [
+    "Greenish white flowers in summer"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Blue-green lanceolate leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ]
+}

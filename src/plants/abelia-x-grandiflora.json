@@ -1,0 +1,236 @@
+{
+  "fullName": "Abelia x grandiflora",
+  "name": "abelia-x-grandiflora",
+  "commonNames": [
+    "Glossy Abelia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/abelia-x-grandiflora/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Abelia",
+  "species": "x grandiflora",
+  "family": "Caprifoliaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "wildlife-value": [
+    "This shrub is attractive to bees, hummingbirds, and butterflies."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Easy to Grow",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "drought, pollution, deer"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 6 in. - 8 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Semi-evergreen",
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Arching",
+    "Dense",
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is inconspicuous, oval, less than 1/2 inch long, leathery, brown achene that contains one seed."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers are 1/2 inch long, 1/4 inch wide, tubular, bell-shaped, and white to pink. They appear in clusters terminally and axillary and have pink or purple sepals. Color ranges from white to pink depending on the cultivar.  The flowers have a long blooming season from late spring to fall. The reddish calyces persist into winter."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves are simple, ovate, glossy, and dark green. They measure up to 1.25 inches long. During the fall the leaf color transitions to a purplish-bronze. There are 3-4 leaves per node and have reticulate venations; acute, cuneate to rounded base."
+  ],
+  "surface/attachment": [
+    "Exfoliating",
+    "Peeling"
+  ],
+  "bark-description": [
+    "The bark on young stems is pubescent.  Older stems develop exfoliating bark and have thin peeling strips"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The stems are thin, brittle, and pale gray to reddish-purple. Young stems are pubescent and mature to exfoliating, splitting bark, revealing lighter inner bark"
+  ],
+  "landscape-location": [
+    "Container",
+    "Lawn",
+    "Naturalized Area",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Foundation Planting",
+    "Hedge",
+    "Mass Planting",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Erosion",
+    "Pollution",
+    "Salt",
+    "Urban Conditions"
+  ]
+}

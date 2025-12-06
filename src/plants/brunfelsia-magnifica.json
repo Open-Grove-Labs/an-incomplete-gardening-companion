@@ -1,0 +1,155 @@
+{
+  "fullName": "Brunfelsia magnifica",
+  "name": "brunfelsia-magnifica",
+  "commonNames": [
+    "Brunfelsia",
+    "Kiss-Me-Quick",
+    "Lady-of-the-Night",
+    "Magnificent Brunfelsia",
+    "Morning-Noon-and-Night",
+    "Yesterday, Today and Tomorrow"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/brunfelsia-magnifica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Brunfelsia",
+  "species": "magnifica",
+  "family": "Solanaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Brazil"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "2-3\" tubular purple blooms which last for 3-4 days slowly changing from purple, thru lavender, to white and may be found in flower throughout much of the year. Heaviest blooming is spring and fall."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Waxy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Medium to dark green oval leaves with rounded tips."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Walkways"
+  ],
+  "design-feature": [
+    "Accent",
+    "Small groups",
+    "Specimen"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Tremors, seizures (for several days), diarrhea, vomiting, hypersalivation, lethargy, incoordination, coughing"
+  ],
+  "poison-toxic-principle": [
+    "Brunfelsamidine"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves"
+  ]
+}

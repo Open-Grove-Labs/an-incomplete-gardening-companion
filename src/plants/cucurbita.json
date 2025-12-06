@@ -1,0 +1,200 @@
+{
+  "fullName": "Cucurbita",
+  "name": "cucurbita",
+  "commonNames": [
+    "Courgette",
+    "Gourd",
+    "Ornamental Gourd",
+    "Ornamental Pumpkin",
+    "Pumpkin",
+    "Squash",
+    "Summer Squash",
+    "Winter Squash",
+    "Zucchini"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cucurbita/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cucurbita",
+  "family": "Cucurbitaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "North and South America"
+  ],
+  "climbing-method": [
+    "Tendrils"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 25 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Vegetable",
+    "Vine",
+    "Warm Season Vegetable"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Creeping"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Tendrils"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet",
+    "6-feet-12 feet",
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue",
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Gray/Silver",
+    "Green",
+    "Orange",
+    "Pink",
+    "Red/Burgundy",
+    "Variegated",
+    "White"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Long-lasting",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "A type of berry called a pepo that has a hard rind.  Fruits may be long or round, large or small, smooth or warty.  Some species and cultivars are edible and some are not; among the edible ones, both fruit and seeds are edible."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Large yellow or white flowers with five petals.  Most often monoecious, though some species are diecious."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Palmatifid",
+    "Peltate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Large, alternate leaves, sometimes reaching a foot in diameter.  Palmate lobing and veining."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Mass Planting",
+    "Small groups"
+  ]
+}

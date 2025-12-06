@@ -1,0 +1,229 @@
+{
+  "fullName": "Sisyrinchium atlanticum",
+  "name": "sisyrinchium-atlanticum",
+  "commonNames": [
+    "Bicknell Blue-eyed Grass",
+    "Eastern Blue Eyed Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sisyrinchium-atlanticum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sisyrinchium",
+  "species": "atlanticum",
+  "family": "Iridaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Canada, southeastern U.S.A."
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "CT",
+    "DC",
+    "DE",
+    "FL",
+    "GA",
+    "IL",
+    "IN",
+    "KY",
+    "LA",
+    "MA",
+    "MD",
+    "ME",
+    "MI",
+    "MO",
+    "MS",
+    "NC",
+    "NH",
+    "NJ",
+    "NY",
+    "OH",
+    "PA",
+    "RI",
+    "SC",
+    "TN",
+    "TX",
+    "VA",
+    "CT"
+  ],
+  "wildlife-value": [
+    "This plant attracts birds and bees."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Defines Paths",
+    "Easy to Grow",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 6 in.",
+    "Width: 0 ft. 6 in. - 0 ft. 8 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Native Plant"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Displays from June to August on a slender stalk. It will split when dry to expose 2 or more smooth black seeds."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small blue to violet flowers with yellow centers bloom from March to June with 1 to 4 blooms per stem.  The star shaped petals are rounded at the tips with a needle-like projection at the very tip."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The narrow, basal leaves are pale green, reaching a length from 4 to 8 inches."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Flat stems terminate with loose clusters of flowers.  The smooth stems are narrowly winged and appear branched."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Meadow",
+    "Naturalized Area",
+    "Pond",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "uses": "Rain gardens and other moist locations."
+}

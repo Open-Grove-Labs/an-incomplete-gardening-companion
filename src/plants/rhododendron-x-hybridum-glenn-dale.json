@@ -1,0 +1,153 @@
+{
+  "fullName": "Rhododendron x hybridum Glenn Dale",
+  "name": "rhododendron-x-hybridum-glenn-dale",
+  "commonNames": [
+    "Glenn Dale Azalea"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rhododendron-x-hybridum-glenn-dale/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rhododendron",
+  "family": "Ericaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "wildlife-value": [
+    "Members of the genus Rhododendron support the following specialized bee: Andrena (Andrena) cornelli."
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Spreading"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Many colors, white, red, orange-red, pink to purple trumpet shaped 2 to 4 inches; very showy, vary from single, semi-double to double, singles have 5 petals.   Appear from mid-spring to early summer which is longer than other azaleas."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Green in summer, varying degree of glossiness, sizes, downiness; some with fall color."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Foundation Planting",
+    "Specimen"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Vomiting (not in horses), diarrhea, weakness, cardiac failure"
+  ],
+  "poison-toxic-principle": [
+    "Grayantoxin"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ]
+}

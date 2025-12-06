@@ -1,0 +1,257 @@
+{
+  "fullName": "Cercis canadensis",
+  "name": "cercis-canadensis",
+  "commonNames": [
+    "American Judas Tree",
+    "American Redbud",
+    "Eastern Redbud",
+    "Redbud"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cercis-canadensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cercis",
+  "species": "canadensis",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern and central North America, NC to E. Mexico"
+  ],
+  "distribution": [
+    "New Mexico north to Nebraska",
+    "east to Michigan and Ontario",
+    "south through Pennsylvania and Massachusetts to Florida."
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "12 species of Lepidoptera use this tree as a larval host plant.  Leafcutter bees (such as Megachile rotundata) and other bees use this plant (as shown in a picture). Host plant for Henry's Elfin butterfly.  Butterflies and other insects nectar from the flowers. Caterpillars appear from February to May and have one flight. Adult Henry's Elfin butterflies feed on flower nectar. Songbirds and small mammals occasionally eat the seeds."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "deer, black walnut, and clay soils"
+  ],
+  "edibility": [
+    "The flowers are edible and taste similar to peas.  Contain high amounts of vitamin C."
+  ],
+  "dimensions": [
+    "Height: 20 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 25 ft. 0 in. - 35 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Native Plant",
+    "Perennial",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Multi-stemmed",
+    "Multi-trunked",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet",
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "By summer (after flowers) but possibly lasting through fall and even winter, this plant has green turning to brown, flat, oblong seedpods (with about 9 seeds per pod) which are about 2 to 4 inches long.  The brown seed pods can look a little untidy hanging from the tree into the winter."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Irregular",
+    "Lipped"
+  ],
+  "flower-petals": [
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Conspicuous bright-red flowers bloom in early spring (around April) and are anywhere from pink to red to purple in color. Unlike many other plants, the flowers are seen before the leaves. Only about 1/2 inch wide and having about 7 flowers in a cluster, these flowers grow right on new stems as well as older branches. Pea-shaped flowers, borne in tight clusters on old wood, fascicled or racemous, often cauliflorous. Blooms from March to May."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Simple, alternate heart-shaped leaves, 3 to 5 inches long and wide, with smooth, entire margins.  Bases are cordate, acute apex, with swelling on petioles just underneath the leaf plate.  Attractive yellow fall color. Broadly cordate, acute, entire, lustrous dark green, 1.5 to 5 inches high and wide, 7 palmate veins extend from leaf base."
+  ],
+  "bark-color": [
+    "Black",
+    "Dark Brown",
+    "Orange"
+  ],
+  "surface/attachment": [
+    "Scaly",
+    "Smooth"
+  ],
+  "bark-description": [
+    "Dark brown to black with orange inner bark that can be visible. Smooth when young, but developing long, narrow plates that separate into scales as the tree matures."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Smooth/Hairless"
+  ],
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-lenticels": [
+    "Not Conspicuous"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Slender, glabrous, dark reddish brown to black, zig-zag, spreading and ascending; trunk usually divided close to ground."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Flowering Tree",
+    "Small groups",
+    "Small Tree",
+    "Specimen",
+    "Street Tree",
+    "Understory Tree"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Compaction",
+    "Deer",
+    "Fire"
+  ],
+  "problems": [
+    "Short-lived"
+  ],
+  "uses": "Wood is heavy, hard, but not strong with little commercial value. The bark used as an astringent in treatment of dysentery, flowers eaten in salads or fried, Native Americans boiled the bark to make tea to treat whooping cough, roots and inner bark used for fevers, congestion, and vomiting."
+}

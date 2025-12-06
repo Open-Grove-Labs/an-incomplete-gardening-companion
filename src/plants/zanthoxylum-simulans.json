@@ -1,0 +1,197 @@
+{
+  "fullName": "Zanthoxylum simulans",
+  "name": "zanthoxylum-simulans",
+  "commonNames": [
+    "Chinese-Pepper",
+    "Flatspine Prickly Ash",
+    "Szechuan Pepper"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/zanthoxylum-simulans/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Zanthoxylum",
+  "species": "simulans",
+  "family": "Rutaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Asia, Australia, China, Japan, Taiwan"
+  ],
+  "play-value": [
+    "Edible fruit ",
+    "Shade "
+  ],
+  "edibility": [
+    "Fruits are roasted dried and used in a pepper-like spice that is used in the Chinese \"five spice\" mixture"
+  ],
+  "dimensions": [
+    "Height: 26 ft. 0 in. - 49 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 22 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Rounded",
+    "Spreading",
+    "Vase"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "Fragrant dark red round fruits split to reveal black seeds.  They can be dried and used as a pepper-like spice."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Small green flowers open mid-summer.  Plants are dioecious, so if you want fruit you need to plant a male and female."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Fragrant when crushed 3-5 in. compound leaves with 7 to 11 leaflets. Resembles ash leaves."
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Light Brown",
+    "Orange"
+  ],
+  "bark-description": [
+    "The bark of this plant is relatively smooth except for the broad spines on its branches and prickles on its trunk.  It is aromatic like the leaves and fruits."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "design-feature": [
+    "Border",
+    "Screen/Privacy",
+    "Security",
+    "Small groups",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Urban Conditions",
+    "Wind"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "fullName": "Heuchera",
+  "name": "heuchera",
+  "commonNames": [
+    "Alumroot",
+    "Coral Bells",
+    "Heuchera"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/heuchera/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Heuchera",
+  "family": "Saxifragaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Russia Far East and North America"
+  ],
+  "distribution": [
+    "Native: Canada--Alberta",
+    "British Columbia",
+    "Manitoba",
+    "Northwest Territory",
+    "Ontario",
+    "and Saskatchewan; Khabarovsk; Mexico--Mexico Central",
+    "Mexico Gulf",
+    "Mexico Northeast",
+    "Mexico Northwest",
+    "and Mexico Southwest; Primorye; United States--AL",
+    "AK",
+    "AZ",
+    "AR",
+    "CA",
+    "CO",
+    "CT",
+    "DE",
+    "GA",
+    "ID",
+    "IL IN",
+    "IA",
+    "KS",
+    "KY",
+    "LA",
+    "MD",
+    "MI",
+    "MN MS",
+    "MO",
+    "MT",
+    "NE",
+    "NV",
+    "NJ",
+    "NM",
+    "NY",
+    "NC",
+    "ND",
+    "OH",
+    "OK OR",
+    "PA SC",
+    "SD",
+    "TN",
+    "TX",
+    "UT",
+    "VA",
+    "WA",
+    "WV",
+    "WI",
+    "and WY. Introduced:  Austria."
+  ],
+  "wildlife-value": [
+    "Tannin in the leaves is unappetizing to deer and rabbits."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 8 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 8 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The fruit capsule has two beaks, and the seeds are dark brown to black, ovoid, spiny, and straight on one side and convex on the other."
+  ],
+  "flower-color": [
+    "Orange",
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Most flowers are bell-shaped and appear in clusters of various colors and sizes depending on the species or cultivar."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Brown/Copper",
+    "Green",
+    "Pink",
+    "Purple/Lavender",
+    "Variegated",
+    "White"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Orbicular",
+    "Palmasect"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Leaves are palmately lobed of various colors and sizes with long stems depending on the species or cultivar."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The flowering stems are erect, leafless, reddish to green, and often they will have fine hairs"
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Near Septic",
+    "Patio",
+    "Pond",
+    "Pool/Hardscape",
+    "Riparian",
+    "Rock Wall",
+    "Slope/Bank",
+    "Small Space",
+    "Vertical Spaces",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Rock Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ],
+  "uses": "Native Americans used the plant medicinally."
+}

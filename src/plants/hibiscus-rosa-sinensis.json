@@ -1,0 +1,159 @@
+{
+  "fullName": "Hibiscus rosa-sinensis",
+  "name": "hibiscus-rosa-sinensis",
+  "commonNames": [
+    "Chinese Hibiscus"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hibiscus-rosa-sinensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hibiscus",
+  "species": "rosa",
+  "family": "Malvaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Asia"
+  ],
+  "wildlife-value": [
+    "Flowers attract hummingbirds and butterflies.  Members of the genus Hibiscus support \n the following specialized bee: Ptilothrix bombiformis."
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 8 ft. 0 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Purple, blues, pinks, white single or double lasting only one day but appearing seasonally.  In the center is a unique androgynafore pistol and stamens are fused together in a showy central tube.  Narrow leaved caylx surround the flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Simple lobed, dark green glossy leaves dentate margins with visible palmate venation.  Some variation of leaf shape, underside of leaves are somewhat pale."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Hedge",
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "fullName": "Amaranthus blitum",
+  "name": "amaranthus-blitum",
+  "commonNames": [
+    "Livid Amaranth",
+    "Pigweed",
+    "Purple Amaranth"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/amaranthus-blitum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Amaranthus",
+  "species": "blitum",
+  "family": "Amaranthaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Mediterranean"
+  ],
+  "edibility": [
+    "The leaves and shoots can be eaten as a vegetable."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herb",
+    "Weed"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Prostrate"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals"
+  ],
+  "flower-description": [
+    "Flowers form in an axillary many-flowered cluster, that forms a false spike at the top of the plant.  They have male and female flowers intermixed."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves have light or dark spots on the upper surface.\n\nLeaves are arranged spirally."
+  ],
+  "stem-color": [
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The stems are sometimes erect, simple or branched, radiating from he base to form a mat."
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

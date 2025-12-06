@@ -1,0 +1,49 @@
+{
+  "fullName": "Leucocrinum montanum",
+  "name": "leucocrinum-montanum",
+  "commonNames": [
+    "Mountain Lily",
+    "Sand Lily",
+    "Star Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/leucocrinum-montanum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Leucocrinum",
+  "species": "montanum",
+  "family": "Asparagaceae",
+  "country-or-region-of-origin": [
+    "northern New Mexico and western USA"
+  ],
+  "distribution": [
+    "Arizona",
+    "California",
+    "Colorado",
+    "Idaho",
+    "Montana",
+    "Nebraska",
+    "Nevada",
+    "New Mexico",
+    "North Dakota",
+    "Oregon",
+    "South Dakota",
+    "Utah",
+    "Wyoming"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "drought"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Drought Tolerant Garden"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ]
+}

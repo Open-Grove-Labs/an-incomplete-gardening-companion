@@ -1,0 +1,263 @@
+{
+  "fullName": "Allium canadense",
+  "name": "allium-canadense",
+  "commonNames": [
+    "Meadow Garlic",
+    "Wild Garlic",
+    "Wild Onion"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/allium-canadense/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Allium",
+  "species": "canadense",
+  "family": "Liliaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Canada, Eastern and Central United States"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "CT ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "IA ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "LA ",
+    "MA ",
+    "MD ",
+    "ME ",
+    "MI ",
+    "MN ",
+    "MO ",
+    "MS ",
+    "MT ",
+    "NC ",
+    "ND ",
+    "NE ",
+    "NH ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "RI ",
+    "SC ",
+    "SD ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "VT ",
+    "WI ",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Attracts bees, butterflies, and hummingbirds. Bulbs may be eaten by wild turkeys."
+  ],
+  "edibility": [
+    "Use the same as domestic onions, for seasoning, or raw in salads. Bulbs can be used raw, boiled, pickled, or for seasoning. Flowers and stems are also edible. However, the plant also has poisonous characteristics as noted in the \"Poisonous to Humans\" section of this record. Toxicity can depend on the age of the person or animal, the age of the plant, the part of the plant ingested, how much is ingested, whether the person or animal has sensitivities or allergies, whether it's eaten raw or cooked, and so forth.  Consult with a medical professional for further details."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 8 in. - 1 ft. 6 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Cool Season Vegetable",
+    "Edible",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous",
+    "Weed",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Seed capsules contain several small dark seeds."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Dome",
+    "Star"
+  ],
+  "flower-petals": [
+    "Tepals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Each flowering stalk terminates in an inflorescence that has a sack-like covering that splits open and withers away to reveal an umbel of 6 to 12 small 1/2inch pedicellate flowers or sessile bulblets or a combination of each. The flowers are a dome-like cluster of star-shaped pink or whitish flowers on a naked flower stalk. The bulblets are about ¼ inch long, ovoid in shape, and light green to pinkish-red. Wild Garlic is especially likely to flower or have reddish bulblets in a sunny situation."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "6-12 inch long green basal leaves are linear, flat and semi-upright. When young, leaves are often confused with grass. Each leaf has a poorly defined keel along its midvein and smooth margins."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "Y",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Flowering stalks emerge from the ground that are about the same height as the leaves, or slightly higher. These stalks are terete (round in cross-section), rather than flat, and they are held stiffly erect."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Drought"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Only harvest plants with the distinct odor of onions. Can cause low toxicity in humans but has the potential to be poisionous to livestock if consumed excessively.\nSymptoms may include: nausea, vomiting, and diarrhea.\n(Poison parts: All parts; bulbs, bulblets, flowers, and stems)"
+  ],
+  "poison-toxic-principle": [
+    "Sulfides"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ],
+  "uses": "Traditional medicinal uses include using a crushed bulb to treat insect bites and stings and using the bulb for a tea to treat cough and vomiting."
+}

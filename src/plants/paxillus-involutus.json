@@ -1,0 +1,62 @@
+{
+  "fullName": "Paxillus involutus",
+  "name": "paxillus-involutus",
+  "commonNames": [
+    "Brown Roll-Rim",
+    "Common Roll-Rim",
+    "Naked Brimcap",
+    "Poison Paxillus"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/paxillus-involutus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Paxillus",
+  "species": "involutus",
+  "family": "Paxillaceae",
+  "country-or-region-of-origin": [
+    "USA, NC"
+  ],
+  "edibility": [
+    "NOT EDIBLE!"
+  ],
+  "plant-type": [
+    "Mushroom",
+    "Poisonous"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Highly toxic, may be fatal if eaten. May appear within an hour of ingestion and can include an acid-sour taste, cold extremities, stomach cramps, sweating, weakness, and coma.  A separate set of symptoms can occur and may be reflective of the degree of cooking; they are centered around kidney functions.  There is no antidote."
+  ],
+  "poison-toxic-principle": [
+    "An antigen"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Stems"
+  ]
+}

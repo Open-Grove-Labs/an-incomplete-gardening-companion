@@ -1,0 +1,257 @@
+{
+  "fullName": "Vaccinium pallidum",
+  "name": "vaccinium-pallidum",
+  "commonNames": [
+    "Bilberry",
+    "Blue Ridge Blueberry",
+    "Dryland Blueberry",
+    "Hillside Blueberry",
+    "Lowbush Blueberry",
+    "Whortleberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/vaccinium-pallidum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Vaccinium",
+  "species": "pallidum",
+  "family": "Ericaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern and central North America"
+  ],
+  "distribution": [
+    ": AL ",
+    "AR ",
+    "CT ",
+    "DC ",
+    "DE ",
+    "GA ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "MA ",
+    "MD ",
+    "ME ",
+    "MI ",
+    "MN ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NH ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "RI ",
+    "SC ",
+    "TN ",
+    "VA ",
+    "VT ",
+    "WI ",
+    "WV\nCanada: ON"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "It is a host plant for the Brown Elfin butterfly.  Its fruits are eaten by songbirds, small mammals, ruffed grouse, wild turkeys and black bear.\nMembers of the genus Vaccinium support the following specialized bees:Andrena (Conandrena) bradleyi, Andrena (Andrena) carolina, Panurginus atramontensis, Habropoda laboriosa, Colletes productus, Colletes validus, and Osmia (Melanosmia) virga."
+  ],
+  "edibility": [
+    "The fruit of the Lowbush blueberry can be eaten raw or cooked. The flavor is sweet to bland."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Native Plant",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "1/4 inch edible blue-black berry matures in mid-summer (June-July). The fruit is edible and sweet to the taste. Females cannot produce fruit on their own."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Urn"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "1/3 inch white bell-shaped flowers that form in tight hanging clusters occur late spring (March-April)"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "1- 2.25-inch oval to ovate leaves are .5 to 1 inch across and medium to yellow-green. The undersides are pale green, sometimes glaucous, and may have hairs. Margins are entire but may have some serration near the apex. Fall color is oranges to reds."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Green",
+    "Light Brown",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "bark-description": [
+    "The bark is smooth and green to green-red."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Stems are glabrous and yellowish-green with small warty dots.  Older branches become woody and vary in color from red to yellowish-brown;"
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Drought Tolerant Garden",
+    "Edible Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Hedge",
+    "Small groups"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Fire"
+  ]
+}

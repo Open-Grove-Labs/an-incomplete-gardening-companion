@@ -1,0 +1,168 @@
+{
+  "fullName": "Zingiber officinale",
+  "name": "zingiber-officinale",
+  "commonNames": [
+    "Canton",
+    "Canton Ginger",
+    "Common Ginger",
+    "Cooking Ginger",
+    "Ginger",
+    "Stem Ginger",
+    "True Ginger"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/zingiber-officinale/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Zingiber",
+  "species": "Officinale",
+  "family": "Zingiberaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical Asia"
+  ],
+  "play-value": [
+    "Attractive Flowers"
+  ],
+  "edibility": [
+    "Rhizomes, ginger root and young sprouts are all edible."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herb",
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-description": [
+    "Cone-shaped flower spikes have a series of green or yellow bracts with translucent margins.  The blooms protrude from the bracts.  The inflorescence grows on a leafless stem that is separate from the foliage stem.  It can take a few years before a new plant will flower."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Typically grows with one or two stems."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio",
+    "Slope/Bank",
+    "Small Space",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Edible Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Heat",
+    "Humidity"
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "fullName": "Euryops pectinatus",
+  "name": "euryops-pectinatus",
+  "commonNames": [
+    "Golden Euryops",
+    "Golden Shrub Daisy",
+    "Wolharpuisbos",
+    "Wolly Resin Bush"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/euryops-pectinatus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Euryops",
+  "species": "pectinatus",
+  "family": "Asteracae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "South African Cape"
+  ],
+  "wildlife-value": [
+    "Nectar attracts bees and butterflies."
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "fruit-description": [
+    "The fruits bear a single seed and are either hairless or covered in myxogenic (slime-producing) hairs. Fruits may also be topped by white or brown bristles"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Daisy-like, composite, bright yellow flowers appear almost all year."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Silvery gray green lacy leaves 2 to 4 inches long by 1 inch wide toothed in a fern-like manner."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Flowering Tree"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Salt"
+  ]
+}

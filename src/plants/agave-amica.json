@@ -1,0 +1,152 @@
+{
+  "fullName": "Agave amica",
+  "name": "agave-amica",
+  "commonNames": [
+    "Amole",
+    "Polyanthus Lily",
+    "St. Joesph's Staff",
+    "Tuberose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/agave-amica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Agave",
+  "species": "amica",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico"
+  ],
+  "wildlife-value": [
+    "Nectar from flowers attract hummingbirds and moths."
+  ],
+  "bulb-storage": [
+    "Once the plant dies back in the fall, store in a dry medium at 70-75 degrees F (10 degrees C)."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 2 ft. 6 in."
+  ],
+  "plant-type": [
+    "Succulent"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-description": [
+    "Dehiscent"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Tubular"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Waxy white to yellow flowers on elongated spikes bloom from the bottom to the top.   Makes excellent long-lasting fragrant cut flower, even once cut."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth",
+    "Waxy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Grassy looking leaf."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Cutting Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Hummingbirds",
+    "Moths"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "uses": "Extracts used to make perfume."
+}

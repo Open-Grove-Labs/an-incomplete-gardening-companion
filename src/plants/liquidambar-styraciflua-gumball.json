@@ -1,0 +1,195 @@
+{
+  "fullName": "Liquidambar styraciflua 'Gumball'",
+  "name": "liquidambar-styraciflua-gumball",
+  "commonNames": [
+    "Gumball Sweetgum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/liquidambar-styraciflua-gumball/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Liquidambar",
+  "species": "styraciflua",
+  "family": "Altingiaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Verticillium Wilt Resistant"
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Mounding",
+    "Multi-stemmed",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Globose (gum ball shaped), hard, beak shaped, bristly fruiting capsules in August-September. Mature to dark brown. Will remain on the shrub through the winter, but can be messy when they fall. The capsules contain two tiny seeds (syncarp). The fruits persist through the winter and attract birds."
+  ],
+  "flower-color": [
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Non-showy, monoecious, green flowers that appear in spherical clusters in April-May."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Purple/Lavender"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Purple/Lavender"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Deltoid",
+    "Palmasect"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Regular sized, maple like leaves. Long-stalked with toothed margins. Leaves are fragrant when bruised."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Ridges"
+  ],
+  "bark-plate-shape": [
+    "Irregular"
+  ],
+  "bark-description": [
+    "As the shrub matures, it forms irregular, deeply furrowed bark"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Children's Garden"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Compaction",
+    "Deer",
+    "Drought",
+    "Fire",
+    "Heat",
+    "Rabbits"
+  ],
+  "problems": [
+    "Messy"
+  ]
+}

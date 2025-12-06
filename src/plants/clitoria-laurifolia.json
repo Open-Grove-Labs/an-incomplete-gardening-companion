@@ -1,0 +1,118 @@
+{
+  "fullName": "Clitoria laurifolia",
+  "name": "clitoria-laurifolia",
+  "commonNames": [
+    "Butterfly Pea"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/clitoria-laurifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Clitoria",
+  "species": "laurifolia",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South America"
+  ],
+  "plant-type": [
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-description": [
+    "Legume brown or light brown, oval and sticky"
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "2 petaled pea-shape flowers are 1-2 inches long and appear solitary or in clusters of 2-6  in leaf axils. They are mostly white with purple markings inside of the lower petal."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblong"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Leaves are trifoliolate and 2-4 inches long. Leaflets are oval and 1-2 inches long and 3/4 inch wide. Undersides have a few hairs."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Green stem with hairs. Can become woody with age."
+  ],
+  "resistance-to-challenges": [
+    "Heat",
+    "Humidity"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "In Indonesia, the leaves are used to cure pimples."
+}

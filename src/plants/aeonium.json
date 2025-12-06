@@ -1,0 +1,145 @@
+{
+  "fullName": "Aeonium",
+  "name": "aeonium",
+  "commonNames": [
+    "Aeonium",
+    "Tree Houseleek"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/aeonium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Aeonium",
+  "family": "Crassulaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Leaf Cutting",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Canary Islands, Cape Verde Islands, Madeira, Northern Africa"
+  ],
+  "distribution": [
+    "Algeria",
+    "Baleares",
+    "California",
+    "East Aegean Islands",
+    "France",
+    "Great Britain",
+    "Greece",
+    "Italy",
+    "Juan Fernandez Island",
+    "both islands of New Zealand",
+    "Portugal",
+    "Sardinia",
+    "Spain",
+    "Tunisia"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 3 in. - 3 ft. 0 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Succulent"
+  ],
+  "habit/form": [
+    "Cascading",
+    "Clumping",
+    "Creeping",
+    "Erect"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-description": [
+    "A pyramid-shaped panicle of bright yellow flowers.  The inflorescence emerges from the center of the rosette, and the rosette will die back after flowering."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "Variegated",
+    "White"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Rosettes of leaves sit at the top of erect, woody stems.  The leaves are usually spatulate and have a sharp, abrupt point at the tip.  They vary in length across species.  Some have fine hairs and/or red to pink coloring along the margins.  Many different colors and patterns exist due to hybridization."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Long, thick central stems that may bend or arch."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Heat",
+    "Humidity"
+  ]
+}

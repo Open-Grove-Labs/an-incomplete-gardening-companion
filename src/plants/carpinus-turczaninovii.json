@@ -1,0 +1,180 @@
+{
+  "fullName": "Carpinus turczaninovii",
+  "name": "carpinus-turczaninovii",
+  "commonNames": [
+    "Korean Hornbeam"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/carpinus-turczaninovii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Carpinus",
+  "species": "turczaninovii",
+  "family": "Betulaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "China, Korea, Japan"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Verticillium Wilt"
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 12 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Multi-stemmed",
+    "Multi-trunked",
+    "Rounded",
+    "Weeping"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Overlapping bracts forming a stalked thin catkin about 1\" long that resembles hops."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Separate male and female flowers in catkins that appear in mid-spring."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Small, simple, alternate, ovate, toothed, dark green on top lighter below with 10-12 pairs of deep veins, hairs on the underside and burgandy fall color."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "bark-description": [
+    "Light brown to gray smooth speckled bark"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-description": [
+    "Brown to maroon stems that are short and zig zagging with a short distance between buds."
+  ],
+  "landscape-location": [
+    "Container",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Drought Tolerant Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Small Tree",
+    "Specimen",
+    "Street Tree"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Heat",
+    "Urban Conditions",
+    "Wind"
+  ]
+}

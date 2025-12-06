@@ -1,0 +1,38 @@
+{
+  "fullName": "Saccharum officinarum",
+  "name": "saccharum-officinarum",
+  "commonNames": [
+    "Sugar Cane"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/saccharum-officinarum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Saccharum",
+  "species": "officinarum",
+  "family": "Poaceae",
+  "country-or-region-of-origin": [
+    "New Guinea"
+  ],
+  "wildlife-value": [
+    "This is a larval host plant that supports various skipper larvae and Common Wood-Nymph (Cercyonis pegala) which have one brood from late May to October. Adult Common Wood-Nymph butterflies feed on rotting fruit and flower nectar."
+  ],
+  "edibility": [
+    "Stem"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ],
+  "uses": "Sugar"
+}

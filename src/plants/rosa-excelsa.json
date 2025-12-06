@@ -1,0 +1,55 @@
+{
+  "fullName": "Rosa 'Excelsa'",
+  "name": "rosa-excelsa",
+  "commonNames": [
+    "Excelsa rose",
+    "Red Dorothy Perkins rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-excelsa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Perennial",
+    "Rose",
+    "Vine"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Small, double flowers in large clusters; flowers summer only"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "bark-description": [
+    "pliable branches"
+  ],
+  "stem-is-aromatic": "N"
+}

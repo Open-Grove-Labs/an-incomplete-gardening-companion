@@ -1,0 +1,144 @@
+{
+  "fullName": "Loropetalum chinense f. rubrum",
+  "name": "loropetalum-chinense-f-rubrum",
+  "commonNames": [
+    "Fringe Flower",
+    "Redleaf Loropetalum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/loropetalum-chinense-f-rubrum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Loropetalum",
+  "species": "chinense",
+  "family": "Hamamelidaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "wildlife-value": [
+    "Resistant to deer"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Rounded"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Oval fruit capsule"
+  ],
+  "flower-color": [
+    "Pink",
+    "Red/Burgundy"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "0.7 in. fragrant pink to almost red flowers in late winter to early spring with strap-shaped petals. 3 to 6 flowers are crowded together in the leaf axis."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "1- 2.5-inch long green to maroon leaves that are velvety hairy. New growth is reddish."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Patio",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Garden for the Blind"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

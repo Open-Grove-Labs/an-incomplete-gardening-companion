@@ -1,0 +1,227 @@
+{
+  "fullName": "Helianthus occidentalis",
+  "name": "helianthus-occidentalis",
+  "commonNames": [
+    "Fewleaf Sunflower",
+    "Naked-stem Sunflower",
+    "Western Sunflower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/helianthus-occidentalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Helianthus",
+  "species": "occidentalis",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central and Eastern U.S.A."
+  ],
+  "distribution": [
+    "AR",
+    "DC",
+    "FL",
+    "GA",
+    "IA",
+    "IL",
+    "IN",
+    "KS",
+    "KY",
+    "MD",
+    "MI",
+    "MN",
+    "MO",
+    "NC",
+    "NJ",
+    "OH",
+    "PA",
+    "SC",
+    "TN",
+    "TX",
+    "VA",
+    "WI",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Flowers provide nectar to pollinators from July until the first frost. This is a larval host plant that supports Silvery Checkerspot (Chlosyne nycteis).  The Silvery Checkerspot has at least 1-2 broods in the north from June-July in the deep south and Texas, they have as many as 3-4 broods from May through September."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 1 ft. 6 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "The fruit which displays from August to November is considered a cypsela, which is a dry, single-seeded fruit, although it is often described as achene.  The yellow center disk of each flower forms a head of dry seed."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Stalk terminates in 1 to 12 flower heads. The peduncles of these flowerheads are 1/2 to 6 inches long. Individual flower heads are 1 1/2 to 2 1/2 inches across, consisting of 8 to 22 ray florets that surround numerous disk florets. The petaloid rays are yellow and oblong to elliptic in shape. The blooming period occurs from mid-summer to early fall, lasting about 1 month for a colony of plants."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The blades of the basal leaves are 2 to 7 inches long and 1 to 3 inches across, oval to ovate in shape, smooth (entire) or serrulate margins with sparse small teeth."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Large erect stalk or stem supporting the flower head."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Erosion",
+    "Poor Soil"
+  ]
+}

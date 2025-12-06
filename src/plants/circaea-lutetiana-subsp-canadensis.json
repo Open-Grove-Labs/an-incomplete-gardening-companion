@@ -1,0 +1,181 @@
+{
+  "fullName": "Circaea lutetiana subsp. canadensis",
+  "name": "circaea-lutetiana-subsp-canadensis",
+  "commonNames": [
+    "Broadleaf Enchanter's Nightshade",
+    "Enchanters Nightshade"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/circaea-lutetiana-subsp-canadensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Circaea",
+  "species": "lutetiana",
+  "family": "Onagraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central and Eastern USA and parts of Canada"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "CT ",
+    "DC ",
+    "DE ",
+    "GA ",
+    "IA ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "LA ",
+    "MA ",
+    "MD ",
+    "ME ",
+    "MI ",
+    "MN ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "ND ",
+    "NE ",
+    "NH ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "RI ",
+    "SC ",
+    "SD ",
+    "TN ",
+    "VA ",
+    "VT ",
+    "WI ",
+    "WV ",
+    "WY"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Oval 2-chambered seed capsule covered with hooked hairs that can attach themselves to animal fur or clothing for dispersal."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Tiny white flowers appear mid to late summer and have two sepals, two cleft petals that appear to be 4, two long stamens, and one pistil"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Oblong to egg-shaped leaves up to 5 inches long and 2.5 inches wide with a pointed tip, toothed margins and rounded base on a long stalk. The upper surface is smooth while the lower surface is paler and softer with fine whitish hair. The teeth have a tiny whitish tip."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Mostly hairless green stems"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Shade Garden"
+  ],
+  "uses": "It has been used to treat wounds"
+}

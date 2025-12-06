@@ -1,0 +1,162 @@
+{
+  "fullName": "Acanthus 'Summer Beauty'",
+  "name": "acanthus-summer-beauty",
+  "commonNames": [
+    "Bear's Breeches 'Summer Beauty'"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/acanthus-summer-beauty/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Acanthus",
+  "family": "Acanthaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting"
+  ],
+  "wildlife-value": [
+    "Resistant to rabbits and deer"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines",
+    "Thorns"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-petals": [
+    "Bracts",
+    "fused petals"
+  ],
+  "flower-description": [
+    "Large spikes of creamy white resemble hooded snapdragons with spiny purple bracts extend above the leaves 4'-6' in the air"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The leaves are up to 2 feet long, deeply lobed and glossy green with soft spines. The basal foliage grows in a rosette."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "4-6 ft tall thick flower stem"
+  ],
+  "landscape-location": [
+    "Container",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Cutting Garden",
+    "English Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Small groups",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "fullName": "Erigeron acris",
+  "name": "erigeron-acris",
+  "commonNames": [
+    "Bitter Daisy",
+    "Bitter Fleabane",
+    "Blue Fleabane",
+    "Daisy Fleabane",
+    "Philadelphia Fleabane"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/erigeron-acris/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Erigeron",
+  "species": "acris",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual",
+    "Biennial",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Temp. Northern Hemisphere"
+  ],
+  "distribution": [
+    "AK",
+    "CA",
+    "CO",
+    "ID",
+    "ME",
+    "MI",
+    "MN",
+    "MT",
+    "OR",
+    "SD",
+    "UT",
+    "WA",
+    "WY"
+  ],
+  "wildlife-value": [
+    "Flowers attract butterflies."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Easy to Grow"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 1 ft. 6 in.",
+    "Width: 1 ft. 6 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Arching",
+    "Cascading",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "The brown fruits have a tuft of hairs that are carried by the wind."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Daisy-like 1\" diameter pink to white thread-like rays with yellow centers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Oblanceolate",
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Basal leaves are spatula-shaped, lobed and toothed.  Moving up the stems, leaves become smaller, alternate, clasping and untoothed.  The leaves are smooth to sparsely hairy.  Leaves will become smaller and more lance/egg-shaped as they ascend the stem."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The green to reddish stems are erect, single, and unbranched."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Rock Wall",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "problems": [
+    "Short-lived"
+  ],
+  "uses": "A tea brewed from leaves was used medicinally as an astringent and diuretic."
+}

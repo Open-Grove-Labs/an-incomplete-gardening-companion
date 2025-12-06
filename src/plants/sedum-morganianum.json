@@ -1,0 +1,201 @@
+{
+  "fullName": "Sedum morganianum",
+  "name": "sedum-morganianum",
+  "commonNames": [
+    "Burro's Tail",
+    "Donkey's Tail",
+    "Horse's Tail",
+    "Lamb's Tail",
+    "Stonecrop"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sedum-morganianum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sedum",
+  "species": "morganianum",
+  "family": "Crassulaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Leaf Cutting",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico (Veracruz, Puebla, Chiapas)"
+  ],
+  "distribution": [
+    "Dominican Republic"
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Textural "
+  ],
+  "edibility": [
+    "Stems and leaves can be eaten, but when ingested in large quantities, can cause stomach upset."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Perennial",
+    "Succulent"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Creeping",
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Inflorescence is a pendent cyme, terminal, on long peduncle. Flowers are deep pink, ca 12 mm dia; petals 5, free, spreading; sepals 5, green.  Rarely flowers as a houseplant."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Lance-shaped leaves are spirally arranged and overlapping, simple, entire, subcylindric and jelly-bean or boat shaped, succulent, incurved. Dusted with a silver bloom that rubs off on contact."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-description": [
+    "Stems are numerous, sparsely branched, prostrate to pendulous, up to 90 cm long. Leaves surround stems forming braided \"tails\"."
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants",
+    "Recreational Play Area",
+    "Rock Wall",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Poor Soil"
+  ]
+}

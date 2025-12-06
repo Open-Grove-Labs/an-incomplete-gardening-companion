@@ -1,0 +1,208 @@
+{
+  "fullName": "Viburnum sargentii",
+  "name": "viburnum-sargentii",
+  "commonNames": [
+    "Sargent Viburnum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/viburnum-sargentii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Viburnum",
+  "species": "sargentii",
+  "family": "Viburnaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Asia"
+  ],
+  "distribution": [
+    "Siberia",
+    "Russian Far East",
+    "Mongolia",
+    "China",
+    "Japan",
+    "South Korea",
+    "North Korea"
+  ],
+  "wildlife-value": [
+    "Mildly resistant to deer. Birds eat the fruits."
+  ],
+  "dimensions": [
+    "Height: 12 ft. 0 in. - 15 ft. 0 in.",
+    "Width: 12 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Up to 1/2 inch, bright scarlet berries in fall that persists into winter."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "White clusters of 3 to 4 in. flat-topped cymes in spring. Larger sterile flowers ring the smaller fertile flowers on the inside. Blooms late spring to early summer."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The 2-5 inch long 3 lobed leaves emerge in the spring with bronze to purple hues before maturing to green. Undersides are pubescent. Fall color is yellow to reds"
+  ],
+  "bark-color": [
+    "Dark Brown"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Cream/Tan"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Shiny stems a tannish-brown"
+  ],
+  "landscape-location": [
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Cottage Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge",
+    "Mass Planting",
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

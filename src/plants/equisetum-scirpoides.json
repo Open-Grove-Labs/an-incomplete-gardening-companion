@@ -1,0 +1,170 @@
+{
+  "fullName": "Equisetum scirpoides",
+  "name": "equisetum-scirpoides",
+  "commonNames": [
+    "Dwarf Horsetail",
+    "Dwarf Scouringrush",
+    "Dwarf Scouring Rush",
+    "Sedge Horsetail"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/equisetum-scirpoides/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Equisetum",
+  "species": "scirpoides",
+  "family": "Equisetaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Northern hemisphere"
+  ],
+  "distribution": [
+    "Northern U.S.",
+    "Canada",
+    "Finland",
+    "Greenland",
+    "Norway",
+    "Russia",
+    "China",
+    "Mongolia"
+  ],
+  "wildlife-value": [
+    "Provides habitat for wildlife and food for aquatic animals"
+  ],
+  "play-value": [
+    "Textural ",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Water Plant"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "No fruits. Reproduces by spores that are housed in small cone-like structures on top of fertile stems"
+  ],
+  "flower-description": [
+    "No flowers"
+  ],
+  "leaf-color": [
+    "Black"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves are reduced to black scale-like structures at the joints of the stems"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Green jointed stems with ridges"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Naturalized Area",
+    "Pond",
+    "Riparian",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Rain Garden",
+    "Water Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Small groups"
+  ],
+  "attracts": [
+    "Reptiles",
+    "Small Mammals"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "uses": "Food"
+}

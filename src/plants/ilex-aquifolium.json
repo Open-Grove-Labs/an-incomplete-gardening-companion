@@ -1,0 +1,282 @@
+{
+  "fullName": "Ilex aquifolium",
+  "name": "ilex-aquifolium",
+  "commonNames": [
+    "Christmas Holly",
+    "Common Holly",
+    "English Holly",
+    "European Holly",
+    "Holm",
+    "Oregon Holly"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ilex-aquifolium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ilex",
+  "species": "aquifolium",
+  "family": "Aquifoliaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Western and Central Europe, northern Africa, western Asia"
+  ],
+  "distribution": [
+    "Native: Albania",
+    "Algeria",
+    "Baleares",
+    "Belgium Bulgaria",
+    "Denmark",
+    "France",
+    "Germany",
+    "Great Britain",
+    "Greece",
+    "Ireland",
+    "Italy",
+    "Morocco",
+    "Netherlands",
+    "New South Wales",
+    "Norway",
+    "Portugal",
+    "Romania",
+    "Sicilia",
+    "Spain",
+    "Switzerland",
+    "Tunisia",
+    "and Yugoslavia.  Extinct: Sweden. Introduced: British Columbia",
+    "Lebanon-Syria",
+    "New Zealand North",
+    "New Zealand South",
+    "Ontario",
+    "South Australia",
+    "Tasmania",
+    "Turkey",
+    "and the United States--CA",
+    "HI",
+    "NJ",
+    "OR",
+    "VA",
+    "and WA."
+  ],
+  "wildlife-value": [
+    "Fruits are attractive to birds. Members of the genus Ilex support the following specialized bee: Colletes banksi."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Screening",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "Use caution. Human ingestion of berries can cause minor toxic reaction."
+  ],
+  "dimensions": [
+    "Height: 30 ft. 0 in. - 50 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 25 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines",
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet",
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Berry",
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The berries or drupes range in color from red, yellow, or orange and measure 1/4 inch in diameter. Each berry contains four seeds. The berries ripen from August to October and may persist into winter. The fruits are very attractive to birds"
+  ],
+  "flower-color": [
+    "Insignificant",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers appear in clusters of small insignificant white fragrant blooms that bloom from May to June. Male and female plants are required to produce berries."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Prickly",
+    "Slippery",
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "leaf-margin": [
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves are thick, glossy, wavy, alternate, and dark green. They are simple, measure 1 to 3 inches long, and have spiny teeth along the margins."
+  ],
+  "bark-color": [
+    "Black",
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "bark-description": [
+    "The bark is smooth and maybe gray to black."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Pollinator Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Foundation Planting",
+    "Hedge",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Pollution",
+    "Salt"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Spines/Thorns",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Vomiting, diarrhea, and depression. Leaves and berries are low toxicity and it is only in very large doses that problems are likely to arise. Fruits particularly poisonous to children"
+  ],
+  "poison-toxic-principle": [
+    "Saponins"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ],
+  "uses": "The wood is strong, hard and dense and polishes well, though it must be well dried and seasoned or else it warps badly. It is white, except at the center of very old trees, and is highly regarded by cabinet makers though it must be well seasoned."
+}

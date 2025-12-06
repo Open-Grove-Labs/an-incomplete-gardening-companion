@@ -1,0 +1,114 @@
+{
+  "fullName": "Pleioblastus viridistriatus",
+  "name": "pleioblastus-viridistriatus",
+  "commonNames": [
+    "Compact Golden Striped Bamboo",
+    "Kanuro Zasa"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pleioblastus-viridistriatus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pleioblastus",
+  "species": "viridistriatus",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Central & Southern Japan"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ornamental Grasses and Sedges"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High",
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-description": [
+    "Insignificant"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Showy, variegated leaves with green-gold irregular stripes"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "1/4\" canes"
+  ],
+  "landscape-location": [
+    "Container",
+    "Meadow",
+    "Naturalized Area",
+    "Pond",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Border",
+    "Mass Planting",
+    "Screen/Privacy"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

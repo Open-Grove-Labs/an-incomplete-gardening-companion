@@ -1,0 +1,205 @@
+{
+  "fullName": "Acer griseum",
+  "name": "acer-griseum",
+  "commonNames": [
+    "Paper Bark Maple",
+    "Paperbark Maple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/acer-griseum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Acer",
+  "species": "griseum",
+  "family": "Sapindaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Central China"
+  ],
+  "wildlife-value": [
+    "Members of the genus Acer support Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Pieces Used in Games",
+    "Textural ",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 20 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 25 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Oval",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet",
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Samara"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "A schizocarp of two samaras, 1 1/2\" long, wings divergent and with unusually large seeds."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Insignificant"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Ornamentally insignificant flowers bloom from April-May."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "3\"- 6\" opposite, palmately compound trifoliate leaves.  The middle leaflet is short-stalked.   Silvery with fine hairs on the underside; bright red and orange fall color; one of the last maples to develop fall color; leaves persist into winter. Conspicuous pubescent petiole & lower vein axils."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Exfoliating",
+    "Papery",
+    "Peeling"
+  ],
+  "bark-description": [
+    "Extremely ornamental peels of bark that remain on the tree instead of falling to the ground.  Purple-brown outer bark peels back in papery curls to reveal rose-brown inner bark."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Brown to reddish brown.  Buds < 1/4\", brownish-black, sharply pointed, scales imbricate."
+  ],
+  "landscape-location": [
+    "Patio",
+    "Pool/Hardscape",
+    "Recreational Play Area",
+    "Small Space",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Nighttime Garden",
+    "Pollinator Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Shade Tree",
+    "Small Tree",
+    "Specimen",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Moths",
+    "Pollinators",
+    "Songbirds"
+  ]
+}

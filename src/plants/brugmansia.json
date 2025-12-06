@@ -1,0 +1,190 @@
+{
+  "fullName": "Brugmansia",
+  "name": "brugmansia",
+  "commonNames": [
+    "Angel's Trumpet",
+    "Tree Daturas"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/brugmansia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Brugmansia",
+  "family": "Solanaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "South America"
+  ],
+  "distribution": [
+    "Grown as container ornamentals worldwide."
+  ],
+  "wildlife-value": [
+    "Fragrance attracts pollinating moths."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "resistant to damage by deer and is slightly salt tolerant; tolerates light frost and drought."
+  ],
+  "edibility": [
+    "Angel's Trumpet is among the most toxic of ornamental plants."
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 35 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Multi-stemmed",
+    "Multi-trunked"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "The fruit is 2.5 to 3.5 inches long with a round to egg-shaped appearance and hairs"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Trumpet"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "Its flowers are single, pendent, trumpet-like or funnel-shaped to 1 ft. long and 5-lobed at the tip. They are white, pink or yellow."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Eight inch long leaves are simple and alternate. The leaf is ovate shaped and entire to coarsely toothed. Leaf forms vary."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "It has softly hairy young stems"
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Flowering Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Hummingbirds",
+    "Moths"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Salt"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Children"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "TOXIC ONLY IF LARGE QUANTITIES EATEN. \nThis plant is poisonous through ingestion and/or inhalation of flowers. The poisonous parts are the flowers, leaves, and seeds.\n\nPoisonous symptoms may include the following: hallucinations, dry mouth, muscle weakness, increased blood pressure and pulse, fever, dilated pupils, paralysis."
+  ],
+  "poison-toxic-principle": [
+    "Atropine, scopolamine, and hyoscyamine"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Seeds"
+  ]
+}

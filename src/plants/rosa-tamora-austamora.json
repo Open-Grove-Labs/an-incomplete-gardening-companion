@@ -1,0 +1,41 @@
+{
+  "fullName": "Rosa Tamora 'AUStamora'",
+  "name": "rosa-tamora-austamora",
+  "commonNames": [
+    "Tamora rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-tamora-austamora/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "plant-type": [
+    "Rose"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-description": [
+    "Large, cup-shaped, double blooms; borne in small clusters; free flowering summer to fall"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

@@ -1,0 +1,130 @@
+{
+  "fullName": "Juniperus horizontalis 'Bar Harbor'",
+  "name": "juniperus-horizontalis-bar-harbor",
+  "commonNames": [
+    "Bar Harbor Juniper"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/juniperus-horizontalis-bar-harbor/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Juniperus",
+  "species": "horizontalis",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 8 in. - 1 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 8 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Blue"
+  ],
+  "fruit-description": [
+    "No fruits.  Dark blue cones are formed.  They are referred to as juniper berries.  They are not common on cultivated plants."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green",
+    "White"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Very small, tightly appressed, awl-shaped scale-like leaves.  Deep grass green color.  Coated with white glaucous bloom giving a gray-green or blue-greenappearance.  Mauve winter color."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Thin, flexible stems"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Patio",
+    "Slope/Bank",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Heat",
+    "Pollution",
+    "Poor Soil",
+    "Urban Conditions"
+  ]
+}

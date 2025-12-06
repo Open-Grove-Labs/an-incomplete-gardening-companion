@@ -1,0 +1,221 @@
+{
+  "fullName": "Carya aquatica",
+  "name": "carya-aquatica",
+  "commonNames": [
+    "Bitter Pecan",
+    "Bitter Water Hickory",
+    "Swamp Hickory",
+    "Water Hickory",
+    "Water Pignut"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/carya-aquatica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Carya",
+  "species": "aquatica",
+  "family": "Juglandaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central to southeastern U.S.A., NC"
+  ],
+  "distribution": [
+    "Found in VI south to FL west to TX and OK north to Missouri",
+    "IL",
+    "ID",
+    "and KY"
+  ],
+  "wildlife-value": [
+    "Bitter nuts are eaten by ducks and other birds.  Larval host plant to Luna moths, funeral dagger moths, and giant regal moths. This plant supports Hickory Horndevil (Citheronia regalis) larvae which have one brood and appear from May to mid-September. Adult Hickory Horndevil moths do not feed."
+  ],
+  "play-value": [
+    "Edible fruit ",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "Nuts are bitter"
+  ],
+  "dimensions": [
+    "Height: 80 ft. 0 in. - 100 ft. 0 in.",
+    "Width: 40 ft. 0 in. - 50 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Irregular"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasional Flooding"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "The nut is in a fuzzy yellow to brown husk. The 1-1.5 inch nut is oval to egg-shaped and flattened."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Male flowers occur in hanging slender yellow-green catkins 2-3 inches long. Female flowers are in short spikes or stalks and are very small and yellow-green."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The dark green glossy compound leaves have 7-15 curved lance-shaped serrated leaflets with fine hairs along the midrib and major veins on the undersides."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Light Gray",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Scaly",
+    "Shaggy",
+    "Smooth"
+  ],
+  "bark-plate-shape": [
+    "Rectangle"
+  ],
+  "bark-description": [
+    "Smooth light grey to brown bark that splits into narrow loose shaggy red-tinged scales with age."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Hairy"
+  ],
+  "stem-bud-terminal": [
+    "Only 1 terminal bud, larger than side buds"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Reddish-brown twigs with yellowish terminal buds."
+  ],
+  "landscape-location": [
+    "Pond",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Nighttime Garden",
+    "Pollinator Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Shade Tree"
+  ],
+  "attracts": [
+    "Moths",
+    "Pollinators",
+    "Small Mammals"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "uses": "Used as firewood."
+}

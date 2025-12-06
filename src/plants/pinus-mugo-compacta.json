@@ -1,0 +1,107 @@
+{
+  "fullName": "Pinus mugo 'Compacta'",
+  "name": "pinus-mugo-compacta",
+  "commonNames": [
+    "Dwarf Mugo Pine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pinus-mugo-compacta/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pinus",
+  "species": "mugo",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting",
+    "Root Cutting",
+    "Seed"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub",
+    "Tree"
+  ],
+  "habit/form": [
+    "Mounding",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "flower-description": [
+    "Inconspicuous flower open in May on mature plants."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Short, needle-like foliage"
+  ],
+  "bark-color": [
+    "Dark Gray"
+  ],
+  "bark-description": [
+    "Broken into plates on larger specimens."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "In the spring, vertical stems with miniature needles (candles)"
+  ],
+  "landscape-location": [
+    "Container",
+    "Lawn",
+    "Meadow",
+    "Naturalized Area",
+    "Patio",
+    "Pond",
+    "Riparian",
+    "Slope/Bank",
+    "Small Space",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting",
+    "Hedge",
+    "Mass Planting",
+    "Specimen"
+  ]
+}

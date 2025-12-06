@@ -1,0 +1,179 @@
+{
+  "fullName": "Ajuga reptans 'Chocolate Chip'",
+  "name": "ajuga-reptans-chocolate-chip",
+  "commonNames": [
+    "Chocolate Chip Bugleweed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ajuga-reptans-chocolate-chip/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ajuga",
+  "species": "reptans",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "wildlife-value": [
+    "Nectar from the flowers attracts butterflies and hummingbirds."
+  ],
+  "play-value": [
+    "Attracts Pollinators"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "heavy shade, deer, rabbit"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 2 in. - 0 ft. 3 in.",
+    "Width: 0 ft. 6 in. - 0 ft. 9 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Semi-evergreen",
+    "Broadleaf Evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Creeping",
+    "Dense",
+    "Horizontal",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Lipped",
+    "Tubular"
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Rosulate",
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Obovate",
+    "Ovate",
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Dentate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "This plant has small, chocolate leaves with burgundy highlights."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Slope/Bank",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Pollinator Garden",
+    "Rock Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Heavy Shade",
+    "Rabbits"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

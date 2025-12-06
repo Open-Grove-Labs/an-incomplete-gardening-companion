@@ -1,0 +1,161 @@
+{
+  "fullName": "Eucommia ulmoides",
+  "name": "eucommia-ulmoides",
+  "commonNames": [
+    "Chinese rubber tree",
+    "Gutta-percha Tree",
+    "Hardy Rubber Tree"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/eucommia-ulmoides/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Eucommia",
+  "species": "ulmoides",
+  "family": "Eucommiaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central & S. China"
+  ],
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 60 ft. 0 in.",
+    "Width: 25 ft. 0 in. - 50 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Samara"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Flattened winged seeds about 1” to 11/2” long."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Separate male and female trees. Flowers are small, greenish-brown and inconspicuous."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Green glossy leaves are elliptic, ovate, to oblong-ovate,  3-8 inches long and 2-4 inches wide. The tip is acuminate and the margins are serrate. Mature leaves have a wrinkled appearance. When torn it exudes a rubbery latex."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Ridges"
+  ],
+  "bark-description": [
+    "Ridged or furrowed, grey/brown bark provides interest."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Brown stems with no terminal bud."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Recreational Play Area"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Specimen",
+    "Street Tree"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "uses": "The bark is used in herbal medicine"
+}

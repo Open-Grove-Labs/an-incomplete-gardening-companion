@@ -1,0 +1,184 @@
+{
+  "fullName": "Ipomoea sagittata",
+  "name": "ipomoea-sagittata",
+  "commonNames": [
+    "Everglades morning glory",
+    "Morning Glory",
+    "Saltmarsh Morning glory"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ipomoea-sagittata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ipomoea",
+  "species": "sagittata",
+  "family": "Convolvulaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "SE. & S. Central U.S.A. to Central America, Caribbean, Medit."
+  ],
+  "distribution": [
+    "coastal"
+  ],
+  "wildlife-value": [
+    "Pollinators enjoy the nectar including bees."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "It is highly salt tolerant."
+  ],
+  "climbing-method": [
+    "Tendrils",
+    "Twining"
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Tendrils"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Globose capsules"
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Five fused pink to purple with a dark throat funnel shaped flowers with large nectaries. Five sepals are at the base of the flower and are glabrous (smooth)."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Sagittate/arrowhead-shaped with narrow points to front and rear"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Smooth"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Salt"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Vomiting, large amounts of seeds may cause hallucinations"
+  ],
+  "poison-toxic-principle": [
+    "Indole alkaloids (Lysergic acid, lysergamide, elymoclavine and chanoclavine)"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ]
+}

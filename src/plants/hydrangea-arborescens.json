@@ -1,0 +1,256 @@
+{
+  "fullName": "Hydrangea arborescens",
+  "name": "hydrangea-arborescens",
+  "commonNames": [
+    "Hills of Snow",
+    "Hortensia",
+    "Hydrangea",
+    "Sevenbark",
+    "Seven Bark",
+    "Smooth Hydrangea",
+    "Wild Hydrangea"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hydrangea-arborescens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hydrangea",
+  "species": "arborescens",
+  "family": "Hydrangeaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Layering",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern U.S."
+  ],
+  "distribution": [
+    "New York to Florida",
+    "west to Iowa",
+    "Missouri",
+    "Oklahoma",
+    "and Louisiana."
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "The wild hydrangea flowers are attractive to butterflies and other pollinators.  Songbirds eat the seeds. It is the host plant of the hydrangea sphinx moth."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "edibility": [
+    "The Cherokee would eat the new growth of young twigs peeled, boiled or fried."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Multi-stemmed",
+    "Open",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Dehiscent ribbed brown capsules which ripen in July-September."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Green",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-value-to-gardener": [
+    "Good Dried",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Dome",
+    "Radial",
+    "Wheel"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The wild hydrangea has tiny white fertile flowers that bloom in May-July in flattened hairy clusters (corymbs to 2-6”across). Scattered continuing flowering may occur throughout summer to September. A few large sterile flowers usually appear at the cluster margins (usually not enough for a quality lacecap effect). Flowers give way to dehiscent seed capsules which ripen in October-November. The native Smooth Hydrangea is white, 6 to 8 inches, flattened corymb in summer; opens white then turns green and brown. The named cultivars have typical ball-shaped hydrangea flowers 8 to 12 inches across. Newer cultivars can be found with pink flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Insignificant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The wild hydrangea has gray-brown stems are clad with opposite, simple, broad egg-shaped to rounded, sharply toothed, dark green leaves (2-6” long) with pale green undersides. The leaves turn yellow in fall. The lower leaf surface is smooth or with inconspicuous fine hairs."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Peeling",
+    "Shredding"
+  ],
+  "bark-description": [
+    "Brown and finely shredded, peels off in thin layers with different colors."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Erosion",
+    "Fire",
+    "Rabbits",
+    "Salt"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "uses": "It was used by the Cherokees as an emetic, and as an antiseptic. The inner bark and leaves were chewed as a stimulant, for stomach problems and high blood pressure. A poultice of scraped bark was used for burns and sore or swollen muscles."
+}

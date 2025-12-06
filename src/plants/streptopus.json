@@ -1,0 +1,159 @@
+{
+  "fullName": "Streptopus",
+  "name": "streptopus",
+  "commonNames": [
+    "Mandarin",
+    "Scootberry",
+    "twistedstalk",
+    "Twisted-stalk"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/streptopus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Streptopus",
+  "family": "Liliaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Temp. Northern Hemisphere"
+  ],
+  "edibility": [
+    "The fruits have been used in soups and stews. The tender young shoots can be eaten cooked or raw and have a cucumber flavor. It is not recommended to overeat this plant due to its laxative effect."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant"
+  ],
+  "habit/form": [
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Round berry-like drupe is orangish to dark red and hangs below the leaves"
+  ],
+  "flower-color": [
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "White, greenish-yellow or rose, solitary, 6-parted flowers are 1/4-1/2 inch in size. 1-2 blooms are produced on a slender stem arising from a leaf node. Flowers tend to hide under the leaves. Blooms May-June"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The elliptic to ovate leaves are numerous, stemless and clasping at the base. The base is rounded to cordate. Leaves are 2 to 4 inches long, ¾ to 1¾ inches wide. Short hairs are present on the margins"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-description": [
+    "Green stems zig-zag between the alternate leaves giving them a twisted look"
+  ],
+  "landscape-location": [
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "resistance-to-challenges": [
+    "Heavy Shade"
+  ],
+  "uses": "Used in herbal medicine"
+}

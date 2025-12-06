@@ -1,0 +1,182 @@
+{
+  "fullName": "Coreopsis auriculata 'Nana'",
+  "name": "coreopsis-auriculata-nana",
+  "commonNames": [
+    "Dwarf Tickseed",
+    "Ear-leaved Tickseed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/coreopsis-auriculata-nana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Coreopsis",
+  "species": "pubescens",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "wildlife-value": [
+    "Deer resistant. Butterflies and bees attracted to the flowers"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Resistant to Pythium root rot."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 0 ft. 9 in.",
+    "Width: 0 ft. 6 in. - 0 ft. 9 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Mounding",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "1-2-inch yellow daisy-like flowers in spring to early summer. May get an occasional repeat bloom during summer. Each petal is notched giving it the mouse-eared name."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Oval to lance-shaped green basal leaves with a smooth margin."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Green ridged stem with a purplish base"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Patio",
+    "Pool/Hardscape",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heat"
+  ]
+}

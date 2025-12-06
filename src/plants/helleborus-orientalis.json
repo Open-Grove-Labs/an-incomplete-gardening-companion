@@ -1,0 +1,237 @@
+{
+  "fullName": "Helleborus orientalis",
+  "name": "helleborus-orientalis",
+  "commonNames": [
+    "Christmas Rose",
+    "Hellebore",
+    "Lenten Rose",
+    "Rose-colored Christmas Rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/helleborus-orientalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Helleborus",
+  "species": "orientalis",
+  "family": "Ranunculaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Northeast Greece, Turkey to Caucasus)"
+  ],
+  "distribution": [
+    "Native:  Greece",
+    "North Caucasus",
+    "Transcaucasus",
+    "and Turkey. Introduced: Austria",
+    "Czechoslovakia",
+    "Denmark",
+    "France",
+    "Germany",
+    "Great Britain",
+    "Ireland",
+    "Sweden",
+    "and the United States."
+  ],
+  "wildlife-value": [
+    "Attracts pollinators."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Easy to Grow"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit resistant"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 1 ft. 6 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Perennial",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Clustered, green, fleshy capsules, long-beaked, surrounded by persistent sepals."
+  ],
+  "flower-color": [
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Beautiful harbingers of spring, with interesting, nodding solitary winter flowers, and saucer-shaped. A stalked cyme or panicle, terminal, bracteate, often nodding; bracts gigantic, leaf-like, dark green, entire to sparsely toothed, +/- lobed. 1-many, usually greenish, tinted gold or brown, pink or purple, cup or bowl-shaped, nodding, 3-4 inches in diameter; sepals 5, showy, pigmented, broadly ovate-elliptic; inner petal segments numerous, consisting of tubular nectaries, green to greenish-yellow, ephemeral; stamens numerous, anther yellow."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Denticulate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Leathery, shiny, dark-green leaves palmately divided with 7-9 leaflets, edged with shallow teeth. Basal or cauline, palmately compound, coriaceous, glabrous; petiloes elongate, peltate; leaflets 3-9, irregularly toothed or serrate."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stout, rhizomatous or exposed."
+  ],
+  "landscape-location": [
+    "Container",
+    "Meadow",
+    "Naturalized Area",
+    "Patio",
+    "Small Space",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Shade Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heavy Shade",
+    "Pollution",
+    "Poor Soil",
+    "Rabbits"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Burning of mouth and throat, salivation, vomiting, abdominal cramping, diarrhea, nervous symptoms, depression; skin irritation after contact with cell sap"
+  ],
+  "poison-toxic-principle": [
+    "Protoanemonin suspected"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "fullName": "Brodiaea",
+  "name": "brodiaea",
+  "commonNames": [
+    "Cluster Lily",
+    "Fool's Onion",
+    "Grass Nut",
+    "Pretty Face",
+    "Starflower",
+    "Wild Hyacinth"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/brodiaea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Brodiaea",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Western coast of North America"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "deer resistant"
+  ],
+  "bulb-storage": [
+    "Store overwinter in a dry location and 70 to 77 degrees F."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 1 ft. 8 in.",
+    "Width: 0 ft. 9 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Bulb"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Fruit capsules are ovoid. Seeds are black, rounded to flattened, and coated with crust with longitudinal surface striations."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "Colored Sepals"
+  ],
+  "flower-description": [
+    "Flowering stem carries a number of flowers. Individuals have six blue to purple tepals, joined at the base to form a tube. The outer three tepal lobes are narrower than the inner three."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Between one and six narrow leaves are produced from the corm. Leaves are basal; blade linear, crescent-shaped in cross section."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Flowers bloom on wiry stems rising to 12-24” tall."
+  ],
+  "landscape-location": [
+    "Naturalized Area"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ]
+}

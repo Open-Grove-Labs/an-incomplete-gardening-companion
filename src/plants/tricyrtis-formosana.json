@@ -1,0 +1,195 @@
+{
+  "fullName": "Tricyrtis formosana",
+  "name": "tricyrtis-formosana",
+  "commonNames": [
+    "Formosan Toad Lily",
+    "Toad Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/tricyrtis-formosana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Tricyrtis",
+  "species": "formosana",
+  "family": "Liliaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Taiwan, Nansei-shoto Islands--Ryukyu"
+  ],
+  "wildlife-value": [
+    "Small mammals feed on new growth.  Hummingbirds feed on the nectar.  It is pollinated by bees."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Spreading"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "After flowering, the cylinder shaped seed capsules open and inside are tiny round, flat, papery seeds.  The seeds should be harvested in the fall.  Plant the seeds when they are fresh and do not cover with soil.  They typically require cold stratification before they will germinate."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "Tepals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Small, about 1 inch long. It is star-shaped, lily or orchid-like. There are 6 showy tepals which include 3 inner petals and 3 outer sepals of similar appearance.  The flowers bloom in cymes or branched clusters like daylilies.  They are primarily at the top of the stem of the plant.  The Toad Lily is white with reddish-purple freckles and yellow throats or centers.  There are three sac-like nectaries at the base of the tepals. They bloom from late summer to early fall, August to early October."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "White"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Obovate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The leaves are shiny, lanceolate to obovate, and have fine transparent hairs on the undersides.  The leaves clasp the stem at the leaf base.  Depending on the cultivar, the leaves may be non-variegated or variegated. The color of the leaves may vary from green to green with yellow/gold edges or gold to gold with creamy white edges."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The stem measures from 24 to 40 inches tall and has fine transparent hairs."
+  ],
+  "landscape-location": [
+    "Container",
+    "Meadow",
+    "Naturalized Area",
+    "Patio",
+    "Pond",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Cutting Garden",
+    "Pollinator Garden",
+    "Rock Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Hummingbirds",
+    "Small Mammals"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

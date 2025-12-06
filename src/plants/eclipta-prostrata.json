@@ -1,0 +1,258 @@
+{
+  "fullName": "Eclipta prostrata",
+  "name": "eclipta-prostrata",
+  "commonNames": [
+    "Eclipta",
+    "False Daisy",
+    "Ink Plant",
+    "Mayweed",
+    "Pie Plant",
+    "Poison Daisy",
+    "Stinking Chamomile",
+    "Yerba-de-tajo"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/eclipta-prostrata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Eclipta",
+  "species": "prostrata",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Asia, India, Brazil, North America"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "AZ ",
+    "CA ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "IA ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "LA ",
+    "MA ",
+    "MD ",
+    "MI ",
+    "MN ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NE ",
+    "NJ ",
+    "NM ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "SD ",
+    "TX ",
+    "VA ",
+    "WI ",
+    "WV\nCanada: ON"
+  ],
+  "wildlife-value": [
+    "Attracts small butterflies, bees, wasps, and flies."
+  ],
+  "play-value": [
+    "Attracts Pollinators"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 4 in. - 1 ft. 8 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Weed",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect",
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Brown or black flat achene 2 mm long, compressed and narrowly winged"
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Ray florets white, inconspicuous, disk florets white, sometimes yellow with lobes, but are most distintctive when young and are flat and green. Flowers usually 1/2- 1/3  inch across"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are narrow elliptic and shallowly serrated or crenate, base cuneate or attenuate, tip acute, and pubescent on both surfaces. They can be up to 5 inches long and 1 inch across."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Fleshy, sappy green sometimes with a red tinge and appressed hairs."
+  ],
+  "landscape-location": [
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Contact dermatitis, vomiting, diarrhea, anorexia, allergic reactions. Long term use can lead to bleeding tendencies."
+  ],
+  "poison-toxic-principle": [
+    "Volatile oil; bisabolol, chamazulene, anthemic acid, tannic acid"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "uses": "Used in Ayurveda medicine in India and in Asia in traditional medicine."
+}

@@ -1,0 +1,31 @@
+{
+  "fullName": "Oncidium alexandrae",
+  "name": "oncidium-alexandrae",
+  "commonNames": [
+    "Curled Odontoglossum",
+    "Lace Orchid"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/oncidium-alexandrae/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Oncidium",
+  "species": "alexandrae",
+  "family": "Orchidaceae",
+  "country-or-region-of-origin": [
+    "Colombia and Bolivia"
+  ],
+  "plant-type": [
+    "Epiphyte",
+    "Houseplant"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Houseplants"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "fullName": "Wolffia",
+  "name": "wolffia",
+  "commonNames": [
+    "Duckweed",
+    "Watermeal",
+    "Water Meal"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/wolffia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Wolffia",
+  "species": "Lemnaceae",
+  "family": "Araceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Asia"
+  ],
+  "wildlife-value": [
+    "Eaten by herbivorous fish and a variety of waterfowl."
+  ],
+  "play-value": [
+    "Easy to Grow",
+    "Textural ",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "The plant can be eaten as a vegetable. A high-protein food source, it contains approximately 40% protein.   In its native region, it is often eaten as a vegetable, having a taste similar to sweet cabbage."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Water Plant"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Its fruit is a utricle, a small, bladder like, thin walled fruit.  Due to their tiny size, the fruits are not visible."
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Wolffia lays flat on the water surface resembling a green floating carpet.  The plant has a non-showy flower that does not bloom often."
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "There are no leaves."
+  ],
+  "bark-description": [
+    "There is no bark."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "There are no stems."
+  ],
+  "landscape-location": [
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Water Garden"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Heat",
+    "Humidity"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

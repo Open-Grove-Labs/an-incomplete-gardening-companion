@@ -1,0 +1,154 @@
+{
+  "fullName": "Filipendula ulmaria",
+  "name": "filipendula-ulmaria",
+  "commonNames": [
+    "Double Lady of the Meadow",
+    "European Meadowsweet",
+    "Meadowsweet",
+    "Queen of the Meadow"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/filipendula-ulmaria/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Filipendula",
+  "species": "ulmaria",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Siberia, Asia, Mongolia"
+  ],
+  "distribution": [
+    "Europe",
+    "from Iceland south and east to Spain. Eastern Canada and Northeast and Mid-Atlantic United States."
+  ],
+  "wildlife-value": [
+    "Attracts wildlife."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Weed"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Good Dried",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "Yellowish white, fragrant flowers blossom from June to August. Flowers are branched, terminal, astilbe-like panicles 4 to 6 inches long."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Doubly Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Compound, pinnate, dark green leaves (7 to 9 leaflets each) are hairy and whitish beneath."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Garden for the Blind",
+    "Rock Garden",
+    "Water Garden"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "Meadowsweet has a long history as a medicinal herb. The flower head contains salicylic acid, from which, aspirin can be synthesized."
+}

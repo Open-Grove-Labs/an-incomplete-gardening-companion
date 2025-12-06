@@ -1,0 +1,210 @@
+{
+  "fullName": "Cardamine hirsuta",
+  "name": "cardamine-hirsuta",
+  "commonNames": [
+    "Bittercress",
+    "Flick Weed",
+    "Hairy Bittercress",
+    "Hoary Bittercress",
+    "Lamb's Cress",
+    "Land Cress",
+    "Shot Weed",
+    "Springcress"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cardamine-hirsuta/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cardamine",
+  "species": "hirsuta",
+  "family": "Brassicaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eurasia"
+  ],
+  "distribution": [
+    "North America: Eastern and Southern US",
+    "West coast of US",
+    "Western and Eastern Canada; South America: Argentina",
+    "Brazil",
+    "Columbia",
+    "Chile",
+    "Ecuador",
+    "Haiti",
+    "Jamaica",
+    "Uruguay",
+    "and Venezuela; Western and Southern Australia",
+    "New Zealand; Japan; South Africa"
+  ],
+  "wildlife-value": [
+    "Butterflies and bees are attracted to flowers for nectar and pollen."
+  ],
+  "edibility": [
+    "Hairy Bittercress is an edible weed that has a mild peppery taste.  A few sprigs can be added to a salad to add a bite. The flowers are edible, but they are tough to chew. The tender leaves are sources of Vitamin C, Ca+, Mg+, and Beta-carotene."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 3 in. - 0 ft. 10 in.",
+    "Width: 0 ft. 3 in. - 0 ft. 6 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Weed"
+  ],
+  "habit/form": [
+    "Dense"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Spring"
+  ],
+  "fruit-type": [
+    "Siliqua"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruits appear as smooth, purplish-green siliqua standing upright around the flower. They turn reddish-brown when they mature.  They measure 3/4 to 1 inch long. When dried the pods explode and release seeds up to 3 feet.  The seeds germinate in the fall.  They overwinter n a vegetative state. In the spring they flower and produce more seeds.  Reportedly, each plant can produce 600-1000 seeds."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Edible"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cross"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The blooms appear in clusters of white, tiny, 4 petaled, cross-shaped flowers.  They typically bloom in spring from late April to early June."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Smooth",
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Reniform"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves are reniform in shape, alternate, and pinnate with a terminal leaflet. They have 2-6 pairs of smaller lateral leaflets and a rosette of larger basal leaves.  The surface of the leaves is glabrous to pubescent with tiny hairs on the upper and lower surface.  They are green in color and measure less than 1/2 inch to 1 inch.  The margins of the leaf are lobed and shallowly toothed."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The stems are erect, branching, and measure 3-10 inches tall. Their surfaces are glabrous to sparsely hairy."
+  ],
+  "landscape-location": [
+    "Container",
+    "Lawn",
+    "Meadow",
+    "Slope/Bank",
+    "Walkways",
+    "Woodland"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Specialized Bees"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

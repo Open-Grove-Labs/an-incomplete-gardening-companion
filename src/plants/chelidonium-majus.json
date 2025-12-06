@@ -1,0 +1,192 @@
+{
+  "fullName": "Chelidonium majus",
+  "name": "chelidonium-majus",
+  "commonNames": [
+    "Celandine",
+    "Greater Celandine",
+    "Rock-Poppy",
+    "St. John's Wort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/chelidonium-majus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Chelidonium",
+  "species": "majus",
+  "family": "Papaveraceae",
+  "life-cycle": [
+    "Biennial",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eurasia"
+  ],
+  "play-value": [
+    "Attractive Flowers"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 0 ft. 8 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Perennial",
+    "Poisonous",
+    "Weed"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruit a slender capsule about 2 inches long."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cross"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The 1/2 to 3/4 inch flowers are yellow and 4-parted, blooming in May through June."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Obovate",
+    "Ovate",
+    "Pinnatifid"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Dentate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "5-10 inch Leaves are pinnately divided and have veins that are easily seen since the veins are a lighter color. The leaflets are lobed."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Covered with a powdery bloom (glaucous)"
+  ],
+  "stem-description": [
+    "Brittle with yellow-orange sap.  The surface is waxy with sparse hairs."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "resistance-to-challenges": [
+    "Heavy Shade",
+    "Poor Soil"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Highly toxic, may be fatal if eaten.  Nausea, vomiting, bloody diarrhea, numbness, fainting, and coma.  The sap is extremely irritating to the skin and eyes."
+  ],
+  "poison-toxic-principle": [
+    "Isoquinoline alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Roots",
+    "Sap/Juice"
+  ],
+  "uses": "Historically used as a wart remover."
+}

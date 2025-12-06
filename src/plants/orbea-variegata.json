@@ -1,0 +1,145 @@
+{
+  "fullName": "Orbea variegata",
+  "name": "orbea-variegata",
+  "commonNames": [
+    "Carrion Cactus",
+    "Carrion Flower",
+    "Starfish Cactus",
+    "Starfish Flower",
+    "Toad Cactus",
+    "Toad Plant",
+    "Toad Spotted Cactus"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/orbea-variegata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Orbea",
+  "species": "variegata",
+  "family": "Apocynaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "South Africa--Cape Provinces"
+  ],
+  "distribution": [
+    "Queensland",
+    "South Australia",
+    "and Spain"
+  ],
+  "play-value": [
+    "Colorful",
+    "Easy to Grow"
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Succulent"
+  ],
+  "habit/form": [
+    "Erect",
+    "Prostrate"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "fruit-type": [
+    "Follicle"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "A pollinated flower develops a pair of erect, cylinder follicles that are dark green and mottled with pale green. They measure 5 inches long. Once mature, they are dry and split open to release many small seeds. The seeds have tufts of hairs that cause them to be easily dispersed by the wind."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "2 to 2.5 inch, showy, star-shaped flowers with five spotted maroon petals appear late summer to fall."
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The plant has no true leaves but has toothy projections from the stem that makes it appear spiny."
+  ],
+  "stem-color": [
+    "Gray/Silver",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "4 angled erect fleshy gray-green stems.  Turn purple in full sun."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Malodorous"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "fullName": "Salix purpurea",
+  "name": "salix-purpurea",
+  "commonNames": [
+    "Basket Willow",
+    "Blue Arctic Willow",
+    "Pupleosier Willow",
+    "Purple Osier Willow",
+    "Purple Willow"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/salix-purpurea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Salix",
+  "species": "purpurea",
+  "family": "Salicaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, NW. Africa"
+  ],
+  "wildlife-value": [
+    "This plant supports Viceroy (Limenitis archippus) larvae which has two to three broods from May-September.  Adult butterflies feed on decaying matter, aphid honeydew, and nectar from composite flowers."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "fullName": "Sasa veitchii",
+  "name": "sasa-veitchii",
+  "commonNames": [
+    "Kuma Bamboo Grass",
+    "Nagasa Bamboo"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sasa-veitchii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sasa",
+  "species": "veitchii",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Sakhalin to Japan"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 13 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ornamental Grasses and Sedges"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Arching",
+    "Clumping",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Caryopsis"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "leaf-color": [
+    "Cream/Tan",
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Grown for foliage"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Rock Wall",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Border",
+    "Hedge",
+    "Mass Planting",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

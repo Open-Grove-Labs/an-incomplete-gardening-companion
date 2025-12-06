@@ -1,0 +1,65 @@
+{
+  "fullName": "Ratibida columnifera",
+  "name": "ratibida-columnifera",
+  "commonNames": [
+    "Long-headed Coneflower",
+    "Mexican Hat",
+    "Prairie Coneflower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ratibida-columnifera/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ratibida",
+  "species": "columnifera",
+  "family": "Asteraceae",
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "North America"
+  ],
+  "plant-type": [
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "attracts": [
+    "Butterflies"
+  ]
+}

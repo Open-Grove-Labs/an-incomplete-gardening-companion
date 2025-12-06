@@ -1,0 +1,81 @@
+{
+  "fullName": "Rhaponticum repens",
+  "name": "rhaponticum-repens",
+  "commonNames": [
+    "Russian Knapweed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rhaponticum-repens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rhaponticum",
+  "species": "repens",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Eurasia"
+  ],
+  "plant-type": [
+    "Perennial",
+    "Weed"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "Ivory colred achene with tufts of hair that fall off as fruits mature."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Urn"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Pink to purple blooms from summer through fall, as they mature they turn a straw color.  The head-inflorecese is  urn-shaped and 1/2\""
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Basal rosette of leaves 2\"-4\" lobed or unlobed.  Stem leaves oblong, pinnately lobed to entire and up to 6\" long they get smaller and less lobed toward the top of the stem."
+  ],
+  "stem-is-aromatic": "N",
+  "problems": [
+    "Problem for Horses"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "fullName": "Rosa 'Cecile Brunner'",
+  "name": "rosa-cecile-brunner",
+  "commonNames": [
+    "Cecile Brunner",
+    "Malteser Rose",
+    "Mignon",
+    "Mlle Cecile Brunner",
+    "Sweetheart Rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-cecile-brunner/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "plant-type": [
+    "Rose",
+    "Vine"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Spreading"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring"
+  ],
+  "flower-description": [
+    "Long pointed buds; small double blooms either as single or in clusters late spring to early fall; free flowering"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "new leaves are red small, dark and green"
+  ],
+  "stem-is-aromatic": "N"
+}

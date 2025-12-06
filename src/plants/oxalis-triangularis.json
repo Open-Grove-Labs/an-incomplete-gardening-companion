@@ -1,0 +1,196 @@
+{
+  "fullName": "Oxalis triangularis",
+  "name": "oxalis-triangularis",
+  "commonNames": [
+    "False Shamrock",
+    "Love Plant",
+    "Purple Shamrock",
+    "Purple Wood Sorrel"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/oxalis-triangularis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Oxalis",
+  "species": "triangularis",
+  "family": "Oxalidaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South America"
+  ],
+  "wildlife-value": [
+    "Deer resistant. Attracts butterflies."
+  ],
+  "edibility": [
+    "Leaves and flowers are edible but should be used in moderation."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 6 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Perennial",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Saucer",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "5-petaled white to pale pink flowers early summer through fall. They close at night."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Deltoid"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Deep maroon to green trifoliate leaves that close at night."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "All parts of the plant have toxic potential, although the possibility of serious effects is usually limited to ingestions of large quantities. Consuming Oxalis species can produce colic in horses, and kidney failure is possible if significant amounts are eaten."
+  ],
+  "poison-toxic-principle": [
+    "Soluble calcium oxylates"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

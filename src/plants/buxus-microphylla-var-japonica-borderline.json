@@ -1,0 +1,154 @@
+{
+  "fullName": "Buxus microphylla var. japonica 'Borderline'",
+  "name": "buxus-microphylla-var-japonica-borderline",
+  "commonNames": [
+    "Japanese Boxwood",
+    "Littleleaf Boxwood"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/buxus-microphylla-var-japonica-borderline/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Buxus",
+  "species": "microphylla var. japonica",
+  "family": "Buxaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "wildlife-value": [
+    "Flowers may be insignificant to a human's eye, but bees find them eye-catching."
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Green"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Insignificant"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Variegated"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Dark green leaves with brilliant yellow/gold margins. Broadest above the middle with a rounded or notched tip."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "English Garden",
+    "Pollinator Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting",
+    "Hedge",
+    "Security",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Dogs and cats: vomiting, diarrhea; Horses: colic, diarrhea, respiratory failure, seizures"
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves"
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "fullName": "Rhapidophyllum hystrix",
+  "name": "rhapidophyllum-hystrix",
+  "commonNames": [
+    "Needle Palm",
+    "Porcupine Palm"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rhapidophyllum-hystrix/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rhapidophyllum",
+  "species": "hystrix",
+  "family": "Arecaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern United States"
+  ],
+  "distribution": [
+    "Native to Alabama",
+    "Florida",
+    "Georgia",
+    "Mississippi",
+    "and South Carolina"
+  ],
+  "wildlife-value": [
+    "Bears and other mammals eat the fruits. The plant serves as a wildlife shelter."
+  ],
+  "play-value": [
+    "Textural ",
+    "Wildlife Cover/Habitat"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 8 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is a reddish-brown, oblong, fuzzy drupe that ripens in the fall. It is 1 inch in diameter. The drupes are close to the stem and appear tangled in fibers and sharp needles. The fruits are \"evil-smelling\" and are eaten by bears and other mammals."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Insignificant"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals"
+  ],
+  "flower-description": [
+    "The flowers are yellowish-brown clusters measuring 6 to 12 inches long. They are held close to the stem, and often they are hidden by the foliage. They bloom in the spring and early summer."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "White"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Palmatifid"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The leaves are alternate, palmately compound, and fan-like with 8 to 16 leaflets. The leaves are large and measure up to 30 inches in diameter. Each leaflet is 15 to 20 inches long and 1 to 2 inches wide. The tips are pointed or squared. Lobed segments (20-40) are linear with 2 mid-ribs, entire, toothed at apex, waxy above, silvery glaucous beneath, semi-rigid, and induplicate. The upper surface of the leaflets is dark green. The leaf sheaths have long needle-like spines. The petiole is 18 to 20 inches long."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Red/Burgundy"
+  ],
+  "bark-description": [
+    "The trunk is dark reddish-brown and has sharp, dark brown to black needles. The needles measure 6 inches long. The trunk is erect or reclining and short and covered with leaf sheaths."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "There is no stem. The leaves are attached to the unbranched trunk."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Patio",
+    "Pool/Hardscape"
+  ],
+  "landscape-theme": [
+    "Rain Garden",
+    "Shade Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Security",
+    "Specimen"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Heat",
+    "Humidity",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ]
+}

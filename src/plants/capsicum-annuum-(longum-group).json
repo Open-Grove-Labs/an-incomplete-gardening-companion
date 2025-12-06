@@ -1,0 +1,204 @@
+{
+  "fullName": "Capsicum annuum (Longum group)",
+  "name": "capsicum-annuum-(longum-group)",
+  "commonNames": [
+    "Cayenne pepper",
+    "Chili Pepper",
+    "Hot Pepper"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/capsicum-annuum-longum-group/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Capsicum",
+  "species": "annuum",
+  "family": "Solanaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical America"
+  ],
+  "wildlife-value": [
+    "May attract masked bees."
+  ],
+  "play-value": [
+    "Edible fruit "
+  ],
+  "edibility": [
+    "Fruit edible when raw or cooked but can be quite hot."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Herb",
+    "Herbaceous Perennial",
+    "Vegetable",
+    "Warm Season Vegetable"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "A shiny, tapered berry of various colors."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Small, solitary, axillary, white or greenish, 5-parted"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Alternate, simple, smooth margined"
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Nodes may be purple in color."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting",
+    "Small groups",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heat"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "TOXIC ONLY IF LARGE QUANTITIES EATEN. CAUSES SEVERE PAIN IN THE MOUTH IF EATEN! SKIN IRRITATION MINOR OR LASTING ONLY FOR A FEW MINUTES.  Burning or stinging of lips, tongue and throat; nausea, vomiting, and diarrhea; burning sensation of the eyes and skin; blistering after prolonged exposure."
+  ],
+  "poison-toxic-principle": [
+    "Capsaicin and derivatives"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves",
+    "Seeds"
+  ]
+}

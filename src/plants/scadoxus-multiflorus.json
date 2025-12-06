@@ -1,0 +1,163 @@
+{
+  "fullName": "Scadoxus multiflorus",
+  "name": "scadoxus-multiflorus",
+  "commonNames": [
+    "African Blood Lily",
+    "Blood Lily",
+    "Cape Tulip",
+    "Pincushion Flower",
+    "Powderpuff Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/scadoxus-multiflorus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Scadoxus",
+  "species": "multiflorus",
+  "family": "Amaryllidaceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Africa and Arabian Peninsula"
+  ],
+  "distribution": [
+    "Central Mexico"
+  ],
+  "bulb-storage": [
+    "Indoors packed in peat over winter in a dry, cool space at 50 to 60 degrees F."
+  ],
+  "edibility": [
+    "The bulb has low toxicity if eaten."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 0 ft. 9 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "Orange-red, globular berries in fall."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "Four to six inch terminal umbel with hundreds of tiny, densely-packed, red florets with yellow tipped stamens."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Alternate, simple 12 to 15 inch leaves and a spotted stem and leaf stalk.  Produces a rosette of dark green leaves after flowering."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Each flower head appears in late spring on a succulent stem to 1 to 2 feet tall."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Salivation, nausea, vomiting, and diarrhea"
+  ],
+  "poison-toxic-principle": [
+    "Lycorine and other alkaliods"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers"
+  ]
+}

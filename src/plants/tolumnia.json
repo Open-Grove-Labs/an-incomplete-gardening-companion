@@ -1,0 +1,118 @@
+{
+  "fullName": "Tolumnia",
+  "name": "tolumnia",
+  "commonNames": [
+    "Dancing Lady Orchid",
+    "Equitant Oncidium"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/tolumnia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Tolumnia",
+  "family": "Orchidaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico, C. America, northern S. America, Caribbean, Florida"
+  ],
+  "distribution": [
+    "cultivated worldwide"
+  ],
+  "wildlife-value": [
+    "Flowers are pollinated by Centris errans bees."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 3 in. - 0 ft. 8 in.",
+    "Width: 0 ft. 2 in. - 0 ft. 6 in."
+  ],
+  "plant-type": [
+    "Epiphyte",
+    "Herbaceous Perennial",
+    "Houseplant"
+  ],
+  "habit/form": [
+    "Ascending"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "1/2 inch flowers in Spring. Up to 50 flowers per raceme. Lower lip is flared (like a skirt) and variously colored, banded and spotted. In nature the flowers are pollinated by specialized, oil-collecting bees."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Sheath"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves are simple, alternate, have serrated margins with 4-8 leathery leaves in a fan shape. They are lanceolate with acute tips."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Humidity"
+  ]
+}

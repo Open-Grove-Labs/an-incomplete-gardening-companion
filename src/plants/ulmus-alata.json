@@ -1,0 +1,235 @@
+{
+  "fullName": "Ulmus alata",
+  "name": "ulmus-alata",
+  "commonNames": [
+    "Cork Elm",
+    "Small Leaf Elm",
+    "Wahoo",
+    "Winged Elm",
+    "Witch Elm"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ulmus-alata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ulmus",
+  "species": "alata",
+  "family": "Ulmaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern and central North America"
+  ],
+  "distribution": [
+    "Southeastern United States",
+    "Virginia to Florida",
+    "west to Illinois",
+    "Missouri",
+    "and Texas."
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "This plant supports the following larvae: Painted Lady (Vanessa cardui), Eastern Comma (Polygonia comma), Mourning Cloak (Nymphalis antiopa), Question Mark Butterfly (Polygonia interrogationis). Questionmark butterflies have an interesting life cycles: overwintered adult Question Mark butterflies lay eggs from spring until the end of May. These will appear as summer adults from May-September, laying eggs that then develop into the winter adult form. The winter adults appear in late August and shelter for the winter starting the cycle all over again. Adult Question Mark butterflies feed on rotting fruit, tree sap, dung, and carrion only visiting flowers for feeding when absolutely necessary. Painted Lady (Vanessa cardui) and Red-spotted Purple (Limenitis arthemis astyanax) rarely use this host plant in North Carolina. It is also a host plant for the Red Spotted Purple butterflies. The seeds are eaten by songbirds and small mammals."
+  ],
+  "play-value": [
+    "Shade ",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Larval Host ",
+    "Wildlife Nesting"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Resistant to fire and moderately resistant to damage from deer."
+  ],
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 60 ft. 0 in.",
+    "Width: 20 ft. 0 in. - 40 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Open",
+    "Pyramidal",
+    "Rounded",
+    "Vase"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet",
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "display/harvest-time": [
+    "Spring"
+  ],
+  "fruit-type": [
+    "Drupe",
+    "Samara"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Small drupe but very distinctive, covered with light colored fuzz, 1/3 inch long, tipped at the end with two long, curving bristles. The seeds mature in April-May as the leaves reach full size. In North Carolina, fruits are available from March to April."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Insignificant, 1/4 inch, brownish-green flowers appear in clusters in late winter to early spring before the foliage emerges.  The flower is typically very small with curling fuzzy stigmas. In North Carolina, flowers are available from February to March."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Insignificant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Doubly Dentate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Alternate, ovate to elliptic, pointed, rough-textured dark green leaves (1.5 to 3.5 inches long) with doubly toothed margins and asymetrical bases. The leaves typically turn an undistinguished dull yellowish-green in fall."
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Light Brown",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Exfoliating",
+    "Fissured",
+    "Shredding"
+  ],
+  "bark-plate-shape": [
+    "Irregular"
+  ],
+  "bark-description": [
+    "The bark is red-brown to ashy gray with flat topped ridges that are separated by irregular fissures. Scaly, shredding, patchy and grayish-brown, some reddish where bark exfoliates."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Corky Ridges"
+  ],
+  "stem-description": [
+    "Stems usually have two wide corky ridges or wings."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Specimen",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Dry Soil",
+    "Fire",
+    "Wet Soil"
+  ],
+  "uses": "The heavy wood is used for furniture, crates, and boxes."
+}

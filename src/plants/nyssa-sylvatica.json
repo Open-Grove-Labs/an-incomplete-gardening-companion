@@ -1,0 +1,303 @@
+{
+  "fullName": "Nyssa sylvatica",
+  "name": "nyssa-sylvatica",
+  "commonNames": [
+    "Blackgum",
+    "Black Gum",
+    "Black Tupelo",
+    "Common Tupelo Tree",
+    "Cotton Gum",
+    "Nyssa",
+    "Pepperidge",
+    "Sour Gum",
+    "Tupelo"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nyssa-sylvatica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nyssa",
+  "species": "sylvatica",
+  "family": "Nyssaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Layering",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern Ontario, Central and Eastern United States, and Mexico"
+  ],
+  "distribution": [
+    "Native: United States--AL",
+    "AR",
+    "CT",
+    "FL",
+    "GA",
+    "IL KS",
+    "KY",
+    "LA",
+    "ME",
+    "MA",
+    "MI",
+    "MS",
+    "MO",
+    "NH",
+    "NJ",
+    "NY",
+    "NC",
+    "OH",
+    "OK",
+    "PA",
+    "RI",
+    "SC",
+    "TN",
+    "TX",
+    "VT",
+    "VA",
+    "and WI; Canada--Ontario; Mexico--Mexico Central",
+    "Mexico Gulf",
+    "Mexico Northeast",
+    "and Mexico Southeast."
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Its young sprouts are eaten by white-tailed deer.  The fruits (berries) are enjoyed by thrushes and other songbirds, wild turkeys, black bear, foxes, raccoons and opossums from August through October.  It is one of the most important food sources for fall song bird migration.  The natural hollows that form in the tree are a refuge for reptiles, tree frogs, bats and other wildlife.  The spring flowers are a nectar source for bees."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Colorful",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Resistant to fire. This tree is somewhat resistant to deer damage."
+  ],
+  "edibility": [
+    "Fruit can be eaten raw or cooked. Produces a thin sharply acid pulp that is pleasant to roll in the mouth as a masticatory, it is also used in preserves. The honey bees produce from the flowers of this tree  is highly prized."
+  ],
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 70 ft. 0 in.",
+    "Width: 20 ft. 8 in. - 35 ft. 6 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Irregular",
+    "Open",
+    "Pyramidal",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet",
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Female trees only. From late summer to fall, the tree produces green drupes that ripen to bluish-black, round to oval, 3/8 to 1/2-inch long, and clustered on stalks up to 1 1/2 inches long.  Thin, bitter-smelling flesh surrounds the small, ribbed seeds. The fruits are edible but sour. Birds and small mammals enjoy the drupes."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Umbel"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The tree is dioecious and requires male and female plants to produce fruits. The flowers bloom in the spring from May to June; they are not showy. They are small, greenish-yellow, and occur in small clusters. An individual flower is about 1/8 of an inch in diameter."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery",
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are dark green on the upper surface, paler green on the undersides, 3 to 6 inches long and 1/2 to 3 inches wide, alternate, elliptic to obovate, blunt points, and are pubescent along the veins.  Leaves turn yellow, orange,  red, or purple in the fall. On sprouts or young trees, the leaves may have a few coarse teeth. The petiole is 0.5 to 1-inch long and reddish"
+  ],
+  "bark-color": [
+    "Black",
+    "Dark Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Ridges"
+  ],
+  "bark-plate-shape": [
+    "Rectangle",
+    "Square"
+  ],
+  "bark-description": [
+    "The bark is gray, brown to black, and deeply furrowed to create rectangular or square ridges (cobbled). The bark on younger trees is furrowed between flat ridges and matures into quadrangular blocks that are dense, hard, and nearly black."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "pith-split-longitudinally": [
+    "Chambered"
+  ],
+  "stem-description": [
+    "The twig color is gray to brown.  The slender limbs grow at right angles to the trunk."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Lawn",
+    "Naturalized Area",
+    "Riparian",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Native Garden",
+    "Nighttime Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Specimen",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Bees",
+    "Frogs",
+    "Pollinators",
+    "Reptiles",
+    "Small Mammals",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Fire",
+    "Heat",
+    "Pollution",
+    "Salt",
+    "Wet Soil",
+    "Wind"
+  ],
+  "uses": "Wood is tough, cross-grained, hard to work, and warps easily. It is often used for crates, cross ties, rough floors, and pulpwood."
+}

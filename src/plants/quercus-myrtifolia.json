@@ -1,0 +1,163 @@
+{
+  "fullName": "Quercus myrtifolia",
+  "name": "quercus-myrtifolia",
+  "commonNames": [
+    "Myrtle Oak"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/quercus-myrtifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Quercus",
+  "species": "myrtifolia",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern U.S.A."
+  ],
+  "distribution": [
+    "AL ",
+    "FL ",
+    "GA ",
+    "MS ",
+    "NC ",
+    "SC"
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Broad",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Biennial oval to round dark brown acorn up to 5/8 inch. The cap covers 1/4-1/3 of the nut."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Male flowers in catkins"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "2-inch long by 1 inch wide dark green leathery evergreen leaves are a lighter green to yellowish bloom underneath. Entire margins are rolled under and there is a bristle at the tip. Leaves persist on the tree until new leaves form in spring."
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Furrowed"
+  ],
+  "bark-description": [
+    "The bark is gray and smooth, becoming furrowed with age"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-bud-scales": [
+    "Enclosed in more than 2 scales"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Reddish-brown twigs with hairs. Oval buds that narrow to a point with reddish-brown scales"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Small Space"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ]
+}

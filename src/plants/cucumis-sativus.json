@@ -1,0 +1,212 @@
+{
+  "fullName": "Cucumis sativus",
+  "name": "cucumis-sativus",
+  "commonNames": [
+    "Cucumber",
+    "Cucumbers",
+    "Garden Cucumber",
+    "Garden Cucumbers",
+    "Gherkin",
+    "Gherkins",
+    "Immature Cucumbers"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cucumis-sativus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cucumis",
+  "species": "sativus",
+  "family": "Cucurbitaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Himalaya to Northern Thailand"
+  ],
+  "climbing-method": [
+    "Tendrils"
+  ],
+  "edibility": [
+    "Fruits are commonly eaten raw or pickled.  Fresh cucumbers last in the fridge for about a week."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 8 in. - 1 ft. 6 in.",
+    "Width: 3 ft. 0 in. - 8 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Vegetable",
+    "Vine",
+    "Warm Season Vegetable"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Tendrils"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "The \"vegetable\" is botanically a fruit– it is a pepo, a berry with a hard rind.  Long and cylindrical, starting out prickly when young and smoothing out to a bumpy surface as it matures.  Length and girth can vary based on cultivar and culinary purpose but grow at least 3 in long.  Some varieties are bred to be seedless."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Yellow five-petaled flowers.  Male and female flowers grow separately on the same plant.  Multiple plants are required for successful pollination with the exception of seedless varieties.  Some varieties have only female flowers and need a traditionally-flowering plant for pollination."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly",
+    "Rough"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Orbicular"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Large, hairy, triangular leaves with 3-5 lobes, deep wrinkles, and serrated margins borne on long petioles."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Vining stems covered in prickly hairs."
+  ],
+  "landscape-location": [
+    "Container",
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Heat"
+  ]
+}

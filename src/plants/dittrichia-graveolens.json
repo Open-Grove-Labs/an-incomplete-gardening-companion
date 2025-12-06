@@ -1,0 +1,187 @@
+{
+  "fullName": "Dittrichia graveolens",
+  "name": "dittrichia-graveolens",
+  "commonNames": [
+    "Camphor Inula",
+    "Cape Khakiweed",
+    "Stinking Fleabane",
+    "Stinkwort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dittrichia-graveolens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dittrichia",
+  "species": "graveolens",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe to West Himalaya"
+  ],
+  "distribution": [
+    "Native: Afghanistan",
+    "Algeria",
+    "Austria",
+    "Bulgaria",
+    "Cyprus",
+    "France",
+    "Greece",
+    "Iran",
+    "Iraq",
+    "Italy",
+    "Lebanon",
+    "Netherlands",
+    "Pakistan",
+    "Palestine",
+    "Portugal",
+    "Spain",
+    "Syria",
+    "Turkey",
+    "West Himalaya",
+    "and Yugoslavia\nIntroduced: Czechoslovakia",
+    "Germany",
+    "Great Britain",
+    "Switzerland",
+    "Queensland",
+    " South Australia",
+    "Western Australia",
+    "New Zealand North",
+    "United States--CA",
+    "CT",
+    "NJ",
+    "NY",
+    "and SC"
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The seed or achene is light brown, oval, and about 2mm long. They are covered with hairs and topped with a ring of numerous layers of hairs or bristles. The seeds are produced from September to December."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-bloom-time": [
+    "Fall"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers appear late summer to early winter. Single, small yellow flower heads appear at the tips of branches or in the upper leaf forks. The flower head is about 0.2 to 0.3 inches in diameter. It has 6-12 yellow petal rays on the outer edge and yellow-reddish disk florets in the center. The flower is surrounded by 2 rows of narrow green bracts. The bracts are covered with sticky hairs."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Denticulate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves are lanceolate, narrow in shape, and form a basal rosette. The basal leaves are up to 4 inches long and finely toothed. The stem leaves are smaller (0.5 to 2 inches) with entire margins and appear alternate.  The foliage has sticky hairs covered with resin and emits a strong camphor-like odor."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "Y",
+  "stem-description": [
+    "The stem is rigid, branched, erect, and covered with sticky hairs. The base of the stem is slightly woody. The stem usually measures 11-24 inches and sometimes up to 39 inches."
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Malodorous",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Human contact with the oils of the leaves and stems may cause contact dermatitis."
+  ],
+  "poison-toxic-principle": [
+    "Contains sesquiterpenes, flavonoids, and aromatic compounds. Very little data available."
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Stems"
+  ],
+  "uses": "The leaves and stems are used externally to treat lice in chickens.  The species is known for its essential oils."
+}

@@ -1,0 +1,194 @@
+{
+  "fullName": "Echium plantagineum",
+  "name": "echium-plantagineum",
+  "commonNames": [
+    "Blue echium",
+    "Blueweed",
+    "Blue Weed",
+    "Lady Campbell Weed",
+    "Paterson's Curse",
+    "Patterson's Curse",
+    "Plantain-leaf viper's bugloss",
+    "Purple bugloss",
+    "Purple echium",
+    "Purple Plague",
+    "Purple Viper's-Bugloss",
+    "Riverina bluebell",
+    "Salvation Jane",
+    "Viper's Bugloss"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/echium-plantagineum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Echium",
+  "species": "plantagineum",
+  "family": "Boraginaceae",
+  "life-cycle": [
+    "Annual",
+    "Biennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Mediterranean"
+  ],
+  "plant-type": [
+    "Annual"
+  ],
+  "habit/form": [
+    "Erect",
+    "Mounding",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruits are a cluster of 4 three-angled, oval nutlets that are gray, brown or black. They are marked with wrinkles and pitting."
+  ],
+  "flower-color": [
+    "Blue",
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The flowers can start out blue, turning purple and then pink. \n These trumpet shaped flowers each produce four brown or gray nutlet seeds which are surrounded by a husk covered in bristles.  That gives them a fuzzy look.  Flowers typically form on one side of the stem and have no stalks.  Of the 5 stamens, 2 are significantly longer than the other 3."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Plants form in a basal rosette of stalked leaves.  These leaves have no stems.  Each plant has two rounded seed leaves that can be found on short stalks.  The first true leaves are also rounded and have a central vein."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Plants can be both single stemmed or multi-stemmed.  They are covered with stiff hairs."
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Skin irritation and fever."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Stems"
+  ]
+}

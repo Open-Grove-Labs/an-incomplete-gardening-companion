@@ -1,0 +1,136 @@
+{
+  "fullName": "Juniperus horizontalis 'Blue Forest'",
+  "name": "juniperus-horizontalis-blue-forest",
+  "commonNames": [
+    "Blue Forest Juniper",
+    "Creeping Juniper"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/juniperus-horizontalis-blue-forest/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Juniperus",
+  "species": "horizontalis",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 9 in. - 1 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Horizontal",
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-description": [
+    "Conifers do not flower."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Purple/Lavender"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The blue-green branch tips turn up.  Evergreen, fragrant, and colorful, turning from blue to purple as the temperatures grow colder. Often grown for its foliage."
+  ],
+  "stem-color": [
+    "Blue",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Blue-green, plume-like, soft-textured, upright branches."
+  ],
+  "landscape-location": [
+    "Rock Wall",
+    "Slope/Bank",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Fairy Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Foundation Planting"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Erosion",
+    "Poor Soil"
+  ]
+}

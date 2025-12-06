@@ -1,0 +1,75 @@
+{
+  "fullName": "Pimpinella anisum",
+  "name": "pimpinella-anisum",
+  "commonNames": [
+    "Anise",
+    "Aniseed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pimpinella-anisum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pimpinella",
+  "species": "anisum",
+  "family": "Apiaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Egypt, middle east"
+  ],
+  "edibility": [
+    "Leaves and seeds as flavoring"
+  ],
+  "plant-type": [
+    "Edible",
+    "Herb"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "fruit-description": [
+    "Ovoid-pear shaped"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Leaves new the base are long-stalked and simple, leaves along the stem are compound with shorter stalks."
+  ],
+  "stem-is-aromatic": "N",
+  "uses": "Flavoring, seasoning"
+}

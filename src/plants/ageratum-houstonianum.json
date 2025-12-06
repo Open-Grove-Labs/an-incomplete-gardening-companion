@@ -1,0 +1,168 @@
+{
+  "fullName": "Ageratum houstonianum",
+  "name": "ageratum-houstonianum",
+  "commonNames": [
+    "Ageratum",
+    "Blue Billygoatweed",
+    "Bluemink",
+    "Floss Flower",
+    "Mexican Ageratum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ageratum-houstonianum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ageratum",
+  "species": "houstonianum",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "Central America"
+  ],
+  "wildlife-value": [
+    "Plant is seldom damaged by deer or rabbits and attracts butterflies."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Rabbits, deer, and drought. Some cultivars resistant to phytophthora."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 0 in.",
+    "Width: 0 ft. 10 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "Fruit is a cypsela which is a type of achene."
+  ],
+  "flower-color": [
+    "Blue",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Fluffy, aster-like flowers that grow in clusters.  Most commonly blue but can be pink or white. Terminal in clustered cymose heads; heads 1/4\" diameter; Involucral bracts imbricated in several series. Lavendar, blue to pink, or white, tubular with 5 small lobes; pistils exerted, styles forked."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Deltoid",
+    "Obtuse",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Alternate, ovate to deltoid, pilose on both sides to slightly downy, obtuse, cordate, crenate."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Semidecumbent, sometimes branched, green to reddish."
+  ],
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Drought Tolerant Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Rabbits"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

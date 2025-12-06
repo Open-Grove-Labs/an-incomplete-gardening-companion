@@ -1,0 +1,98 @@
+{
+  "fullName": "Vicia caroliniana",
+  "name": "vicia-caroliniana",
+  "commonNames": [
+    "Wood Vetch"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/vicia-caroliniana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Vicia",
+  "species": "caroliniana",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "fire-risk-rating": [
+    "extreme flammability"
+  ],
+  "wildlife-value": [
+    "Host plant for Northern Cloudywing butterfly. Seeds may be eaten by songbirds."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Moderate deer resistance."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Occasionally Dry"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Light pinkish white, pea-like flowers appear in spring."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "The leaves are pinnately compound and alternate with an entire margin and hairy underside."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The stem is hollow, hairy, and slightly winged."
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Dry Soil"
+  ]
+}

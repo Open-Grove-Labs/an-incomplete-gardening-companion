@@ -1,0 +1,94 @@
+{
+  "fullName": "Oxypetalum coeruleum",
+  "name": "oxypetalum-coeruleum",
+  "commonNames": [
+    "Tweedia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/oxypetalum-coeruleum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Oxypetalum",
+  "species": "coeruleum",
+  "family": "Apocynaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern Brazil, Uruguay"
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Semi-evergreen",
+    "Broadleaf Evergreen",
+    "Semi-evergreen"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "Long, boat-shaped seed pods.  Seeds have a downy tuft (cypsela) that allows them to be carried by the wind."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Blue 5-petaled flowers that fade to purple."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Downy, heart-shaped leaves"
+  ],
+  "stem-is-aromatic": "N"
+}

@@ -1,0 +1,150 @@
+{
+  "fullName": "Salvia leucantha",
+  "name": "salvia-leucantha",
+  "commonNames": [
+    "Mexican Bush Sage",
+    "Velvet Sage"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/salvia-leucantha/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Salvia",
+  "species": "leucantha",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico and Central America"
+  ],
+  "wildlife-value": [
+    "Flowers are attractive to hummingbirds and butterflies. This plant is resistant to damage by deer."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators"
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial",
+    "Perennial",
+    "Shrub"
+  ],
+  "habit/form": [
+    "Arching",
+    "Dense",
+    "Spreading"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-description": [
+    "Bicolor flowers with white corollas and purple calyces. The white does not appear until late summer into fall."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Linear, lance-shaped, gray-green leaves (to 4” long) have a soft, velvet-like feel."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Heat",
+    "Rabbits"
+  ]
+}

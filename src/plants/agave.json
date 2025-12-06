@@ -1,0 +1,179 @@
+{
+  "fullName": "Agave",
+  "name": "agave",
+  "commonNames": [
+    "Agave",
+    "Century Plant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/agave/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Agave",
+  "family": "Agavaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical USA, Mexico"
+  ],
+  "edibility": [
+    "Used to make a sugar substitute sweetener."
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 12 ft. 0 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Perennial",
+    "Poisonous",
+    "Succulent"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-description": [
+    "Clusters of berry-like seed pods."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Tubular"
+  ],
+  "flower-description": [
+    "Tall panicles of white, green or yellow tubular flowers in various sizes depending on the species.  The individual rosette will die back after flowering.  Flowering is rare in indoor environments."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gold/Yellow",
+    "Gray/Silver",
+    "Green",
+    "Variegated",
+    "White"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Prickly",
+    "Smooth",
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Oblanceolate",
+    "Obovate",
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Rosettes of stemless fleshy leaves with entire or serrated margins and pointed sharp tips in various sizes depending on the species.  Many have a glaucous coating on the surface and may be faceted."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Heat"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Poison part: Plant sap from leaves\nPoison Delivery Mode: Dermatitis\nSymptoms:     Skin irritation. Immediate burning and redness with developing blisters"
+  ],
+  "poison-toxic-principle": [
+    "Unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Sap/Juice"
+  ]
+}

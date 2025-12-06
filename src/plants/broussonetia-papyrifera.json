@@ -1,0 +1,192 @@
+{
+  "fullName": "Broussonetia papyrifera",
+  "name": "broussonetia-papyrifera",
+  "commonNames": [
+    "Paper Mullberry",
+    "Tapa Cloth Tree"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/broussonetia-papyrifera/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Broussonetia",
+  "species": "papyrifera",
+  "family": "Moraceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "East Asia, Japan, and China."
+  ],
+  "distribution": [
+    "Central and Southern United States",
+    "South America",
+    "Europe."
+  ],
+  "wildlife-value": [
+    "Fruits attract birds"
+  ],
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 50 ft. 0 in.",
+    "Width: 30 ft. 0 in. - 40 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub",
+    "Tree",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "On female trees purple-red aggregate fruit clusters in the shape of a round ball."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Seperate male and female trees.  Female rounded flower heads and male catkins 3 inches in length appear in April and May (male in pendulous catkins and female in rounded flower heads)."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Opposite",
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Dull green simple, alternate (sometimes opposite or whorled) oval to lobed to mitten shaped leaves with serrate margins up to 8 inches in length, rough on top and hairy below. Yellow-green fall color can be interesting."
+  ],
+  "bark-color": [
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Furrowed"
+  ],
+  "bark-description": [
+    "Gray bark matures over time to gray brown with furrows."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "New stems are hairy brownish-red."
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Poor Soil"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "Fiber from the bark is used in making paper, cloth, and rope. Also used in paper-making."
+}

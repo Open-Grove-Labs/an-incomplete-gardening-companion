@@ -1,0 +1,51 @@
+{
+  "fullName": "Linum lewisii",
+  "name": "linum-lewisii",
+  "commonNames": [
+    "Blue Flax"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/linum-lewisii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Linum",
+  "species": "lewisii",
+  "family": "Linaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Subarctica America to N. Mexico"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial"
+  ],
+  "flower-color": [
+    "Blue"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "attracts": [
+    "Bees"
+  ]
+}

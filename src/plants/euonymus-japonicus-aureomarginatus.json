@@ -1,0 +1,225 @@
+{
+  "fullName": "Euonymus japonicus 'Aureomarginatus'",
+  "name": "euonymus-japonicus-aureomarginatus",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/euonymus-japonicus-aureomarginatus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Euonymus",
+  "species": "japonicus",
+  "family": "Celastraceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Korea, Japan to Nansei-shoto"
+  ],
+  "distribution": [
+    "Naturalized in southern Europe."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "drought tolerant, slightly salt tolerant."
+  ],
+  "edibility": [
+    "Toxic when ingested in large quantities."
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 8 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Variegated forms have a tendency to revert to green. Fruit is a reddish, pink, ivory to yellow capsule, splitting and showing orange-red seeds. The 4-valved capsule is globose, pink, 1/3 of an inch long with white seeds. The pink fruits are capsules with red arils, mature in fall."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Greenish-white flowers in flat cymes in June. Small, 4-parted. Noted for its vinegary smell."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Variegated"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery",
+    "Smooth",
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Cuneate",
+    "Elliptical",
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Variegated opposite, leathery, glossy leaves are up to 3 inches long and ovate to obovate in shape. Tips are rounded and base is tapered. May revert back to green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stem has small dark glandular dot on each side petiole."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Pool/Hardscape",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Drought Tolerant Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge",
+    "Screen/Privacy",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Pollution",
+    "Poor Soil",
+    "Salt"
+  ],
+  "problems": [
+    "Frequent Disease Problems",
+    "Frequent Insect Problems",
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Vomiting, diarrhea, weakness, chills, coma, and convulsions when consumed in large quantities."
+  ],
+  "poison-toxic-principle": [
+    "Unidentified, possibly a glycoside"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

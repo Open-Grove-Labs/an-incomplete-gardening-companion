@@ -1,0 +1,117 @@
+{
+  "fullName": "Hesperocyparis macrocarpa 'Goldcrest Wilma'",
+  "name": "hesperocyparis-macrocarpa-goldcrest-wilma",
+  "commonNames": [
+    "Dwarf Lemon Cypress",
+    "Goldcrest Wilma",
+    "Wilma Goldcrest",
+    "Wilma Goldcrest Cypress"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hesperocyparis-macrocarpa-goldcrest-wilma/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hesperocyparis",
+  "species": "macrocarpa",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Open"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-description": [
+    "No fruits, cones."
+  ],
+  "flower-color": [
+    "Insignificant"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-description": [
+    "No flowers, evergreen"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Soft, bright gold juvenile foliage with a greenish tint that persists year-round. Foliage has a strong lemon scent."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Hedge",
+    "Small Tree",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Salt"
+  ]
+}

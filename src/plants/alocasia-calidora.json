@@ -1,0 +1,147 @@
+{
+  "fullName": "Alocasia 'Calidora'",
+  "name": "alocasia-calidora",
+  "commonNames": [
+    "Calidora Elephant Ear",
+    "Calidora Upright Elephant Ear",
+    "Elephant Ear",
+    "Persian Palm"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/alocasia-calidora/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Alocasia",
+  "family": "Araceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "play-value": [
+    "Colorful"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit-resistant"
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 9 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Perennial",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Vase"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet",
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-description": [
+    "Flowers in this genus consist of a spadix and spathe. Houseplants rarely flower."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Huge glossy, upright, green arrow-shaped and ribbed leaves up to 6 feet long and 3 feet wide."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Accent"
+  ],
+  "resistance-to-challenges": [
+    "Heat",
+    "Humidity"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Poisonous by ingestion, dermatitis, and eye injury. Symptoms may include painful irritation of lips, mouth, tongue, and throat after chewing; difficulty of speaking; nausea and diarrhea, vomiting, delirium, and death. People with a tendency to rheumatism, arthritis, gout, kidney stones, and hyperacidity should be especially cautious."
+  ],
+  "poison-toxic-principle": [
+    "Calcium oxalate crystals"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

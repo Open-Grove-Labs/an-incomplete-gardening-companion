@@ -1,0 +1,211 @@
+{
+  "fullName": "Eryngium aquaticum",
+  "name": "eryngium-aquaticum",
+  "commonNames": [
+    "Bitter Snakeroot",
+    "Corn-Snakeroot",
+    "Eryngo",
+    "Marsh Eryngo",
+    "Marsh Rattlesnake Master",
+    "Rattlesnake Master",
+    "Snakeroot"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/eryngium-aquaticum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Eryngium",
+  "species": "aquaticum",
+  "family": "Apiaceae",
+  "life-cycle": [
+    "Biennial",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern North America"
+  ],
+  "distribution": [
+    "AL",
+    "DC DE",
+    "FL",
+    "GA",
+    "MD",
+    "MS",
+    "NC",
+    "NJ",
+    "NY",
+    "PA",
+    "SC",
+    "VA"
+  ],
+  "wildlife-value": [
+    "Native bees as well as other pollinators are attracted to the flowers."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 6 in. - 4 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Good Dried",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Dome"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Tiny white 5 parted florets (sometimes with a blue or purplish tinge) bloom in summer in tight, rounded, flower heads.  The bloom near the top of the erect stems."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Its basal leaves are linear to oblong-lanceolate with entire to slightly toothed margins.  Its upper leaves can be toothed to laciniate.  Basal leaves can reach lengths of up to 3'."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Stiff, upright, ribbed, and branched stems."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cutting Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Dry Soil",
+    "Erosion",
+    "Poor Soil"
+  ],
+  "uses": "Moist wildflower garden"
+}

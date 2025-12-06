@@ -1,0 +1,151 @@
+{
+  "fullName": "Verbena brasiliensis",
+  "name": "verbena-brasiliensis",
+  "commonNames": [
+    "Brazilian Verbena",
+    "Brazilian Vervain"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/verbena-brasiliensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Verbena",
+  "species": "brasiliensis",
+  "family": "Verbenaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "South America"
+  ],
+  "distribution": [
+    "naturalized from Virginia to Florida and west along the gulf coast."
+  ],
+  "wildlife-value": [
+    "Attracts pollinators, especially butterflies"
+  ],
+  "plant-type": [
+    "Annual",
+    "Perennial",
+    "Weed"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Schizocarp"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The schizocarp contains two brown nutlets"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Long-lasting"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small blue, pink or purple flowers occur in loose terminal spikes. There are 5 lobes that are joined nearly to the apex. The corolla is bluish-purple and slightly protrudes from the calyx. Four stamens are on top of the corolla tube. All parts have hairs."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Simple green leaves have short stiff hairs, serrate margins and no stems (sessile). The base is long tapered and the tip is acute. The pinnate veins are sunken on the upper surface. Leaves are 1.5- 4 inches long and 1/3 to 1 inch wide."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Four-sided branched green stems with stiff hairs and ridges."
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

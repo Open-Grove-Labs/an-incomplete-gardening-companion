@@ -1,0 +1,160 @@
+{
+  "fullName": "Episcia cupreata",
+  "name": "episcia-cupreata",
+  "commonNames": [
+    "Flame Violet"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/episcia-cupreata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Episcia",
+  "species": "cupreata",
+  "family": "Gesneriaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Leaf Cutting",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Colombia, Venezuela, Brazil"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 8 in. - 1 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Houseplant",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Creeping"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Crimson red to orange with yellow throat, blooms seasonally. Solitary, red to orange, to 2.5 inches long; corolla salverform, villous, spurred at the base, and 5-lobed."
+  ],
+  "leaf-color": [
+    "Green",
+    "Orange",
+    "Purple/Lavender"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Oval green, up to 4 inches long, with undersides flecked with copper and purple. Opposite, simple, decussate, ovate, acute, cordate to rotund, slightly bullate, dark green with paler midrib, purple underneath. Grows in a rosette from which lateral runners grow."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Short hairy stems and reddish to green stolons that readily root"
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants",
+    "Patio"
+  ],
+  "resistance-to-challenges": [
+    "Humidity"
+  ]
+}

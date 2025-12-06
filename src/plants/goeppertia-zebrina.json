@@ -1,0 +1,130 @@
+{
+  "fullName": "Goeppertia zebrina",
+  "name": "goeppertia-zebrina",
+  "commonNames": [
+    "Peacock Plant",
+    "Zebra Plant",
+    "Zebra Prayer Plant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/goeppertia-zebrina/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Goeppertia",
+  "species": "zebrina",
+  "family": "Marantaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Brazil"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Multi-stemmed",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-description": [
+    "Rarely flowers"
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Raceme"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-description": [
+    "White and violet, bracts violet-brown. Rarely flowers in a pot."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Velvety dark green leaves have lime green along the veins, margins and spines giving it a striped look. The undersides are purple. They grow on 10-12 inch stems. They are oblong to elliptic with pointed tips and 15-20 inches long and 6-8 inches wide."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems are sheathed"
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ]
+}

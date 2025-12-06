@@ -1,0 +1,244 @@
+{
+  "fullName": "Tagetes tenuifolia",
+  "name": "tagetes-tenuifolia",
+  "commonNames": [
+    "Lemon Marigold",
+    "Signet Marigold",
+    "Stiped Mexican Marigold"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/tagetes-tenuifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Tagetes",
+  "species": "tenuifolia",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico, Central America, Columbia, Peru"
+  ],
+  "distribution": [
+    "Southern North America"
+  ],
+  "wildlife-value": [
+    "Flowers are attractive to bees, butterflies, and birds."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Colorful"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "This plant is seldom damaged by deer."
+  ],
+  "edibility": [
+    "The flowers of some cultivars have a pleasant citrus-like flavour and can be used sparingly as a flavouring or as a garnish."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 8 in. - 2 ft. 6 in.",
+    "Width: 0 ft. 9 in. - 2 ft. 6 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Mounding",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "Tufted seeds"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy",
+    "Variegated"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Dried",
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Blooms from early summer to fall, deadhead to promote longer bloom period.  Prolific bloomer though the flowers are smaller than African or French marigolds."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Filiform",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Lacy fern-like gland-dotted and aromatic; leaves opposite or alternate above, pinnately lobed and appearing divided, the lobes narrow and toothed.  Gland dotted and aromatic similar to lemon verbena when bruised."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "Y",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "The stem is striated, sometimes ridged, smooth or slightly with villi, cylindrical, oval and herbaceous to slightly woody, with resin channels in the bark, which are aromatic when squeezed."
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants",
+    "Patio",
+    "Pool/Hardscape"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Insect Pests"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Skin irritation is minor, or typically only lasting a few minutes"
+  ],
+  "poison-toxic-principle": [
+    "Phototoxic thiophene derivatives"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Roots",
+    "Sap/Juice"
+  ],
+  "uses": "Popular in the cut flower trade."
+}

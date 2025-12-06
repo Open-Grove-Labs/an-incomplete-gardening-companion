@@ -1,0 +1,52 @@
+{
+  "fullName": "Rosa 'Dortmund'",
+  "name": "rosa-dortmund",
+  "commonNames": [
+    "Dortmund rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-dortmund/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "dimensions": [
+    "Height: 8 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Rose",
+    "Vine"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Bright red with white center.  Single flat flowers produced in clusters; flowers throughout summer; long pointed buds"
+  ],
+  "leaf-color": [
+    "Orange"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

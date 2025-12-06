@@ -1,0 +1,212 @@
+{
+  "fullName": "Catharanthus roseus",
+  "name": "catharanthus-roseus",
+  "commonNames": [
+    "Annual Vinca",
+    "Madagascar Periwinkle",
+    "Periwinkle",
+    "Rose Periwinkle",
+    "Running Myrtle",
+    "Vinca"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/catharanthus-roseus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Catharanthus",
+  "species": "roseus",
+  "family": "Apocynaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Madagascar"
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Moderate to high drought tolerance. Seldom damaged by deer.  Some cultivars show good resistance to phytophthora."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 6 in.",
+    "Width: 0 ft. 8 in. - 0 ft. 10 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Semi-evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Follicle"
+  ],
+  "fruit-description": [
+    "fruits long, slender, often paired. Elongate follicles within one persisting calyx."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Axillary, solitary, rosy-pink to mauve to reddish, or white.  The calyx is green, tube slender, lobes subulate.  Corolla is salverform, bearing 5 glands apically on the tube, lobes often with prominent eyespot at the throat.  The ovary is two-chambered, splitting apart in fruit.  It blooms from June until frost."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong",
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves opposite, simple, smooth-margined. Oblong to elliptic-oblong to oblong-spatulate, glabrous, glossy with a pale midrib."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Erect to decumbent, upturned apically; lateral branches ascending."
+  ],
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Recreational Play Area",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Drought Tolerant Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Rabbits"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Vomiting, diarrhea, low blood pressure, hallucinations, depression, tremors, seizures, coma, death"
+  ],
+  "poison-toxic-principle": [
+    "Vinca Alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ],
+  "uses": "Chemical compounds in this plant led to a breakthrough in the treatment of modern-day cancer patients."
+}

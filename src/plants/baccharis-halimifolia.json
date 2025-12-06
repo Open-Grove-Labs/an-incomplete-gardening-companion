@@ -1,0 +1,214 @@
+{
+  "fullName": "Baccharis halimifolia",
+  "name": "baccharis-halimifolia",
+  "commonNames": [
+    "Consumptionweed",
+    "Consumption-Weed",
+    "Coyote Bush",
+    "Eastern Baccharis",
+    "High-tide Bush",
+    "Saltbush",
+    "Salt Marsh Elder",
+    "Sea Myrtle",
+    "Silverling"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/baccharis-halimifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Baccharis",
+  "species": "halimifolia",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern and south central USA"
+  ],
+  "wildlife-value": [
+    "Nectar attracts pollinators and insects, provides cover, and seeds are enjoyed by birds."
+  ],
+  "play-value": [
+    "Attracts Pollinators"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heat, drought, and soil compaction tolerant."
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 12 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 7 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Shrub",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Semi-evergreen",
+    "Deciduous",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Multi-stemmed",
+    "Multi-trunked",
+    "Open"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "White"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "The female plant is covered with cottony plume-like, pyramid-shaped achene that persists into early winter and is dispersed by wind. They resemble silver paintbrushes and are called pappi. Displays from September to November.\n\nSeeds are shed in late fall or winter, but the seeds of the female plant (this plant is dioecious) are poisonous. Wind dispersed seeds blow into landscapes during the winter months, making this a weedy plant."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "White-green flowers in terminal clusters (about 3.5 inches across) with several, narrow, tubular,  flowers per head that are 1/8\" long and having green-tipped bracts. They bloom from August to October."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "White"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Obovate",
+    "Ovate",
+    "Rhomboidal"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The thick foliage is covered with a white waxy layer, making it appear grey. Leaves are cuneate, alternate, simple, coarsely toothed, may be sessile, bright green to gray-green (and has a non-showy fall color), and are 1-3 inches long (and about 1/3 inches to just over 1 inch wide).\n\nThis plant has basal leaves too that resemble the shape of a rhombus and are serrate."
+  ],
+  "bark-description": [
+    "Wood is brittle."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Dry Soil",
+    "Erosion",
+    "Heat",
+    "Salt",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Weak Wood",
+    "Weedy"
+  ]
+}

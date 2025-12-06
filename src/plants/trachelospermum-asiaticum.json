@@ -1,0 +1,175 @@
+{
+  "fullName": "Trachelospermum asiaticum",
+  "name": "trachelospermum-asiaticum",
+  "commonNames": [
+    "Asian Star Jasmine",
+    "Asiatic Jasmine",
+    "Yellow Star Jasmine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/trachelospermum-asiaticum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Trachelospermum",
+  "species": "asiaticum",
+  "family": "Apocynaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Layering"
+  ],
+  "country-or-region-of-origin": [
+    "China, India, Japan and Korea"
+  ],
+  "wildlife-value": [
+    "Attracts songbirds."
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 12 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Creamy white clusters of fragrant flowers with a yellow tinge from late spring to early summer.  Flowers are smaller than T. jasminoides."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Glossy dark green simple, oppostice ovate to elliptical leaves 2 inches long with entire margins.  In the fall leaves can turn red-bronze. They are smaller than T. jasminoides."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Wiry, twining"
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Patio",
+    "Slope/Bank",
+    "Vertical Spaces",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge",
+    "Mass Planting",
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Diseases",
+    "Drought",
+    "Heavy Shade",
+    "Salt"
+  ]
+}

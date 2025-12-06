@@ -1,0 +1,197 @@
+{
+  "fullName": "Euphorbia prostrata",
+  "name": "euphorbia-prostrata",
+  "commonNames": [
+    "Ground Spurge",
+    "Prostrate Sandmat",
+    "Prostrate Spurge"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/euphorbia-prostrata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Euphorbia",
+  "species": "prostrata",
+  "family": "Euphorbiaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Parts of central and southern US, South America into Mexico"
+  ],
+  "distribution": [
+    "Various parts of the world."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Dry soils, heat tolerant."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 1 in. - 0 ft. 4 in.",
+    "Width: 0 ft. 1 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "habit/form": [
+    "Prostrate"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Extending out from the flower center is a 3-parted capsule with long spreading hairs on a short stalk with each part containing 1 seed.  The capsule initially hangs down becoming erect at maturity."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers are very small and are nearly indistinct.  Plants flower in summer and early fall, then die after frost.  Flowers are greenish-white."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves are small, oblong with a heart shaped base.  They are sparsely covered with white, curled or crinkled hairs.  Often the leaves contain a purplish-red color around the edge. Leaves exude a milky sap when broken."
+  ],
+  "stem-color": [
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-bud-scales": [
+    "No scales, covered in hair"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Stems are up to 12 inches long, typically prostrate, reddish colored, sparsely to densely covered in curled or crinkled hairs, and branching frequently, forming large circular mats.  Stems exude a milky sap when broken."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Meadow",
+    "Naturalized Area"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "The milky white latex sap found in all plant parts can cause mild to severe contact dermatitis. If contact with the eyes occurs the sap can cause temporary to permanent damage to the cornea. If eaten, blistering can occur on lips and oral mucosa. Avoid ingesting plant parts and keep plants away from pets and children."
+  ],
+  "poison-toxic-principle": [
+    "Diterpene esters in milky latex"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Sap/Juice",
+    "Stems"
+  ],
+  "uses": "Extracts from the plant are used in India as a treatment for hemorrhoids."
+}

@@ -1,0 +1,228 @@
+{
+  "fullName": "Berberis thunbergii 'Crimson Pygmy'",
+  "name": "berberis-thunbergii-crimson-pygmy",
+  "commonNames": [
+    "Crimson Pygmy Japanese Barberry",
+    "Japanese barberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/berberis-thunbergii-crimson-pygmy/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Berberis",
+  "species": "thunbergii",
+  "family": "Berberidaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Berries attract birds."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Buffer",
+    "Easy to Grow"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "urban conditions; heat; erosion; range of soil types, except wet; seldom damaged by deer; drought; pollution"
+  ],
+  "edibility": [
+    "Not poisonous, but berries contain berberine that can cause stomach upset, especially with children."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Dense",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Spines",
+    "Thorns"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "This plant has .2-in., red, oval berries in summer that persist into winter. Berries attract birds."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "This plant has waxy, pale yellow to orange to red flowers that bloom in April and May."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "This plant has alternate, simple, deep crimson leaves with bronze tinge. Leaves are .5 to .7 in.-long (though can reach 1.25 inches long) and can be greenish-red when grown in shade. This plant has a single spine at each node."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Some stems are brittle.\nThorns are attached to the stem."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Border",
+    "Hedge",
+    "Mass Planting",
+    "Screen/Privacy",
+    "Security",
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Erosion",
+    "Heat",
+    "Pollution",
+    "Salt",
+    "Urban Conditions"
+  ],
+  "problems": [
+    "Invasive Species",
+    "Problem for Children",
+    "Spines/Thorns"
+  ]
+}

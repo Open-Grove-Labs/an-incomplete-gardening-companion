@@ -1,0 +1,83 @@
+{
+  "fullName": "Cuscuta compacta",
+  "name": "cuscuta-compacta",
+  "commonNames": [
+    "Compact Dodder",
+    "Flower Love Vine",
+    "Love-vine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cuscuta-compacta/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cuscuta",
+  "species": "compacta",
+  "family": "Convolvulaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "Central & Eastern U.S.A"
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "plant-type": [
+    "Annual",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Small capsules with seeds"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Tubular"
+  ],
+  "flower-description": [
+    "This wildflower has clusters of tiny, white, lobed, bell-shaped flowers."
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "No leaves"
+  ],
+  "stem-color": [
+    "Gold/Yellow",
+    "Orange"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stem are orange to yellow with yarn-like stems twining around stems of surrounding plants."
+  ],
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

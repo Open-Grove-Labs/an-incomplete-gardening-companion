@@ -1,0 +1,237 @@
+{
+  "fullName": "Scrophularia marilandica",
+  "name": "scrophularia-marilandica",
+  "commonNames": [
+    "Carpenter's Square",
+    "Eastern Figwort",
+    "Late Figwort",
+    "Maryland Figwort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/scrophularia-marilandica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Scrophularia",
+  "species": "marilandica",
+  "family": "Scrophulariaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern and Central USA and Ontario, Canada"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "CT",
+    "DC",
+    "DE",
+    "F ",
+    "GA",
+    "IA",
+    "IL",
+    "IN",
+    "KS",
+    "KY",
+    "LA",
+    "MA",
+    "MD",
+    "ME",
+    "MI",
+    "MN",
+    "MO",
+    "MS",
+    "NC",
+    "NE",
+    "NH",
+    "NJ",
+    "NY",
+    "OH",
+    "OK",
+    "PA",
+    "RI",
+    "SC",
+    "SD",
+    "TN",
+    "TX",
+    "VA",
+    "VT",
+    "WI",
+    "WV\nCanada: ON"
+  ],
+  "wildlife-value": [
+    "Attracts bees, wasps, butterflies and hummingbirds to the flowers"
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Shrub",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Small teardrop-shaped capsule with many small seeds that splits in 2 sections when mature"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped",
+    "Urn"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Loose panicles up to 12 inches tall of small urn-shaped 2-lipped flowers appear in July through September. The inside of the flower is a reddish brown while the exterior is green to purplish. Individual flowers are 1/3 inch long."
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Large dull green leaves are ovate to lanceolate in shape with serrated margins and 4-7 inches long and 3 inches wide. A few hairs are present along the veins on the underside"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Grooved, square, many-branched green stems are covered in dark-tipped glandular hairs. May become woody at the base by fall."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Pond",
+    "Riparian",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "uses": "Has been used in herbal medicine"
+}

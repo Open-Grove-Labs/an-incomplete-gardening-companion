@@ -1,0 +1,205 @@
+{
+  "fullName": "Smilax maritima",
+  "name": "smilax-maritima",
+  "commonNames": [
+    "Bamboo Vine",
+    "Jacksonbrier",
+    "Jacksonvine",
+    "Lanceleaf Greenbrier",
+    "Southern Smilax"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/smilax-maritima/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Smilax",
+  "species": "maritima",
+  "family": "Smilacaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "SE. U.S.A. to E. Texas"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "LA ",
+    "MS ",
+    "NC ",
+    "OK ",
+    "SC ",
+    "TX ",
+    "VA"
+  ],
+  "wildlife-value": [
+    "Fruits are eaten by birds and mammals"
+  ],
+  "climbing-method": [
+    "Tendrils",
+    "Twining"
+  ],
+  "edibility": [
+    "The tuber is edible"
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Purple/Lavender"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Glaucus purple black berries on long stalks with 2-3 seeds"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "6 petals/rays",
+    "Tepals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Axillary umbles of 5-8 tiny green-yellow flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "3-4 inch long and 1-2 inches wide glabrous leaves, small amount of hair, simple, entire margins, alternate oblaceolate to oblong with three prominate veins."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Green"
+  ],
+  "bark-description": [
+    "Green, turning greenish-brown on older stems."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Zig-zag green stems become orange-red near the base.  Usually smooth glaborus but sometimes have prickles."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Meadow",
+    "Naturalized Area",
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Screen/Privacy"
+  ]
+}

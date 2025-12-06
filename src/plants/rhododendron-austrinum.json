@@ -1,0 +1,170 @@
+{
+  "fullName": "Rhododendron austrinum",
+  "name": "rhododendron-austrinum",
+  "commonNames": [
+    "Florida Azalea"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rhododendron-austrinum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rhododendron",
+  "species": "austrinum",
+  "family": "Ericaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "lower southeastern US"
+  ],
+  "wildlife-value": [
+    "Members of the genus Rhododendron support the following specialized bee: Andrena (Andrena) cornelli."
+  ],
+  "dimensions": [
+    "Height: 8 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Elongated capsule"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Orange"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Clear yellow, cream, gold-orange to almost red flowers in spring before leaves emerge"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Orange"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Orange"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Alternate, simple dark green leaves; yellow to bronze-orange fall color"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Houseplants",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "design-feature": [
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Hummingbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Salivation, watering of eyes and nose, abdominal pain, loss of energy, depression, nausea and vomiting, diarrhea, weakness, cardiac failure, difficult breathing, progressive paralysis of arms and legs, coma."
+  ],
+  "poison-toxic-principle": [
+    "Andromedotoxin, Grayantoxin"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

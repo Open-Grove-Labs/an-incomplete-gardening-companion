@@ -1,0 +1,171 @@
+{
+  "fullName": "Begonia incarnata",
+  "name": "begonia-incarnata",
+  "commonNames": [
+    "Metallic Leaf Begonia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/begonia-incarnata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Begonia",
+  "species": "incarnata",
+  "family": "Begoniaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Leaf Cutting",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico, Central America, Tropical America"
+  ],
+  "distribution": [
+    "Cuba",
+    "Dominican Republic"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant"
+  ],
+  "habit/form": [
+    "Dense",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The fruit is a capsule with 3 wings most probably with one wing larger then others."
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "Tepals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Large clusters of 1 inch flowers appear in summer and fall; pink with darker pink, almost red hairs; male flowers dominate."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Large (6 by 4 inch), ovate, asymmetrical leaves with a metallic sheen. Mature leaves are dark green with red veins underneath. New leaves are bright red both top and bottom. White hairs are sparse on top of the leaves and heavier underneath."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Sturdy, but thin, erect stems."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio"
+  ],
+  "design-feature": [
+    "Foundation Planting",
+    "Specimen"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Kidney failure (in grazing animals), vomiting, salivation in dogs/cats. The most toxic part is the underground roots. the sap may cause skin irriation."
+  ],
+  "poison-toxic-principle": [
+    "Soluble calcium oxalates"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Roots",
+    "Sap/Juice"
+  ]
+}

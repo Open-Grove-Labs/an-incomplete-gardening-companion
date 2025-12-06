@@ -1,0 +1,116 @@
+{
+  "fullName": "Larix kaempferi",
+  "name": "larix-kaempferi",
+  "commonNames": [
+    "Golden Larch",
+    "Japanese Larch"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/larix-kaempferi/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Larix",
+  "species": "kaempferi",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Central Japan"
+  ],
+  "dimensions": [
+    "Height: 50 ft. 0 in. - 70 ft. 0 in.",
+    "Width: 25 ft. 0 in. - 40 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Open",
+    "Pyramidal",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "2 to 3 in. erect green to purplish cones; golden brown in fall"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "White"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Orange"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-shape": [
+    "Acicular"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "1 to 2.5 in. narrow, sea green leaves; 2 white stripes on underside; yellow to orange red fall color; do not last long and fall off of the tree by winter"
+  ],
+  "surface/attachment": [
+    "Peeling"
+  ],
+  "bark-description": [
+    "Peels off in long strips."
+  ],
+  "stem-is-aromatic": "N",
+  "resistance-to-challenges": [
+    "Pollution"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "fullName": "Colchicum",
+  "name": "colchicum",
+  "commonNames": [
+    "Autumn Crocus",
+    "Meadow Saffron",
+    "Naked Ladies"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/colchicum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Colchicum",
+  "family": "Colchicaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eurasia and Africa"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "drought, rabbit, and deer"
+  ],
+  "bulb-storage": [
+    "Store corms in vermiculite at 63-68 degrees F (17-20 degrees C)"
+  ],
+  "edibility": [
+    "Highly toxic and possibly fatal if ingested."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 0 ft. 9 in.",
+    "Width: 0 ft. 6 in. - 0 ft. 9 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "display/harvest-time": [
+    "Spring"
+  ],
+  "fruit-description": [
+    "Seeds ripen in spring and early summer."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall"
+  ],
+  "flower-shape": [
+    "Cup",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Flowers 3 inches long, tubular, 6-parted, purple-pink to white, flowering in autumn."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Four to six lance-shaped, dark green, basel leaves to 14 inches long appear from spring through summer."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Lawn",
+    "Patio",
+    "Small Space",
+    "Walkways",
+    "Woodland"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Highly toxic and can be fatal if ingested. Cramping, vomiting, diarrhea, increased blood pressure, and respiratory failure can result."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloid colchicine"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

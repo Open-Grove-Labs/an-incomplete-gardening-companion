@@ -1,0 +1,210 @@
+{
+  "fullName": "Brassica napus",
+  "name": "brassica-napus",
+  "commonNames": [
+    "Colza",
+    "Neep",
+    "Neeps",
+    "Rape",
+    "Rutabaga",
+    "Rutabagas",
+    "Snagger",
+    "Snaggers",
+    "Swede",
+    "Swedes",
+    "Swedish Turnip",
+    "Swedish Turnips",
+    "Turnip Rooted Cabbage"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/brassica-napus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Brassica",
+  "species": "napus",
+  "family": "Brassicaceae",
+  "life-cycle": [
+    "Annual",
+    "Biennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Skandanavia and Russia"
+  ],
+  "distribution": [
+    "Northern United States and Europe",
+    "Canada and Great Britian"
+  ],
+  "wildlife-value": [
+    "attracts pollinators"
+  ],
+  "edibility": [
+    "The root is used as a vegetable, and, the foliage can be used as greens. The oil contained in the seed of some varieties of this species can be rich in erucic acid which is toxic. However, modern cultivars have been selected which are almost free of erucic acid."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 0 ft. 9 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Cool Season Vegetable",
+    "Edible",
+    "Vegetable"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "fruit-type": [
+    "Siliqua"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The flowers form a sickle-shaped pod with tiny round seeds.  The fruits dry and split when ripe."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Edible"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Cross"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The plant produces small 4-pttaled,1/2 inch light yellow flowers clustered at the top of a raceme."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth",
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Oblanceolate",
+    "Pinnatisect"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The leaves grow from a stout and swollen stem that is close to the ground and forms the crown of the plant. The leaves are thick and lobed with a bluish tint."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stout and swollen, close to the ground and it forms the crown of the plant."
+  ],
+  "landscape-location": [
+    "Container",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "uses": "root vegetable, vegetable oil, animal feed"
+}

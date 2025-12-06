@@ -1,0 +1,109 @@
+{
+  "fullName": "Pinus pinaster",
+  "name": "pinus-pinaster",
+  "commonNames": [
+    "Cluster Pine",
+    "Maritime Pine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pinus-pinaster/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pinus",
+  "species": "pinaster",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "France, Spain and Portugal"
+  ],
+  "wildlife-value": [
+    "This plant supports Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Open",
+    "Oval",
+    "Spreading"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "Produces cones. The seed cones are 4-8 inches long and green turning to a chestnut brown They take 2 years to mature and then open slowly to release seed over a period of time."
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "No flowers"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Long spreading, green to yellow-green needles with finely serrated margins in clusters of 2 but sometimes 3."
+  ],
+  "bark-color": [
+    "Black",
+    "Dark Brown",
+    "Red/Burgundy"
+  ],
+  "bark-description": [
+    "Thick, scaly, fissured pattern"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Recreational Play Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Nighttime Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "attracts": [
+    "Moths",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

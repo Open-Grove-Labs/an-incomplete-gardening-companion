@@ -1,0 +1,126 @@
+{
+  "fullName": "Lolium multiflorum",
+  "name": "lolium-multiflorum",
+  "commonNames": [
+    "Annual Ryegrass",
+    "Italian Ryegrass",
+    "Rye Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lolium-multiflorum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lolium",
+  "species": "multiflorum",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Annual",
+    "Biennial"
+  ],
+  "country-or-region-of-origin": [
+    "Europe"
+  ],
+  "distribution": [
+    "Throughout USA and worldwide."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 2 in. - 0 ft. 6 in.",
+    "Width: 0 ft. 8 in. - 0 ft. 10 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Turfgrass",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Winter"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Spike with spikelets."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "2-3 feet long narrow shiny green leaves are sharp-pointed, with a bright green, dull upper surface, deeply ridged, lower surface smooth, glossy and slightly creased, with smooth edges."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn"
+  ],
+  "resistance-to-challenges": [
+    "Foot Traffic"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

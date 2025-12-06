@@ -1,0 +1,166 @@
+{
+  "fullName": "Onoclea sensibilis",
+  "name": "onoclea-sensibilis",
+  "commonNames": [
+    "Bead Fern",
+    "Sensitive Fern"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/onoclea-sensibilis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Onoclea",
+  "species": "sensibilis",
+  "family": "Onocleaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting"
+  ],
+  "wildlife-value": [
+    "It provides excellent ground cover for animals."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Highly resistant to damage from deer."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Fern",
+    "Native Plant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Creeping"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-description": [
+    "No fruits or seeds. This plants reproduces via spores."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Good Dried"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Fronds"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Rhomboidal"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The sensitive fern has broad, almost triangular fronds. The sterile fronds are deeply pinnatified to bipinnatified, and thin texture. The fronds of most pinnae are nearly opposite, the rachis is smooth, pale tan or yellow. The fronds turn yellow or russet in the fall. Fertile fronds emerge in late summer, are woody with beadlike segments, brown and persist into winter. Stipes are long (one half to two-thirds of frond), network veined. It is dimorphic (occurring in or representing two distinct forms)."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Garden for the Blind",
+    "Native Garden",
+    "Rain Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Heavy Shade"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

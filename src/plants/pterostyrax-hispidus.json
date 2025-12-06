@@ -1,0 +1,103 @@
+{
+  "fullName": "Pterostyrax hispidus",
+  "name": "pterostyrax-hispidus",
+  "commonNames": [
+    "Epaulettetree"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pterostyrax-hispidus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pterostyrax",
+  "species": "hispidus",
+  "family": "Styracaceae",
+  "country-or-region-of-origin": [
+    "Japan"
+  ],
+  "dimensions": [
+    "Height: 20 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 20 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Open",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "5 to 10 in. panicles of creamy white flowers in early summer; fragrant; .5 in. dry drupe in panicles"
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "3 to 7.5 in. alternate, simple leaves; dark green above, silvery green underneath; yellow fall color"
+  ],
+  "stem-is-aromatic": "N"
+}

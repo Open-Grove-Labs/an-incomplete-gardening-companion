@@ -1,0 +1,110 @@
+{
+  "fullName": "Malus domestica 'Jonagold'",
+  "name": "malus-domestica-jonagold",
+  "commonNames": [
+    "Jonagold Apple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/malus-domestica-jonagold/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Malus",
+  "species": "domestica",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting"
+  ],
+  "country-or-region-of-origin": [
+    "United States, New York"
+  ],
+  "wildlife-value": [
+    "pollinators during spring flowering"
+  ],
+  "play-value": [
+    "Attracts Pollinators"
+  ],
+  "edibility": [
+    "It forms large and sweet fruit with a thin skin. It is crisp, juicy, aromatic and has a sour-sweet taste."
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Good Dried"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Pome"
+  ],
+  "fruit-description": [
+    "The fruit (apple) is bright red with a yellow-green basic color showing through the red. There is usually a splash of yellow-green color on the apple."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "A white flower cluster is formed in mid-spring. The five snow-white petals provide a beautiful display."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Edible Garden"
+  ]
+}

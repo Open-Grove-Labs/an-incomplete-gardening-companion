@@ -1,0 +1,161 @@
+{
+  "fullName": "Eriophorum latifolium",
+  "name": "eriophorum-latifolium",
+  "commonNames": [
+    "Broad-leaved Bog-cotton",
+    "Broad Leaved Cotton Grass",
+    "Broad-leaved Cotton-grass",
+    "Cotton Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/eriophorum-latifolium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Eriophorum",
+  "species": "latifolium",
+  "family": "Cyperaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Asia"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Verticillium Wilt"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ornamental Grasses and Sedges",
+    "Perennial",
+    "Water Plant"
+  ],
+  "habit/form": [
+    "Ascending"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Good Dried",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Clusters of spikes off the stem, usually oval initially and then are cone shaped or fanlike due to the thin tassels as seeds appear. Each flower has at its base a single scale, with a spike tip. The flower appears like a soft cotton cloud from a distance. Up close, very thin strands make up the flower. It can be used as a cut flower."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaf stems are triangular, as are all sedge leaves, though this sedge 'leaf' is a bit flatter than the more triangular augustifolium (narrow leaf cottongrass). The leaves are flat and alternately placed on the stem, up to 8-10 mm wide. The leaf is up to 16 inches long. The uppermost leaf is about as long as or longer than its sheath."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Rain Garden",
+    "Water Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Mass Planting",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ]
+}

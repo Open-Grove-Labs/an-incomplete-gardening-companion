@@ -1,0 +1,219 @@
+{
+  "fullName": "Cirsium",
+  "name": "cirsium",
+  "commonNames": [
+    "Cirsium",
+    "Plume Thistle"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cirsium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cirsium",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Biennial",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Asia, Africa, Southern America and Northern America"
+  ],
+  "distribution": [
+    "From Canada to Florida",
+    "coast to coast"
+  ],
+  "wildlife-value": [
+    "Members of the genus Cirsium support the following specialized bees: Melissodes (Heliomelissodes) desponsus, Osmia (Helicosmia) chalybea and Osmia (Helicosmia) texana. Birds eat the seeds."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer don't bother them."
+  ],
+  "edibility": [
+    "Has been used for food in some countries."
+  ],
+  "plant-type": [
+    "Herb",
+    "Native Plant",
+    "Weed",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Seeds are produced singly in a flat, dark brown fruit about 1/10 of an inch long. Seeds produce a feathery pappus (similar to dandelion ‘seeds’) which help disperse the seeds."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Dome"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Numerous disc florets that are divided into 5 long thread-like lobes giving it a showy hair-like appearance. Spines present in the numerous bracts below the flower."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblanceolate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Most have a basal leaf arrangement and alternate stem leaves with pronounced stiff spines along the edges.  Natives can be easily identified to have stiff hairs on the upper surface, but softer white hairs below."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Green, occasionally finely grooved longitudinally."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds",
+    "Moths",
+    "Pollinators",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "problems": [
+    "Invasive Species",
+    "Spines/Thorns",
+    "Weedy"
+  ]
+}

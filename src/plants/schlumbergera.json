@@ -1,0 +1,86 @@
+{
+  "fullName": "Schlumbergera",
+  "name": "schlumbergera",
+  "commonNames": [
+    "Christmas Cactus",
+    "Crab Cactus",
+    "Holiday Cactus",
+    "Thanksgiving Cactus"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/schlumbergera/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Schlumbergera",
+  "family": "Cactaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "plant-type": [
+    "Epiphyte",
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Perennial",
+    "Succulent"
+  ],
+  "habit/form": [
+    "Arching",
+    "Rounded",
+    "Weeping"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "Tepals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Bilaterally symmetrical flowers emerge from areoles at the ends of the stems.  The \"petals\" are actually tepals and are brightly colored and showy.  Depending on the species, they bloom between early winter and early spring."
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "What appear to be leaves are actually the segmented stem."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Segmented stems that branch into a \"Y\" shape.  Each cladode may be serrate or crenate on the margins and have areoles at the tips where the flowers or hairs emerge."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ]
+}

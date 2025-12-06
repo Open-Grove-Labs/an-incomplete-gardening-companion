@@ -1,0 +1,168 @@
+{
+  "fullName": "Catalpa ovata",
+  "name": "catalpa-ovata",
+  "commonNames": [
+    "Chinese catalpa",
+    "Japanese Catalpa",
+    "Yellow Catalpa"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/catalpa-ovata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Catalpa",
+  "species": "ovata",
+  "family": "Bignoniaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "China"
+  ],
+  "wildlife-value": [
+    "Larval food source for the sphix moth caterpillar."
+  ],
+  "dimensions": [
+    "Height: 20 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 20 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Rounded",
+    "Spreading"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Slender green seed pods mature to brown 16\" long 1/3\" wide split lengthwise to reveal  white fluffy seeds"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "3/4\" yellow-white with purple and orange spots, bell-shaped flowers on 10\" long panicles.  Flowers that resemble orchids appear in late spring, not as showy as C. bignoniodes."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Insignificant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Large 10\" long and wide ovate light green entire to lobed margins. Cordate at the base and pointed at the tips.  Smooth except for hairy veins on the undersides.  insignificant yellow fall color."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Fissured",
+    "Ridges"
+  ],
+  "bark-description": [
+    "Ridged and fissured gray-brown"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Rain Garden"
+  ],
+  "design-feature": [
+    "Flowering Tree",
+    "Shade Tree"
+  ],
+  "attracts": [
+    "Moths"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Dry Soil",
+    "Poor Soil",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Weak Wood",
+    "Weedy"
+  ]
+}

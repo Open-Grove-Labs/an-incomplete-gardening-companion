@@ -1,0 +1,143 @@
+{
+  "fullName": "Pityopsis graminifolia",
+  "name": "pityopsis-graminifolia",
+  "commonNames": [
+    "Narrow-leaf Silkgrass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pityopsis-graminifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pityopsis",
+  "species": "graminifolia",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "North America"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Pollinator"
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herb",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Horizontal"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "2 in. clusters of bright-yellow, daisy-like flowers on 2 1/2 ft. stems.  Blooms better the more sun it receives."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Silvery, grass-like leaves, to 1 ft. long."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "2 1/2' stems"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Lawn",
+    "Meadow",
+    "Naturalized Area",
+    "Patio",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Dry Soil"
+  ]
+}

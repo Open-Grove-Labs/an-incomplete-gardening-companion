@@ -1,0 +1,148 @@
+{
+  "fullName": "Asarum",
+  "name": "asarum",
+  "commonNames": [
+    "Wild Ginger"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/asarum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Asarum",
+  "family": "Aristolochiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Northern Hemisphere"
+  ],
+  "distribution": [
+    "Northern Hemisphere"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 0 ft. 10 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Semi-evergreen",
+    "Broadleaf Evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Purple/Lavender"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-description": [
+    "Eearly spring purplish-brown, hairy, jug-like flowers appear at the soil line under the leaves."
+  ],
+  "leaf-color": [
+    "Cream/Tan",
+    "Gray/Silver",
+    "Variegated"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Paired, heart-shaped leaves with various forms of variegation."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Patio",
+    "Small Space",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heavy Shade"
+  ]
+}

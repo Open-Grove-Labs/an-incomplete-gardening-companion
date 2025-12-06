@@ -1,0 +1,153 @@
+{
+  "fullName": "Dendropanax trifidus",
+  "name": "dendropanax-trifidus",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dendropanax-trifidus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dendropanax",
+  "species": "trifidus",
+  "family": "Araliaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Korea, Central and Southern Japan, Taiwan"
+  ],
+  "wildlife-value": [
+    "Birds enjoy the fruits. Flowers attract bees and beneficial wasps."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 7 ft. 0 in. - 12 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Broad",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Black",
+    "White"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "White berries turning black in the fall."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Solitary",
+    "Umbel"
+  ],
+  "flower-description": [
+    "Yellowish-green flowers are terminal, solitary umbels or more often 2 to 5 flowers including late blooming male flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cuneate",
+    "Elliptical",
+    "Obtuse",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Large glossy three lobed leaves on juvenile plants. Leaf blade often dimorphic. Unlobed blades are ovate or elliptic to broadly ovate. Three-veined at the base, secondary veins are raised on both surfaces. Lobed blades on juvenile plants become entire on mature plants."
+  ],
+  "bark-color": [
+    "Light Brown"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Flowering Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ]
+}

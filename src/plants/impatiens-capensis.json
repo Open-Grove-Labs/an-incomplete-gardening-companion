@@ -1,0 +1,167 @@
+{
+  "fullName": "Impatiens capensis",
+  "name": "impatiens-capensis",
+  "commonNames": [
+    "Jewelweed",
+    "Jewel Weed",
+    "Orange Jewelweed",
+    "Touch-me-not"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/impatiens-capensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Impatiens",
+  "species": "capensis",
+  "family": "Balsaminaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Northern America"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Its flowers are attractive to Ruby Throated hummingbirds in the late summer and fall. Flowers provide nectar to pollinators from June until the first frost."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "This plant is moderately resistant to damage from deer and resistant to fire in the landscape."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 1 ft. 6 in. - 2 ft. 6 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herb",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Flowers give way to slender seed capsules which when ripe explosively split open at a touch dispersing the tiny seeds within in all directions, hence the common name of touch-me-not."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Jewelweed features 1\" long, rear-spurred, cornucopia-shaped, orange to orange-yellow flowers with reddish-brown spotting. The flowers bloom from June to frost. Each flower dangles from a leaf axil on its own slender stalk. The flower has three sepals with the lower one extended backward as a spur. Each has five petals of unequal size and five stamens. The pistil is composed of five united carpels."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Jewelweed has oval, coarsely-toothed, bluish-green leaves (to 3.5\" long). The leaves are alternate with thin elliptic to egg-shaped leaves with coarsely toothed margins. The underside of the leaves are partly fuzzy. The leaves are 1.5-3.5 inches long. Native Americans used the watery plant juices to relieve itching associated with poison ivy, stinging nettle, and insect bites"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Pond",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators",
+    "Small Mammals"
+  ],
+  "resistance-to-challenges": [
+    "Fire",
+    "Wet Soil"
+  ]
+}

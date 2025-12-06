@@ -1,0 +1,54 @@
+{
+  "fullName": "Lolium arundinaceum",
+  "name": "lolium-arundinaceum",
+  "commonNames": [
+    "Tall Fescue"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lolium-arundinaceum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lolium",
+  "species": "arundinaceum",
+  "family": "Poaceae",
+  "plant-type": [
+    "Turfgrass",
+    "Weed"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Linear blades are thick and wide with prominent veins running parallel along the entire length of the blade. The margins are toothed. The underside of the leaf may be shiny. Emerging leaves are rolled in the bud which is unusual for grasses."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn"
+  ]
+}

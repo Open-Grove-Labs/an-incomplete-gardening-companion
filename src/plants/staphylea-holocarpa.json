@@ -1,0 +1,130 @@
+{
+  "fullName": "Staphylea holocarpa",
+  "name": "staphylea-holocarpa",
+  "commonNames": [
+    "Chinese Bladdernut"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/staphylea-holocarpa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Staphylea",
+  "species": "holocarpa",
+  "family": "Staphyleaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Tibet to Central & Southern China"
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Broad"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "1.5 to 2 inch capsule.  Capsule inflated to pear-shape, base narrow, apex truncate with 3 openings. Seeds shining brown."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Inflorescence displays as a broad, 4 inch long, pendulous panicle, flowering before the leaves have fully emerged. Half-inch flowers of white or soft rosy-pink that bloom in May and June."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Leaves are trifoliolate, mid-green above and paler beneath, sometimes emerging with a bronze flush. Lateral leaflets are subsessile, 1.5 inch petiolule of terminal leaflet; 4 inch leaflets, glabrous or densely pubescent on lower surface when young and pubescent along veins when mature, margin serrulate with hard teeth, apex narrowly acuminate."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Slope/Bank"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Small Tree"
+  ]
+}

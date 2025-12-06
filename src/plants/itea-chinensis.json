@@ -1,0 +1,121 @@
+{
+  "fullName": "Itea chinensis",
+  "name": "itea-chinensis",
+  "commonNames": [
+    "Chinese Sweetspire"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/itea-chinensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Itea",
+  "species": "chinensis",
+  "family": "Iteaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Vietnam and Myanmar"
+  ],
+  "play-value": [
+    "Attractive Flowers"
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Arching"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Pendulous flowers"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Glossy dark green leaves."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "bark-description": [
+    "glabrous"
+  ],
+  "stem-color": [
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area"
+  ],
+  "design-feature": [
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ]
+}

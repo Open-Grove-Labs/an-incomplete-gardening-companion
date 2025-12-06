@@ -1,0 +1,99 @@
+{
+  "fullName": "Pinguicula caerulea",
+  "name": "pinguicula-caerulea",
+  "commonNames": [
+    "Blue Butterwort",
+    "Blueflower Butterwort",
+    "Violet Butterwort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pinguicula-caerulea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pinguicula",
+  "species": "caerulea",
+  "family": "Lentibulariaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Southeast USA"
+  ],
+  "plant-type": [
+    "Carnivorous",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "flower-color": [
+    "Blue",
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Tiny violet flower on a leafless, sticky, hairy stalk.  Corolla has five deeply notched lobes and a spur."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Undulate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Up to 2\" yellow-green strap-like, shiny, sticky basal leaves with rolled-up edges"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Native Garden"
+  ]
+}

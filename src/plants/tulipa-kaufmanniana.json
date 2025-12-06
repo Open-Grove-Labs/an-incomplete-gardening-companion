@@ -1,0 +1,170 @@
+{
+  "fullName": "Tulipa kaufmanniana",
+  "name": "tulipa-kaufmanniana",
+  "commonNames": [
+    "Kaufmanniana Tulips",
+    "Water Lily Tulips"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/tulipa-kaufmanniana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Tulipa",
+  "species": "kaufmanniana",
+  "family": "Liliaceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "country-or-region-of-origin": [
+    "Turkistan"
+  ],
+  "plant-type": [
+    "Bulb"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Red/Burgundy",
+    "Variegated",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Flowers are white, cream, yellow or red and variegated, cup-shaped, erect, often fragrant; tepals 6, to 11 cm, free, in 2 whorls, apex acute, marked basally with yellow blotch; anthers yellow; stigma 3-lobed, prominent."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "Variegated"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Leaves are 2-5, simple, alternate, lanceolate to oblanceolate, acute, clasping, slightly undulate, pale gray-green, sometimes mottled, 12 x 6 inches."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Stem is green, often tinged red, to 20 inches."
+  ],
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Cutting Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Vomiting, depression, diarrhea, hypersalivation. Highest concentration of toxin in bulb."
+  ],
+  "poison-toxic-principle": [
+    "Tulipalin A and B"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ]
+}

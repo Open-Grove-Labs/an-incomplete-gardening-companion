@@ -1,0 +1,351 @@
+{
+  "fullName": "Solanum dulcamara",
+  "name": "solanum-dulcamara",
+  "commonNames": [
+    "Bitter Nightshade",
+    "Bittersweet",
+    "Bittersweet Nightshade",
+    "Blue Blindweed",
+    "Blue Nightshade",
+    "Climbing Nightshade",
+    "Devil's Apple",
+    "European Bittersweet",
+    "Fellonwort",
+    "Felonwood",
+    "Poisonous Nightshade",
+    "Scarlet Berry",
+    "Snakeberry",
+    "Soda Apple",
+    "Violet Bloom",
+    "Wolfgrape",
+    "Woody Nightshade"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/solanum-dulcamara/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Solanum",
+  "species": "dulcamara",
+  "family": "Solanaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Azores, temperate Eurasia to North Indo-China, Northwest Africa"
+  ],
+  "distribution": [
+    "Native:  Afghanistan",
+    "Algeria",
+    "Austria",
+    "Azores",
+    "Baltic States",
+    "Belgium",
+    "Bulgaria",
+    "Central European Russia",
+    "China",
+    "Czechoslovakia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Great Britain",
+    "Greece",
+    "Hungry",
+    "Iran",
+    "Iraq",
+    "Ireland",
+    "Italy",
+    "Japan",
+    "Lebanon-Syria",
+    "Manchuria",
+    "Mongolia",
+    "Netherlands",
+    "Poland",
+    "Portugal",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "Tibet",
+    "Turkey",
+    "Ukraine",
+    "Vietnam",
+    "and Yugoslavia;\nIntroduced: United States--CA",
+    "CO",
+    "CT",
+    "DE",
+    "DC",
+    "FL",
+    "GA",
+    "ID",
+    "IL",
+    "IN IA",
+    "KS",
+    "KY",
+    "ME",
+    "MD",
+    "MA",
+    "MI",
+    "MN",
+    "MO",
+    "MT",
+    "NE",
+    "NV",
+    "NH",
+    "NJ",
+    "NM",
+    "NY",
+    "NC",
+    "ND",
+    "OH",
+    "OK",
+    "OR",
+    "PA",
+    "RI",
+    "SD",
+    "TN",
+    "UT",
+    "VT",
+    "VA",
+    "WA",
+    "WV",
+    "WI",
+    "and WY; Canada--British Columbia",
+    "New Brunswick",
+    "Newfoundland",
+    "Nova Scotia",
+    " Ontario",
+    "Prince Edward Island",
+    "Quebec",
+    "and Saskatchewan; Brazil",
+    "Tasmania;"
+  ],
+  "wildlife-value": [
+    "The berries are eaten by some birds and mammals. The flowers are attractive to bumblebees. The plant provides shelter and nesting for wildlife."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Nesting"
+  ],
+  "climbing-method": [
+    "Scrambler"
+  ],
+  "edibility": [
+    "The plant is toxic, especially the leaves and berries, and is non-edible."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 8 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub",
+    "Vine",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruits are clusters of green berries that ripen to a bright shiny red. They are oval and measure 3/8 to 1/2 inches in diameter. They ripen during the summer and fall. The berries contain many tiny yellow seeds."
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers appear in clusters and hang toward the ground. Each flower measures 3/4 inches in diameter. It has five bright purple petals that curve backward and has a protruding yellow column of stamens in the center of the bloom. Occasionally, the flower petals are white."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves are alternate, simple, and have entire margins. Each leaf is ovate frequently has basal lobes. The leaf color is dark green on the upper surface and is light green beneath.  The leaf surface is smooth to sparsely hairy. The leaf measures 1.25 to 4 inches long and is 0.75 to 2.5 inches wide. When the leaves are bruised or crushed, they have an unpleasant odor."
+  ],
+  "bark-color": [
+    "Light Brown"
+  ],
+  "surface/attachment": [
+    "Lenticels"
+  ],
+  "bark-description": [
+    "The bark is light brown, thin, and has lenticels."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The stems are many-branched and may be smooth to sparsely hairy. The young stems are purple and then turn greenish-brown and do not have tendrils. The lower stems are woody.  The stems are stiff, erect, and climbing with a hollow pith and single bundle scar. When the stems are crushed or bruised, they have an unpleasant odor."
+  ],
+  "landscape-location": [
+    "Pond",
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Songbirds"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Highly toxic, may be fatal if eaten. Nausea, vomiting, salivation, drowsiness, abdominal pain, low blood pressure, low heart rate, diarrhea, dilated pupils, weakness, respiratory depression; may be fatal to humans, pets, and livestock."
+  ],
+  "poison-toxic-principle": [
+    "Solanine and other alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ],
+  "uses": "The plant was used as a medicine and was listed in the British Pharmacopeia until 1907.  The bark of the roots, twigs, and leaves was used to make medicines. An ointment was prepared to treat skin diseases, warts, tumors, and felons. Other uses included diuresis, treatment for a weak heart, and induce vomiting."
+}

@@ -1,0 +1,243 @@
+{
+  "fullName": "Crataegus nitida",
+  "name": "crataegus-nitida",
+  "commonNames": [
+    "Fairy Thorn",
+    "Glossy Hawthorn",
+    "Hawthorn",
+    "Hedge Thorn",
+    "May Haw",
+    "Shining Hawthorn",
+    "Thorn Apple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/crataegus-nitida/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Crataegus",
+  "species": "nitida",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Northern and Eastern United States"
+  ],
+  "distribution": [
+    "AR",
+    "IL",
+    "MO",
+    "OH",
+    "PA",
+    "TN",
+    "WI"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "This plant provides nectar for pollinators.  It is a larval host plant for Gray Hairstreak (Strymon melinus), Red-spotted Purple (Limenitis arthemis astyanax), and Viceroy (Limenitis archippus). Red-spotted Purple and Viceroy rarely use this host plant in North Carolina."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "The edible fruit are eaten by birds much more than by humans."
+  ],
+  "dimensions": [
+    "Height: 20 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 20 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Horizontal",
+    "Multi-stemmed",
+    "Multi-trunked",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Spring",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Pome"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "3/8 inch rounded reddish fruits ripen in the fall and may persist till spring. Enjoyed by birds."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Dome"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "White dome-shaped flowers in corymbs of 10 to 20 blooms appear in April-May and have an unpleasant odor that attracts midges for fertilization. Individual flowers are 1/2 inch long."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong",
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The alternate 1 to 3 inch leaves are elliptic to oblong-obovate. The margins are coarsely serrated and slightly lobed, while the apex is acuminate and the base cuneate. The leaf undersides are paler than their dark green upper surfaces. Fall color is orange-red."
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Scaly"
+  ],
+  "bark-description": [
+    "Bark is thin and gray. Mature trunk bark broken into gray-brown plate-like scales."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems are chestnut brown and sometimes have thorns depending on their age."
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Flowering Tree",
+    "Hedge",
+    "Mass Planting",
+    "Screen/Privacy",
+    "Security"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Fire",
+    "Pollution"
+  ],
+  "problems": [
+    "Problem for Children",
+    "Spines/Thorns"
+  ],
+  "uses": "The wood is strong, hard, and heavy, but has little commercial value."
+}

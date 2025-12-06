@@ -1,0 +1,69 @@
+{
+  "fullName": "Pancratium maritimum",
+  "name": "pancratium-maritimum",
+  "commonNames": [
+    "Spider Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pancratium-maritimum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hymenocallis",
+  "species": "caroliniana",
+  "family": "Amaryllidaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "plant-type": [
+    "Bulb",
+    "Houseplant",
+    "Perennial",
+    "Poisonous",
+    "Water Plant"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-description": [
+    "Umbel of 3 to 6 white spider-like flowers; very fragrant"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Thick strap-like leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Water Garden"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Poison Part:  Bulbs\nPoison Delivery Mode:  Ingestion\nSymptoms:  Nausea, vomiting, and diarrhea"
+  ],
+  "poison-toxic-principle": [
+    "Lycorine and other phenanthridine alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Roots"
+  ]
+}

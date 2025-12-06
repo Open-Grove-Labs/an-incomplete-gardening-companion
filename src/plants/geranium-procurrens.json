@@ -1,0 +1,121 @@
+{
+  "fullName": "Geranium procurrens",
+  "name": "geranium-procurrens",
+  "commonNames": [
+    "Trailing Geranium"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/geranium-procurrens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Geranium",
+  "species": "procurrens",
+  "family": "Geraniaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "wildlife-value": [
+    "Attracts pollinators"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Mounding",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-type": [
+    "Schizocarp"
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Violet 5-petaled flowers with darker veins are 1 inch across"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Deeply lobed green leaves"
+  ],
+  "stem-color": [
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Reddish stems"
+  ],
+  "landscape-location": [
+    "Container",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "English Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ]
+}

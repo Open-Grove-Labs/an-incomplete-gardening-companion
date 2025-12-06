@@ -1,0 +1,137 @@
+{
+  "fullName": "Populus tremuloides",
+  "name": "populus-tremuloides",
+  "commonNames": [
+    "Quaking Aspen"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/populus-tremuloides/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Populus",
+  "species": "tremuloides",
+  "family": "Salicaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "North America, NC"
+  ],
+  "play-value": [
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wind Shimmer"
+  ],
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 50 ft. 0 in.",
+    "Width: 20 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Pyramidal",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "1a",
+    "1b",
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b"
+  ],
+  "fruit-color": [
+    "White"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Blue",
+    "Gray/Silver"
+  ],
+  "flower-inflorescence": [
+    "Catkin"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Silver catkins appear before leaves"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Petioles are flattened which makes the leaves \"quake\" in the wind."
+  ],
+  "bark-color": [
+    "Green",
+    "Light Gray",
+    "White"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Smooth"
+  ],
+  "bark-description": [
+    "Smooth silvery white-green becomes furrowed with age"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Recreational Play Area"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Native Garden"
+  ],
+  "attracts": [
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "problems": [
+    "Short-lived"
+  ],
+  "uses": "Native Americans are known to have used this plant as a food source. To prepare it, they would cut the inner bark into strips, dry it, and then ground it to be mixed with other starches for bread or mush. They ate catkins raw, and the cambium both raw and in soups."
+}

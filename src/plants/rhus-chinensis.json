@@ -1,0 +1,92 @@
+{
+  "fullName": "Rhus chinensis",
+  "name": "rhus-chinensis",
+  "commonNames": [
+    "Chinese Sumac"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rhus-chinensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rhus",
+  "species": "chinensis",
+  "family": "Anacardiaceae",
+  "country-or-region-of-origin": [
+    "Himalaya to Japan"
+  ],
+  "wildlife-value": [
+    "Larval host plant for the Luna moth.  Provide cover for birds."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 24 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 25 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Multi-stemmed",
+    "Spreading"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "6 to 10 in. panicles of creamy white flowers in late summer; orange red fruit matures in fall"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Orange"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Red/Burgundy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "8 to 15 in. alternate, compound leaves with 7 to 13 leaflets; bright green in summer; yellow, orange, red fall color"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Nighttime Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Moths",
+    "Songbirds"
+  ]
+}

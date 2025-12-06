@@ -1,0 +1,162 @@
+{
+  "fullName": "Thujopsis dolabrata",
+  "name": "thujopsis-dolabrata",
+  "commonNames": [
+    "Asunaro",
+    "Deerhorn Cedar",
+    "Elkhorn Cedar",
+    "False Arborvitae",
+    "Hiba Arborvitae"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/thujopsis-dolabrata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Thujopsis",
+  "species": "dolabrata",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Japan"
+  ],
+  "wildlife-value": [
+    "Provides shelter for wildlife"
+  ],
+  "dimensions": [
+    "Height: 30 ft. 0 in. - 50 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 25 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Conical",
+    "Dense",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Seed cones are about 0.75-inches long and are tiny, thick, ovoid, and brown. They are solitary on terminal branches."
+  ],
+  "flower-description": [
+    "Non-flowering"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Decussate pairs of small-scale-like leaves that measure 4-6 mm long.  The thick fleshy coarse leaves are glossy green on the upper surface, and they have white stomatal bands beneath."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Light Gray",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Exfoliating"
+  ],
+  "bark-description": [
+    "Gray to Red-brown exfoliating or flaking bark that flakes off in vertical strips"
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The branchlets grow in a single plane."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Recreational Play Area"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Hedge",
+    "Screen/Privacy",
+    "Shade Tree"
+  ]
+}

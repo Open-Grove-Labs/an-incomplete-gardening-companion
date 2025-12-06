@@ -1,0 +1,186 @@
+{
+  "fullName": "Capsicum",
+  "name": "capsicum",
+  "commonNames": [
+    "Pepper",
+    "Peppers"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/capsicum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Capsicum",
+  "family": "Solanaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical Americas, especially South America"
+  ],
+  "wildlife-value": [
+    "Birds are immune to the capsaicin in peppers and can safely eat the fruits with no ill effects.  Therefore, these plants may attract birds."
+  ],
+  "edibility": [
+    "Fruits used as a vegetable and spice.  Different species and cultivars have different textures, heat levels, and cullinary uses."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Herbaceous Perennial",
+    "Vegetable",
+    "Warm Season Vegetable"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "fruit-color": [
+    "Black",
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Good Dried",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "A non-pulpy berry, often with large pockets of air inside containing many seeds. Fruits range in color, shape, and heat level depending on species and cultivar.  The most common color is bright red due to the presence of carotenoid compounds.  The seeds are round and flat, yellowish in color."
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small flowers, white to purple in color, most commonly with 5 parts.  The flowers emerge in clusters of 1 to many and bloom in summer months."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Across the genus, the simple leaves are arranged alternately and most frequently ovate to lanceolate.  Margins are entire and the surface is smooth and somewhat glossy.  Size varies among species and cultivars."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Nodes may darken to a purple color."
+  ],
+  "landscape-location": [
+    "Container",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Heat"
+  ],
+  "problems": [
+    "Problem for Children"
+  ],
+  "uses": "Parts of this plant have been used for thousands of years as food, spice, and medicine among people groups in the Americas."
+}

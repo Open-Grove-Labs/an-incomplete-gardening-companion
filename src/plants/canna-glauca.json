@@ -1,0 +1,191 @@
+{
+  "fullName": "Canna glauca",
+  "name": "canna-glauca",
+  "commonNames": [
+    "Canna",
+    "Louisiana Canna",
+    "Maraca Amarilla",
+    "Water Canna"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/canna-glauca/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Canna",
+  "species": "glauca",
+  "family": "Cannaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South Carolina to tropical America"
+  ],
+  "wildlife-value": [
+    "Attracts butterflies and is a larval host for the Brazilian Skipper."
+  ],
+  "bulb-storage": [
+    "Store in a dry medium such as peat or vermiculite in a cool dry location that does not get below 40 degrees F over the winter."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Water Plant"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Prickly 3-parted capsule"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Raceme",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals",
+    "Colored Sepals"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Gladiolus-like flower spikes that bloom in late summer through early fall. Flower colors include red, salmon pink, yellow, and burnt orange. What appears to be petals are actually petaloid stamens."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Sheath",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Large, narrow, blue-green, paddle-shaped leaves that are very colorful and provide ornamental interest when not in flower.  They clasp the center stem and resemble a banana plant."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Tall, erect stem supporting colorful flowers."
+  ],
+  "landscape-location": [
+    "Pond",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "uses": "Its roots have been harvested to make an edible starch."
+}

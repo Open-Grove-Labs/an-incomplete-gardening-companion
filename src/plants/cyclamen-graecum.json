@@ -1,0 +1,108 @@
+{
+  "fullName": "Cyclamen graecum",
+  "name": "cyclamen-graecum",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cyclamen-graecum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cyclamen",
+  "species": "graecum",
+  "family": "Primulaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Greece, Europe"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 4 in. - 2 ft. 0 in.",
+    "Width: 0 ft. 4 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Shallow Rocky"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Showy purple pink or sometimes white flowers with 5 petals appear September-November.  The petals bend backward and are pointed at the tips with lines along the petals that converge in the center to a darker color.  After flowers are pollinated they stem coils in both directions."
+  ],
+  "leaf-color": [
+    "Cream/Tan",
+    "Gray/Silver",
+    "Green",
+    "Variegated"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves are dappled with sliver, gray and sometimes cream, they appear after flowering or late in flowering, oval with a toothed beaded edge.  The undersides are purple."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Rock Garden",
+    "Shade Garden"
+  ],
+  "resistance-to-challenges": [
+    "Heavy Shade"
+  ]
+}

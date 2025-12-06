@@ -1,0 +1,241 @@
+{
+  "fullName": "Viola rafinesquei",
+  "name": "viola-rafinesquei",
+  "commonNames": [
+    "American Field Pansy",
+    "Field Pansy",
+    "Johnny Jump Up",
+    "Johnny Jump-Up",
+    "Johnny Jump-up Violet",
+    "Johnnyjumpup violet",
+    "Violets"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/viola-rafinesquei/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Viola",
+  "species": "rafinesquei",
+  "family": "Violaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "North America"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "AZ ",
+    "CO ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "IA ",
+    "ID ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "LA ",
+    "MA ",
+    "MD ",
+    "MI ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NE ",
+    "NJ ",
+    "NM ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "SC ",
+    "SD ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "WV"
+  ],
+  "wildlife-value": [
+    "This plant supports Fritillary butterfly larvae. Bees visit the flowers and caterpillars of fritillary butterflies will feed on the foliage."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Easy to Grow",
+    "Wildlife Larval Host "
+  ],
+  "edibility": [
+    "Leaves and flowers are edible."
+  ],
+  "plant-type": [
+    "Annual",
+    "Native Plant",
+    "Weed",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect",
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Oblong capsules split to eject small rounded light brown seeds."
+  ],
+  "flower-color": [
+    "Blue",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Lipped",
+    "Radial"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "asymmetrical petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The ½\" solitary blooms have 5 petals and 5 sepals. The petals are pale to medium blue-violet with dark purple lines. The lowermost petal has a patch of yellow near its base. The lateral petals are bearded with white hairs near the throat."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblanceolate",
+    "Obovate",
+    "Orbicular"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Small, veined basal leaves are orbicular. The alternate stem leaves are up to 2 inches long and obovate, becoming narrower as they go up the stem. They are hairless with crenate to entire margins.  The leaves grow in clusters on the stem.  Out of these clusters grow 1 or 2 leafless stems with a single blossom at the end."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The stems are light green to purplish green and hairless"
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Meadow",
+    "Naturalized Area",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Foot Traffic"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "Native Americans used the plant for food  and made teas to treat various ailments"
+}

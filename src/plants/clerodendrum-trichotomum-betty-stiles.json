@@ -1,0 +1,128 @@
+{
+  "fullName": "Clerodendrum trichotomum 'Betty Stiles'",
+  "name": "clerodendrum-trichotomum-betty-stiles",
+  "commonNames": [
+    "'Betty Stiles' Harlequin Glorybower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/clerodendrum-trichotomum-betty-stiles/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Clerodendrum",
+  "species": "trichotomum",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Irregular",
+    "Open"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Blue"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-description": [
+    "Showy metallic-looking blue fruit."
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Showy, fragrant flowers that bloom throughout the summer."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "landscape-location": [
+    "Container",
+    "Lawn"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Flowering Tree",
+    "Hedge"
+  ],
+  "attracts": [
+    "Butterflies"
+  ]
+}

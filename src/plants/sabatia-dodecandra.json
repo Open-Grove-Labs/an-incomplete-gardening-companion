@@ -1,0 +1,62 @@
+{
+  "fullName": "Sabatia dodecandra",
+  "name": "sabatia-dodecandra",
+  "commonNames": [
+    "Large Marsh Rose-pink",
+    "Perennial Sea-pink"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sabatia-dodecandra/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sabatia",
+  "species": "dodecandra",
+  "family": "Gentianaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "New York"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 2 ft. 2 in.",
+    "Width: 0 ft. 8 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-description": [
+    "Fruit displays from August to October."
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Deep pink flowers with star-shaped yellow center outlined with red bloom from June to August."
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Native Garden"
+  ]
+}

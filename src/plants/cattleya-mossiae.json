@@ -1,0 +1,131 @@
+{
+  "fullName": "Cattleya mossiae",
+  "name": "cattleya-mossiae",
+  "commonNames": [
+    "Easter Cattleya",
+    "Easter Orchid",
+    "Mrs. Moss' Cattleya"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cattleya-mossiae/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cattleya",
+  "species": "mossiae",
+  "family": "Orchidaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Northern Venezuela"
+  ],
+  "distribution": [
+    "cultivated worldwide."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 3 in. - 2 ft. 0 in.",
+    "Width: 0 ft. 3 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Epiphyte",
+    "Herbaceous Perennial",
+    "Houseplant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Lipped"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "A terminal raceme, only one stalk growing per pseudobulb.  The inflorescence is enclosed in a sheath to support the weight of the flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery",
+    "Rubbery",
+    "Waxy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves emerge from pseudobulbs and are thick, waxy, and leathery.  The venation is parallel and the midveins are deeply impressed."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Specimen"
+  ]
+}

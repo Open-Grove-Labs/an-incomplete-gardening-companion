@@ -1,0 +1,165 @@
+{
+  "fullName": "Schima superba",
+  "name": "schima-superba",
+  "commonNames": [
+    "Chinese Gugertree",
+    "Superb Schima"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/schima-superba/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Schima",
+  "species": "superba",
+  "family": "Theaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "China South-Central, China Southeast, Hainan, Nansei-shoto, Taiw"
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 65 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet",
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruits are subglobose capsules, .5 to .75 inches in diameter that mature late fall to early winter."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Showy, fragrant 5-petaled white flowers about 1 inch in diameter appear in summer in racemes of 4 to 8"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Crenate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Evergreen glossy, smooth leaves are 2.75 to 5 inches long and 1 to 1.5 inches wide, green on the upper surface and pale green underneath. The underside of leaves may be smooth or have sparse, downy hairs."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Fissured"
+  ],
+  "bark-description": [
+    "Bark has longitudinal fissures, but texture varies in smoothness and color varies from light brown to dark gray, depending on native habitat."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Woodland"
+  ],
+  "design-feature": [
+    "Flowering Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators"
+  ],
+  "problems": [
+    "Contact Dermatitis"
+  ],
+  "uses": "Used in traditional Chinese medicine; also has insecticidal and antifungal properties."
+}

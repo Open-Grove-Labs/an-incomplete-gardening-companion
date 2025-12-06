@@ -1,0 +1,183 @@
+{
+  "fullName": "Phlebodium aureum",
+  "name": "phlebodium-aureum",
+  "commonNames": [
+    "Blue Star Fern",
+    "Cabbage Palm Fern",
+    "Golden Polypody",
+    "Gold Foot Fern",
+    "Hare Foot Fern",
+    "Rabbits Foot Fern"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/phlebodium-aureum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Phlebodium",
+  "species": "aureum",
+  "family": "Polypodiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Southeast United States, Caribbean to South Tropical America"
+  ],
+  "distribution": [
+    "Native: Argentina",
+    "Bahamas",
+    "Brazil",
+    "Columbia",
+    "Cuba",
+    "Dominican Republic",
+    "Haiti",
+    "Jamaica",
+    "Puerto Rico",
+    "Suriname",
+    "Trinidad-Tobago",
+    "Venezuela",
+    "and the United States--AL",
+    "FL",
+    "and GA. Introduced: Canary Islands",
+    "Cape Provinces",
+    "Hawaii",
+    "India",
+    "Madeira",
+    "Queensland",
+    "and Sri Lanka"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heavy shade, Deer"
+  ],
+  "climbing-method": [
+    "Scrambler"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Epiphyte",
+    "Fern",
+    "Houseplant",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Cascading",
+    "Climbing",
+    "Creeping"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b",
+    "13a",
+    "13b"
+  ],
+  "fruit-description": [
+    "No fruits. This plants reproduces via spores."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Slippery"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Fronds"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "stem-color": [
+    "Blue"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio",
+    "Small Space",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Accent"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heavy Shade",
+    "Urban Conditions",
+    "Wind"
+  ]
+}

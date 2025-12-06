@@ -1,0 +1,241 @@
+{
+  "fullName": "Silphium perfoliatum",
+  "name": "silphium-perfoliatum",
+  "commonNames": [
+    "Common Cup-plant",
+    "Compass-plant",
+    "Cup-plant",
+    "Indian Cup"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/silphium-perfoliatum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Silphium",
+  "species": "perfoliatum",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern US"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "CT",
+    "GA",
+    "IA",
+    "IL",
+    "In",
+    "KS",
+    "KY",
+    "LA",
+    "MA",
+    "MD",
+    "ME",
+    "MI",
+    "MN",
+    "MO",
+    "MS",
+    "NC",
+    "ND",
+    "NE",
+    "NJ",
+    "NY",
+    "OH",
+    "OK",
+    "PA",
+    "SD",
+    "TN",
+    "VA",
+    "TT",
+    "WI",
+    "WV"
+  ],
+  "wildlife-value": [
+    "The flowers attract hummingbirds and butterflies.  Birds water on the small cup that is created by the foliage. The larvae of Antistrophus sp (Gall Wasp) eat the stems of the plant."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Easy to Grow",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "Displaying from July to September, the fruit is a winged seed.  They are formed from the ray flowers from the outer ring of the disk."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "3 to 4 in. flower heads with 20 to 30 yellow rays surrounding the disc flowers. Blooms from June to August"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Two upper leaves surround the flower stalk, forming a shallow cup that will hold water which attracts birds.  Large, rough, deeply pinnatified leaves, coarsely toothed lower leaves contract into a winged stalk.  The lower leaves and basal leaves typically fall off and wither by the time the flowers open."
+  ],
+  "stem-color": [
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Smooth/Hairless"
+  ],
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The main stem is thick, hairless and has four sides.  The smooth, square stems are unbranched with the exception for panicles of flowering stems."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Pond",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Diseases",
+    "Drought",
+    "Dry Soil",
+    "Insect Pests"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "Naturalizing"
+}

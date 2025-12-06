@@ -1,0 +1,179 @@
+{
+  "fullName": "Brassica rapa (Chinensis Group)",
+  "name": "brassica-rapa-(chinensis-group)",
+  "commonNames": [
+    "Bok Choy",
+    "Chinese White Cabbage",
+    "Field Mustard",
+    "Mustard Cabbage",
+    "Pak Choi"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/brassica-rapa-chinensis-group/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Brassica",
+  "species": "rapa",
+  "family": "Brassicaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "China"
+  ],
+  "edibility": [
+    "Leaves and stems are edible raw or cooked.  While flowering is undesirable, the flowers can be eaten in salads or as garnish as well. It can be stored in the fridge for one to two weeks, but it quickly loses quality in storage."
+  ],
+  "plant-type": [
+    "Cool Season Vegetable",
+    "Edible",
+    "Vegetable"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "fruit-type": [
+    "Siliqua"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The beaked fruit is dry and splits open when ripe.  Contains anywhere from 10-30 seeds."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Edible"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cross"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small yellow 4 petaled flowers. Plants are generally harvested before blooming occurs."
+  ],
+  "leaf-color": [
+    "Green",
+    "White"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Obovate",
+    "Orbicular",
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Varies per cultivar. Dark green to light green leaves on thick, white to pale green stalks."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "problems": [
+    "Frequent Disease Problems",
+    "Frequent Insect Problems",
+    "Problem for Horses"
+  ]
+}

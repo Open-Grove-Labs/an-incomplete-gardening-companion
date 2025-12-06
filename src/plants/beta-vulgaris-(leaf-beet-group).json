@@ -1,0 +1,164 @@
+{
+  "fullName": "Beta vulgaris (Leaf Beet Group)",
+  "name": "beta-vulgaris-(leaf-beet-group)",
+  "commonNames": [
+    "Beet Root",
+    "Beets",
+    "Beet Spinach",
+    "Beet Spinaches",
+    "Chard",
+    "Leaf Beet",
+    "Perpetual Spinach",
+    "Red Beet",
+    "Roman Kale",
+    "Silver Beet",
+    "Silver Beets",
+    "Swiss Chard"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/beta-vulgaris-leaf-beet-group/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Beta",
+  "species": "vulgaris",
+  "family": "Amaranthaceae",
+  "life-cycle": [
+    "Annual",
+    "Biennial"
+  ],
+  "country-or-region-of-origin": [
+    "Mediterranean, Europe"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "drought, heat, humidity"
+  ],
+  "edibility": [
+    "Leaves and stalks can be harvested and eaten.  Harvest only as needed as they do not keep long in the fridge."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 0 ft. 8 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Cool Season Vegetable",
+    "Edible",
+    "Vegetable"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Green",
+    "Insignificant"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Spike"
+  ],
+  "flower-description": [
+    "Green, non-showy spikes of flowers appear in the plant's second year.  Spikes can rise as tall as 4'."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "Pink",
+    "Red/Burgundy"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "While clumps of leaves are green, Swiss Chard can feature midribs and petioles that are white, orange, yellow, red, or pink.  Leaves are large 15\"-24\" long with ruffled edges and some puckering on larger leaves."
+  ],
+  "stem-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "stem-buds": [
+    "Smooth/Hairless"
+  ],
+  "stem-description": [
+    "Colorful edible stems."
+  ],
+  "landscape-location": [
+    "Container",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heat",
+    "Humidity"
+  ]
+}

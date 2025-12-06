@@ -1,0 +1,160 @@
+{
+  "fullName": "Aesculus californica",
+  "name": "aesculus-californica",
+  "commonNames": [
+    "Buckeye",
+    "California Buckeye"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/aesculus-californica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Aesculus",
+  "species": "californica",
+  "family": "Sapindaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "California"
+  ],
+  "wildlife-value": [
+    "Nectar from flowers attracts hummingbirds and butterflies.  Tolerates damage by deer."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Tolerates damage by deer."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Open"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-description": [
+    "The fruit is a smooth, pear to fig-shaped leathery capsule with 1-3 large, brown, shiny seeds, each with a pale scar (the \"buck's eye\")."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Long (4-12”), terminal clusters of creamy white or pinkish fragrant flowers appear from May-June. The stamens are longer than the 5 petals."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Opposite, shiny dark green palmately divided leaves with 5 narrow-elliptic leaflets (each to 6” long) with fine marginal teeth."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Light Brown",
+    "Light Gray",
+    "Red/Burgundy"
+  ],
+  "bark-description": [
+    "Bark is an attractive silvery gray in winter. Branchlets are reddish gray-brown when young."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Winter Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Poisonous if ingested. HIGHLY TOXIC, MAY BE FATAL IF EATEN! Poison symptoms include     muscular weakness and paralysis, dilated pupils, vomiting, diarrhea, depression, paralysis, and stupor.\n\n(Poisonous part: Seeds and tea made from leaves and sprouts; however all parts of the plant are poisonous if ingested.)"
+  ],
+  "poison-toxic-principle": [
+    "Glycoside esculin, saponin aescin, possibly alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

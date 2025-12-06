@@ -1,0 +1,133 @@
+{
+  "fullName": "Lycopodium clavatum",
+  "name": "lycopodium-clavatum",
+  "commonNames": [
+    "Common Clubmoss",
+    "Robin Hood's Hatbands",
+    "Running Clubmoss",
+    "Staghorn Clubmoss",
+    "Wolf's Claw Clubmoss"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lycopodium-clavatum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lycopodium",
+  "species": "clavatum",
+  "family": "Lycopodiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Alaska, Canada, south to Georgia and west to California."
+  ],
+  "distribution": [
+    "Worldwide in the northern hemisphere",
+    "northern South America",
+    "and eastern Africa."
+  ],
+  "wildlife-value": [
+    "This plant attracts mammals."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Arching",
+    "Creeping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "Spores cones are 2-6 inches tall and yellow-green. They display from July to September."
+  ],
+  "flower-description": [
+    "No flowers. The plant reproduces by spores."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Spreading, ascending needle or scale-like leaves on the distal third of the branches."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Horizontal stems on substrate surface with clusters of upright shoots and a dominant main shoot with 3 to 6 branches mostly in lower half of the plant."
+  ],
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "attracts": [
+    "Small Mammals"
+  ],
+  "uses": "Spores have been used as a powder for infants and to protect raw skin. It has been used to treat unspecified medicinal disorders, as animal food, an ornamental plant and a medicine."
+}

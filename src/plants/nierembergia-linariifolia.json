@@ -1,0 +1,130 @@
+{
+  "fullName": "Nierembergia linariifolia",
+  "name": "nierembergia-linariifolia",
+  "commonNames": [
+    "Cupflower",
+    "Nierembergia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nierembergia-linariifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nierembergia",
+  "species": "linariifolia",
+  "family": "Solanaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South Central Bolivia to Brazil and Northern Argentina"
+  ],
+  "distribution": [
+    "Anywhere as an annual"
+  ],
+  "wildlife-value": [
+    "resistant to deer"
+  ],
+  "plant-type": [
+    "Annual"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Mounding",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Blue-violet, purple cup-shaped flowers  with a yellow throat"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Mounding foliage has a fern-like appearance"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Patio",
+    "Pond",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Cottage Garden",
+    "Cutting Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

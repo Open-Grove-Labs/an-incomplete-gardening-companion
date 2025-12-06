@@ -1,0 +1,218 @@
+{
+  "fullName": "Aristolochia serpentaria",
+  "name": "aristolochia-serpentaria",
+  "commonNames": [
+    "Virginia Dutchmans pipe",
+    "Virginia Snakeroot"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/aristolochia-serpentaria/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Aristolochia",
+  "species": "serpentaria",
+  "family": "Aristolochiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern USA"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "CT",
+    "DC",
+    "DE",
+    "FL",
+    "GA",
+    "IA",
+    "IL",
+    "IN",
+    "KS",
+    "KY",
+    "LA",
+    "MD",
+    "MI",
+    "MO",
+    "MS",
+    "NC",
+    "NJ",
+    "NY",
+    "OH",
+    "OK",
+    "PA",
+    "SC",
+    "TN",
+    "TX",
+    "VA",
+    "WV"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Flowers are cross-pollinated primarily by flesh flies, fungus gnats, and possibly carrion beetles searching out nectar. The caterpillars of a butterfly, the Pipevine Swallowtail (Battus philenor), feed on the foliage of Virginia snakeroot, although more than one plant is required to complete their development. Because the foliage and roots are toxic and unpleasant-tasting, mammalian herbivores do not feed on this plant.  Pipevine Swallowtail (Battus philenor) larvae which appear in late spring and summer in the east and California. In the south and southwest regions it most commonly appears in late summer through fall. Adult Pipevine Swallowtail butterflies also feed solely off of flower nectar from other plants like azaleas, thistles, verbena, lupines, and lilacs."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "deer damage, shade, wet soil, dry soil, loamy soil, fire in landscape"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 6 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "This plant produces a 1/2-inch six-valved capsule that contains many seeds. Displays from June to July."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Tubular"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "1/2-3/4 inch small hairy purple-brown flowers that bloom from May to June at the base of the plant on small scaly stalks. They are pitcher-shaped flowers that are found close to the ground, lying on the ground or under leaf litter."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Alternate leaves are 2–5\" long and ½–2\" across. They are narrowly cordate, ovate-sagittate, or narrowly hastate with a pair of rounded basal lobes. Margins are entire."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-description": [
+    "Green zig-zag stems"
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Dry Soil",
+    "Fire",
+    "Heavy Shade",
+    "Wet Soil"
+  ],
+  "uses": "Used by Native Americans for snake bites. Used in herbal medicine."
+}

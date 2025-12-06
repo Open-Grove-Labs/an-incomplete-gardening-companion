@@ -1,0 +1,149 @@
+{
+  "fullName": "Wahlenbergia marginata",
+  "name": "wahlenbergia-marginata",
+  "commonNames": [
+    "Asiatic Bellflower",
+    "Southern Rockbell"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/wahlenbergia-marginata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Wahlenbergia",
+  "species": "marginata",
+  "family": "Campanulaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Subtropical and tropical Asia"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The fruits form as capsules and contain yellow-brown or brown seeds."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Solitary"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "5 petaled star or bell shaped blue to lavender flowers atop thin stems with white centers bloom from March-November.  They can bloom as a single flower or arranged as a cyme."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Sinuate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Most leaves are at the base of the plant, upper leaves are reduced sized linear shaped bracts."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-description": [
+    "The erect-ascending stems are hairless or almost so.  It can have a single stem or multiple."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil"
+  ]
+}

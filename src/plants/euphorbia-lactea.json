@@ -1,0 +1,170 @@
+{
+  "fullName": "Euphorbia lactea",
+  "name": "euphorbia-lactea",
+  "commonNames": [
+    "Candelabra Cactus",
+    "Dragon Bones",
+    "False Cactus",
+    "Milkstripe Euphorbia",
+    "Mottled Candlestick",
+    "Mottled Spurge"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/euphorbia-lactea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Euphorbia",
+  "species": "lactea",
+  "family": "Euphorbiacea",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Sri Lanka, India, Thailand"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "deer and drought resistant"
+  ],
+  "edibility": [
+    "Toxic if eaten"
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 15 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Poisonous",
+    "Shrub",
+    "Succulent"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Columnar",
+    "Erect"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Insignificant"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Mottled spurge rarely flowers, but inconspicuous flowers with a yellow tinge sometimes appear near the stem tips. When flowers do appear, they are inconspicuously located in paired cyathia near the stem tips."
+  ],
+  "leaf-color": [
+    "Green",
+    "Variegated"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Tiny leaves appear at the growing tips in summer, but drop quickly leaving plants leafless most of the time."
+  ],
+  "stem-color": [
+    "Black"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Four angled spiny stems with paired black thorns. Mottled branches (green with white lines).  May grow in a cristate form."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Hedge",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Rabbits"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Spines/Thorns"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "The milky white latex sap found in all plant parts can cause mild to severe contact dermatitis. If contact with the eyes occurs the sap can cause temporary to permanent damage to the cornea. If eaten, blistering can occur on lips and oral mucosa. Avoid ingesting plant parts and keep plants away from pets and children."
+  ],
+  "poison-toxic-principle": [
+    "Diterpene esters in milky latex."
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Sap/Juice"
+  ]
+}

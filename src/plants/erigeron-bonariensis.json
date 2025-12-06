@@ -1,0 +1,168 @@
+{
+  "fullName": "Erigeron bonariensis",
+  "name": "erigeron-bonariensis",
+  "commonNames": [
+    "Flaxleaf Fleabane",
+    "Flax Leaved Horseweed",
+    "Hairy Fleabane",
+    "Small Horseweed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/erigeron-bonariensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Erigeron",
+  "species": "bonariensis",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico, Central America & South America"
+  ],
+  "distribution": [
+    "Oregon & the Gulf states; rare in NC."
+  ],
+  "plant-type": [
+    "Weed"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Looks like a small dandelion “puffball” of fruits forming a fuzzy, spherical, cream-colored \"head\".  Fruits and seeds are tiny, narrow, football-shaped, or oblong, and approximately 1/17 of an inch"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Head",
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays",
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Head flowers are found on the end of stems with a green, cup-shaped base formed by bracts that overlap. It tapers toward the top with small, yellow disk flowers surrounded by cream-colored bristles."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire",
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Gray-green leaves entire to slightly toothed.  Basal leaves as well as alternating leaves along the stems."
+  ],
+  "stem-color": [
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Its erect stems are striated and covered with stiff hairs."
+  ],
+  "problems": [
+    "Contact Dermatitis"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Causes contact dermatitis"
+  ],
+  "poison-toxic-principle": [
+    "Sesquiterpene lactones"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "uses": "weed"
+}

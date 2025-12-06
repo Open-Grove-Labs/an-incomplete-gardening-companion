@@ -1,0 +1,167 @@
+{
+  "fullName": "Pteridium latiusculum",
+  "name": "pteridium-latiusculum",
+  "commonNames": [
+    "Bracken Fern",
+    "Brake",
+    "Brake Fern",
+    "Eastern Bracken Fern",
+    "Hog-Pasture Bracken",
+    "Pasture Bracken"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pteridium-latiusculum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pteridium",
+  "species": "latiusculum",
+  "family": "Dennstaedtiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Northern Asia and Norther Africa"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Fern",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Creeping"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10b"
+  ],
+  "fruit-description": [
+    "No fruits. This plants reproduces via spores."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Fronds"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Deltoid"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Fronds erect or often inclined to one side, broadly triangular, usually divided into 3 sections, each with small, elongated segments with minute spore-sacs along the margin.  The terminal segment of pinnule long and narrow; often 6 to 15 times longer than wide."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Native Garden",
+    "Rain Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ],
+  "problems": [
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Poisoning commonly occurs in horses having inadequate forage, or when the plant is incorporated into hay. All parts of the plant are toxic in both green and dry forms. The toxic component causes a thiamine deficiency (an essential nutrient for central nervous system function and metabolism); clinical signs develop after one to two months of chronic ingestion, and can worsen over a two to three day period. Effects include weight loss, fever, incoordination/ excessive staggering (known as \"bracken staggers\"), the developement of a wide stance with arched back, severe muscle tremors, inability to get up which could lead to serious injury. Death may occur within one to 2 days of onset if not treated."
+  ],
+  "poison-toxic-principle": [
+    "Thiaminase inhibitor. Milk from cows that have ingested this fern may be toxic to humans."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Stems"
+  ]
+}

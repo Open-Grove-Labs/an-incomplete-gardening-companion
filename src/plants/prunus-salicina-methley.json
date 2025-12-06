@@ -1,0 +1,98 @@
+{
+  "fullName": "Prunus salicina 'Methley'",
+  "name": "prunus-salicina-methley",
+  "commonNames": [
+    "Methley Japanese Plum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-salicina-methley/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Prunus",
+  "species": "salicina",
+  "family": "Rosaceae",
+  "edibility": [
+    "The medium to large sized fruit has a purple to red skin. Round to conical in shape. The flesh is red, tastes juicy and sweet. Great for eating fresh and making jelly."
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "The medium to large sized fruit has a purple to red skin. Round to conical in shape. The flesh is red, tastes juicy and sweet. Great for eating fresh and making jelly. Ripens from late May to early June."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "flower-description": [
+    "The white flower blooms early in spring in clusters, with sweet fragrance."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The elliptic green leaves have fine tooth on the margin."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ]
+}

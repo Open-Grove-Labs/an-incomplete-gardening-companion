@@ -1,0 +1,212 @@
+{
+  "fullName": "Lonicera x brownii",
+  "name": "lonicera-x-brownii",
+  "commonNames": [
+    "Brown's Honeysuckle",
+    "Scarlet Trumpet Honeysuckle"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lonicera-x-brownii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lonicera",
+  "family": "Caprifoliaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Layering",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "hybrid of Lonicera sempervirens and Lonicera hirsuta"
+  ],
+  "wildlife-value": [
+    "This honeysuckle attracts bees, bumblebees, hummingbirds, and songbirds."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Easy to Grow",
+    "Fragrance",
+    "Screening",
+    "Wildlife Food Source"
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "dimensions": [
+    "Height: 8 ft. 0 in. - 12 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Red berries in late summer and fall."
+  ],
+  "flower-color": [
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "fused petals"
+  ],
+  "flower-description": [
+    "Tubular flowers in clusters.  Flowers are red to orange-red.  Flowers lightly fragrant to not fragrant at all."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Insignificant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Obovate",
+    "Obtuse",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Waxy, bluish-green leaves in summer. The leaves immediately below the flowers are joined at the base. Little color change in fall."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Vertical Spaces",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Mass Planting",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Hummingbirds",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Urban Conditions"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Children"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Stomach upset. Large quantities of berries may result in nausea, vomiting, diarrhea, and rapid heartbeat."
+  ],
+  "poison-toxic-principle": [
+    "Saponins"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ]
+}

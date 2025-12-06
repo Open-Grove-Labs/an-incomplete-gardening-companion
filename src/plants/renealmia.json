@@ -1,0 +1,68 @@
+{
+  "fullName": "Renealmia",
+  "name": "renealmia",
+  "commonNames": [
+    "Ginger Lily",
+    "Shell Flower",
+    "Shell Ginger"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/renealmia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Renealmia",
+  "family": "Zingiberaceae",
+  "country-or-region-of-origin": [
+    "Australasia"
+  ],
+  "plant-type": [
+    "Poisonous"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-description": [
+    "Flowers are in a terminal cluster, each with 3-lobed tubular calyx and 3 waxy petals (white, yellow, pink, or red)."
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves are in two ranks on a reed-like stem."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "reed-like"
+  ],
+  "landscape-location": [
+    "Houseplants"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "CAUSES ONLY LOW TOXICITY IF EATEN. SKIN IRRITATION MINOR OR LASTING ONLY FOR A FEW MINUTES. Poisonous through ingestion or dermatitis. (Poison parts: Leaves, stems, roots). Symptoms may include skin and eye irritations upon contact with cell sap; cardiac effects upon ingestion."
+  ],
+  "poison-toxic-principle": [
+    "Unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Roots",
+    "Stems"
+  ]
+}

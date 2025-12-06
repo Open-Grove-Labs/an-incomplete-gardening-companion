@@ -1,0 +1,177 @@
+{
+  "fullName": "Trifolium carolinianum",
+  "name": "trifolium-carolinianum",
+  "commonNames": [
+    "Carolina Clover",
+    "Wild White Clover"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/trifolium-carolinianum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Trifolium",
+  "species": "carolinianum",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central and southeastern U.S.A."
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "DE",
+    "FL",
+    "GA",
+    "KS",
+    "LA",
+    "MO",
+    "MS",
+    "NC",
+    "OK",
+    "PA",
+    "SC",
+    "TX",
+    "VA",
+    "VT"
+  ],
+  "wildlife-value": [
+    "This plant supports Clouded Sulphur (Colias philodice) larvae which appear from May to October in the North and from March to November in the South. There are 3 flights in the North and 4 to 5 flights in the South. Adult Clouded Sulfur butterflies feed on flower nectar from many different plants. This plant also supports Eastern Tailed-Blue (Everes comyntas) which has many broods from February-November, Orange Sulphur (Colias eurytheme), Gray Hairstreak (Strymon melinus), and Northern Cloudywing (Thorybes pylades) larvae which broods a little earlier than May-July."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Larval Host "
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Native Plant"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-description": [
+    "The fruit is a legume that is enclosed by the calyx tube.  It will appear soon after the flowers are no longer blooming."
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Irregular"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "White flowers with a purplish tint sit above the foliage."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The veined, green leaves are tiny, only 1/4\" long and 1/5\" wide.  The outer half of the leaf is serrated."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stems can range from 3-11 inches.  They are very slender and wiry."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Meadow",
+    "Naturalized Area",
+    "Patio",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ]
+}

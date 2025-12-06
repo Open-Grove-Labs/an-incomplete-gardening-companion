@@ -1,0 +1,209 @@
+{
+  "fullName": "Sabal minor",
+  "name": "sabal-minor",
+  "commonNames": [
+    "Dwarf Palmetto",
+    "Swamp Palmetto"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sabal-minor/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sabal",
+  "species": "minor",
+  "family": "Arecaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "S. Oklahoma to SE. U.S.A., Mexico"
+  ],
+  "wildlife-value": [
+    "Fruits are eaten by robins, raccoons, and many other birds and mammals."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "This plant is seldom damaged from deer. Drought tolerant."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Round <.5 inch fleshy shiny drupe with one seed. Green maturing to purple/black. Displays from August to November"
+  ],
+  "flower-color": [
+    "Blue",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "May-July yellow-white to blue compound panicles up to 6' long"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Palmasect"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Alternate fan-shaped simple deeply divided lobed suborbicular palmate leaf 1'-5' tall and wide and attractive in the winter.  Petioles are smooth and long."
+  ],
+  "bark-description": [
+    "The trunk of this plant is partially subterranean."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stem is underground"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Naturalized Area",
+    "Patio",
+    "Pond",
+    "Pool/Hardscape",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Shade Garden",
+    "Water Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Foundation Planting",
+    "Specimen",
+    "Understory Tree"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Salt",
+    "Wet Soil"
+  ]
+}

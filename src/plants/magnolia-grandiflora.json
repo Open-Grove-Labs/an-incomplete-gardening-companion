@@ -1,0 +1,236 @@
+{
+  "fullName": "Magnolia grandiflora",
+  "name": "magnolia-grandiflora",
+  "commonNames": [
+    "Bull Bay",
+    "Large Tree Magnolia",
+    "Southern Magnolia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/magnolia-grandiflora/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Magnolia",
+  "species": "grandiflora",
+  "family": "Magnoliaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern United States"
+  ],
+  "distribution": [
+    "Maryland south west to Texas southeast to Florida."
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "It provides winter and severe weather cover.  Its seeds are eaten by birds and small mammals."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Edible fruit ",
+    "Fragrance",
+    "Shade ",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "The Southern magnolia is moderately resistant to deer damage, and is highly salt tolerant."
+  ],
+  "dimensions": [
+    "Height: 60 ft. 0 in. - 80 ft. 0 in.",
+    "Width: 30 ft. 0 in. - 50 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Conical",
+    "Dense",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High",
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet",
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Good Dried"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Aggregate",
+    "Follicle"
+  ],
+  "fruit-description": [
+    "The flowers give way to spherical cone-like fruiting clusters that are an aggregate of follicles (to 3-5” long) and mature from September to October, releasing individual rose-red coated seeds suspended on slender red threads at maturity. Fruits are rusty-tomentose."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "The Southern Magnolia has fragrant creamy white flowers (8 to 12 inches in diameter) that are usually composed of six to twelve petals. The flowers bloom in late spring, with sparse continued flowering throughout the summer. Flowers are solitary, axillary, scattered on the plant, and have a perianth (6 inches long) of 9-15 members. Flowers bloom from May to June."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The Southern Magnolia has 5-10 alternate, simple, persistent, leathery evergreen ovate to elliptic leaves (5 to 10 inches long). They are glossy dark green above and variable pale green to gray-brown beneath. It has felt-like fuzz and rusty-brown tomentose on back of its leaves. Leaves are stiffly coriaceous, acute, cuneate, and entire."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Patchy",
+    "Smooth"
+  ],
+  "bark-description": [
+    "The bark is brown to grey and smooth when young.  As the tree ages, close plates or scales develop."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Branches are borne to ground level and are spreading."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Recreational Play Area"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Edible Garden",
+    "Garden for the Blind",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Flowering Tree",
+    "Shade Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Diseases",
+    "Insect Pests",
+    "Salt",
+    "Storm damage",
+    "Urban Conditions",
+    "Wet Soil",
+    "Wind"
+  ],
+  "problems": [
+    "Messy",
+    "Weedy"
+  ],
+  "uses": "It was traditionally used medicinally to treat circulatory system disorders. The leaves, fruits, bark and wood yield variety of extracts with potential applications of pharmaceuticals.  The wood is light, soft, and tan-colored with indistinct grain. It is used commercially for veneer, furniture parts, paper pulp, and flake and chip boards."
+}

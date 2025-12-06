@@ -1,0 +1,218 @@
+{
+  "fullName": "Adenium obesum",
+  "name": "adenium-obesum",
+  "commonNames": [
+    "Desert Azalea",
+    "Desert Rose",
+    "Impala Lily",
+    "Kudu Lily",
+    "Mock Azalea",
+    "Sabi Star"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/adenium-obesum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Adenium",
+  "species": "obesum",
+  "family": "Apocynaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Africa, Arabian Peninsula, Tanzania"
+  ],
+  "wildlife-value": [
+    "Attracts hummingbirds and butterflies."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 9 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Poisonous",
+    "Succulent"
+  ],
+  "habit/form": [
+    "Erect",
+    "Irregular",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "fruit-type": [
+    "Follicle"
+  ],
+  "fruit-description": [
+    "The fruit consists of two, oblong, woody, hairy, follicles which are tapered at both ends and attached at the base. They are brown to grey-brown. They are full of small oblong seeds with tufts of dirty white to light brown hairs at both ends."
+  ],
+  "flower-color": [
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "2 inches across red to shades of pink bell-shaped flowers have white throats, 5 petals, and 5 protruding stamens. Generally blooms in summer as a houseplant but may occasionally repeat."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblanceolate",
+    "Ovate",
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "2-4 inch long leathery, fleshy, gray-green leaves appear at the stem tips in whorls.  They can range in shape but are usually oblanceolate to spatulate.  The venation is pinnate and reticulate."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "bark-description": [
+    "The bark is smooth and gray but with age, it becomes more textural."
+  ],
+  "stem-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Thick smooth fleshy gray-green stems"
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Toxic latex causes contact dermatitis. All parts of the plant are poisonous if ingested. Vomiting, diarrhea, anorexia, depression, irregular heartbeat, and possibly death."
+  ],
+  "poison-toxic-principle": [
+    "Cardiac glycosides"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

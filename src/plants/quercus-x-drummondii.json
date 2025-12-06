@@ -1,0 +1,50 @@
+{
+  "fullName": "Quercus x drummondii",
+  "name": "quercus-x-drummondii",
+  "commonNames": [
+    "Drummond Post Oak",
+    "False Sand Post Oak"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/quercus-x-drummondii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Quercus",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Texas"
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Gossy dark green above, light green below."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-bud-terminal": [
+    "Cluster of terminal buds"
+  ]
+}

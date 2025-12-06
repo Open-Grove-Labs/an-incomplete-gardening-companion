@@ -1,0 +1,296 @@
+{
+  "fullName": "Prunus pensylvanica",
+  "name": "prunus-pensylvanica",
+  "commonNames": [
+    "Bird Cherry",
+    "Fire Cherry",
+    "Pin Cherry",
+    "Red Cherry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-pensylvanica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Prunus",
+  "species": "pensylvanica",
+  "family": "Roseaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "United States and Canada"
+  ],
+  "distribution": [
+    "USA: CO ",
+    "CT ",
+    "GA ",
+    "IA ",
+    "IL ",
+    "IN ",
+    "MA ",
+    "MD ",
+    "ME ",
+    "MI ",
+    "MN ",
+    "MT ",
+    "NC ",
+    "ND ",
+    "NH ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "PA ",
+    "RI ",
+    "SD ",
+    "TN ",
+    "VA ",
+    "VT ",
+    "WI ",
+    "WV ",
+    "WY\nCanada: AB ",
+    "BC ",
+    "MB ",
+    "NB ",
+    "NL ",
+    "NS ",
+    "ON ",
+    "PE ",
+    "QC ",
+    "SK"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "It is a host plant for the Coral Hairstreak, Red-Spotted Purple, Spring Azure, and Viceroy butterflies.  Adult butterflies nectar from the spring flowers. This is a also larval host plant to Eastern Tiger Swallowtail (Papilio glaucus).  You may see three flights from February-November in the deep south and two flights from May-September in the north.Its fruits are eaten by songbirds, small mammals and bears.  Ruffed grouse eat the buds.  Foilage and twigs are browsed by white-tailed deer and moose."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "fire in the landscape."
+  ],
+  "edibility": [
+    "Fruits can be used for jelly or syrup. Sour off the tree."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed",
+    "Open",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "1/ 4-inch red drupe with a single seed in the center in late summer and fall."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "1/2-inch flowers with 5 white petals and several yellow-tipped stamens in the center occur in spring. Umbrels have 3-7 flowers each and occur at branch tips and short lateral branches. Flower blooms from April to May."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves are simple and alternate and oval to lance-shaped. 3 to 5 inches long and ¾ to 1½ inches wide, pointed tip, tapered or rounded base. The upper surface is dark yellow-green and shiny, the lower surface lighter and smooth or with hairs along the veins. Margins are finely serrated. Fall color is showy in reds and oranges."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Peeling"
+  ],
+  "bark-description": [
+    "The bark shiny reddish-brown to gray with conspicuous horizontal lenticels (pores). Bark peels in horizontal strips"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-bud-terminal": [
+    "Cluster of terminal buds"
+  ],
+  "stem-lenticels": [
+    "Conspicuous"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Twigs are red to reddish-brown, shiny smooth or occasionally sparsely hairy with a flaky, waxy cuticle."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Flowering Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "problems": [
+    "Frequent Disease Problems",
+    "Frequent Insect Problems",
+    "Messy",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Short-lived"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "The pits contain cyanide compounds, which are poisonous. If a couple of pits are accidentally swallowed, it will not cause poisoning. The pits are more poisonous if they are ground up/crushed or the seeds are chewed. Fruit that has not been pitted should not be blended into a smoothie.\nSymptoms include gasping, weakness, excitement, pupil dilation, spasms, convulsions, coma, respiratory failure."
+  ],
+  "poison-toxic-principle": [
+    "Cyanogenic glycoside, amygdalin."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Leaves",
+    "Stems"
+  ],
+  "uses": "Parts of the tree has been used medicinally"
+}

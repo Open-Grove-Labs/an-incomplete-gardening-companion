@@ -1,0 +1,126 @@
+{
+  "fullName": "Symphyotrichum pratense",
+  "name": "symphyotrichum-pratense",
+  "commonNames": [
+    "Barrens Silky Aster",
+    "Meadow Aster"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/symphyotrichum-pratense/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Symphyotrichum",
+  "species": "pratense",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Central and southeastern U.S.A."
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "FL ",
+    "GA ",
+    "KY ",
+    "LA ",
+    "MS ",
+    "TN ",
+    "TX ",
+    "VA"
+  ],
+  "wildlife-value": [
+    "Members of the genus Symphyotrichum support the following specialized bees: Andrena (Callandrena s.l.) asteris, Andrena (Callandrena s.l.) asteroides, Andrena (Cnemidandrena) hirticincta, Andrena (Cnemidandrena) nubecula, Andrena (Callandrena s.l.) placata, Andrena (Callandrena s.l.) simplex, and Colletes simulans."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Wildflower"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Occasionally Dry"
+  ],
+  "flower-color": [
+    "Blue",
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-description": [
+    "Showy blue purple flowers appear from September-November."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "White"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Simple elliptical clasping sessile alternate leaves with entire margins.    Leaves appear whitish because of many tiny appressed hairs."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies"
+  ]
+}

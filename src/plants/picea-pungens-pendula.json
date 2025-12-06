@@ -1,0 +1,108 @@
+{
+  "fullName": "Picea pungens 'Pendula'",
+  "name": "picea-pungens-pendula",
+  "commonNames": [
+    "Colorado Spruce",
+    "Weeping Blue Spruce"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/picea-pungens-pendula/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Picea",
+  "species": "pungens",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Spreading",
+    "Weeping"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Bright stiff silvery blue needles"
+  ],
+  "bark-color": [
+    "Dark Brown"
+  ],
+  "surface/attachment": [
+    "Furrowed"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Small Tree",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Pollution",
+    "Rabbits"
+  ]
+}

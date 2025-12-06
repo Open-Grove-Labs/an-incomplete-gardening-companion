@@ -1,0 +1,212 @@
+{
+  "fullName": "Selenicereus undatus",
+  "name": "selenicereus-undatus",
+  "commonNames": [
+    "Belle-Of-The-Night",
+    "Cinderella Plant",
+    "Dragon Fruit",
+    "Dragon Fruit Tree",
+    "Honolulu Queen",
+    "Jesus in the Cradle",
+    "Moonflower",
+    "Moonlight Cactus",
+    "Nightblooming Cactus",
+    "Night Blooming Cereus",
+    "Pitahya Plant",
+    "Pitaya",
+    "Queen of the Night",
+    "Red Pitaya",
+    "Strawberry-Pear"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/selenicereus-undatus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Selenicereus",
+  "species": "undatus",
+  "family": "Cactaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico to Honduras"
+  ],
+  "wildlife-value": [
+    "Bees are attracted to this plant as well as bats, moths and other nocturnal insects."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Edible fruit ",
+    "Fragrance",
+    "Textural "
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "edibility": [
+    "The flowers and fruits are edible."
+  ],
+  "dimensions": [
+    "Height: 8 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Succulent"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Creeping"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Green",
+    "Pink"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "The oval to oblong fruits are green and pink on the outside and bear hard tentacles."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head",
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Trumpet"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "The rosette-shaped flowers open at night and close during the daytime.  They have white petals and yellow stamens, with a prominent style."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "White"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Greenish-yellow to white leaves that taper to a point."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-bud-scales": [
+    "Enclosed in more than 2 scales"
+  ],
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "The stems can reach a thickness up to 5\".  They have nodes at various points, from 12\" to 48\" apart.  The nodes have small needle-like spines."
+  ],
+  "landscape-location": [
+    "Container",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Edible Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Moths"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ]
+}

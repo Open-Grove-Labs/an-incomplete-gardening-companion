@@ -1,0 +1,179 @@
+{
+  "fullName": "Acer saccharum subsp. nigrum",
+  "name": "acer-saccharum-subsp-nigrum",
+  "commonNames": [
+    "Black Maple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/acer-saccharum-subsp-nigrum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Acer",
+  "species": "saccharum subsp. nigrum",
+  "family": "Sapindaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern and central USA"
+  ],
+  "wildlife-value": [
+    "Members of the genus Acer support Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed. Provides shelter, nesting sites and birds will eat the seeds. Many insects feed off parts of the tree."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heat and drought tolerant."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Rounded"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Samara"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Clusters of paired samaras (to 1” long) that mature in late summer."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Male flowers are yellow-green in 2-4 inch long drooping umbels. Female flowers are similar but umbels are shorter."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Orbicular"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "3 to 6 in. opposite, simple leaves with 3-5 palmate lobes and an orbicular outline. Leaves are drooping, and leathery. Fall color is in reds, oranges and yellows."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray",
+    "Light Brown"
+  ],
+  "surface/attachment": [
+    "Furrowed"
+  ],
+  "bark-description": [
+    "The trunk bark is grayish-brown or grayish black, becoming rougher and irregularly furrowed with age."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Hairy"
+  ],
+  "stem-bud-terminal": [
+    "Cluster of terminal buds"
+  ],
+  "stem-lenticels": [
+    "Conspicuous"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Branch bark is gray and more smooth, while twigs are various shades of gray or brown, glabrous, and covered with scattered white lenticels. Buds are reddish-brown with some green and with fine hair. Terminal buds are multiple"
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Nighttime Garden",
+    "Pollinator Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Moths",
+    "Pollinators"
+  ],
+  "uses": "Wood used in construction and making furniture."
+}

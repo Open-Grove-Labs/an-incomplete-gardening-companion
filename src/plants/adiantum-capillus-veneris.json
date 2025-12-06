@@ -1,0 +1,144 @@
+{
+  "fullName": "Adiantum capillus-veneris",
+  "name": "adiantum-capillus-veneris",
+  "commonNames": [
+    "Southern Maidenhair Fern",
+    "Venus'-hair Fern",
+    "Venus Maidenhair Fern"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/adiantum-capillus-veneris/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Adiantum",
+  "species": "capillus-veneris",
+  "family": "Pteridaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Temperate and tropical regions worldwide"
+  ],
+  "distribution": [
+    "Temperate and tropical regions worldwide"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer, Heavy Shade"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 10 in. - 2 ft. 0 in.",
+    "Width: 0 ft. 10 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Fern",
+    "Houseplant",
+    "Native Plant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Clumping",
+    "Creeping"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "No fruits. Spores display from June to July."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Fronds"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Delicate, bright green fronds are bipinnate to tripinnate, arching or pendent with 3 to 6 pairs of pinnae. Segments are fan-shaped and .25 to .75 in. long. weakly glaucous beneath, membraneous; pinnae often decompound, flabellately branched; pinnules/leaflets somewhat triangular, broadly cuneate, lobed, sterile lobes cut deeply. Stipe/petiole wiry, shiny black or tinged purple. SORI round to elongated, covered my revolute pinnule marginal flap."
+  ],
+  "stem-color": [
+    "Black",
+    "Brown/Copper",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Naturalized Area",
+    "Small Space",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Shade Garden"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heavy Shade"
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "fullName": "Asclepias exaltata",
+  "name": "asclepias-exaltata",
+  "commonNames": [
+    "Poke Milkweed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/asclepias-exaltata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Asclepias",
+  "species": "exaltata",
+  "family": "Apocynaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "North America"
+  ],
+  "distribution": [
+    "CT",
+    "DE",
+    "GA",
+    "IA",
+    "IL",
+    "IN",
+    "KY",
+    "MA",
+    "MD",
+    "ME",
+    "MI",
+    "MN",
+    "NC",
+    "NH",
+    "NJ",
+    "NY",
+    "OH",
+    "PA",
+    "RI",
+    "SC",
+    "TN",
+    "VA",
+    "VT",
+    "WI",
+    "WV\nCanada: ON",
+    "QC"
+  ],
+  "wildlife-value": [
+    "Nectar and larval host plant that attracts bees, butterflies (notably Monarchs), hummingbirds (milkweeds are a source of insects as well as nectar), moths (especially milkweed tussock moths and their larvae), pollinators, predatory Insects, and specialized bees."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Larval Host "
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 7 ft. 0 in.",
+    "Width: 0 ft. 10 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Follicle"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Fruits are smooth follicles forming upright 3- to 6-inch long pods filled with brown seeds attached to coma (white fluffy fiber) that facilitates wind dispersal"
+  ],
+  "flower-color": [
+    "Green",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Loose umbels, both terminal and upper axillary, have 10 to 25 small white flowers touched with green and lavender, each with 5 petals with reflexed light pink corollas. The corollas have light pink hoods with protruding horns. Each flower is on a long (.75 to 2 inches), drooping pedicel. Blooms in summer."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Green leaves with purplish veins are simple, entire, arranged oppositely and attached by short (approximately .5 inch) petioles. They are 2 to 11 inches long and 1 to 4 inches wide, ending in a pointed tip; smooth on top, but hairy underneath."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Plant stems are green, smooth or slightly hairy; umbel stems are purplish."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Moths",
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Can cause stomach upset, nausea, vomiting, abdominal pain, diarrhea, weakness, lethargy, and confusion if eaten in quantity. Milky sap can cause contact dermatitis and eye irritation."
+  ],
+  "poison-toxic-principle": [
+    "Cardiac glycoside"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "uses": "Historically, the root was eaten raw for stomach problems."
+}

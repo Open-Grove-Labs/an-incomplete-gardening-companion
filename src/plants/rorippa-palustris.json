@@ -1,0 +1,47 @@
+{
+  "fullName": "Rorippa palustris",
+  "name": "rorippa-palustris",
+  "commonNames": [
+    "Marsh Yellowcress"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rorippa-palustris/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rorippa",
+  "species": "palustris L.",
+  "family": "Brassicaceae",
+  "plant-type": [
+    "Weed"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "fruit-description": [
+    "cylindrical fruit containing many small tan seeds"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "deeply-lobed, pinnate leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "problems": [
+    "Weedy"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "fullName": "Valeriana rubra",
+  "name": "valeriana-rubra",
+  "commonNames": [
+    "Jupiter's Beard",
+    "Keys of Heaven",
+    "Red-Spur",
+    "Red Valerian",
+    "Spur Valerian"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/valeriana-rubra/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Valeriana",
+  "species": "rubra",
+  "family": "Caprifoliaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Azores, S. Europe, NW. Africa"
+  ],
+  "distribution": [
+    "AZ",
+    "CA",
+    "HI",
+    "OR",
+    "UT",
+    "WA"
+  ],
+  "wildlife-value": [
+    "Bees and butterflies are attracted, as well as other insects."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Fragrance"
+  ],
+  "edibility": [
+    "The leaves and roots can be eaten."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Herbaceous Perennial",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Individual flowers that grow in clusters are small with 5 fused petals.  The clusters are sizeable and showy.  Typically found in dark red or purple-red.  Occasionally, pink, lavender and white varieties can be seen."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The fleshy leaves form changes from the bottom of the plant to the top.  The lower leaves attach to the stem via a petiolate (stalk), the upper leaves have no stalk, therefore sessile."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Protruding through the foliage, the stems stand 1.5-3' tall with clusters of flowers at the top.  They are stout, shrubby at the base, hollow, and have a smooth texture."
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

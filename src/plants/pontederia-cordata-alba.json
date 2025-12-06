@@ -1,0 +1,113 @@
+{
+  "fullName": "Pontederia cordata 'Alba'",
+  "name": "pontederia-cordata-alba",
+  "commonNames": [
+    "White Pickerel Weed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pontederia-cordata-alba/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pontederia",
+  "species": "cordata",
+  "family": "Pontederiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "wildlife-value": [
+    "Supports the specialized bee - Florilegus (Florilegus) condignus.  Laying site for the adult dragonfly."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 2 ft. 6 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Prostrate"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Spike of white ephemeral flowers.  Strong odor."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Smooth"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Glossy, heart-shaped leaves with swirled markings., indented at the base and tapers to a point."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Can reach 2' in height."
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Specimen"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Specialized Bees"
+  ]
+}

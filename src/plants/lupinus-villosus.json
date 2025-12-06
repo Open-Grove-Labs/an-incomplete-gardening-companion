@@ -1,0 +1,158 @@
+{
+  "fullName": "Lupinus villosus",
+  "name": "lupinus-villosus",
+  "commonNames": [
+    "Hairy Lupine",
+    "Lady Lupine",
+    "Pink Sandhill Lupine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lupinus-villosus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lupinus",
+  "species": "villosus",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "SE North America"
+  ],
+  "distribution": [
+    "AL ",
+    "FL ",
+    "GA ",
+    "LA ",
+    "MS ",
+    "NC ",
+    "SC"
+  ],
+  "wildlife-value": [
+    "Attracts hummingbirds and butterflies."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The fruit is an elongated, flattened pod. Displays from June to August."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Raceme",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals"
+  ],
+  "flower-description": [
+    "The pea-like blooms are lavender-blue with a reddish-purple spot on the upper petal. The 2 lower petals are fused. They are borne on 4-7 inch spikes in terminal clusters. Blooms from April to May."
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "2-6 in. hairy elliptical leaves that are held upward."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Drought Tolerant Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Respiratory depression and slow heartbeat, sleepiness, convulsions if large amounts are eaten."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids such as lupinine, anagyrine, sparteine, and hydroxylupanine"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Seeds"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "fullName": "Sideroxylon tenax",
+  "name": "sideroxylon-tenax",
+  "commonNames": [
+    "Ironwood",
+    "Tough Buckthorn",
+    "Tough Bully"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sideroxylon-tenax/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sideroxylon",
+  "species": "tenax",
+  "family": "Sapotaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern U.S.A., NC to FL"
+  ],
+  "distribution": [
+    "FL",
+    "GA",
+    "SC",
+    "NC"
+  ],
+  "wildlife-value": [
+    "Bees and wasps drink the nectar. Birds and mammals eat the berries"
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Edible fruit ",
+    "Fragrance",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "Raw fruits have a sweet flavor."
+  ],
+  "dimensions": [
+    "Height: 12 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Native Plant",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "appendage": [
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Oval green berries mature to purplish black"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Tiny white flowers in clusters of up to 40 flowers on short hairy stems"
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Gray/Silver",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate",
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Shiny green leaves vary as to the area it grow in, and are up to 2.8 inches long. Undersides covered with silky silver or reddish-brown hairs. The base is cuneate to attenuate, margins entire, apex rounded to obtuse or retuse"
+  ],
+  "bark-color": [
+    "Dark Brown"
+  ],
+  "surface/attachment": [
+    "Furrowed"
+  ],
+  "bark-description": [
+    "Bark brown, furrowed and narrow-ridged. The inner bark reddish-brown"
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Brown stems are armed with thorns and exude a milky sap when broken."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Hedge"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ]
+}

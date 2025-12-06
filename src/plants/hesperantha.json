@@ -1,0 +1,114 @@
+{
+  "fullName": "Hesperantha",
+  "name": "hesperantha",
+  "commonNames": [
+    "Crimson Flag"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hesperantha/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hesperantha",
+  "family": "Iridaceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Cameroon, Ethiopia to South Africa"
+  ],
+  "distribution": [
+    "Introduced to western and southern Australia"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 3 ft. 0 in.",
+    "Width: 0 ft. 4 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-description": [
+    "Six petaled star shaped flowers in various colors held in clusters above the leaves."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Long narrow bladelike leaves die back in winter and appear in early spring."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stiff erect stems"
+  ],
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Cutting Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ]
+}

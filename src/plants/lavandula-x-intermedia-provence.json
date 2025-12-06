@@ -1,0 +1,98 @@
+{
+  "fullName": "Lavandula x intermedia 'Provence'",
+  "name": "lavandula-x-intermedia-provence",
+  "commonNames": [
+    "Lavandin",
+    "Lavender 'Provence'",
+    "Provence French Lavender"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lavandula-x-intermedia-provence/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lavandula",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "wildlife-value": [
+    "Bees and butterflies nectar at the flowers."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herb",
+    "Shrub"
+  ],
+  "habit/form": [
+    "Mounding"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "flower-color": [
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Mid to late summer large spikes of showy fragrant light lavender flowers."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Silver green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Hedge",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Heat",
+    "Poor Soil",
+    "Rabbits"
+  ]
+}

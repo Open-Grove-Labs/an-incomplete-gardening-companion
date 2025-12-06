@@ -1,0 +1,189 @@
+{
+  "fullName": "Ulmus pumila",
+  "name": "ulmus-pumila",
+  "commonNames": [
+    "Chinese Elm",
+    "Siberian Elm"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ulmus-pumila/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ulmus",
+  "species": "pumila",
+  "family": "Ulmaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Asia, Siberia"
+  ],
+  "distribution": [
+    "Most of the US",
+    "especially in the west and midwest."
+  ],
+  "play-value": [
+    "Wind Break"
+  ],
+  "dimensions": [
+    "Height: 50 ft. 0 in. - 70 ft. 0 in.",
+    "Width: 35 ft. 0 in. - 50 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Vase"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Cream/Tan"
+  ],
+  "display/harvest-time": [
+    "Spring"
+  ],
+  "fruit-type": [
+    "Samara"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is a samara that is winged, round, and contains one seed. It measures 0.5 to 1 inch in diameter.  The covering is brown, dry, and hard. They do not attract wildlife and are not showy. The fruits appear in clusters and are spread by the wind."
+  ],
+  "flower-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Flowers develop, in drooping clusters, in the spring between March and May. Unlike other Elms, they are perfect flowers and self-pollinate. Their flowers are light green to reddish and appear in small clusters of two to five. They appear before the leaves develop and are not showy."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Doubly Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves are dark green on the upper surface and light green on the lower surface. The margins are doubly serrate.  They measure 1 to 3 inches long, are oblique (more leaf blade on one than the other), and are oval to lanceolate in shape. Their fall color is yellow."
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Light Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Ridges"
+  ],
+  "bark-description": [
+    "The bark is a light gray-brown with irregular furrows and is often streaked with stains caused by bacterial wetwood. The bark is dark gray and has shallow grooves on the mature tree."
+  ],
+  "stem-color": [
+    "Gold/Yellow",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Stems are silver-gray, glabrous, or pubescent, unwinged, without a corky layer, with scattered lenticels, and they have a zig-zag form. The round to oval winter buds is dark brown to red-brown."
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Pollution",
+    "Poor Soil"
+  ],
+  "problems": [
+    "Frequent Insect Problems",
+    "Messy",
+    "Weak Wood",
+    "Weedy"
+  ]
+}

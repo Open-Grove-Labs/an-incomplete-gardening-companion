@@ -1,0 +1,211 @@
+{
+  "fullName": "Cucumis anguria",
+  "name": "cucumis-anguria",
+  "commonNames": [
+    "Bur Gourd",
+    "Bur Gourds",
+    "Gherkin",
+    "Goareberry Gourd",
+    "Goareberry Gourds",
+    "Gooseberry Gourd",
+    "Gooseberry Gourds",
+    "Maroon Cucumber",
+    "Maroon Cucumbers",
+    "West Indian Gherkin",
+    "West Indian Gherkins",
+    "West Indian Gourd",
+    "West Indian Gourds"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cucumis-anguria/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cucumis",
+  "species": "anguria",
+  "family": "Cucurbitaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Tanzania, Southern Africa"
+  ],
+  "distribution": [
+    "Western United States",
+    "Texas",
+    "Southeastern United States",
+    "Mexico and South America"
+  ],
+  "climbing-method": [
+    "Scrambler",
+    "Tendrils"
+  ],
+  "edibility": [
+    "Fruits have a very agreeable cucumber flavor without any bitterness.  Fresh cucumbers last in the fridge for about a week. Be aware that the sprouting seed produces a toxic substance in its embryo."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Vegetable",
+    "Vine",
+    "Warm Season Vegetable"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Tendrils"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "The \"vegetable\" is botanically a fruit– it is a pepo, a berry with a hard rind.  Long and cylindrical, starting out prickly when young and smoothing out to a bumpy surface as it matures.  Length and girth can vary based on cultivar and culinary purpose but grow at least 3 inches long.  Some varieties are bred to be seedless. The surface of the fruit is covered in hairs, spines or warts."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Yellow five-petaled flowers.  Male and female flowers grow separately on the same plant.  Multiple plants are required for successful pollination with the exception of seedless varieties.  Some varieties have only female flowers and need a traditionally-flowering plant for pollination."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly",
+    "Rough"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Orbicular"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Large, hairy, triangular leaves with 3-5 lobes, deep wrinkles, and serrated margins borne on long petioles."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Thin vining stems covered in prickly hairs."
+  ],
+  "landscape-location": [
+    "Container",
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Heat"
+  ],
+  "uses": "Can be used in salads, but is typically soaked in vinegar for pickles."
+}

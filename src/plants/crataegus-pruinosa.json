@@ -1,0 +1,260 @@
+{
+  "fullName": "Crataegus pruinosa",
+  "name": "crataegus-pruinosa",
+  "commonNames": [
+    "Frosted Hawthorn",
+    "Hawthorn",
+    "Thornapple",
+    "Waxy-Fruited Hawthorn"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/crataegus-pruinosa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Crataegus",
+  "species": "pruinosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Canada and Eastern United States"
+  ],
+  "distribution": [
+    "AR ",
+    "CT ",
+    "DE ",
+    "GA ",
+    "IA ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "LA ",
+    "MA ",
+    "MD ",
+    "ME ",
+    "MI ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NH ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "RI ",
+    "TN ",
+    "VA ",
+    "VT ",
+    "WI ",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Important nectar flower for insects and other pollinators; food plant of many moths including the eggar moth; haws provide winter fruit for songbirds and mammals. It is a larval host plant for Gray Hairstreak (Strymon melinus), Red-spotted Purple (Limenitis arthemis astyanax), and Viceroy (Limenitis archippus). Red-spotted Purple and Viceroy rarely use this host plant in North Carolina. Good nesting habitat with thorns providing protection from predators."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Edible fruit ",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "Fruit can be eaten raw or cooked. The flesh is thick, sweet and yellow. The fruit can be used for pies, preserves, and can dried for later use."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Dense",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Pome"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Small reddish to purplish pome with 3 to 5 pyrenes that resemble the “stones” in related plums, peaches, etc.  Sometimes called the ‘haw’."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Short-stalked corymbs in the axils of leaves; few flowers per corymb. 3/4 to 1 inch across, 5 petals, 20 stamens with usually pink anthers. Flower blooms from April to May. Unpleasant odor, which attracts midges for fertilization."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Deltoid",
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Doubly Serrate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The oval, or wedge-shaped, alternate leaves are 1¼ to 2½ inches long and 1 to 2 inches across, oval-ovate or oval-deltate in shape and widest below the middle. The stems are ¾ to 2 inches in length, green to reddish and hairless. The tip is broadly pointed and base is rounded. Margins are shallowly lobed with 3 to 4 lobes on both sides and doubly serrated. Undersides are pale."
+  ],
+  "bark-color": [
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Scaly"
+  ],
+  "bark-description": [
+    "Thin gray bark, rough and scaly, fissuring into narrow scales with age."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-bud-scales": [
+    "Enclosed in more than 2 scales"
+  ],
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Young twigs are red-brown, smooth and usually zig-zagged."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Flowering Tree",
+    "Hedge"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Pollution",
+    "Wet Soil",
+    "Wind"
+  ],
+  "uses": "The leaves, berries, and flowers are used in medicines and herbals for cardiovascular health. Wood is strong, heavy, and hard, but with little commercial value."
+}

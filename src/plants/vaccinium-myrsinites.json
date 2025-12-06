@@ -1,0 +1,232 @@
+{
+  "fullName": "Vaccinium myrsinites",
+  "name": "vaccinium-myrsinites",
+  "commonNames": [
+    "Dwarf Blueberry",
+    "Evergreen Blueberry",
+    "Florida Evergreen Blueberry",
+    "Ground Blueberry",
+    "Low Blueberry",
+    "Shiny Blueberry",
+    "Southern Evergreen Blueberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/vaccinium-myrsinites/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Vaccinium",
+  "species": "myrsinites",
+  "family": "Ericaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Layering",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Alabama, Florida, Georgia, South Carolina"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Pollinators are attracted to the flowers. Black bears, raccoons, white-footed mice, red and gray foxes, skunks, deer, chipmunks, deer mice, and squirrels seek out the berries as a source of food. Many species of birds also consume the fruits. Among these are the ring-necked pheasant, gray catbird, thrushes, thrashers, and bluebirds. It is a major source of food in the spring and summer for the northern bobwhite."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "The fruits are edible both raw and cooked."
+  ],
+  "plant-type": [
+    "Edible",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Semi-evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Spring",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Round blue to black fruit containing numerous seeds or nutlets.  Ripening occurs in late spring into summer.  The fruits are round, and a bluish-gray when ripe."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Tubular",
+    "Urn"
+  ],
+  "flower-petals": [
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The fused-petaled flowers bloom in clusters of 2 to 8.  The white flowers are enclosed by pink calyxes."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The green-gray leaves range from pubescent to glabrous.  The undersides are typically glandular.  The upper side of the leaves is glossy. The underside have microscopic red glands.  New leaves are typically half the size of mature leaves.  The margins of new leaves can be pink tinged."
+  ],
+  "bark-description": [
+    "New bark is green, round and slightly pubescent.  As it ages, it becomes more woody."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The many branched stems can range from glabrous to densely pubescent.  New growth is green, becoming woody as it ages."
+  ],
+  "landscape-location": [
+    "Container",
+    "Meadow",
+    "Naturalized Area",
+    "Patio",
+    "Slope/Bank",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Pollinator Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Border",
+    "Hedge",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Fire",
+    "Heat",
+    "Poor Soil"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

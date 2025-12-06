@@ -1,0 +1,181 @@
+{
+  "fullName": "Gerbera jamesonii",
+  "name": "gerbera-jamesonii",
+  "commonNames": [
+    "African Daisy",
+    "Barberton Daisy",
+    "Gerbera Daisy",
+    "Gerber Daisy",
+    "Transvaal Daisy",
+    "Veldt Daisy"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/gerbera-jamesonii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Gerbera",
+  "species": "jamesonii",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Northern Prov. to Eswatini"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 1 ft. 6 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 3 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Brown achene"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Ray flowers surround a darker center of disc flowers and are up to 4 inches across. They are single to semi-double and are usually red, yellow or orange and occur singly on the top of a stem."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Pinnatifid",
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Green leaves are spatulate with lobes or pinnatifid, up to 20 inches long in a basal rosette."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Leafless stems with a solitary bloom"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Houseplants",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Cutting Garden",
+    "English Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ]
+}

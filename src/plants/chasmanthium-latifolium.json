@@ -1,0 +1,256 @@
+{
+  "fullName": "Chasmanthium latifolium",
+  "name": "chasmanthium-latifolium",
+  "commonNames": [
+    "Indian Wood Oats",
+    "Inland Sea Oats",
+    "Northern Sea Oats",
+    "River Oats",
+    "Wild Oats",
+    "Wood-oat"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/chasmanthium-latifolium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Chasmanthium",
+  "species": "latifolium",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central Canada, Central & E. U.S.A. to NE. Mexico"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "AZ ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "IA ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "LA ",
+    "MD ",
+    "MI ",
+    "MO ",
+    "MS ",
+    "NC ",
+    "NJ ",
+    "NM ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "SC ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "WI ",
+    "WV"
+  ],
+  "wildlife-value": [
+    "This is a larval host plant for Northern Pearly-Eye (Lethe anthedon) caterpillars.  You may see two broods from May-September in the south or one brood from June-August in the north. Highly resistant to deer. Also a larval host plant to several skipper butterflies. Small mammals and birds are attracted to the seeds."
+  ],
+  "play-value": [
+    "Shade ",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Larval Host ",
+    "Wind Shimmer"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 6 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Ornamental Grasses and Sedges"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Cream/Tan",
+    "Gray/Silver",
+    "Purple/Lavender"
+  ],
+  "fruit-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Caryopsis"
+  ],
+  "fruit-description": [
+    "Seed heads are green to tan then purplish bronze from July to November."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Good Dried",
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The inflorescence is an open panicle with branches nodding or drooping. It is initially green, turning brown at maturity.  The individual spikelets are up to 1-1/2 inches long and over 1/2 inch wide, with typically 6 to 17 florets. Flowers bloom from June to October and are wind pollinated."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "5-9 inch long and 1-inch wide flat green leaf blades are upright to slightly arching, turn a yellow-coppery color in fall and brown in winter."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Green and smooth"
+  ],
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Pond",
+    "Riparian",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Shade Garden",
+    "Water Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Drought",
+    "Erosion",
+    "Salt",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

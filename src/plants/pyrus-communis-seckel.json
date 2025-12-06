@@ -1,0 +1,167 @@
+{
+  "fullName": "Pyrus communis 'Seckel'",
+  "name": "pyrus-communis-seckel",
+  "commonNames": [
+    "Seckel Pear",
+    "Sugar Pear"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pyrus-communis-seckel/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pyrus",
+  "species": "communis",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "edibility": [
+    "It produces small-sized, yellowish-brown fruit. The fine-grained flesh is smooth, sweet and juicy. The aromatic and spicy taste makes it a great choice for spiced pears. It is also good for pickling and canning. Ripens in September."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 15 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 12 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Pome"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "It produces small-sized, yellowish-brown fruit. The fine-grained flesh is smooth, sweet and juicy. The aromatic and spicy taste makes it a great choice for spiced pears. It is also good for pickling and canning. Ripens in September."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "The white flower blooms in spring."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Orbicular",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Round, smooth leaves with serrated edges.  More uniform than apple leaves and have more prominent veins."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Fissured",
+    "Lenticels",
+    "Scaly"
+  ],
+  "bark-description": [
+    "Similar to an apple tree; prominent lenticels that grow fissured and scaly with age."
+  ],
+  "stem-color": [
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-lenticels": [
+    "Conspicuous"
+  ],
+  "stem-description": [
+    "Dwarf shoots on old wood.  New stems are pointed."
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Flowering Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Songbirds"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "fullName": "Hibiscus coccineus",
+  "name": "hibiscus-coccineus",
+  "commonNames": [
+    "Red Hibiscus",
+    "Scarlet Rose Mallow",
+    "Texas Hibiscus"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hibiscus-coccineus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hibiscus",
+  "species": "coccineus",
+  "family": "Malvaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern U.S.A., GA to FL"
+  ],
+  "distribution": [
+    "GA",
+    "FL"
+  ],
+  "wildlife-value": [
+    "Its flowers are attractive to hummingbirds, butterflies, and other pollinators.  Members of the genus Hibiscus support the following specialized bee: Ptilothrix bombiformis."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5b",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "flower-color": [
+    "Red/Burgundy"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Showy center staminal column. Blooms in late summer."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Deep green, finely toothed"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Pond",
+    "Riparian",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden",
+    "Rain Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Small groups"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Salt",
+    "Wet Soil"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "fullName": "Cyperus papyrus",
+  "name": "cyperus-papyrus",
+  "commonNames": [
+    "Egyptian Paper Reed",
+    "Giant Papyrus",
+    "Paper Reed",
+    "Papyrus"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cyperus-papyrus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cyperus",
+  "species": "papyrus",
+  "family": "Cyperaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Africa"
+  ],
+  "plant-type": [
+    "Water Plant"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-description": [
+    "Brown, nut-like fruits"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Umbel"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The umbellate inflorescence is a dense cluster of many bright green, shiny thread-like rays 4-12 inches long resembling a feather duster on young plants. Small, secondary umbels with 3-5 rays and narrow, elongated bracts are produced on the ends of the rays. The non-descript, greenish-brown flowers are produced at the ends. Can grow up to 1 foot across."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Red-brown, papery, triangular scales on the lower stem are reduced leaves."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-description": [
+    "Triangular green stems"
+  ],
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Water Garden"
+  ],
+  "uses": "Was used to make a paper called papyrus. It was also burned and the ashes used medicinally."
+}

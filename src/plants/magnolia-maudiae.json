@@ -1,0 +1,67 @@
+{
+  "fullName": "Magnolia maudiae",
+  "name": "magnolia-maudiae",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/magnolia-maudiae/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Magnolia",
+  "species": "maudiae",
+  "family": "Magnoliaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "China"
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 12 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "Blooms repeately from mid-spring through early fall with large incredibly fragrant creamy white flowers.  Early blooms can be damaged by frost."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

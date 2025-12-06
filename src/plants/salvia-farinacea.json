@@ -1,0 +1,201 @@
+{
+  "fullName": "Salvia farinacea",
+  "name": "salvia-farinacea",
+  "commonNames": [
+    "Blue Sage",
+    "Mealy Blue Sage",
+    "Mealy Cup Sage",
+    "Mealycup Sage",
+    "Mealy Sage"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/salvia-farinacea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Salvia",
+  "species": "farinacea",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "S. Central U.S.A. to NE. Mexico"
+  ],
+  "distribution": [
+    "LA",
+    "NM",
+    "OH",
+    "OK",
+    "and TX"
+  ],
+  "wildlife-value": [
+    "Flowers attract bees, butterflies, and hummingbirds. Goldfinches enjoy eating the small, dried brown fruits that appear after the flowers fade."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Easy to Grow"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer, drought, and dry soil"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Mounding",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Schizocarp"
+  ],
+  "fruit-description": [
+    "Schizocarp has 4 chambers with 1 nutlet each"
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Good Dried",
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped",
+    "Tubular"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers are blue to purple; calyx minute, short-cylindric, teeth obscure, blue beneath mealy-white pubescence; corolla zygomorphic, blue to purple, short, tube to .3 inches long, lower lip enlarged, upper lobes short. The inflorescence is a terminal. interrupted, verticillate raceme; verticillasters 10-16 flowered. Blooms from April to October."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are opposite, short-petiolate, ovate-lanceolate to narrowly oblong, irregularly serrate, minutely pubescent, acute, rotund to attenuate, minutely pubescent."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-description": [
+    "The stems are erect, branching, and squared."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Meadow",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil"
+  ]
+}

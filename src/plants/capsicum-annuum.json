@@ -1,0 +1,224 @@
+{
+  "fullName": "Capsicum annuum",
+  "name": "capsicum-annuum",
+  "commonNames": [
+    "Cayenne Pepper",
+    "Cayenne Peppers",
+    "Chili Pepper",
+    "Chili Peppers",
+    "Christmas Pepper",
+    "Christmas Peppers",
+    "Ornamental Pepper",
+    "Ornamental Peppers",
+    "Red Pepper",
+    "Red Peppers",
+    "Sweet Pepper",
+    "Sweet Peppers"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/capsicum-annuum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Capsicum",
+  "species": "annuum",
+  "family": "Solanaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical North and South America"
+  ],
+  "wildlife-value": [
+    "Birds are immune to the capsaicin in peppers and can safely eat the fruits with no ill effects. Therefore, these plants may attract birds.  Host plant for Potato Tuber Moth."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "deer resistant"
+  ],
+  "edibility": [
+    "Fruits edible, but spiciness is unpredictable in intensity."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 8 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Houseplant",
+    "Vegetable",
+    "Warm Season Vegetable"
+  ],
+  "habit/form": [
+    "Erect",
+    "Mounding",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Good Dried",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruits are a non-pulpy berry and vary considerably across cultivars.  Some are long, thin, bright red, and spicy; others are thick, large, and sweet-tasting; others still are small and in ornamental shapes and colors, grown as decoration."
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small white to purple flowers appear in clusters in summer, but are not particularly ornamental."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Ovate leaves (to 3” long) that are deep green.  Some cultivars emerge green but quickly turn shiny black. Leaves retain good color throughout the growing season."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Nodes may darken to a purple shade."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Small groups"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Heat"
+  ],
+  "uses": "Edible and used as a seasoning"
+}

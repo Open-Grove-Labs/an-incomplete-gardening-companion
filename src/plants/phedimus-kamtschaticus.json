@@ -1,0 +1,130 @@
+{
+  "fullName": "Phedimus kamtschaticus",
+  "name": "phedimus-kamtschaticus",
+  "commonNames": [
+    "Kamschatka Sedum",
+    "Orange Stonecrop",
+    "Stonecrop"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/phedimus-kamtschaticus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Phedimus",
+  "species": "kamtschaticum",
+  "family": "Crassulaceae",
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Textural "
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Poisonous"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Very Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Russet red friut"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Orangish yellow flowers in flat clusters."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Dark green, fleshy, flat or rounded leaves.  Leaves turn bronze to gold in winter."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Compact stems. Weakly ascending stems trail along the ground with upward turning tips."
+  ],
+  "landscape-location": [
+    "Recreational Play Area"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Songbirds"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Unknown, but possibly gastrointestinal symptoms"
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids sedine, sedamine and others"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

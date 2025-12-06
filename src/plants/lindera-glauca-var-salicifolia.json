@@ -1,0 +1,59 @@
+{
+  "fullName": "Lindera glauca var. salicifolia",
+  "name": "lindera-glauca-var-salicifolia",
+  "commonNames": [
+    "Asian Spicebush"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lindera-glauca-var-salicifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lindera",
+  "species": "glauca",
+  "family": "Lauraceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Semi-evergreen",
+    "Deciduous",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Pyramidal"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "fruit-description": [
+    "Shiny black small fruit appears in the fall"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Winter Garden"
+  ]
+}

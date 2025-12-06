@@ -1,0 +1,131 @@
+{
+  "fullName": "Shibataea kumasasa",
+  "name": "shibataea-kumasasa",
+  "commonNames": [
+    "Ruscus Bamboo",
+    "Ruscus-leaf Bamboo",
+    "Zig-Zag Bamboo"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/shibataea-kumasasa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Shibataea",
+  "species": "kumasasa",
+  "family": "Poaceae",
+  "country-or-region-of-origin": [
+    "SE. China, W. Japan"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Bamboo mites"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 7 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ornamental Grasses and Sedges"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet",
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Tear-drop shaped arranged in a zig-zag pattern up the stem hence the common name. Leaves are lanceolate, short and broad, glabrous, dark green, often withering at apex, 1-inch wide x 2-4 inches long; persistent, white, dried-out leaf sheaths."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Reddish-brown stems"
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge"
+  ],
+  "resistance-to-challenges": [
+    "Heavy Shade"
+  ]
+}

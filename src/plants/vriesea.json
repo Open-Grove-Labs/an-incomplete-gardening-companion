@@ -1,0 +1,102 @@
+{
+  "fullName": "Vriesea",
+  "name": "vriesea",
+  "commonNames": [
+    "Flaming Sword",
+    "Urn Plant",
+    "Vriesea"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/vriesea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Vriesea",
+  "family": "Bromeliaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico to Tropical America"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 6 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 6 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Epiphyte",
+    "Houseplant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Broad",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-description": [
+    "Inflorescence is an erect, bracteate flower scape, terminal, up to 30 inches tall, with flowers in 2 rows between bracts. Flowers are red, yellow, or orange, small; bracts bright red, yellow, green, usually 2-ranked."
+  ],
+  "leaf-color": [
+    "Green",
+    "Variegated"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves are in basal rosette, forming funnel-like central 'vase', simple, strap-shaped, entire, usually banded surfaces."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ]
+}

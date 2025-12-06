@@ -1,0 +1,257 @@
+{
+  "fullName": "Begonia",
+  "name": "begonia",
+  "commonNames": [
+    "Begonia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/begonia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Begonia",
+  "family": "Begoniaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Leaf Cutting",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Tropics & Subtropics of Central and South America, Africa, Asia"
+  ],
+  "distribution": [
+    "Native:  Angola",
+    "Argentina",
+    "Bangladesh",
+    "Belize",
+    "Bolivia",
+    "Borneo",
+    "Brazil",
+    "Cambodia",
+    "Cameroon",
+    "Cape Provinces",
+    "China",
+    "Colombia",
+    "Congo",
+    "Costa Rica",
+    "Cuba",
+    "Dominican Republic",
+    "East Himalaya",
+    "Ecuador",
+    "Ethiopia",
+    "Fiji",
+    "Gabon",
+    "Ghana",
+    "Guatemala",
+    "Guinea",
+    "Haiti",
+    "Honduras",
+    "India",
+    "Ivory Coast",
+    "Jamaica",
+    "Kenya",
+    "Liberia",
+    "Madagascar",
+    "Malaya",
+    "Mexico",
+    "Mozambique",
+    "Myanmar",
+    "Nepal",
+    "Nicaragua",
+    "Nigeria",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Philippines",
+    "Puerto Rico",
+    "Rwanda",
+    "Sri Lanka",
+    "Sudan",
+    "Swaziland",
+    "Taiwan",
+    "Tanzania",
+    "Thailand",
+    "Tibet",
+    "Uganda",
+    "Uruguay",
+    " Venezuela",
+    "Vietnam",
+    " West Himalaya",
+    "Zambia",
+    "Zaire",
+    "and Zimbabwe. Introduced: Japan",
+    "Korea",
+    "Samoa",
+    "and the United States"
+  ],
+  "bulb-storage": [
+    "Harvest enlarged hypocotyls in fall, dry, store in dry peat at 35-41 degrees F (2-5 degrees C)"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 8 in. - 2 ft. 0 in.",
+    "Width: 0 ft. 9 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Bulb",
+    "Herbaceous Perennial",
+    "Houseplant"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Winged capsule, seeds numerous and small."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-description": [
+    "Showy blooms range in color from pink, red, yellow, white, orange, or bicolors and can be found in doubles."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Gray/Silver",
+    "Green",
+    "Purple/Lavender",
+    "Variegated",
+    "White"
+  ],
+  "leaf-feel": [
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Orbicular",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Showy leaves can be 6 inches long, asymmetrical with tapered ends and toothed edges."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Erect, with rhizomes or tubers, generally fleshy."
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Foundation Planting"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Humidity",
+    "Rabbits"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "If ingested, Kidney failure (in grazing animals), vomiting, and salivation in dogs/cats. The most toxic part is the underground roots. Sap can cause skin irritation."
+  ],
+  "poison-toxic-principle": [
+    "Soluble calcium oxalates"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Roots",
+    "Sap/Juice"
+  ]
+}

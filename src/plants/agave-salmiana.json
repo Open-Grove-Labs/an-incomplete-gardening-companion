@@ -1,0 +1,162 @@
+{
+  "fullName": "Agave salmiana",
+  "name": "agave-salmiana",
+  "commonNames": [
+    "Century Plant",
+    "Pulque Agave"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/agave-salmiana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Agave",
+  "species": "salmiana",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Northern and central Mexico"
+  ],
+  "distribution": [
+    "Mexican states of Coahuila",
+    "Durango",
+    "San Luis Potosi",
+    "Zacatecas",
+    "Colima",
+    "Guanajuato",
+    "Hidalgo",
+    "Oaxaca",
+    "and Puebla"
+  ],
+  "wildlife-value": [
+    "Attracts birds, hummingbirds and bees"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "poor soil, drought"
+  ],
+  "plant-type": [
+    "Perennial",
+    "Succulent"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-description": [
+    "15 to 40-foot flower stalk when plant is 15 years old or more.  The plant dies after flowering."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver"
+  ],
+  "leaf-feel": [
+    "Prickly",
+    "Smooth",
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Strap shaped, waxy, blue-gray, long and broad leaves to 5 feet long in length when mature."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Pool/Hardscape"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Security",
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Heat",
+    "Poor Soil"
+  ]
+}

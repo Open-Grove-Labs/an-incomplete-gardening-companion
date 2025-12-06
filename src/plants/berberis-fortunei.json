@@ -1,0 +1,165 @@
+{
+  "fullName": "Berberis fortunei",
+  "name": "berberis-fortunei",
+  "commonNames": [
+    "Chinese Mahonia",
+    "Fortune's Mahonia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/berberis-fortunei/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Berberis",
+  "species": "fortunei",
+  "family": "Berberidaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Southern China and Taiwan"
+  ],
+  "edibility": [
+    "Not poisonous, but berries contain berberine that can cause stomach upset, especially with children."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Blue",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flower form is called raceme, meaning a stalk with small, tight flowers along the stalk that have no or very short stems of their own. Older blooms are at the base with younger ones further out on the stalk or raceme. Blooms are yellow and appear in late summer into fall."
+  ],
+  "leaf-color": [
+    "Black",
+    "Gold/Yellow",
+    "Green",
+    "Variegated"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Insignificant"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The green leaf is narrow, about 4 to 7 inches long. There is no fall color change and the leaves are not considered showy. The pinnate leaf is a series of leaflets on each side of the stem, the stem of leaflets making up one leaf. In this shrub, the leaflets are alternately placed on each side of the stem. The margins have 5 to 10 or more spiny protrusions in a holly-like form."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Riparian",
+    "Woodland"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge",
+    "Security"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ]
+}

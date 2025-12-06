@@ -1,0 +1,160 @@
+{
+  "fullName": "Citrullus lanatus",
+  "name": "citrullus-lanatus",
+  "commonNames": [
+    "Watermelon",
+    "Watermelons"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/citrullus-lanatus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Citrullus",
+  "species": "lanatus",
+  "family": "Cucurbitaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Africa"
+  ],
+  "climbing-method": [
+    "Tendrils"
+  ],
+  "edibility": [
+    "The fruit can be eaten raw or pickled. The rind is edible after cooking."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 4 in. - 0 ft. 8 in.",
+    "Width: 5 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Vegetable",
+    "Vine",
+    "Warm Season Vegetable"
+  ],
+  "habit/form": [
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "The plant produces melons which are large modified berries called a pepo. They are rounded to oval mottled green with darker green rind. Black, cream or mottled colored elliptic seeds. Flesh general red or pink but can also be yellowish."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Separate male and female flowers develop on the same plant (monoecious) on a short stalk at a solitary leaf axil.  There are 5 sepals and a 5-part corolla.  The female flower has an inferior ovary and the male flower has 3 stamens.  Melons develop from the female flower if successfully fertilized by the male flower."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Denticulate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Large heart or oval-shaped leaves are hairy, especially on the underside veins.  Palmately lobed with 3-5 lobes and may have secondary lobes. Margins are toothed, 3-8 inches long by 2-6 inches wide."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Dense woolly hairs on round to angular stems with curly tendrils"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "attracts": [
+    "Bees"
+  ]
+}

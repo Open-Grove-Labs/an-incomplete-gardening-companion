@@ -1,0 +1,169 @@
+{
+  "fullName": "Chlorophytum comosum",
+  "name": "chlorophytum-comosum",
+  "commonNames": [
+    "Anthericum Comosum",
+    "Chlorophytum",
+    "Ribbon Plant",
+    "Spider Ivy",
+    "Spiderplant",
+    "Spider Plant",
+    "Walking Anthericum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/chlorophytum-comosum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Chlorophytum",
+  "species": "comosum",
+  "family": "Asparagacea",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "W. Tropical Africa to Cameroon, Ethiopia to S. Africa"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 1 ft. 6 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant"
+  ],
+  "habit/form": [
+    "Arching",
+    "Cascading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Small capsule after flowering."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Panicle",
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "6 petals/rays",
+    "Tepals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small white star-shaped flowers form in loose panicles, the stolons sometimes bearing plantlets at nodes.  Flowers erect to typically arching-pendulous, white, 1/4 in, tepals 6, spreading, free."
+  ],
+  "leaf-color": [
+    "Green",
+    "Variegated",
+    "White"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Strappy green or striped green and white leaves up to 12-18 in long.  Sessile, crowded, linear to lanceolate, grass-like, often striped white longitudinally, 12-15 nerved and a deep groove in the middle."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Leaves emerge from a short, compressed stem.  Stolons are long and green, producing flowers and plantlets."
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants",
+    "Walkways"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Heavy Shade"
+  ]
+}

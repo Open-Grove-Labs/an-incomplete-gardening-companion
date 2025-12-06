@@ -1,0 +1,137 @@
+{
+  "fullName": "Rosa banksiae 'Lutea'",
+  "name": "rosa-banksiae-lutea",
+  "commonNames": [
+    "Yellow Banksia Rose",
+    "Yellow Lady Banks Rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-banksiae-lutea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "species": "banksiae",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "wildlife-value": [
+    "This plant is mildly resistant to damage by deer."
+  ],
+  "climbing-method": [
+    "Scrambler"
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Perennial",
+    "Rose",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Semi-evergreen",
+    "Deciduous",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Cascading",
+    "Climbing",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small multi-petaled pale yellow flowers (to 3/4” across) arrive in profuse clusters in early spring to early summer. The blossoms do not repeat."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Green leaves cover the stems with 5 to 7 finely serrate leaflets."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Long, smooth, flexible, and almost thornless."
+  ],
+  "landscape-location": [
+    "Rock Wall",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Butterfly Garden"
+  ],
+  "design-feature": [
+    "Accent"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Salt"
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "fullName": "Tanacetum vulgare",
+  "name": "tanacetum-vulgare",
+  "commonNames": [
+    "Bitter Buttons",
+    "Common Tansy",
+    "Cow Bitter",
+    "Garden Tansy",
+    "Golden Buttons",
+    "Tansy"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/tanacetum-vulgare/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Tanacetum",
+  "species": "vulgare",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Native to Europe and Asia"
+  ],
+  "distribution": [
+    "Native:  Albania",
+    "Austria",
+    "Baltic States",
+    "Belarus",
+    "Belgium",
+    "Bulgaria",
+    "Czechoslovakia",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Great Britain",
+    "Greece",
+    "Hungary",
+    "Inner Mongolia",
+    "Italy",
+    "Japan",
+    "Korea",
+    "Manchuria",
+    "Mongolia",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Russia",
+    "Spain",
+    "Switzerland",
+    "Turkey",
+    "Ukraine",
+    "West Siberia",
+    "Xinjiang",
+    "and Yugoslavia;\nIntroduced: Australia",
+    "Bolivia",
+    "Brazil",
+    "Canada: Alberta",
+    "British Columbia",
+    "Manitoba",
+    "New Brunswick",
+    "Newfoundland",
+    "Nova Scotia",
+    "Ontario",
+    "Prince Edward Island",
+    "Quebec",
+    "Saskatchewan",
+    "and Victoria; Ecuador",
+    "Iceland",
+    "New South Wales",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Tasmania",
+    " US: AL",
+    "AR",
+    "AK",
+    "CA CO",
+    "CT",
+    "GA",
+    "IL",
+    "IN",
+    "IA",
+    "KS",
+    "KY",
+    "LA",
+    "ME",
+    "MD",
+    "MA",
+    "MI",
+    "MN",
+    "MO",
+    "MT",
+    "NE",
+    "NV",
+    "NH",
+    "NJ",
+    "NM",
+    "NY",
+    "NC",
+    "ND",
+    "OH",
+    "OK",
+    "OR",
+    "PA",
+    "RI",
+    "SD",
+    "TN",
+    "UT",
+    "VT",
+    "VA",
+    "WA",
+    "WV",
+    "WS",
+    "and WY; and Venezuela"
+  ],
+  "fire-risk-rating": [
+    "high flammability"
+  ],
+  "play-value": [
+    "Fragrance"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer resistant. Drought tolerant."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 0 ft. 9 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Poisonous",
+    "Weed"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruits are 5 brownish angled achenes.  One plant is capable of producing 50,000 seeds per year."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers are golden yellow button-like blooms that appear in clusters of 20-200 flowerheads. Each flower measures from 1/4 to 1/2 inch wide. They are similar to the tiny disc flowers of a daisy but have no flower petals. The flower clusters can measure up to 4 inches wide. They typically bloom from July to September."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The leaves are green and have a camphor-like odor when crushed. They are arranged alternately. There are basal and cauline leaves. The leaf blades are oblong or elliptic in shape and pinnately lobed. The leaf is deeply divided into narrow segments.  The margins are dentate, and the surface is glabrous to sparsely hairy.  The leaves measure from 2 to 6 inches, and up to 12 inches long, and 4 inches wide."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The stem is erect, branched, and glabrous to sparsely hairy. The stem color is brown to reddish-brown."
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Erosion"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Dried leaves have been used to make teas, but the current uses of this plant in teas, food, and medicine are almost non-existent. Thujone can be fatal in large quantities."
+  ],
+  "poison-toxic-principle": [
+    "Thujone"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves"
+  ],
+  "uses": "The Pilgrims were the first to bring Common Tansy seeds to North America. The plant was to be used for medicinal purposes such as treating ulcers, constipation, hysteria, intestinal worms, rheumatism,  jaundice, and gastrointestinal problems.  From the 17th to 19th century, Europeans and Americans wrapped corpses in Common Tansy to prevent rapid decay. The leaves were used to repel flies, ants, and fleas around meats. The plant has also been researched as a possible insect repellant or insecticide for mosquitoes."
+}

@@ -1,0 +1,126 @@
+{
+  "fullName": "Acer platanoides 'Stand Fast'",
+  "name": "acer-platanoides-stand-fast",
+  "commonNames": [
+    "Stand Fast Maple",
+    "Stand Fast Norway Maple"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/acer-platanoides-stand-fast/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Acer",
+  "species": "platanoides",
+  "family": "Sapindaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "It is tolerant of air pollution and well suited to urban landscapes."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-description": [
+    "Non-showy"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Non-showy"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Small, dark green leaves; ruffled and clustered at ends of branches turn red in the fall"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Small Space",
+    "Vertical Spaces"
+  ],
+  "design-feature": [
+    "Accent"
+  ],
+  "resistance-to-challenges": [
+    "Compaction",
+    "Pollution",
+    "Urban Conditions"
+  ]
+}

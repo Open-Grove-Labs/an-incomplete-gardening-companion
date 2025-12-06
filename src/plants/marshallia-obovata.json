@@ -1,0 +1,135 @@
+{
+  "fullName": "Marshallia obovata",
+  "name": "marshallia-obovata",
+  "commonNames": [
+    "Piedmont Barbara's Buttons"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/marshallia-obovata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Marshallia",
+  "species": "obovata",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "SE USA"
+  ],
+  "distribution": [
+    "Open woodlands and along roadsides throughout the SE"
+  ],
+  "play-value": [
+    "Attracts Pollinators"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heat and d"
+  ],
+  "edibility": [
+    "no"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "Displays from May to June"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Crown",
+    "Tubular"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "White blooms are in clusters atop their straight stems. Blooms from April to May"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Oblong"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Long narrow green leaves form a flat evergreen rosette."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Meadow"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators",
+    "Songbirds"
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "fullName": "Daphne odora",
+  "name": "daphne-odora",
+  "commonNames": [
+    "Dwarf Bay",
+    "Fragrant Daphne",
+    "Paradise Plant",
+    "Spurge Flax",
+    "Spurge Laurel",
+    "Winter Daphne"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/daphne-odora/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Daphne",
+  "species": "odora",
+  "family": "Thymelaeaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "South China to Vietnam and Taiwan"
+  ],
+  "wildlife-value": [
+    "Bees are attracted to the nectar and pollen and butterflies, moths, and flies are attracted to the nectar in this winter flowering shrub."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Moderately salt tolerant."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 6 in.",
+    "Width: 2 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Mounding",
+    "Rounded"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-description": [
+    "Seldom produces fruit. A fleshy drupe, red."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-description": [
+    "Rosy purple buds open rose pink; flowers in late winter to early spring; fragrant. A cyme, terminal, to 1\". (5-10) creamy white to purplish, fragrant, salverform, to 1/4\"; calyx a cylindrical fleshy tube with 4 spreading lobes; petals 0."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cuneate",
+    "Elliptical",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Alternate, simple, leathery, shiny, dark green leaves; 2-3\" long; pointed and tapered at each end. Elliptic-oblong, acute, cuneate, entire, coriaceous, shiny."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Few, erect."
+  ],
+  "landscape-location": [
+    "Container",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Garden for the Blind",
+    "Pollinator Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Foundation Planting",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Moths",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Salt"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Unknown, but possibly as in D. mezereum"
+  ],
+  "poison-toxic-principle": [
+    "Unknown, suspected to be a diterpenoid (mezerein)"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "fullName": "Euonymus maackii",
+  "name": "euonymus-maackii",
+  "commonNames": [
+    "Winterberry Euonymus"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/euonymus-maackii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Euonymus",
+  "species": "maackii",
+  "family": "Celastraceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "South East Siberia to China, Korea, and Japan."
+  ],
+  "distribution": [
+    "Throughout south",
+    "southeast"
+  ],
+  "wildlife-value": [
+    "Birds"
+  ],
+  "edibility": [
+    "Although toxicity has not been recorded for this particular species, a number of plants in this genus are poisonous and so caution is advised. Illness results only after eating large quantities of any part of the shrub."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 25 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Poisonous",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry",
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The capsule holding the berry is pink and seeds are 4 lobed and bright red."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flower is small and inconspicuous (0.3 of an inch) in yellowish-green, blooming in mid-spring."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Pink"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenulate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaf is 2 to 4 inches long and spherical in shape. It is a light to medium green and turns color in the fall to pink, yellow, brown, or sometimes red."
+  ],
+  "bark-description": [
+    "High corky ridges."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-description": [
+    "branches and twigs terete, sturdy, green to light green."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Symptoms include abdominal pain, nausea, vomiting, diarrhea, convulsions, weakness, chills, and coma. Ingesting large amounts of any part of the plant is toxic and can result in poisoning. Children may be attracted to fruits in fall. No part of this plant is edible, including seeds."
+  ],
+  "poison-toxic-principle": [
+    "Unidentified, possibly a glycoside"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots"
+  ]
+}

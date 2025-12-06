@@ -1,0 +1,227 @@
+{
+  "fullName": "Nymphaea odorata",
+  "name": "nymphaea-odorata",
+  "commonNames": [
+    "American White Water-lily",
+    "Fragrant White Water-Lily",
+    "Odorata",
+    "White Waterlily",
+    "White Water-lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nymphaea-odorata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nymphaea",
+  "species": "odorata",
+  "family": "Nymphaeaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern North America"
+  ],
+  "distribution": [
+    "AK ",
+    "AL ",
+    "AR ",
+    "AZ ",
+    "CA ",
+    "CO ",
+    "CT ",
+    "DC ",
+    "DE ",
+    "FL ",
+    "GA ",
+    "IA ",
+    "ID ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "LA ",
+    "MA ",
+    "MD ",
+    "ME ",
+    "MI ",
+    "MN ",
+    "MO ",
+    "MS ",
+    "MT ",
+    "NC ",
+    "NE ",
+    "NH ",
+    "NJ ",
+    "NM ",
+    "NV ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "OR ",
+    "PA ",
+    "RI ",
+    "SC ",
+    "SD ",
+    "TN ",
+    "TX ",
+    "UT ",
+    "VA ",
+    "VT ",
+    "WA ",
+    "WI ",
+    "WV \nCanada: BC ",
+    "MB ",
+    "NB ",
+    "NS ",
+    "ON ",
+    "PE ",
+    "QC ",
+    "SK"
+  ],
+  "wildlife-value": [
+    "Pollen of the flowers attracts small bees. Lily pads provide a landing place for bees, shelter for pond life and shading helps prevent algae growth. Some mammals, turtles and birds eat the leaves and rhizomes and fruits."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Water Plant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-description": [
+    "Fruits mature underwater in the early fall."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "Very fragrant pure white flowers with yellow stamens which are  6-9 inches and cup-shaped and bloom June-September."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Orbicular"
+  ],
+  "leaf-margin": [
+    "Sinuate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "10 in. across, and bright green on top and the underside is reddish or purplish."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Nighttime Garden",
+    "Pollinator Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators",
+    "Reptiles",
+    "Small Mammals",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Heat",
+    "Wet Soil"
+  ]
+}

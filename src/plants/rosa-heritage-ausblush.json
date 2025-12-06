@@ -1,0 +1,50 @@
+{
+  "fullName": "Rosa Heritage 'AUSblush'",
+  "name": "rosa-heritage-ausblush",
+  "commonNames": [
+    "Heritage rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-heritage-ausblush/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "plant-type": [
+    "Perennial",
+    "Rose",
+    "Shrub"
+  ],
+  "habit/form": [
+    "Erect",
+    "Rounded"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-shape": [
+    "Cup",
+    "Saucer"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-description": [
+    "Cup and saucer shape bloom in sprays; 40 petals; medium size; repeats"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

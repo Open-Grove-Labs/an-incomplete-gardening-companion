@@ -1,0 +1,209 @@
+{
+  "fullName": "Allium tuberosum",
+  "name": "allium-tuberosum",
+  "commonNames": [
+    "Garlic Chives",
+    "Leeks",
+    "Wild Leek",
+    "Wild Leeks"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/allium-tuberosum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Allium",
+  "species": "tuberosum",
+  "family": "Amaryllidaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Himalaya to China"
+  ],
+  "wildlife-value": [
+    "Flowers attract pollinators"
+  ],
+  "edibility": [
+    "Leaves, bulbs and flowers are edible. However, the plant also has poisonous characteristics as noted in the \"Poisonous to Humans\" section of this record. Toxicity can depend on the age of the person or animal, the age of the plant, the part of the plant ingested, how much is ingested, whether the person or animal has sensitivities or allergies, whether it's eaten raw or cooked, and so forth.  Consult with a medical professional for further details."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 0 ft. 4 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Cool Season Vegetable",
+    "Edible",
+    "Herb",
+    "Herbaceous Perennial",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Umbel of 25 to 55 small, pale yellow to cream, bell-shaped flowers with 6 petals in a tight cluster on 6 to 15 in. naked stem. The flowers have cup-like petals and sepals."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Flat linear green leaves in a basal rosette up to 12 inches long. Galic taste and odor."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Round hollow green stems"
+  ],
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Poisonous through ingestion. Symptoms may include nausea, vomiting, and diarrhea."
+  ],
+  "poison-toxic-principle": [
+    "Sulfides"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

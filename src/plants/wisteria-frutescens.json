@@ -1,0 +1,195 @@
+{
+  "fullName": "Wisteria frutescens",
+  "name": "wisteria-frutescens",
+  "commonNames": [
+    "American Wisteria",
+    "Kentucky Wisteria",
+    "Texas Wisteria"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/wisteria-frutescens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Wisteria",
+  "species": "frutescens",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern United States"
+  ],
+  "distribution": [
+    "Virginia to Illinois south to Florida and Texas"
+  ],
+  "wildlife-value": [
+    "Host plant for Zarucco Duskywing and Long-Tailed Skipper butterflies.  Butterflies nectar at the blooms."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heat, drought, and soil compaction tolerant."
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 40 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 8 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Fragrant"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "Narrow, flattened, smooth seed pods (to 5” long) which ripen in late summer. Pods typically split open in fall. Displays from June to September."
+  ],
+  "flower-color": [
+    "Blue",
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Fragrant, pea-like, lilac-purple or blue flowers in drooping racemes to 6” long bloom in April-May after the leaves emerge but before they fully develop. Limited additional summer bloom may occur. Flowers can also be white, or have a dark burgundy, or even have hints of yellow or green."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Compound, odd-pinnate leaves (each leaf typically with 9-15 lance-shaped leaflets) are deep green."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Rock Wall",
+    "Slope/Bank",
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Nausea, frequent vomiting, abdominal pain depression, and diarrhea can result from eating 1 or 2 seed pods."
+  ],
+  "poison-toxic-principle": [
+    "Saponin called wisterin, Lectin"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Seeds"
+  ]
+}

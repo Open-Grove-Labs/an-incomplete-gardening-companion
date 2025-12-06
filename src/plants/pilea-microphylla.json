@@ -1,0 +1,150 @@
+{
+  "fullName": "Pilea microphylla",
+  "name": "pilea-microphylla",
+  "commonNames": [
+    "Angeloweed",
+    "Artillery Plant",
+    "Rockweed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pilea-microphylla/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pilea",
+  "species": "microphylla",
+  "family": "Urticaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico, South America, Southeastern U.S.A., the Caribbean"
+  ],
+  "distribution": [
+    "Native: Arkansas",
+    "Georgia",
+    "Florida",
+    "Louisiana",
+    "Missouri",
+    "Texas",
+    "Belize",
+    "Bolivia",
+    "Colombia",
+    "Costa Rica",
+    "Cuba",
+    "Dominican Republic",
+    "El Salvador",
+    "Guatemala",
+    "Haiti",
+    "Honduras",
+    "Jamaica",
+    "Mexico",
+    "Panama",
+    "Peru",
+    "Puerto Rico",
+    "and Venezuela"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 0 in.",
+    "Width: 0 ft. 6 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant"
+  ],
+  "habit/form": [
+    "Creeping",
+    "Dense",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "flower-color": [
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-description": [
+    "Tiny green flowers that release bursts of yellow pollen."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves are simple, obovate, dense,  bright green, and fern-like."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ]
+}

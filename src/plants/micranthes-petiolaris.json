@@ -1,0 +1,71 @@
+{
+  "fullName": "Micranthes petiolaris",
+  "name": "micranthes-petiolaris",
+  "commonNames": [
+    "Cliff Saxifrage",
+    "Michaux's Saxifrage"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/micranthes-petiolaris/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Micranthes",
+  "species": "petiolaris",
+  "family": "Saxifragaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "West Virginia to South East U.S.A"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Small white flowers with five petals.  Three larger petals have two yellow spots, the 2 smaller petals do not."
+  ],
+  "leaf-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Basal rosette of 3-7\" hairy, strongly toothed, lance-shaped leaves with large teeth.  The underside is a deep maroon with age."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Native Garden"
+  ]
+}

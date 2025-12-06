@@ -1,0 +1,154 @@
+{
+  "fullName": "Bletilla",
+  "name": "bletilla",
+  "commonNames": [
+    "Chinese Ground Orchid",
+    "Hardy Orchid",
+    "Urn Orchid"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/bletilla/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Bletilla",
+  "family": "Orchidaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Northern Indo-China to Temperate East Asia"
+  ],
+  "distribution": [
+    "Japan",
+    "Korea",
+    "Taiwan",
+    "Thailand",
+    "Tibet",
+    "Viet-Nam"
+  ],
+  "bulb-storage": [
+    "Store corms in moist peat at 32 to 35 degrees F (0-2 degrees C)."
+  ],
+  "plant-type": [
+    "Bulb"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "Bracts"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Produces small cattleya-like pink-purple blooms in terminal racemes of up to 12 blooms. Blooms are 2 inches wide. Flowers often open successively."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Produces 3-5 upright, pleated, mostly narrow, sword-shaped leaves up to 12 inches long, sheathing at the base."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Slender stems with dilated basal pseudo-bulbs. Stems are short, erect, leafy, and enclosed by tubular sheaths at base."
+  ],
+  "landscape-location": [
+    "Container",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ]
+}

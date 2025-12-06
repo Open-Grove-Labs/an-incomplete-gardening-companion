@@ -1,0 +1,244 @@
+{
+  "fullName": "Delphinium carolinianum",
+  "name": "delphinium-carolinianum",
+  "commonNames": [
+    "Blue Larkspur",
+    "Carolina Larkspur",
+    "Glade Larkspur",
+    "Pine Woods Larkspur",
+    "Prairie Larkspur"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/delphinium-carolinianum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Delphinium",
+  "species": "carolinianum",
+  "family": "Ranunculaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Central and southeastern U.S.A."
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "CO",
+    "FL",
+    "GA",
+    "IA",
+    "IL",
+    "KS",
+    "KY",
+    "LA",
+    "MN",
+    "MO",
+    "MS",
+    "ND",
+    "NE",
+    "OK",
+    "SC",
+    "SD",
+    "TN",
+    "TX",
+    "WI"
+  ],
+  "wildlife-value": [
+    "Flowers attract hummingbirds and butterflies.  Bumblebees are attracted to the flowers nectar."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit resistant"
+  ],
+  "edibility": [
+    "Toxic if ingested."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 0 ft. 8 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "fruit-type": [
+    "Follicle"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "After flowering, 3 seedpods or follicles that will replace the flower.  They are joined together at the base.  They will split open to release its seed.  First green, they will turn slight brown as they ripen."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Irregular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Blue-violet flowers appear in on 6\" to 1' long spikes with clusters of flowers in mid-spring to early summer.  The flowers have 4 petals.  The sepals may have a green patch near its tip."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Each plant contains both basal leaves and leaves along the upright stem.  The stem leaves are similar in appearance to the basal leaves except that they get smaller as they ascend the stem.  The leaves are divided and lobed.  The 4\" basal leaves can form a rosette in the winter months prior to the flowers appearing."
+  ],
+  "stem-color": [
+    "Green",
+    "White"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The greenish/white, erect, unbranched stems have a fine downy feel.  The central stem ends with a raceme of flowers."
+  ],
+  "landscape-location": [
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Cutting Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Dry Soil",
+    "Rabbits"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Severe digestive issues if eaten.  Touching the plant can cause a severe skin irritation."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

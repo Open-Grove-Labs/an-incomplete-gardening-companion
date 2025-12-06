@@ -1,0 +1,153 @@
+{
+  "fullName": "Sparmannia africana",
+  "name": "sparmannia-africana",
+  "commonNames": [
+    "African Hemp",
+    "African Linden",
+    "Cape Hollyhock",
+    "Cape Stock Rose",
+    "Wild Stock Rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sparmannia-africana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sparmannia",
+  "species": "africana",
+  "family": "Malvaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "South Africa"
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 7 ft. 0 in. - 13 ft. 0 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Broad",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The fruit is a rounded capsule, covered in spiny bristles, that splits open when ripe to release brown seeds with a finely wrinkled seed coat."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-description": [
+    "The flowers are white with a mass of yellow and red-purple stamens in the centre, produced in 10 to 20 umbels towards the ends of the branches. In bud, the flowers are white to greenish white and drooping, and the outer surface of the flower stalks are covered in short bristly hairs."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Heart-shaped, irregularly toothed leaves up to 8 inches long. The leaves often have 3, 5, 7 or 9 lobes but are usually entire near the inflorescence. The leaves are softly textured, covered in short, bristly hairs on both sides."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The branches are soft and young branches are covered in stiff, bristly hairs."
+  ],
+  "landscape-location": [
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Shade Tree"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "The hairs of the leaves of this plant are mildly poisonous causing skin irritation upon contact. The toxin is unknown, but the irritation is minor and lasts only a few minutes."
+  ],
+  "poison-toxic-principle": [
+    "Unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves"
+  ]
+}

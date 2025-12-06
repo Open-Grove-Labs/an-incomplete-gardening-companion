@@ -1,0 +1,166 @@
+{
+  "fullName": "Lespedeza capitata",
+  "name": "lespedeza-capitata",
+  "commonNames": [
+    "Bush Clover",
+    "Round-headed Bush Clover"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lespedeza-capitata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lespedeza",
+  "species": "capitata",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "North and southeastern U.S.A."
+  ],
+  "wildlife-value": [
+    "This plant supports Eastern Tailed-Blue (Everes comyntas) larvae which has many broods from February-November. The adult butterflies feed on low-lying, open or short-tubed flowers such as white sweet clover, shepherd's needle, wild strawberry, winter cress, cinquefoils, and asters. It also attracts birds, bees, and mammals."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Wildflower"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Fruit is a fuzzy pod with 1 seed. Persist into winter. Displays from September to November."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "2-5 inch long clusters of flowers appear in the apex and top of the central stem. There are numerous hairy bracts, from which the small white flowers barely protrude. The 1/4- 1/2 inch flowers have 5 petals and a patch of purple near the throat. Blooms August- Oct."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Trifoliate leaves occur alternately along the stem on short petioles, up to 3\" long and 1\" across, ovate, margins entire, scattered white hairs, visible central vein. Underside silky pubescent."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Erect stems ridged and have white hairs."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Meadow",
+    "Naturalized Area",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Erosion"
+  ]
+}

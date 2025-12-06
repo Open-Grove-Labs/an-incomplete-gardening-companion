@@ -1,0 +1,207 @@
+{
+  "fullName": "Eriogonum umbellatum",
+  "name": "eriogonum-umbellatum",
+  "commonNames": [
+    "Golden Sulphur Flower",
+    "Sulfur Flower",
+    "Sulphur Buckwheat",
+    "Sulphur Eriogonum",
+    "Sulphur Flower Buckwheat",
+    "Sulphur-Flower Buckwheat",
+    "Sulphurflower Buckwheat",
+    "Umbrella Plant",
+    "Wild Buckweat"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/eriogonum-umbellatum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Eriogonum",
+  "species": "umbellatum",
+  "family": "Polygonaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southwestern U.S.A. to New Mexico"
+  ],
+  "distribution": [
+    "CA",
+    "ID",
+    "OR",
+    "WA",
+    "CO",
+    "MT",
+    "UT",
+    "SY",
+    "NV",
+    "AR",
+    "NM"
+  ],
+  "wildlife-value": [
+    "Butterflies, moths, and bees are attracted to the flowers.  Its seeds provide a food source for birds and other wildlife."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Easy to Grow",
+    "Fragrance",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Semi-evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The clusters of tiny 1/4\" yellow flowers may be up to 4\" wide and open from red-tinged buds.  They will dry to a red/burgundy color that can be used in dried arrangements."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "White"
+  ],
+  "leaf-feel": [
+    "Leathery",
+    "Velvety"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The upper side of the leaf is green, while the underside is white and felted."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stems are leafless."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Moths",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Heat"
+  ],
+  "uses": "Native wildflower makes a great ground cover."
+}

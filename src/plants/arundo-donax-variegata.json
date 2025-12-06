@@ -1,0 +1,80 @@
+{
+  "fullName": "Arundo donax 'Variegata'",
+  "name": "arundo-donax-variegata",
+  "commonNames": [
+    "Giant Variegated Mediterranean Rush"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/arundo-donax-variegata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Arundo",
+  "species": "donax",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "dimensions": [
+    "Height: 12 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Ornamental Grasses and Sedges",
+    "Water Plant"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Fall"
+  ],
+  "leaf-color": [
+    "Green",
+    "Variegated",
+    "White"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "White and green leaves, like bamboo"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Water Garden"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Wet Soil"
+  ]
+}

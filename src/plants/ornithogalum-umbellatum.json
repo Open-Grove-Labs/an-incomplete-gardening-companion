@@ -1,0 +1,72 @@
+{
+  "fullName": "Ornithogalum umbellatum",
+  "name": "ornithogalum-umbellatum",
+  "commonNames": [
+    "Star of Bethlehem"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ornithogalum-umbellatum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ornithogalum",
+  "species": "umbellatum",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Asia minor, Europe, and Northern Africa"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 4 in. - 0 ft. 6 in.",
+    "Width: 0 ft. 2 in. - 0 ft. 3 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Ground Cover",
+    "Perennial"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-description": [
+    "Blooms in late spring, around May."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ]
+}

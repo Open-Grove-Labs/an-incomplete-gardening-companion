@@ -1,0 +1,191 @@
+{
+  "fullName": "Juniperus communis var. communis",
+  "name": "juniperus-communis-var-communis",
+  "commonNames": [
+    "Common Juniper"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/juniperus-communis-var-communis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Juniperus",
+  "species": "communis",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Eurasia"
+  ],
+  "wildlife-value": [
+    "Birds feed on berries."
+  ],
+  "play-value": [
+    "Edible fruit ",
+    "Fragrance",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "EDIBLE PARTS: \"Berries\" used to flavor gin and for cooked meats and red cabbage. Juniper tea can be made by placing a dozen young berryless twigs in a quart of cold water; bring to a boil then allow to simmer for 10 minutes. Strain and use as regular tea, in small quantities. SOURCE: Angier, B. 1974. Field Guide to Edible Wild Plants. Stackpole Books, Harrisburg, Pa, 255 pp."
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 15 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 12 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Irregular",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Blue"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fleshy seed cones are bluish and berry-like. On female plants, berries emerge green but gradually ripen by fall to a waxy dark blue to black. Each berry usually contains two or three seeds and ripens in the 2nd or 3rd year."
+  ],
+  "flower-description": [
+    "Confier- does not have flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Acicular",
+    "Subulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves small, short needle-like (awn or awl shaped), tightly crowded on the twig, 3 at a whorl."
+  ],
+  "bark-color": [
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Exfoliating"
+  ],
+  "bark-description": [
+    "Exfoliating bark is often an attractive reddish-brown."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Naturalized Area",
+    "Recreational Play Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Edible Garden"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Salt"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "CAUSES ONLY LOW TOXICITY IF EATEN.  Large amounts may cause diarrhea."
+  ],
+  "poison-toxic-principle": [
+    "Volatile oils including thujone."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves",
+    "Seeds"
+  ]
+}

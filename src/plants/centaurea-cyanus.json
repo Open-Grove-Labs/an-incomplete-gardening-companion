@@ -1,0 +1,222 @@
+{
+  "fullName": "Centaurea cyanus",
+  "name": "centaurea-cyanus",
+  "commonNames": [
+    "Bachelor's Button",
+    "Bachelors Buttons",
+    "Bluebottle",
+    "Cornflower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/centaurea-cyanus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Centaurea",
+  "species": "cyanus",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Western Asia, Europe"
+  ],
+  "distribution": [
+    "Throughout the US and southern Canada"
+  ],
+  "wildlife-value": [
+    "Birds and butterflies use the flowers and fruit as a food source"
+  ],
+  "play-value": [
+    "Easy to Grow",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and drought tolerant"
+  ],
+  "edibility": [
+    "Edible"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Finely hairy, straw-colored at maturity with a tuft of short, stiff, light brown bristles at the tip."
+  ],
+  "flower-color": [
+    "Blue",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Wheel"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays",
+    "Bracts"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "An intense blue color arranged in heads approximately 1.5 inches in diameter, with a ring of a few large, spreading ray florets surrounding a central cluster of disc florets"
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Pinnatifid"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves are alternate, 1 to 4 inches long, pointed at the tip that are sparsely to moderately covered in long, matted hairs, a distinguishing characteristic of this plant."
+  ],
+  "stem-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Single stems from the base of the plant that then branch, are sparsely to moderately covered in woolly hairs; initially erect but tend to flop over without support of surrounding vegetation or stakes."
+  ],
+  "landscape-location": [
+    "Container",
+    "Meadow",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Cutting Garden",
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

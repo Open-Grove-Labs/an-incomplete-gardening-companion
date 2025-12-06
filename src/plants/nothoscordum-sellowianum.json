@@ -1,0 +1,81 @@
+{
+  "fullName": "Nothoscordum sellowianum",
+  "name": "nothoscordum-sellowianum",
+  "commonNames": [
+    "False Crocus",
+    "False Garlic",
+    "false yellow crocus"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nothoscordum-sellowianum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nothoscordum",
+  "species": "sellowianum",
+  "family": "Amaryllidaceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "country-or-region-of-origin": [
+    "Temperate and subtropical America"
+  ],
+  "plant-type": [
+    "Bulb"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-description": [
+    "Yellow or white flowers appear late winter to early spring."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Narrow linear leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Patio",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Fairy Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "fullName": "Drosera capillaris",
+  "name": "drosera-capillaris",
+  "commonNames": [
+    "Bog Sundew",
+    "Pink Sundew"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/drosera-capillaris/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Drosera",
+  "species": "capillaris",
+  "family": "Droseraceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical and Subtropical Americas"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "DE",
+    "FL",
+    "GA",
+    "LA",
+    "MD",
+    "MS",
+    "NC",
+    "SC",
+    "TN",
+    "TX",
+    "VA"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 1 in. - 0 ft. 1 in.",
+    "Width: 0 ft. 1 in. - 0 ft. 3 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Displays from July to October"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "Pink flowers bloom from May to August"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Orbicular"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "The leaves are prostrate, spreading horizontally along the ground."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Houseplants",
+    "Naturalized Area",
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "attracts": [
+    "Predatory Insects"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "problems": [
+    "Short-lived"
+  ]
+}

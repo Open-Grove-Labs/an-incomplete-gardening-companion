@@ -1,0 +1,126 @@
+{
+  "fullName": "Pilea peperomioides",
+  "name": "pilea-peperomioides",
+  "commonNames": [
+    "Chinese Money Plant",
+    "Coin Plant",
+    "Friendship Plant",
+    "Missionary Plant",
+    "Pancake Plant",
+    "UFO Plant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pilea-peperomioides/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pilea",
+  "species": "peperomioides",
+  "family": "Urticaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "China South-Central"
+  ],
+  "play-value": [
+    "Easy to Grow"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 8 in. - 1 ft. 0 in.",
+    "Width: 0 ft. 8 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "The flowers are small, white to pinkish, and appear on a tall spike. Houseplants rarely flower."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Orbicular",
+    "Peltate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The leaves are round, peltate, fleshy, dark green, and measure 4 inches in diameter."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The long stems attach at the center of the leaf."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio"
+  ]
+}

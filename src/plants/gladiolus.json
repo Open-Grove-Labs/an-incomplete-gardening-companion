@@ -1,0 +1,191 @@
+{
+  "fullName": "Gladiolus",
+  "name": "gladiolus",
+  "commonNames": [
+    "Aunt Eliza Rat's Rail",
+    "Gladiola",
+    "Gladiolus",
+    "Glads",
+    "Sword Lilies",
+    "Sword Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/gladiolus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Gladiolus",
+  "family": "Iridaceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Africa, Madagascar, Eurasia"
+  ],
+  "bulb-storage": [
+    "Harvest corms after foliage dies in the fall.  Clean carefully and store dry in mesh bags with good air circulation at 35-41 degrees F (2-5C)"
+  ],
+  "edibility": [
+    "Flowers (with anthers removed) are edible. Works best as a garnish or as a container for dip or spread."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Edible"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Dense",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Capsules usually slightly inflated, oblong to ellipsoid or globose [rarely nearly cylindric], softly cartilaginous. Seeds usually many, broadly winged; rarely few, wingless, globose or angular; seed coat light to dark brown."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-petals": [
+    "6 petals/rays",
+    "Tepals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Many cultivars with a variety of colors.  Edible once anthers are removed. Bloom from late summer into early fall.  Inflorescences spicate, partly to fully secund (on one side of the spike) or with flowers weakly distichous; bracts green, sometimes flushed grayish purple, unequal, outer usually exceeding inner, acute or inner forked or notched apically. Flowers zygomorphic [actinomorphic]; tepals basally connate into tube, variously colored, usually with contrasting markings comprising nectar guide on outer tepals, usually unequal, dorsal tepal largest, arched to hooded over stamens, outer 3 tepals narrower; perianth tube obliquely funnel-shaped to cylindric; stamens usually unilateral; anthers usually parallel; style usually arching over stamens, dividing into 3 filiform branches, these distally expanded."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves 1–9; blade lanceolate to linear, plane or margins and/or midribs variously raised and thickened (then H- or X-shaped in cross section), or evidently terete, midribs and margins much thickened, grooved; grooves 4, narrow, longitudinal."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Stems are simple or branched."
+  ],
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Cutting Garden",
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Salivation, vomiting, drooling, lethargy, diarrhea. Highest concentration in corms (bulbs)"
+  ],
+  "poison-toxic-principle": [
+    "Unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Roots"
+  ]
+}

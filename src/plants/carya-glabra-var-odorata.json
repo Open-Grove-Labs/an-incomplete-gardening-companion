@@ -1,0 +1,148 @@
+{
+  "fullName": "Carya glabra var. odorata",
+  "name": "carya-glabra-var-odorata",
+  "commonNames": [
+    "False Shagbark Hickory",
+    "Pignut Hickory",
+    "Red Hickory"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/carya-glabra-var-odorata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Carya",
+  "species": "glabra",
+  "family": "Juglandaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern U.S.A., NC"
+  ],
+  "distribution": [
+    "Found in Maine south to FL west to LA and OK north through Missouri",
+    "IO",
+    "east through WI and MI"
+  ],
+  "wildlife-value": [
+    "This plant supports Hickory Horndevil (Citheronia regalis) larvae which have one brood and appear from May to mid-September. Adult Hickory Horndevil moths do not feed. Squirrels eat the nuts.  Larval host plant to the Luna moth."
+  ],
+  "play-value": [
+    "Edible fruit ",
+    "Wildlife Food Source"
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Nearly globose 1-1.5 inch thin husked nut."
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Male flowers are spikes of light-green six-stellate flowers from May to June. Stems are reddish in color. The female flowers are bizarre-looking, with a tuft of sticky green tissue emerging from a swollen base individually or in groups of 2-3 at the ends of new twigs."
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Compound leaves have 5-9 lanceolate and finely serrated leaflets. Leaves are dark green on the upper surface and lighter with fine hairs underneath."
+  ],
+  "bark-color": [
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Shaggy",
+    "Smooth"
+  ],
+  "bark-description": [
+    "Smooth finely shaggy developing obvious close interlacing shaggy bark."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Native Garden",
+    "Nighttime Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Shade Tree"
+  ],
+  "attracts": [
+    "Moths",
+    "Pollinators",
+    "Small Mammals"
+  ]
+}

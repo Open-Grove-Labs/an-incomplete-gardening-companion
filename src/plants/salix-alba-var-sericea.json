@@ -1,0 +1,150 @@
+{
+  "fullName": "Salix alba var. sericea",
+  "name": "salix-alba-var-sericea",
+  "commonNames": [
+    "White Willow"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/salix-alba-var-sericea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Salix",
+  "species": "alba",
+  "family": "Salicaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Europe"
+  ],
+  "wildlife-value": [
+    "This plant supports Viceroy (Limenitis archippus) larvae which has two to three broods from May-September.  Adult butterflies feed on decaying matter, aphid honeydew, and nectar from composite flowers. Members of the Salix genus support the following specialized bees: Andrena (Parandrena) andrenoides, Andrena (Thysandrena) bisalicis, Andrena (Tylandrena) erythrogaster, Andrena (Andrena) frigida, Andrena (Micrandrena) illinoiensis, Andrena (Andrena) macoupinensis, Andrena (Trachandrena) mariae, Andrena (Parandrena) nida, Andrena (Micrandrena) nigrae, Andrena (Micrandrena) salictaria, Andrena (Parandrena) wellesleyana. This tree is mildly resistant to damage by deer."
+  ],
+  "dimensions": [
+    "Height: 60 ft. 0 in. - 75 ft. 0 in.",
+    "Width: 50 ft. 0 in. - 60 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Rounded",
+    "Weeping"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "A capsule that releases tiny, downy seeds."
+  ],
+  "flower-color": [
+    "Insignificant"
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "White"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Long and narrow (to 4\") with serrated edges.  True to their name, the green leaves have starkly white to grey undersides covered in thick down.  They can be identified from other willow species by the small disks at the base of each leaf blade."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Scaly"
+  ],
+  "stem-bud-scales": [
+    "Enclosed in a single cap like scale"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The branchlets are dark green to brown and covered in silky hairs."
+  ],
+  "landscape-location": [
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Wet Soil"
+  ]
+}

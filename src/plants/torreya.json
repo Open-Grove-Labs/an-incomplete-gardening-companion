@@ -1,0 +1,167 @@
+{
+  "fullName": "Torreya",
+  "name": "torreya",
+  "commonNames": [
+    "Nutmeg Yew",
+    "Stinking Cedar",
+    "Torreya"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/torreya/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Torreya",
+  "family": "Taxaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Asia and North America"
+  ],
+  "distribution": [
+    "FL",
+    "CA",
+    "GA"
+  ],
+  "dimensions": [
+    "Height: 16 ft. 0 in. - 65 ft. 0 in.",
+    "Width: 16 ft. 0 in. - 50 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "habit/form": [
+    "Erect",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The seed cone is a fleshy green drupe-like structure 3/4-1.5 inches long with a single nut-like seed inside that is edible. It matures green to purple. Pollen cones are 5-8 mm and grouped in lines on the underside of shoots."
+  ],
+  "flower-description": [
+    "No flowers"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Prickly"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The green linear leaves spiral around the shoots but are twisted so they lay in two flat rows with a sharp tip. They are 0.8-3 inches long and 3-4 mm wide. Upperside is lustrous and the underside has waxy-appearing bands parallel the midrib"
+  ],
+  "bark-color": [
+    "Dark Brown"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Peeling"
+  ],
+  "bark-description": [
+    "The bark is shallow, furrowed and peeling"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Screen/Privacy",
+    "Small Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Small Mammals"
+  ],
+  "resistance-to-challenges": [
+    "Humidity"
+  ],
+  "problems": [
+    "Frequent Disease Problems"
+  ]
+}

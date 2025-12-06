@@ -1,0 +1,27 @@
+{
+  "fullName": "Phoenix acaulis",
+  "name": "phoenix-acaulis",
+  "commonNames": [
+    "Dwarf Date Palm",
+    "Stemless Date Palm"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/phoenix-acaulis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Phoenix",
+  "species": "acaulis",
+  "family": "Arecaceae",
+  "country-or-region-of-origin": [
+    "Himalaya to Bangladesh"
+  ],
+  "plant-type": [
+    "Edible"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

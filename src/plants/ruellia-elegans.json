@@ -1,0 +1,123 @@
+{
+  "fullName": "Ruellia elegans",
+  "name": "ruellia-elegans",
+  "commonNames": [
+    "Brazilian Petunia",
+    "Elegant Ruellia",
+    "Red Ruellia",
+    "Wild Petunia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ruellia-elegans/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ruellia",
+  "species": "elegans",
+  "family": "Acanthaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Brazil"
+  ],
+  "wildlife-value": [
+    "Attracts butterflies and hummingbirds."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 8 in. - 2 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Semi-evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Mounding"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Red/Burgundy"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Bright red trumpet shaped five-petaled 1 to 2 inch flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "It forms a 12 inch high by 24 inch in diameter mound of soft green, semi-fuzzy foliage."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Flowers appear on 6 to 8 inch wand-like stems."
+  ],
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Heat",
+    "Humidity"
+  ]
+}

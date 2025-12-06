@@ -1,0 +1,189 @@
+{
+  "fullName": "Geranium carolinianum",
+  "name": "geranium-carolinianum",
+  "commonNames": [
+    "Carolina Cranesbill",
+    "Carolina Geranium",
+    "Wild Geranium"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/geranium-carolinianum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Geranium",
+  "species": "carolinianum",
+  "family": "Geraniaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "North America"
+  ],
+  "wildlife-value": [
+    "Attracts pollinators and birds eat the seeds"
+  ],
+  "edibility": [
+    "Leaves are edible but bitter"
+  ],
+  "plant-type": [
+    "Annual",
+    "Native Plant",
+    "Weed"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Schizocarp"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Upright capsule with persistent sepals at the base and a slender beak in the center. The capsule splits to throw seeds away from the plant"
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Five-petaled, pale pink or white flowers occur singly or in tight terminal clusters with very short petioles. March-July. The petals are notched, have darker venation and the 5 sepals can be as long as the petals. Flowers are about 1/3 inch across."
+  ],
+  "leaf-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Palmasect"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are palmately five-parted, these divisions being cleft or lobed again. The leaves are up to 3 inches wide and long. They can be alternate or opposite on the stem.\nShape can be nearly round to kidney-shaped. Leaves can turn reddish with age, especially at the margins and are covered in fine hairs"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Round green stems mature to reddish brown with white hairs"
+  ],
+  "landscape-location": [
+    "Container",
+    "Meadow",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Poor Soil"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "Used in herbal medicine"
+}

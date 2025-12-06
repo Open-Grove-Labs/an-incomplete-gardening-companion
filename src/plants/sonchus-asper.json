@@ -1,0 +1,131 @@
+{
+  "fullName": "Sonchus asper",
+  "name": "sonchus-asper",
+  "commonNames": [
+    "Prickly Sowthistle",
+    "Spiney Sowthistle",
+    "Spiny-leaved Sow-thistle"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sonchus-asper/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sonchus",
+  "species": "asper",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eurasia and North Africa"
+  ],
+  "plant-type": [
+    "Weed",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "Each floret is replaced by an achene with a tuft of silky white hairs. The achenes are flat, spindle-shaped, hairless, and have several longitudinal ribs. They are distributed by the wind. This plant spreads by reseeding itself."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The upper stems terminate in clusters of 1 to 5 composite flowers on rather short stalks. Each flower is about 2/3 inch across when fully open, consisting of numerous yellow ray florets. The base of each flower is covered with dull green bracts and is it rather short. The blooming period can occur from late spring to early fall, and usually lasts about a month for a colony of plants."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblanceolate",
+    "Pinnatifid"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Large basal leaves and smaller, curved upper leaves have soft, very spiny teeth. Margins are spiny and wavy, white mid-vein, large round basal lobes clasping - curled downward, often dark green and glossy. Leaves are up to 10 inches long and 3½ inches across, but more commonly they are about half this size or less. On shorter plants, they are rather crowded together on the stems, even where the composite flowers occur. Depending on the local form of the plant, these leaves may be pinnatifid, or they may lack significant lobes along the margins, in which case they are broadly lanceolate or oblanceolate."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Upright, smooth, stems branched sparsely above.  The stems have rather conspicuous longitudinal veins and are usually hairless, although occasionally the upper stems and flowering stalks have a few hairs."
+  ]
+}

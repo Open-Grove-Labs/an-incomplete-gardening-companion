@@ -1,0 +1,142 @@
+{
+  "fullName": "Populus nigra",
+  "name": "populus-nigra",
+  "commonNames": [
+    "Black Poplar",
+    "Lombardy Poplar"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/populus-nigra/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Populus",
+  "species": "nigra",
+  "family": "Salicaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Europe to Mediterranean"
+  ],
+  "play-value": [
+    "Shade ",
+    "Wind Break"
+  ],
+  "dimensions": [
+    "Height: 40 ft. 0 in. - 70 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 12 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Erect",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet",
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Catkin"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Green blooms are female, red are male."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Deltoid"
+  ],
+  "leaf-margin": [
+    "Crenate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Triangular/diamond shaped shiny leaves."
+  ],
+  "bark-color": [
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Furrowed"
+  ],
+  "bark-description": [
+    "Winter interest.  The bark is thin and easily damaged."
+  ],
+  "stem-is-aromatic": "N",
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "problems": [
+    "Frequent Disease Problems",
+    "Frequent Insect Problems",
+    "Messy",
+    "Short-lived",
+    "Weak Wood"
+  ]
+}

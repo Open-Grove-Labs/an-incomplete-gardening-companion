@@ -1,0 +1,190 @@
+{
+  "fullName": "Allium oreophilum",
+  "name": "allium-oreophilum",
+  "commonNames": [
+    "Ornamental Onion",
+    "Pink Lily Leek"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/allium-oreophilum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Allium",
+  "species": "oreophilum",
+  "family": "Amaryllidaceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "E. Turkey to NW. China and NW. Pakistan"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "normally not susceptible to animals, drought"
+  ],
+  "edibility": [
+    "Flowers have a mildly bitter flavor and like young leaves and bulbs can be eaten in small quantities raw in salads and sandwiches or cooked in tea and soups.  However, the plant also has poisonous characteristics as noted in the \"Poisonous to Humans\" section of this record. Toxicity can depend on the age of the person or animal, the age of the plant, the part of the plant ingested, how much is ingested, whether the person or animal has sensitivities or allergies, whether it's eaten raw or cooked, and so forth.  Consult with a medical professional for further details."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Rosy-red with a darker midvein. Individual flowers are small, 6-parted, and in a cluster at the top of a naked stem."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Flat linear gray-green leaves are semi-erect and longer than the scape with an odor of onions or garlic."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Wiry greenish-red stems"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Naturalized Area",
+    "Patio",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "CAUSES ONLY LOW TOXICITY IF EATEN. Poisonous if ingested. Symptoms may include nausea, vomiting, and diarrhea. (Poison parts:     All parts; bulbs, bulblets, flowers, and stems)"
+  ],
+  "poison-toxic-principle": [
+    "Sulfides"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "fullName": "Origanum vulgare subsp. hirtum",
+  "name": "origanum-vulgare-subsp-hirtum",
+  "commonNames": [
+    "Greek Oregano",
+    "Oregano",
+    "Winter Sweet Marjoram"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/origanum-vulgare-subsp-hirtum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Origanum",
+  "species": "vulgare",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Greece, Turkey"
+  ],
+  "edibility": [
+    "Leaves are edible with a hot spicy taste and are used fresh or dried in soups, sauces, salads, stews, and dressings.  This is the oregano that is commonly purchased in stores in dried form."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herb",
+    "Herbaceous Perennial"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Tiny white flowers in axillary spiklets appear late summer."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Erosion"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "fullName": "Sequoia sempervirens 'Soquel'",
+  "name": "sequoia-sempervirens-soquel",
+  "commonNames": [
+    "Coast Redwood",
+    "Soquel Redwood"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sequoia-sempervirens-soquel/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sequoia",
+  "species": "sempervirens",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "dimensions": [
+    "Height: 50 ft. 0 in. - 90 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Pyramidal"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-description": [
+    "Seed cones 1.25 inch long and furrowed"
+  ],
+  "flower-description": [
+    "No flowers"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Dark green foliage; bluish on the underside; holds color well in winter. 1 inch long flat green needles."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Red/Burgundy"
+  ],
+  "bark-description": [
+    "Fibrous reddish-brown bark"
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems are horizontal with upturned tips."
+  ],
+  "design-feature": [
+    "Small groups",
+    "Specimen",
+    "Street Tree"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

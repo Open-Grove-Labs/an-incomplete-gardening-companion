@@ -1,0 +1,173 @@
+{
+  "fullName": "Ophiopogon japonicus 'Nana'",
+  "name": "ophiopogon-japonicus-nana",
+  "commonNames": [
+    "Dwarf Lilyturf 'Nana'",
+    "Dwarf Mondo Grass 'Nana'",
+    "Japanese Lilyturf 'Nana'",
+    "Mondo Grass 'Nana'",
+    "Monkey Grass 'Nana'"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ophiopogon-japonicus-nana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ophiopogon",
+  "species": "japonicus",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "play-value": [
+    "Easy to Grow",
+    "Textural "
+  ],
+  "dimensions": [
+    "Height: 0 ft. 3 in. - 0 ft. 6 in.",
+    "Width: 0 ft. 8 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Arching",
+    "Mounding",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The blue to black berries are round and 0.25 inches in diameter."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "Tepals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers are short racemes of small, bell-shaped white flowers that measure about 0.25 inches wide. They bloom in the summer on leafless stalks. The racemes measure 2 to 3 inches long."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves are grass-like, narrow, linear, dark green, and measure 6 inches long and about 1/4-inch side."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Container",
+    "Lawn",
+    "Patio",
+    "Recreational Play Area"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Children's Garden",
+    "Cottage Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Drought",
+    "Foot Traffic",
+    "Heavy Shade",
+    "Rabbits",
+    "Salt"
+  ]
+}

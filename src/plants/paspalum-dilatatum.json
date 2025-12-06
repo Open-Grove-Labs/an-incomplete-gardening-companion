@@ -1,0 +1,171 @@
+{
+  "fullName": "Paspalum dilatatum",
+  "name": "paspalum-dilatatum",
+  "commonNames": [
+    "Dallisgrass",
+    "Dallis Grass",
+    "Paspalum",
+    "Sticky heads",
+    "Water grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/paspalum-dilatatum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Paspalum",
+  "species": "dilatatum",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South East and Southern Brazil, South America"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "AZ",
+    "CA",
+    "CO",
+    "FL",
+    "GA",
+    "HI",
+    "IL",
+    "KY",
+    "LA",
+    "MD",
+    "MO",
+    "MS",
+    "NC",
+    "NM",
+    "OK",
+    "OR",
+    "PR",
+    "SC",
+    "TN",
+    "TX",
+    "VA",
+    "WV"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "Food source for some birds."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Weed"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Dense",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "Dallis grass produces abundant amounts of seed, which are its primary means of dispersal."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Raceme",
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers are a paired spikelet. Dallis grass blooms from May through November. The flowering stalk grows 14 to 65 inches tall and the flower head consists of 2 to 10, often drooping, spikelets that arise from different points at the top of the flower stalk. Each spikelet has two rows of flat, egg-shaped seeds along its entire length and is pale green to purplish in color."
+  ],
+  "leaf-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaf sheath is somewhat flattened and its base is hairy, often tinged red, and usually inflated. The leaf blades are fairly wide (1/4 go 1/2 inch). If left unmowed, blades will grow 4 to 10 inches long. At the base of each leaf blade is a collar with a membranous ligule about 1/4 inch long and no auricles or projections. At the base of the collar is the leaf sheath, which is slightly flattened. Frequently there is purplish coloration at the base of the grass stems."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "The underground stems are fairly short and have areas that appear as concentric rings."
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

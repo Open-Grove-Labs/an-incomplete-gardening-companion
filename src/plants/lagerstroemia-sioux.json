@@ -1,0 +1,78 @@
+{
+  "fullName": "Lagerstroemia 'Sioux'",
+  "name": "lagerstroemia-sioux",
+  "commonNames": [
+    "Crape Myrtle",
+    "Sioux Crape Myrtle"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lagerstroemia-sioux/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lagerstroemia",
+  "family": "Lythraceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Dark pink crepe paper blooms appear from July-September"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Red/Burgundy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Peeling",
+    "Smooth"
+  ],
+  "stem-is-aromatic": "N"
+}

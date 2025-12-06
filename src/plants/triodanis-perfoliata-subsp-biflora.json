@@ -1,0 +1,222 @@
+{
+  "fullName": "Triodanis perfoliata subsp. biflora",
+  "name": "triodanis-perfoliata-subsp-biflora",
+  "commonNames": [
+    "Clasping bellflower",
+    "Clasping Bellwort",
+    "Clasping-leaved Venus' Looking-glass",
+    "Small Venus' Looking-glass",
+    "Venus Lookingglass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/triodanis-perfoliata-subsp-biflora/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Triodanis",
+  "species": "perfoliata",
+  "family": "Campanulaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern USA from west coast to east, Mexico, South America"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "AZ",
+    "CA",
+    "FL",
+    "GA",
+    "HI",
+    "IL",
+    "KS",
+    "KY",
+    "LA",
+    "MO",
+    "MS",
+    "NC",
+    "NE",
+    "NM",
+    "NY",
+    "OK",
+    "OR",
+    "PA",
+    "SC",
+    "TN",
+    "TX",
+    "VA"
+  ],
+  "wildlife-value": [
+    "Small bees are attracted.  The Plasterer Bee prefers the nectar."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Wildlife Larval Host "
+  ],
+  "plant-type": [
+    "Annual",
+    "Herb",
+    "Native Plant",
+    "Weed",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruits take the for of a 2-3 parted oval capsule with persistent calyx lobes spreading out at the tip. As they mature, they split from top to bottom, releasing many reddish-brown seeds."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "5-petaled purple-violet to pink solitary flowers  with center disc flowers. They are bell or star shape on upper stems. Flowers on the lowest part of the stem are small, self-fertile, without petals and do not open.  The upper flowers are showy."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Ovate",
+    "Reniform"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Alternate, simple, sessile, light green leaves are broadly egg-shaped to heart or kidney-shaped, rounded to somewhat pointed at the tip. Margins are serrate to entire. They are up to 1 inch long and nearly as wide.  The leaves are stalkless and clasp the stem at the base.  Stiff hairs may cover the surface except for the upper leaves, which may be hairless."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The light green, single, erect stems are angled, stiffly hairy (white) along the angles, unbranched or branched near the base.  They tend to be weak."
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

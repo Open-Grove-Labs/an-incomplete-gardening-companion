@@ -1,0 +1,168 @@
+{
+  "fullName": "Iris laevigata",
+  "name": "iris-laevigata",
+  "commonNames": [
+    "Japanese Iris",
+    "Kakitsubata",
+    "Rabbit-Ear Iris",
+    "Shallow Flowered Iris",
+    "Water Iris"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/iris-laevigata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Iris",
+  "species": "laevigata",
+  "family": "Iridaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern Siberia to Japan"
+  ],
+  "wildlife-value": [
+    "Flowers attract hummingbirds."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "deer damage"
+  ],
+  "edibility": [
+    "Can be toxic to cattle."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Showy purple flowers 4 inches wide appear in late spring and last through early summer.  They can occasionally rebloom in the fall."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Acicular"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Narrow strap-shaped upright leaves with entire margins that are erect.  Differs from most Iris in that it lacks the strong midrib of the foliage."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Pollinator Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Salivation, vomiting, drooling, lethargy, diarrhea. Highest concentration in rhizomes"
+  ],
+  "poison-toxic-principle": [
+    "Pentacylic terpenoids (zeorin, missourin and missouriensin)"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Roots",
+    "Seeds"
+  ]
+}

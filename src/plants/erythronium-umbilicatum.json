@@ -1,0 +1,147 @@
+{
+  "fullName": "Erythronium umbilicatum",
+  "name": "erythronium-umbilicatum",
+  "commonNames": [
+    "Dimpled Trout Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/erythronium-umbilicatum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Erythronium",
+  "species": "umbilicatum",
+  "family": "Liliaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern U.S.A."
+  ],
+  "wildlife-value": [
+    "This plant attracts bees and ants."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 4 in. - 0 ft. 10 in.",
+    "Width: 0 ft. 4 in. - 0 ft. 7 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Spring"
+  ],
+  "fruit-description": [
+    "The capsule is green maturing to yellow with an indented end from April to June. Seeds are spread by ants."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-description": [
+    "A single, nodding, lily-like flower on  5-8 inch stalk with 6 petals, yellow on inside and streaked with brownish-purple on the outside, that recurve backward. Conspicuous brownish-purple stamens. Blooms from February to April."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-feel": [
+    "Fleshy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Two green, fleshy, oval, basal leaves are 3-5 inches long and 2-3 inches wide. Mottled with irregular green, brown, purple splotches."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "2-8 inch green flower stem"
+  ],
+  "landscape-location": [
+    "Pond",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rain Garden",
+    "Shade Garden"
+  ],
+  "attracts": [
+    "Bees"
+  ]
+}

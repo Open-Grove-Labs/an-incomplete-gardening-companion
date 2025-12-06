@@ -1,0 +1,244 @@
+{
+  "fullName": "Euphorbia serpens",
+  "name": "euphorbia-serpens",
+  "commonNames": [
+    "Creeping Spurge",
+    "Matted Sandmat"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/euphorbia-serpens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Euphorbia",
+  "species": "serpens",
+  "family": "Euphorbiaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South and North America, SE Canada"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "AZ ",
+    "CA ",
+    "CO ",
+    "FL ",
+    "GA ",
+    "HI ",
+    "IA ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "LA ",
+    "MO ",
+    "MS ",
+    "MT ",
+    "ND ",
+    "NE ",
+    "NH ",
+    "NJ ",
+    "NM ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "SD ",
+    "TN ",
+    "TX ",
+    "WY"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Dry soils, sandy soils and is heat tolerant."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 1 in. - 0 ft. 2 in.",
+    "Width: 0 ft. 2 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "habit/form": [
+    "Creeping",
+    "Dense",
+    "Prostrate"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "A yellowish green 3-parted capsule on a short stalk with each part containing 1 seed."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Has small clusters (cyathium) with scalloped white petal-like appendages surrounding the actual flowers.  There is a red nectar gland at the base of each appendage, and at the center of the cyathium are several male flowers around one female flower.  In temperate climates, plants flower in summer and early fall then die, after frost.  In more tropical climates, they will flower all year."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rubbery",
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong",
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Green leaves in the opposite arrangement are less than .5 inches long.  They are directly attached to the stem.  The leaves will exude a milky sap when broken."
+  ],
+  "stem-color": [
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Stems are square with hairs and lie prostrate on the ground.  The stem will exude a milky sap when broken."
+  ],
+  "landscape-location": [
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "The milky white latex sap found in all plant parts can cause mild to severe contact dermatitis. If contact with the eyes occurs the sap can cause temporary to permanent damage to the cornea. If eaten, blistering can occur on lips and oral mucosa. Avoid ingesting plant parts and keep plants away from pets and children."
+  ],
+  "poison-toxic-principle": [
+    "Diterpene esters in milky latex"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Sap/Juice",
+    "Stems"
+  ],
+  "uses": "Used in traditional medicine to treat various ailments, such as fever, headache, and skin diseases but also warts, asthma, and coughs."
+}

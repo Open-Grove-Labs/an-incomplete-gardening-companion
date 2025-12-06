@@ -1,0 +1,92 @@
+{
+  "fullName": "Cystopteris fragilis",
+  "name": "cystopteris-fragilis",
+  "commonNames": [
+    "Brittle Bladder Fern",
+    "Fragile Fern"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cystopteris-fragilis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cystopteris",
+  "species": "fragilis",
+  "family": "Aspleniaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Entire Northern Hemisphere and parts of Southern Hemisphere"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heavy shade, Deer"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 10 in. - 1 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Fern",
+    "Herbaceous Perennial",
+    "Native Plant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "fruit-description": [
+    "No fruits. This plants reproduces via spores."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Fronds"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Leaves are long narrowly-pointed, twice pinnate, and have fleshy petioles with round sori on the underside"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Native Garden",
+    "Shade Garden"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heavy Shade",
+    "Wet Soil"
+  ]
+}

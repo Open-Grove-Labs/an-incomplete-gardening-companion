@@ -1,0 +1,215 @@
+{
+  "fullName": "Clematis texensis",
+  "name": "clematis-texensis",
+  "commonNames": [
+    "Scarlet Clematis",
+    "Scarlet Leatherflower",
+    "Texas Clematis"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/clematis-texensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Clematis",
+  "species": "texensis",
+  "family": "Ranunculaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "southeastern Edwards Plateau in Texas"
+  ],
+  "play-value": [
+    "Attractive Flowers"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "drought tolerant; may be less frequently damaged by deer"
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 9 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet",
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "This plant has many small, dry fruits (each with a silky-plumose tail)."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Urn"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "Colored Sepals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The tulip or bell-shaped flowers have 4-8 (rarely more than 4) petal-like parts of various colors and many stamens. The petals are thick, leather-like, sepals. The outer side of the tepals can be anything from deep red to orange red, and the inner side is most frequently creamy yellow or pink-red."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery",
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are grayish-green pinnate to bi-pinate, 2 1/2\" long with ovate leaflets which are often twisted and acting as tendrils."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems are bare and woody for the first two ft. They reach up to 9 ft and twine around supports by leaf petioles."
+  ],
+  "landscape-location": [
+    "Riparian",
+    "Rock Wall",
+    "Small Space",
+    "Vertical Spaces",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Drought",
+    "Rabbits"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Clematis can cause severe mouth pain and ulcers if eaten. Toxic to dogs, cats, horses. Clinical signs are salivation, vomiting, diarrhea. In humans, symptoms may include dizziness, confusion, fainting, and convulsions. Fatalities are rare, due to the rapid and intense bitter taste and mouth irritation from eating. Gastric lavage is recommended and anti-inflammatory to soothe irritated tissue. Contact dermatitis results in skin redness and burning sensation for some people, gardening gloves are recommended."
+  ],
+  "poison-toxic-principle": [
+    "protoanemonin"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Sap/Juice"
+  ],
+  "uses": "Tea made from dried, chopped stems has been used for headaches, particularly migraines."
+}

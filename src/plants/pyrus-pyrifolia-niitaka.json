@@ -1,0 +1,73 @@
+{
+  "fullName": "Pyrus pyrifolia 'Niitaka'",
+  "name": "pyrus-pyrifolia-niitaka",
+  "commonNames": [
+    "Asian Pear",
+    "Niitaka Pear"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pyrus-pyrifolia-niitaka/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pyrus",
+  "species": "pyrifolia",
+  "family": "Rosaceae",
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "This large-sized, rounded, apple shape fruit is juicy and crisp. The skin is brown-russet. It is usually more gritty than European pears. It is also good for cooking and mixing with salads. Ripens in early September."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "White fragrant flowers bloom from early to late spring."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

@@ -1,0 +1,66 @@
+{
+  "fullName": "Pinus koraiensis 'Compact Glauca'",
+  "name": "pinus-koraiensis-compact-glauca",
+  "commonNames": [
+    "Compact Korean Pine",
+    "Korean Pine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pinus-koraiensis-compact-glauca/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pinus",
+  "species": "koraiensis",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Northeast Asia"
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "habit/form": [
+    "Conical",
+    "Dense",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "4 to 4.5 in. stiff blue-green needles in bundles of 5"
+  ],
+  "surface/attachment": [
+    "Smooth"
+  ],
+  "bark-description": [
+    "The smooth bark is gray=brown on young wood."
+  ],
+  "stem-is-aromatic": "N",
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

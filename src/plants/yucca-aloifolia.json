@@ -1,0 +1,221 @@
+{
+  "fullName": "Yucca aloifolia",
+  "name": "yucca-aloifolia",
+  "commonNames": [
+    "Aloe Yucca",
+    "Dagger Plant",
+    "Spanish Bayonet",
+    "Spanish Dagger"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/yucca-aloifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Yucca",
+  "species": "aloifolia",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Coastal plain from NC to FL & LA"
+  ],
+  "distribution": [
+    "AL",
+    "FL",
+    "GA",
+    "LA",
+    "MS",
+    "NC",
+    "SC",
+    "VA"
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "Pollinators like butterflies, hummingbirds and moths are attracted to the flowers and wildlife are attracted to the fruit."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "The flowers can be served as a salad or cooked. Fruit can be eaten raw or cooked."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 15 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Perennial",
+    "Shrub",
+    "Succulent"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Purple/Lavender"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "1-3 inch oval, brown, dry fruit from October to December."
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "White, fragrant, pendulous flowers, about 3 in. wide, occur in erect clusters up to 2 ft. long. Blooms from June to July."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery",
+    "Prickly"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Dark green, thick and stiff, up to 2 ft. long, with tiny sharp serrations on the margin and a very sharp tip"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Thick succulent stems"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Native Garden",
+    "Nighttime Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Moths",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Salt"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "uses": "The roots can be used as soap and shampoo. Pioneers made rope and string from the fibrous leaves."
+}

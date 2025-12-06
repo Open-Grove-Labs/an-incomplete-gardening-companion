@@ -1,0 +1,139 @@
+{
+  "fullName": "Lycopodium obscurum",
+  "name": "lycopodium-obscurum",
+  "commonNames": [
+    "Common Ground Pine",
+    "Flat-branched Ground-pine",
+    "Ground Pine",
+    "Prince's Pine",
+    "Princess Pine",
+    "Rare Clubmoss",
+    "Tree Clubmoss"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lycopodium-obscurum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lycopodium",
+  "species": "obscurum",
+  "family": "Lycopodiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Russian, Alaska, Eastern Canda and United States"
+  ],
+  "distribution": [
+    "Eastern United States from New England to Georgia and west to the Mississippi."
+  ],
+  "wildlife-value": [
+    "This plant attracts mammals."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Multi-stemmed",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "Spores appear in dense clusters of greenish to yellowish brown, pointed, broadly egg-shaped bracts on single, stalkless cones at stem tips. Spores display from July to September."
+  ],
+  "flower-description": [
+    "Does not flower."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Many leaves in 6 (sometimes 8) vertical rows forming a dense bush. Sharp-pointed, linear-lance-shaped, needles."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Erect stems unbranched towards the base, densely branched above."
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "attracts": [
+    "Small Mammals"
+  ],
+  "uses": "Boiled leaves has been used as an eyewash or to cure headaches in traditional medicine."
+}

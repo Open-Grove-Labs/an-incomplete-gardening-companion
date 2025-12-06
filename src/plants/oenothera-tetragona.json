@@ -1,0 +1,72 @@
+{
+  "fullName": "Oenothera tetragona",
+  "name": "oenothera-tetragona",
+  "commonNames": [
+    "Northern Sundrops",
+    "Sundrops"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/oenothera-tetragona/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Oenothera",
+  "species": "tetragona",
+  "family": "Onagraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Wildflower"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "Fruits are available June-September."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-description": [
+    "Flowers bloom May-August and are yellow."
+  ],
+  "leaf-color": [
+    "Red/Burgundy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Hummingbirds",
+    "Pollinators",
+    "Songbirds",
+    "Specialized Bees"
+  ]
+}

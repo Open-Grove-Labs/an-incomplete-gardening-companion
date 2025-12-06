@@ -1,0 +1,199 @@
+{
+  "fullName": "Disporum",
+  "name": "disporum",
+  "commonNames": [
+    "Disporum",
+    "Fairy Bell",
+    "Mandarin"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/disporum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Disporum",
+  "family": "Colchicaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Russia to Indo-China"
+  ],
+  "wildlife-value": [
+    "Attracts butterflies"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 4 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 8 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Green berries appear in fall and mature to red or purple"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary",
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The large drooping bell-shaped flowers have 6 sepals and 6 stamens. They occur in groups or solitary at the end of branches in the spring. They are generally white or yellow."
+  ],
+  "leaf-color": [
+    "Green",
+    "Variegated"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Green leaves are linear to lance-shaped with 3-7 veins and 2-6 inches long. They may or may not have a stem. May have yellow fall color. There are also varieties with variegated leaves."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Forked branches"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "CAUSES ONLY LOW TOXICITY IF EATEN.  None known, but suspected due to its relationship with other toxic plants.\nPoison Part:\n\nBerries suspected due to its relationship with other toxic plants in the Lily family.\n\nPoison Delivery Mode:\n\nIngestion"
+  ],
+  "poison-toxic-principle": [
+    "Unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ]
+}

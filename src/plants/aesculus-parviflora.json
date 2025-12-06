@@ -1,0 +1,227 @@
+{
+  "fullName": "Aesculus parviflora",
+  "name": "aesculus-parviflora",
+  "commonNames": [
+    "Bottlebrush Buckeye"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/aesculus-parviflora/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Aesculus",
+  "species": "parviflora",
+  "family": "Sapindaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Al, GA, SC, FL"
+  ],
+  "distribution": [
+    "AL",
+    "DC",
+    "GA",
+    "NJ",
+    "PA",
+    "FL",
+    "SC"
+  ],
+  "wildlife-value": [
+    "attracts pollinators, hummingbirds and eastern swallowtail butterflies"
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "tolerates some drought, foliage is relatively disease-free, and can be severely pruned to rejuvenate"
+  ],
+  "dimensions": [
+    "Height: 8 ft. 0 in. - 12 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Mounding",
+    "Multi-stemmed",
+    "Open",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "This plant has 1 to 3 in. pear-shaped smooth, leathery capsules containing a polished, brown seed that opens in late September/October. Seeds have the pale \"buck eye\" scar"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Creamy, white, spidery flowers in summer on 6-12 inch erect panicles with red anthers. These flowers are white, long, terminal clusters, each with stamens longer than the 4 petals. Individual flowers are 1/2 inch across."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Opposite palmately compound leaves with 5 to 7 leaflets; medium to dark green; golden yellow to yellow-green fall color. Leaflets are each 3-8\" long and 1-4\" wide, medium to dark green above, gray-green and pubescent below, serrulate-crenate margin, petiole 3-5\"."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Scaly"
+  ],
+  "stem-description": [
+    "Raised lenticels on gray/brown stem. Buds appear white when small, usually 4 scales showing."
+  ],
+  "landscape-location": [
+    "Riparian",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Pollinator Garden",
+    "Shade Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Hedge",
+    "Small groups",
+    "Specimen",
+    "Understory Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Poisonous if ingested especially the nuts.  Symptoms may include muscle weakness and paralysis, dilated pupils, vomiting, diarrhea, depression, paralysis, and stupor."
+  ],
+  "poison-toxic-principle": [
+    "Glycose aesculin, saponin aescin, possibly alkaloids."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Seeds",
+    "Stems"
+  ]
+}

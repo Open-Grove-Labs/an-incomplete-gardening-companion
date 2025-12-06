@@ -1,0 +1,192 @@
+{
+  "fullName": "Oenothera gaura",
+  "name": "oenothera-gaura",
+  "commonNames": [
+    "Beeblossom",
+    "Biennial Gaura"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/oenothera-gaura/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Oenothera",
+  "species": "gaura",
+  "family": "Onagraceae",
+  "life-cycle": [
+    "Biennial"
+  ],
+  "country-or-region-of-origin": [
+    "Ontario, central and eastern U.S.A."
+  ],
+  "distribution": [
+    "AL ",
+    "CT ",
+    "DC ",
+    "DE ",
+    "GA ",
+    "IA ",
+    "IL ",
+    "IN ",
+    "KY ",
+    "MA ",
+    "MD ",
+    "MI ",
+    "MN ",
+    "MS ",
+    "NC ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "PA ",
+    "SC ",
+    "TN ",
+    "VA ",
+    "WI ",
+    "WV\nCanada: ON ",
+    "QC"
+  ],
+  "wildlife-value": [
+    "Attracts bees, moths, butterflies and songbirds."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Food Source"
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruit is diamond-shaped and 4-sided with a large rib along each angle, cone-shaped at the tip, ¼ to 1/3 inch long, with fine surface hairs. July-November."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-description": [
+    "Flowers bloom June-October and are white fading to pinkish in color. Flowers are 1/2 inch wide with 4 petals arranged fan-like. The long stamens are arranged horizontally to the petals. They appear in open panicles on spikes up to 6 feet tall."
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "First-year leaves are a dense flat rosette. Second-year they are opposite on the stem and stalkless, lance-elliptical shape, tip acute, base narrow, 3-7 inches long by .5- 1 inch wide. Undersides with short hairs, margins are entire or slightly dentate."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Green stems may be red-tinged with spreading white hairs. They can be angular or round."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Moths",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Poor Soil"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

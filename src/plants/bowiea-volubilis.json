@@ -1,0 +1,139 @@
+{
+  "fullName": "Bowiea volubilis",
+  "name": "bowiea-volubilis",
+  "commonNames": [
+    "Climbing Onion",
+    "Zulu Potato"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/bowiea-volubilis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Bowiea",
+  "species": "volubilis",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Uganda to South Africa"
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "edibility": [
+    "Despite its common name, it is not an edible onion."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Perennial",
+    "Poisonous",
+    "Succulent"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small, green-white flowers appear along the stems."
+  ],
+  "leaf-color": [
+    "Insignificant"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leafless"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "In late winter, vining stems emerge from the bulb and grow up any nearby support. As they mature, dense lacy branches form. When fall arrives, the growth dies back."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden"
+  ],
+  "design-feature": [
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Toxic if large quantities are eaten. Minor skin irritation lasting only a few minutes. Nausea, vomiting, diarrhea, abdominal pain, cramping, slow pulse; contact with bulb can cause irritation of wet skin"
+  ],
+  "poison-toxic-principle": [
+    "Cardiac glycosides"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

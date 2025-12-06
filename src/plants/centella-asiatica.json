@@ -1,0 +1,165 @@
+{
+  "fullName": "Centella asiatica",
+  "name": "centella-asiatica",
+  "commonNames": [
+    "Asiatic pennywort",
+    "Gotu kola",
+    "Indian Pennywort",
+    "Kodavan",
+    "Marsh Pennywort",
+    "Spadeleaf"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/centella-asiatica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Centella",
+  "species": "asiatica",
+  "family": "Apiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern United States, Central America, Caucasus, Tropical"
+  ],
+  "distribution": [
+    "Africa",
+    "Southeast Asia",
+    "Eastern South America"
+  ],
+  "plant-type": [
+    "Herb",
+    "Poisonous",
+    "Vine"
+  ],
+  "habit/form": [
+    "Creeping",
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High",
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-type": [
+    "Berry",
+    "Schizocarp"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruit laterally compressed with the mericarps narrowed to the very narrow, flat commissure; primary ribs narrow but prominent, secondary ribs usually also obvious."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Solitary, very large, funnel-shaped flowers with 5 short lobes; white, pink, or yellow blossoms from May to October; fragrant at night."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves solitary or in groups of several together. Simple, linear and terete to broadly reniform leaves are alternate, simple, and smooth margined"
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The green/reddish green, slender stems are creeping stolons."
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Slope/Bank"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Headache, incoordination, excitability, stomach pain, lowered temperature, dilated pupils, paralysis, vomiting, diarrhea, shock, respiratory depression; may be fatal."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids solanine, solanidine and others."
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves"
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "fullName": "Citrus x paradisi",
+  "name": "citrus-x-paradisi",
+  "commonNames": [
+    "Grapefruit"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/citrus-x-paradisi/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Citrus",
+  "family": "Rutaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting"
+  ],
+  "distribution": [
+    "All tropical",
+    "sub-tropical regions around the world"
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Colorful",
+    "Edible fruit ",
+    "Fragrance"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Drought tolerant when established."
+  ],
+  "edibility": [
+    "Fruit is eaten fresh or juiced or used to make jams, jellies or in baking."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Houseplant",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Green",
+    "Pink"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Fragrant",
+    "Long-lasting"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "The fruit is large and green when unripe, yellow when ripe often with patches of pink on the skin.  It is extremely juicy."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Cross"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Small, white, axillary flowers have 4 petals and are highly fragrant, singly or in clusters."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenulate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The evergreen leaves are ovate, 3 to 6 in long, and 1 3/4 to 3 wide, dark green above, lighter beneath, with minute, rounded teeth on the margins"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "New stem growth will be green.  Contain thorns."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Lawn"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Flowering Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Heavy Shade",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Vomiting, diarrhea, depression; potential dermatitis. The fruit is edible, skins and plant material can cause problems"
+  ],
+  "poison-toxic-principle": [
+    "Essential oils and psoralens"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "uses": "The fruit is commonly used to make juices (fresh, canned, or dehydrated as powder, or concentrated and frozen) or used to make jams, and jellies. The peel is candied and used in cakes. It is also used as a source of pectin, used to preserve other fruits.  An essential oil obtained from the peel is used as a flavoring in soft drinks, chewing gum, sweets, baked goods, ice cream.  An oil can also be obtained from the seed that when refined, makes a good culinary oil."
+}

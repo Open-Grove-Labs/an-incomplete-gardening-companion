@@ -1,0 +1,207 @@
+{
+  "fullName": "Viola hastata",
+  "name": "viola-hastata",
+  "commonNames": [
+    "Halberd-leaf Violet",
+    "Halberd-leaf Yellow Violet",
+    "Halberd-leaved Violet",
+    "Spearleaf Violet",
+    "Violets"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/viola-hastata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Viola",
+  "species": "hastata",
+  "family": "Violaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern North America"
+  ],
+  "distribution": [
+    "AL ",
+    "FL ",
+    "GA ",
+    "KY ",
+    "MD ",
+    "NC ",
+    "NY ",
+    "OH ",
+    "PA ",
+    "SC ",
+    "TN ",
+    "VA ",
+    "WV"
+  ],
+  "wildlife-value": [
+    "This plant supports Fritillary butterfly larvae. Nectar from the flowers attracts butterflies and bees.  Members of the genus Viola support the following specialized bees: Andrena (Gonandrena) fragilis, Andrena (Gonandrena) integra, and Andrena (Gonandrena) platyparia. Butterflies and moths use this plant as a larval host. Birds and small mammals use the seed fruits as a food source. This plant is resistant to damage by deer."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Shade ",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Resistant to damage by deer."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Cream/Tan"
+  ],
+  "display/harvest-time": [
+    "Spring",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Buff colored oval capsule with brown seeds. In North Carolina, fruits are available from May to June."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The 5 petaled yellow flowers are purple-tinged on the backside. They have purplish nectar lines on the lower petal and are bearded on the lateral lobes. In North Carolina, flowers are available from March to May."
+  ],
+  "leaf-color": [
+    "Green",
+    "Variegated"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "1-2 inches long variegated, arrow-shaped leaves in a basal pattern."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The stem is erect, and comes from a fleshy rhizome."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Small groups"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

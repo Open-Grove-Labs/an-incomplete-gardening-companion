@@ -1,0 +1,136 @@
+{
+  "fullName": "Polygonatum pubescens",
+  "name": "polygonatum-pubescens",
+  "commonNames": [
+    "Hairy Solomon's Seal",
+    "Hairy Solomon's-seal"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/polygonatum-pubescens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Polygonatum",
+  "species": "pubescens",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Canada, central and eastern U.S.A."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Arching",
+    "Erect"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Blue-black berry 1/4\" diameter that becomes available August-October."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "6 petals/rays",
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "1-3 bell-shaped stalked yellow-green flower 1/2\" long come from leaf axils.  6 flaring lobes hide the stamens.  Flowers are difficult to see under leaves. Flowers bloom April-June."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Simple, narrow, lanceolate-elliptic 2\"-5\" long and 1\"-2\" wide.  Entire margins, pointed or blunt at the tip.  Upper side is hairless with parallel veins underside hairy."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Erect at the bottom but arches under the weight of leaves toward teh top. Unbranched, zig-zag form, almost hairless."
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Shade Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Hummingbirds",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Heavy Shade"
+  ]
+}

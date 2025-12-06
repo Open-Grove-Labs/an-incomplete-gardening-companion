@@ -1,0 +1,134 @@
+{
+  "fullName": "Spartina bakeri",
+  "name": "spartina-bakeri",
+  "commonNames": [
+    "Baker's Cordgrass",
+    "Bunch Cordgrass",
+    "Marsh Grass",
+    "Sand Cordgrass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/spartina-bakeri/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Spartina",
+  "species": "bakeri",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern United States"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Salt tolerant"
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Ornamental Grasses and Sedges"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Dense",
+    "Mounding"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Good Drainage",
+    "Occasional Flooding",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Brown/Copper"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Inflorescence 3 to 7 inches long, comprised of 3-14 branches that ascend near the axis; flowers conspicuous, only on the undersides of the branches; spikelets flattened."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting"
+  ],
+  "leaf-type": [
+    "Sheath"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The wiry leaves are light green on the undersides and darker on top. Its 2 foot 6 inch erect leaves are almost completely rolled and tapered to sharp points making it look somewhat rush-like."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems clump-forming, 3 to 6 ft. tall"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border"
+  ],
+  "resistance-to-challenges": [
+    "Salt",
+    "Wet Soil"
+  ]
+}

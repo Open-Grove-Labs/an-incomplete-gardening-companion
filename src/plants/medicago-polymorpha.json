@@ -1,0 +1,57 @@
+{
+  "fullName": "Medicago polymorpha",
+  "name": "medicago-polymorpha",
+  "commonNames": [
+    "Burclover",
+    "Bur Medic",
+    "California Burclover"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/medicago-polymorpha/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Medicago",
+  "species": "polymorpha",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Asia, Africa"
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "fruit-color": [
+    "Black",
+    "Gray/Silver"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-description": [
+    "Prickly gray black cylidrical and coiled with burs that attach to fur for dispersal. Several seeds inside."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "problems": [
+    "Weedy"
+  ]
+}

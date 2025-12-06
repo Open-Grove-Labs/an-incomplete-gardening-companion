@@ -1,0 +1,207 @@
+{
+  "fullName": "Serenoa repens",
+  "name": "serenoa-repens",
+  "commonNames": [
+    "Saw Palmetto"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/serenoa-repens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Serenoa",
+  "species": "repens",
+  "family": "Arecaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "SE USA"
+  ],
+  "distribution": [
+    "SC",
+    "FL",
+    "LA"
+  ],
+  "wildlife-value": [
+    "Many animals enjoy the fruits. The plant is used as a food plant by the larvae of some Lepidoptera species such as Batrachedra decoctor, which feeds exclusively on the plant. Bees use the pollen for making honey"
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Tree"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Dense",
+    "Multi-trunked"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasional Flooding",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Gold/Yellow"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is a  yellowish drupe that matures to black in Aug through Oct. 0.5 to 1 inch across"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flowers are yellowish-white, about 5 mm across, produced in dense compound panicles up to 3 feet long"
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-shape": [
+    "Palmatifid"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The compound leaves are up to 3 feet long with a bare petiole terminating in a rounded fan of about 20 narrow pointed leaflets. The petiole has fine, sharp teeth or spines that give the species its common name. The leaves are light green in color inland, and silvery-white in coastal regions."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Green stems with sawtooth spines"
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Flowering Tree",
+    "Mass Planting",
+    "Small Tree"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Heat",
+    "Humidity",
+    "Poor Soil",
+    "Salt",
+    "Storm damage",
+    "Wind"
+  ],
+  "uses": "Used in herbal medicine"
+}

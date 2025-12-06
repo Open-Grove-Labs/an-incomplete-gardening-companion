@@ -1,0 +1,190 @@
+{
+  "fullName": "Aspidistra elatior",
+  "name": "aspidistra-elatior",
+  "commonNames": [
+    "Baran",
+    "Bar Room Plant",
+    "Barroom Plant",
+    "Cast Iron Plant",
+    "Haran",
+    "Iron Plant",
+    "Parlor Palm",
+    "Variegated Cast Iron Plant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/aspidistra-elatior/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Aspidistra",
+  "species": "elatior",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit resistant"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green",
+    "Insignificant"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "A single-seeded, fleshy berry.  Rarely goes to fruit."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Cream/Tan",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Blooms very rarely, though will bloom in early summer if it does. The 8-lobed cup-shaped flowers are fleshy and grow close to the ground.  It needs higher light levels in order to flower."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "Variegated",
+    "White"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Basal, erect, long-petiolate, solitary, evergreen leaves.  The shape is ovate to lanceolate to elliptic, apex acute, margins entire, surface glabrous with 16-20 parallel veins.  The texture is leathery and the color is dark green to reddish-purple to variegated.  Petioles are up to 7\"-12\" long, and the entire leaf often reaches 20\"-24\" long.  Leaves extend directly out of the ground."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Acaulescent; what appear to be stems are actually the petioles of the leaves."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Mass Planting",
+    "Small groups",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heavy Shade",
+    "Poor Soil",
+    "Rabbits",
+    "Salt"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "fullName": "Rubus pedatus",
+  "name": "rubus-pedatus",
+  "commonNames": [
+    "Blackberry",
+    "Creeping Rubus",
+    "Dewberry",
+    "Strawberryleaf Raspberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rubus-pedatus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rubus",
+  "species": "pedatus",
+  "family": "Roseaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Northwestern Canada and U.S.A."
+  ],
+  "wildlife-value": [
+    "This plant provides nectar for pollinators and fruits for birds and other animals."
+  ],
+  "edibility": [
+    "Fruits are edible and tasty fresh or cooked."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "fruit-type": [
+    "Aggregate",
+    "Drupe"
+  ],
+  "fruit-description": [
+    "Aggregate drupe small in size and very soft."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Solitary 5 petaled white flowers with petals spaced wide apart and being backward. Flowers bloom from April to June."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Compound leaves with five leaflets that are oval and toothed"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Riparian",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "uses": "They were not a popular food source for indigenous people because of their small size and short storage life."
+}

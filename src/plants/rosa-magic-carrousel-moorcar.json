@@ -1,0 +1,99 @@
+{
+  "fullName": "Rosa Magic Carrousel 'MOORcar'",
+  "name": "rosa-magic-carrousel-moorcar",
+  "commonNames": [
+    "Magic Carousel",
+    "MORrousel"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-magic-carrousel-moorcar/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "wildlife-value": [
+    "Attracts butterflies."
+  ],
+  "play-value": [
+    "Attracts Pollinators"
+  ],
+  "plant-type": [
+    "Rose"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-description": [
+    "Cream to yellow with dark pink edges; Multi-petalled blooms in clusters; rosette shape; repeats summer into fall"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "clear green glossy leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Patio",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cutting Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Border",
+    "Hedge",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies"
+  ]
+}

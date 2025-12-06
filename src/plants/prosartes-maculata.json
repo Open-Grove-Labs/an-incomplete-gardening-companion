@@ -1,0 +1,159 @@
+{
+  "fullName": "Prosartes maculata",
+  "name": "prosartes-maculata",
+  "commonNames": [
+    "Nodding Mandarin",
+    "Spotted Disporum",
+    "Spotted Fairybells"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/prosartes-maculata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Prosartes",
+  "species": "maculata",
+  "family": "Liliaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern U.S.A"
+  ],
+  "distribution": [
+    "AL ",
+    "GA ",
+    "KY ",
+    "MI ",
+    "NC ",
+    "OH ",
+    "TN ",
+    "VA ",
+    "WV"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "3-lobed berries are pale straw-colored with 6-10 seeds"
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "1 inch nodding blooms have creamy white petals spotted with purple with projecting stamens. They appear on split stems singly or up to 4 clusters and hide under the final leaves of the stem."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "2-4 in. leaves with parallel veins are stalkless with small, stiff hairs on the lower leaf surface and younger portion of the stem"
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Rededish stems with hairs"
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Berries suspected due to its relationship with other toxic plants in the Lily family. Low toxicity if eaten."
+  ],
+  "poison-toxic-principle": [
+    "Unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ]
+}

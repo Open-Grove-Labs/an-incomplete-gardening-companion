@@ -1,0 +1,69 @@
+{
+  "fullName": "Scleroderma geaster",
+  "name": "scleroderma-geaster",
+  "commonNames": [
+    "Dead Man's Hand",
+    "Devils Snuff Box",
+    "Earthstar Scleroderma",
+    "Many-Rooted Earthball",
+    "Star Earthball"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/scleroderma-geaster/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Scleroderma",
+  "species": "geaster",
+  "family": "Sclerodermataceae",
+  "distribution": [
+    "North America",
+    "Euorpe",
+    "Asia",
+    "South America",
+    "Oceania"
+  ],
+  "plant-type": [
+    "Mushroom",
+    "Poisonous"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Cream/Tan"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "Large, tan-brown, roundish in shape, 5-6\""
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "The patient may experience gastrointestinal upset including nausea, vomiting, diarrhea, and cramps.  Symptoms may appear within 30-45 minutes following ingestion."
+  ],
+  "poison-toxic-principle": [
+    "Unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Roots"
+  ]
+}

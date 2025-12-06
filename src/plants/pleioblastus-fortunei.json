@@ -1,0 +1,122 @@
+{
+  "fullName": "Pleioblastus fortunei",
+  "name": "pleioblastus-fortunei",
+  "commonNames": [
+    "Dwarf Whitestripe",
+    "Golden Bamboo",
+    "Running Bamboo"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pleioblastus-fortunei/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pleioblastus",
+  "species": "fortunei",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Central & S. Japan"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Range of soil types; drought tolerant"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Ornamental Grasses and Sedges"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-type": [
+    "Caryopsis"
+  ],
+  "flower-description": [
+    "Rarely flowers"
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green",
+    "Variegated",
+    "White"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "New leaves are white with bright green stripes. 4-7 inches long and 3/4 inch wide with a pointed tip"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Zig Zags"
+  ],
+  "stem-description": [
+    "Culums zig-zag"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "fullName": "Alocasia sarawakensis 'Yucatan Princess'",
+  "name": "alocasia-sarawakensis-yucatan-princess",
+  "commonNames": [
+    "Elephant Ear",
+    "Yucatan Princess"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/alocasia-sarawakensis-yucatan-princess/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Alocasia",
+  "species": "sarawakensis",
+  "family": "Araceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "play-value": [
+    "Colorful"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit-resistant"
+  ],
+  "edibility": [
+    "The corm and stem can be eaten but must be thoroughly cooked to destroy the calcium oxalate crystals. Once cooked, it can be used as a cooked vegetable added to soups and stews."
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-description": [
+    "Flowers are seldom seen. However, they are small, clustered on a creamy white spadix, and surrounded by a modified leaf or spathe."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Large glossy, crinkled, dark grayish-green leaves with reddish-purple undersides."
+  ],
+  "stem-color": [
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stems are sturdy and brick-red."
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Rain Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Urban Conditions"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Poisonous by ingestion, dermatitis, and eye injury. Symptoms may include painful irritation of lips, mouth, tongue, and throat after chewing; difficulty of speaking; nausea and diarrhea, vomiting, delirium, and death. People with a tendency to rheumatism, arthritis, gout, kidney stones, and hyperacidity should be especially cautious."
+  ],
+  "poison-toxic-principle": [
+    "Calcium oxalate crystals"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

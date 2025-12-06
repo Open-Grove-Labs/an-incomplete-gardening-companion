@@ -1,0 +1,173 @@
+{
+  "fullName": "Allium sphaerocephalon",
+  "name": "allium-sphaerocephalon",
+  "commonNames": [
+    "Bald-Head Onion",
+    "Drumsticks",
+    "Ornamental Onion",
+    "Round-Headed Garlic",
+    "Round-Headed Leek"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/allium-sphaerocephalon/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Allium",
+  "species": "sphaerocephalon",
+  "family": "Amaryllidaceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, northern Africa, western Asia"
+  ],
+  "wildlife-value": [
+    "Deer and rabbit resistive"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "normally not susceptible to animals, drought"
+  ],
+  "edibility": [
+    "Flowers, stems bulbs are edible. However, the plant also has poisonous characteristics as noted in the \"Poisonous to Humans\" section of this record. Toxicity can depend on the age of the person or animal, the age of the plant, the part of the plant ingested, how much is ingested, whether the person or animal has sensitivities or allergies, whether it's eaten raw or cooked, and so forth.  Consult with a medical professional for further details."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Cool Season Vegetable",
+    "Poisonous"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Good Dried"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers emerge green and mature to reddish-purple in a 1 inch wide umbel that opens top to bottom and resembles clover flowers. The flowering period is from very late spring to early summer for 3-4 weeks. Flowers are small, 6-parted, and in a cluster at the top of a naked stem.  The plant smells of garlic or onion. Bulblets sometimes form after flowering."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Round, hollow, grassy, gray-green leaves up to 14\" long form a foliage clump in spring.  The plant smells of garlic or onion."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Poisonous if ingested. Symptoms may include nausea, vomiting, and diarrhea. (Poison parts:     All parts; bulbs, bulblets, flowers, and stems)."
+  ],
+  "poison-toxic-principle": [
+    "Sulfides"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

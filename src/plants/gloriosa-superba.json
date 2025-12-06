@@ -1,0 +1,212 @@
+{
+  "fullName": "Gloriosa superba",
+  "name": "gloriosa-superba",
+  "commonNames": [
+    "Cat's Claw",
+    "Climbing Lily",
+    "Flame Lily",
+    "Gloriosa Lily",
+    "Glory Lily",
+    "Superb Lily",
+    "Tiger's Claw"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/gloriosa-superba/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Gloriosa",
+  "species": "superba",
+  "family": "Colchicaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern Africa and Tropical Asia"
+  ],
+  "distribution": [
+    "tropical and southern Africa and temperate and tropical Asia (from China to India)"
+  ],
+  "climbing-method": [
+    "Tendrils"
+  ],
+  "bulb-storage": [
+    "Dig and store in peat or vermiculite at 40 to 50°F."
+  ],
+  "edibility": [
+    "Toxic when ingested."
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Houseplant",
+    "Poisonous",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Tendrils"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "The 3-parted capsules are 2-4.5 inches long. They start green and mature to brown. Each contains around 20 seeds"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Lily like flowers on long stalks, 6-parted, yellow or red with wavy margins"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are sessile with strong parallel veining, entire margins and tipped with tendrils. Leaves are generally alternate but may also be opposite or whorled. They are 5-8 inches long and 2-3 inches wide."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Asian Garden"
+  ],
+  "design-feature": [
+    "Screen/Privacy",
+    "Small groups"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Numbness of lips, tongue, and throat, thirst, fever, bloody vomiting, bloody diarrhea, difficult breathing, convulsions, shock, multi-organ damage, bone marrow suppression"
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids (colchicine and others) and resins"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

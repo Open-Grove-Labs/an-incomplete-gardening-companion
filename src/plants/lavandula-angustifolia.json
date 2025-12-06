@@ -1,0 +1,222 @@
+{
+  "fullName": "Lavandula angustifolia",
+  "name": "lavandula-angustifolia",
+  "commonNames": [
+    "Common Lavender",
+    "English Lavender",
+    "Lavender",
+    "Narrow-Leaved Lavender"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lavandula-angustifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lavandula",
+  "species": "angustifolia",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Mediterranean region France, Italy, Spain"
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Fragrance"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Drought tolerant."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Herbaceous Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Broad",
+    "Mounding",
+    "Multi-stemmed",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Fruits are non-ornamental nutlets."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Fragrant",
+    "Good Cut",
+    "Good Dried",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Plant produces many flowers in the summer that are usually lavender-purple, but can also be pink or white. Flowers are aromatic. Calyx is cylindrical to urceolate. Flowers are less than half an inch in size, and are 13-veined. Flowers are also 5-toothed, and the teeth are often purple and tomentose. Corolla is 2-lipped. The upper lip is 2-lobed while the lower lip is 3-lobed and nearly half an inch in size. Lobes are large and purple or blue. Flowers grow on a long-stalked, terminal spike that is .7-3\" long. Peduncles are 2-6\"."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft",
+    "Velvety"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear",
+    "Obtuse"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves are opposite, simple, linear to lanceolate, obtuse, revolute, white tementose, entire, gray-green to bluish green, and are .4-1\" long and less than an inch wide.  They are aromatic when bruised. They provide an interesting color in summer gardens."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Stems are tomentose."
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden",
+    "Cutting Garden",
+    "Edible Garden",
+    "Garden for the Blind",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil"
+  ],
+  "problems": [
+    "Frequent Disease Problems",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Nausea, vomiting (not in horses), inappetence"
+  ],
+  "poison-toxic-principle": [
+    "Linlool, linalyl acetate"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "uses": "Potpourris; herb pillows; crafts, vinegars, jellies."
+}

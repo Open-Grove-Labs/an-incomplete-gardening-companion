@@ -1,0 +1,140 @@
+{
+  "fullName": "Ligustrum japonicum 'Recurvifolium'",
+  "name": "ligustrum-japonicum-recurvifolium",
+  "commonNames": [
+    "Crinkle Leaf",
+    "Curly Leaf Japanese Privet",
+    "Curved-Leaf Privet"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ligustrum-japonicum-recurvifolium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ligustrum",
+  "species": "japonicum",
+  "family": "Oleaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Asia"
+  ],
+  "plant-type": [
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High",
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)"
+  ],
+  "soil-drainage": [
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruits are berry-like drupes that are blue-black in color and less than an inch in size."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Flowers are perfect, white, and foetid. They grow on the terminal of a pyramidal panicle that is 2-6\" long."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are opposite, simple, broad-ovate to ovate-oblong, 1-3\" long, wavy at the margins, and twisted at the tip. They have 4-5 pairs of indistinct raised veins on the undersurface, have a lustrous dark green color, coriaceous, and glabrous."
+  ],
+  "bark-color": [
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Lenticels"
+  ],
+  "bark-description": [
+    "Twigs are smooth, gray, and covered with large lenticels."
+  ],
+  "stem-is-aromatic": "N",
+  "resistance-to-challenges": [
+    "Dry Soil",
+    "Pollution"
+  ],
+  "problems": [
+    "Invasive Species",
+    "Malodorous",
+    "Problem for Dogs",
+    "Weedy"
+  ]
+}

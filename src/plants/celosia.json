@@ -1,0 +1,134 @@
+{
+  "fullName": "Celosia",
+  "name": "celosia",
+  "commonNames": [],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/celosia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Celosia",
+  "family": "Amaranthaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Africa"
+  ],
+  "edibility": [
+    "Young leaves can be eaten and have a spinach-like flavor. Young stems and flowers can be used in stews."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 4 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Good Cut",
+    "Good Dried",
+    "Long Bloom Season",
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Flowers vary in size, shape and color. They are classified as plumed or crested types."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Usually green with the mid-rib matching the color of the flower. Some have showy burgundy or gold leaves. Simple, alternate, linear-lanceolate to lanceolate-ovate."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stem color often matches the color of the flower"
+  ],
+  "landscape-location": [
+    "Container",
+    "Pond",
+    "Pool/Hardscape"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Cutting Garden",
+    "Edible Garden",
+    "English Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Mass Planting",
+    "Small groups"
+  ]
+}

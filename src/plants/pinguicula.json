@@ -1,0 +1,89 @@
+{
+  "fullName": "Pinguicula",
+  "name": "pinguicula",
+  "commonNames": [
+    "Butterwort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pinguicula/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pinguicula",
+  "family": "Lentibulariaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "plant-type": [
+    "Carnivorous",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup",
+    "Funnel"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Solitary flowers above the leaves on a long slender stalk"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Yellow-green or purplish leaves in a basal rosette; minute glands cover the upper leaf surface; leaves curl slowly into a cup when an insect is trapped."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Native Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ]
+}

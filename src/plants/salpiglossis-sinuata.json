@@ -1,0 +1,122 @@
+{
+  "fullName": "Salpiglossis sinuata",
+  "name": "salpiglossis-sinuata",
+  "commonNames": [
+    "Painted Tongue"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/salpiglossis-sinuata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Salpiglossis",
+  "species": "sinuata",
+  "family": "Solanaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "Central & Southern Chile to Western Central Argentina"
+  ],
+  "plant-type": [
+    "Annual"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Blue",
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Funnel-shaped, wide-throated, 5-lobed flowers (to 2” wide) in clusters with marbling or contrasting veins in different colors.\nFlowers bloom from summer to frost in cool climates."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Sinuate",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Lanceolate green leaves (to 4” long) with wavy margins. Leaves and stems are typically hairy and sticky."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Cutting Garden"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Dry Soil",
+    "Heat"
+  ]
+}

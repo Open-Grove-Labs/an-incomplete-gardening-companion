@@ -1,0 +1,114 @@
+{
+  "fullName": "Larrea tridentata",
+  "name": "larrea-tridentata",
+  "commonNames": [
+    "Chaparral",
+    "Creosote Bush",
+    "Greasewood"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/larrea-tridentata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Larrea",
+  "species": "tridentata",
+  "family": "Zygophyllaceae",
+  "country-or-region-of-origin": [
+    "Central U.S.A. to Mexico"
+  ],
+  "distribution": [
+    "Arizona",
+    "California",
+    "Mexico Gulf",
+    "Mexico Northeast",
+    "Mexico Northwest",
+    "Mexico Southwest",
+    "Nevada",
+    "New Mexico",
+    "Texas",
+    "Utah"
+  ],
+  "plant-type": [
+    "Perennial"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruit is brown-burgundy spherical, fuzzy capsule, which separates into 5 individual carpels each containing one seed."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers yellow, 5-petaled, solitary from axils, sepals ovoid."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Waxy"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves opposite, compound with 2 weakly tridentate leaflets. Leaflets are oily-resinous with a strong medicinal odor."
+  ],
+  "stem-is-aromatic": "N",
+  "uses": "An important medicine in many indigenous cultures of the desert southwest."
+}

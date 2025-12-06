@@ -1,0 +1,207 @@
+{
+  "fullName": "Hypochaeris radicata",
+  "name": "hypochaeris-radicata",
+  "commonNames": [
+    "Australian Cape Weed",
+    "California Dandelion",
+    "Catsear",
+    "Cat's Ear",
+    "Common Cat's-Ear",
+    "False Dandelion",
+    "Flatweed",
+    "Frogbit",
+    "Gosmore",
+    "Hairy Cat's Ear",
+    "Rough Cat's Ear",
+    "Spotted Catsear"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hypochaeris-radicata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hypochaeris",
+  "species": "radicata",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe to Caucasus"
+  ],
+  "wildlife-value": [
+    "Several varieties of bees frequent the flowers, as well as White and Sulfur butterflies."
+  ],
+  "play-value": [
+    "Attracts Pollinators"
+  ],
+  "edibility": [
+    "Leaves can be eaten in salads or cooked in stir-fries. The roots can be roasted and ground for a coffee substitute."
+  ],
+  "plant-type": [
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Orange"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "Seeds have a tuft of white hair that float with the wind."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The pale yellow flowers each have from 20 to 30 rays and green bracts at the base.   The tips of the petals have 5 small teeth along the outer edge.  Blooms mid-summer to early fall."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Oblanceolate",
+    "Pinnatifid"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves form as a basal rosette of dissected, densely hairy leaves up to 6 inches long and 2 inches across.  The rosette span an area of 1' across.  A central vein that runs the length of the underside of each leaf.   In addition to the basal leaves, a few leaves may grow from the flowering stalks.  The foliage, as well as the stems contain a milky latex."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "The erect stems are smooth, wiry and milky."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Meadow",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Poor Soil"
+  ],
+  "problems": [
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Stringhalt (back legs may have exaggerated flexion, hopping gait)"
+  ],
+  "poison-toxic-principle": [
+    "Unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "uses": "Weedy perennial"
+}

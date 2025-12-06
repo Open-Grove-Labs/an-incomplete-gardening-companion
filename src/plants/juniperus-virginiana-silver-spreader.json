@@ -1,0 +1,102 @@
+{
+  "fullName": "Juniperus virginiana 'Silver Spreader'",
+  "name": "juniperus-virginiana-silver-spreader",
+  "commonNames": [
+    "Silver Spreader Juniper"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/juniperus-virginiana-silver-spreader/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Juniperus",
+  "species": "virginiana",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Horizontal",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-description": [
+    "Berry-like cones."
+  ],
+  "flower-description": [
+    "It is a conifer, a non-flowering plant."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "Y",
+  "landscape-location": [
+    "Lawn",
+    "Slope/Bank",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Cottage Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

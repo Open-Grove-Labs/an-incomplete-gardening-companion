@@ -1,0 +1,269 @@
+{
+  "fullName": "Hydrangea paniculata",
+  "name": "hydrangea-paniculata",
+  "commonNames": [
+    "Panicle Hydrangea",
+    "Peegee Hydrangea"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hydrangea-paniculata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hydrangea",
+  "species": "paniculata",
+  "family": "Hydrangeaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern and southern China, Japan, Sakhalin, Kuril Island"
+  ],
+  "distribution": [
+    "Native: China North-Central",
+    "China South-Central",
+    "China Southeast",
+    "Japan",
+    "Kuril Island",
+    "Sakhalin",
+    "and Taiwan. Introduced: Canada--Ontario",
+    "Korea",
+    "and the United States--CT",
+    "ME",
+    "MA",
+    "NH",
+    "NJ",
+    "NY",
+    "NC",
+    "PA",
+    "RA",
+    "VA",
+    "and WV."
+  ],
+  "wildlife-value": [
+    "Attracts Pollinators and small mammals use this plant for cover."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 8 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 25 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Cascading",
+    "Erect",
+    "Horizontal",
+    "Irregular",
+    "Multi-stemmed",
+    "Vase"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Pink"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is a brownish-pink dehiscent oval capsule that does not attract wildlife. It appears during the summer and fall."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Cream/Tan",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Good Dried",
+    "Long Bloom Season",
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The blooms are pyramidal panicles of creamy white flowers measuring 6 to 8 inches long that appear in summer on new growth. The blooms will fade over time to a pinkish rose and tannish brown. The bloom has fertile and sterile flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Insignificant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves are opposite, simple, and oval to ovate. They are sometimes whorled towards the leaf tip. They measure 3 to 6 inches long and 1.5 to 3 inches wide. They are dark green above, light green beneath, and fade to yellow in the fall before the leaf drop. The margins are serrate. The undersides are pubescent, especially near the veins, and the petiole is up to 1 inch long."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Shredding"
+  ],
+  "bark-description": [
+    "The bark is grayish-brown and shreds when mature and is irregularly furrowed."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stems are grayish-brown and tend to droop from the weight of the flowers."
+  ],
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Patio",
+    "Recreational Play Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Children's Garden",
+    "Cottage Garden",
+    "Cutting Garden",
+    "Pollinator Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge",
+    "Screen/Privacy",
+    "Small groups",
+    "Small Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Pollution",
+    "Salt",
+    "Urban Conditions"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ]
+}

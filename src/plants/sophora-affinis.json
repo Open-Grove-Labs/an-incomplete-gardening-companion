@@ -1,0 +1,244 @@
+{
+  "fullName": "Sophora affinis",
+  "name": "sophora-affinis",
+  "commonNames": [
+    "Eve's Necklace",
+    "Eve's Necklacepod",
+    "Necklace Tree",
+    "Pink Sophora",
+    "Texas Sophora"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sophora-affinis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sophora",
+  "species": "affinis",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South central U.S.A."
+  ],
+  "distribution": [
+    "Oklahoma",
+    "Arkansas",
+    "Louisiana",
+    "Texas"
+  ],
+  "wildlife-value": [
+    "Pollinators are attracted to the flowers.  Birds nest in the branches."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Buffer",
+    "Easy to Grow",
+    "Fragrance",
+    "Wildlife Cover/Habitat",
+    "Wildlife Nesting"
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 35 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub",
+    "Tree",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-trunked",
+    "Oval",
+    "Rounded",
+    "Weeping"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet",
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Black segmented bean pods with hairs on the constricted parts, which resemble a string of beads.  Remain on the plant providing winter interest."
+  ],
+  "flower-color": [
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Rosy pink fragrant blooms 1/2\" long in clusters 6\" long appearing early to mid-spring.  Flowering occurs for approximately 2 weeks."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Pinnately divided leaves with 6 to 8 pairs of elliptical to oval leaflets with rounded, pointed or indented tips.  The whole leaf is 9\" long."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Scaly"
+  ],
+  "bark-description": [
+    "The thin, scaly, red-brown bark is easily damaged."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Stems are smooth.  Typically grown with multiple trunks."
+  ],
+  "landscape-location": [
+    "Container",
+    "Lawn",
+    "Meadow",
+    "Naturalized Area",
+    "Patio",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Flowering Tree",
+    "Small Tree",
+    "Specimen",
+    "Street Tree",
+    "Understory Tree"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Heat"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "The seeds of this plant, are mildly poisonous if eaten. The poisonous elements of this plant resemble nicotine in its actions and toxicity. If seeds are ingested, it can lead to vomiting, diarrhea, excitement, delirium, and coma."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Seeds"
+  ]
+}

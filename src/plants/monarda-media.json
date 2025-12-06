@@ -1,0 +1,203 @@
+{
+  "fullName": "Monarda media",
+  "name": "monarda-media",
+  "commonNames": [
+    "Horsemint",
+    "Purple Bergamont"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/monarda-media/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Monarda",
+  "species": "media",
+  "family": "Lamiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Canada to Eastern U.S.A"
+  ],
+  "distribution": [
+    "AL",
+    "CT",
+    "DE",
+    "GA",
+    "IL",
+    "IN",
+    "KY",
+    "MA",
+    "MD",
+    "ME",
+    "MI",
+    "NC",
+    "NH",
+    "NJ",
+    "NY",
+    "OH",
+    "PA",
+    "RI",
+    "TN",
+    "VA",
+    "VT",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Attracts bees, butterflies, and hummingbirds. Goldfinches will eat the seeds. Members of the genus Monarda support the following specialized bees: Dufourea monarda, Perdita (Perdita) gerhardi, and Protandrena abdominalis. This plant is resistant to damage by deer and rabbits."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Fragrance",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Fragrant, ragged cluster of reddish-purple tubular flowers and purplish bracts up to 2.5 inches wide in July-Aug."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Leaves are opposite, stalked, have a gray appearance, are lance-shaped with a triangular base. Stalks and leaf surfaces have fine hair. Margins are toothed on the lower leaves and less so on the upper leaves."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds",
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ],
+  "uses": "Native American tribes used the plant to cure skin eruptions, reduce fevers and treat colds."
+}

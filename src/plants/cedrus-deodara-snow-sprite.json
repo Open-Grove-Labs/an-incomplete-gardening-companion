@@ -1,0 +1,126 @@
+{
+  "fullName": "Cedrus deodara 'Snow Sprite'",
+  "name": "cedrus-deodara-snow-sprite",
+  "commonNames": [
+    "Dwarf Deodar Cedar",
+    "Snow Sprite Deodar Cedar",
+    "Snow Sprite Himalayan Cedar"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cedrus-deodara-snow-sprite/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cedrus",
+  "species": "deodara",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "British Columbia"
+  ],
+  "play-value": [
+    "Buffer",
+    "Textural "
+  ],
+  "dimensions": [
+    "Height: 1 ft. 8 in. - 3 ft. 0 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Irregular",
+    "Mounding",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "fruit-description": [
+    "Featuring reddish/brown barrel shaped cones.  Insignificant."
+  ],
+  "flower-description": [
+    "Grown for its foliage, the flowers are insignificant."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "New growth is creamy white, aging to pale yellow"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Lawn",
+    "Meadow",
+    "Patio",
+    "Recreational Play Area",
+    "Slope/Bank",
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Cottage Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Foundation Planting",
+    "Small groups",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil"
+  ]
+}

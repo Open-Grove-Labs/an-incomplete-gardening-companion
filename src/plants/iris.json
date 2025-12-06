@@ -1,0 +1,215 @@
+{
+  "fullName": "Iris",
+  "name": "iris",
+  "commonNames": [
+    "Flag",
+    "Iris",
+    "Snake Lily",
+    "Water Flag"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/iris/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Iris",
+  "family": "Iridaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "North temperate America, Europe, Asia"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "deer and rabbit resistant (in general)"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 6 in. - 2 ft. 6 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruits is a brown capsule and measures 2 inches long and 1 inch wide."
+  ],
+  "flower-color": [
+    "Black",
+    "Blue",
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals",
+    "Colored Sepals"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "One to several flowers at the top of a naked stem in bracteate heads. Perianth tubular with 6-parted segments with three pendent \"falls\" that are narrowed basally into a shaft, are spreading to deflexed above, are bearded or with colored trichomes or crest, or are lacking these traits often with a basal medial color patch. Three inner, erect \"standards\", variously colored, clawed and reduced. Three stamens, three styles, petaloid, overarching falls."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green",
+    "Variegated"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Sheath",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves are green to bluish-green, and blades, swords, or fans of foliage. They have parallel leaf veins. Range in size from 6 inches to 2 feet and are arranged in clumps. Strap-like, overlapping at base, oriented in one plane. Leaves are 2-ranked, linear to ensiform, flat or tetragonal. Basal leaves are commonly in fans. Cauline leaves are sheathing or in an apical tuft."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Meadow",
+    "Naturalized Area",
+    "Patio",
+    "Small Space",
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Cutting Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Foundation Planting",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Rabbits"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "CAUSES ONLY LOW TOXICITY IF EATEN. SKIN IRRITATION MINOR, OR LASTING ONLY FOR A FEW MINUTES.  Nausea, salivation, vomiting, abdominal pain, lethargy, diarrhea, elevated temperature following ingestion; skin irritation upon contact with seeds, rootstock, or cell sap.\nHighest concentration in rhizomes"
+  ],
+  "poison-toxic-principle": [
+    "Pentacylic terpenoids (zeorin, missourin and missouriensin), Irisin, iridin, or irisine"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Roots",
+    "Sap/Juice",
+    "Seeds"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "fullName": "Papaver betonicifolium",
+  "name": "papaver-betonicifolium",
+  "commonNames": [
+    "Blue Himalayan Poppy",
+    "Blue Poppy"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/papaver-betonicifolium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Papaver",
+  "species": "betonicifolia",
+  "family": "Papaveraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "China"
+  ],
+  "distribution": [
+    "Mountains- Pacific NW best"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Perennial"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "flower-color": [
+    "Blue",
+    "Gold/Yellow",
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "6 petals/rays"
+  ],
+  "flower-description": [
+    "Early to mid-summer intense, deep blue satiny flowers appear."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-arrangement": [
+    "Rosulate",
+    "Whorled"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Light green rosette of hairy leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Rabbits"
+  ]
+}

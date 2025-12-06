@@ -1,0 +1,163 @@
+{
+  "fullName": "Foeniculum vulgare",
+  "name": "foeniculum-vulgare",
+  "commonNames": [
+    "Bronze Fennel",
+    "Fennel",
+    "Finocchio",
+    "Florence Fennel",
+    "Sweet Fennel"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/foeniculum-vulgare/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Foeniculum",
+  "species": "vulgare",
+  "family": "Apiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern Europe and the Mediterranean"
+  ],
+  "distribution": [
+    "Worldwide"
+  ],
+  "wildlife-value": [
+    "Attracts bees and other beneficial insects, feeds caterpillars that morph into swallowtail butterflies."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 1 ft. 6 in. - 3 ft. 3 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Herb",
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed",
+    "Spreading"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Green",
+    "White"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-description": [
+    "Aromatic seeds follow the flowers in late summer, early fall."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Tiny yellow flowers in large, flattened, compound umbels bloom from June to August."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Feathery, compound, aromatic, yellow-green leaves with needle-like segments."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "uses": "Shoots can be used to make a yellow dye."
+}

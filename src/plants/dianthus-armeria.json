@@ -1,0 +1,218 @@
+{
+  "fullName": "Dianthus armeria",
+  "name": "dianthus-armeria",
+  "commonNames": [
+    "Deptford Pink",
+    "Grass Pink",
+    "Mountain Pink"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dianthus-armeria/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dianthus",
+  "species": "armeria",
+  "family": "Caryophyllaceae",
+  "life-cycle": [
+    "Annual",
+    "Biennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, and east to the Ukraine and Caucasus"
+  ],
+  "distribution": [
+    "Found wild throughout the US except for Arizona",
+    "Alaska",
+    "and North Dakota"
+  ],
+  "wildlife-value": [
+    "Nectar attracts small butterflies, skippers, long-tongued bees."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit resistant"
+  ],
+  "plant-type": [
+    "Annual",
+    "Herb",
+    "Herbaceous Perennial",
+    "Poisonous",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Elongated seed capsule containing numerous seeds which are orbicular or reniform and flattened with small bumps across the surface."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Wheel"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "A small, flat-topped cluster of deep pink flowers with white spots; \n five spreading petals with jagged edges, a thin bract at the base of the flower, a tubular green calyx with 5 teeth, 10 stamens with pink anthers, and 2 styles"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-type": [
+    "Sheath",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Acicular",
+    "Lanceolate",
+    "Oblanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Narrow, slightly pubescent, grasslike leaves are arranged in pairs. The base of each pair of leaves wraps around the stem in a sheath."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stiff, erect stem; slenderly branched, patches of fine white hairs beneath each opposite pair of leaves"
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Compaction",
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Poor Soil",
+    "Rabbits"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "No reports of ingestion. Mild skin irritation reported from contact with leaves. Vomiting"
+  ],
+  "poison-toxic-principle": [
+    "Triterpenoid saponins"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves"
+  ]
+}

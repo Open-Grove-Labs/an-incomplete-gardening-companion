@@ -1,0 +1,126 @@
+{
+  "fullName": "Azolla caroliniana",
+  "name": "azolla-caroliniana",
+  "commonNames": [
+    "Eastern Mosquito Fern",
+    "Fairy Moss",
+    "Mosquito Fern",
+    "Water Velvet"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/azolla-caroliniana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Azolla",
+  "species": "caroliniana",
+  "family": "Salviniaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Americas"
+  ],
+  "wildlife-value": [
+    "This plant benefits waterfowl and shorebirds."
+  ],
+  "play-value": [
+    "Wildlife Cover/Habitat"
+  ],
+  "plant-type": [
+    "Annual",
+    "Fern",
+    "Native Plant",
+    "Water Plant"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-description": [
+    "No fruits.  Magaspores (female gameophytes) and  microspores  (male gametophyte) appear from June to September."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Fronds"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Lacey, bright green to gray green fronds arranged in two rows of .5 mm long scale-like leaves with two lobes. The upper leaf is above the surface and the lower larger leaf floats below.  On the upper lobe leaves have one celled hairs.  Turn reddish in full sun and during fall."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Prostrate stems branch"
+  ],
+  "landscape-location": [
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Water Garden"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "Grown in rice paddies as a green fertilizer or used as animal feed. It is being studied as a biofuel and has been used for pollution mitigation."
+}

@@ -1,0 +1,223 @@
+{
+  "fullName": "Humulus scandens",
+  "name": "humulus-scandens",
+  "commonNames": [
+    "Japanese Hops"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/humulus-scandens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Humulus",
+  "species": "scandens",
+  "family": "Cannabaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Asia; Russia south to North Vietnam"
+  ],
+  "distribution": [
+    "Eastern Canada",
+    "mid-west and eastern United States",
+    "south to Georgia. Also parts of Europe."
+  ],
+  "wildlife-value": [
+    "Food source for Gray Hairstreak, Eastern Comma, Question Mark, and Red Admiral butterflies.  Honeybees collect the pollen from the female flowers."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Buffer",
+    "Screening"
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "plant-type": [
+    "Annual",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Creeping",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "The fruit is an ovoid, yellow-brown achene."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "Bracts"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Female vines produce green hops.  Flowers are produced in the axils of the leaves. Male and female flowers occur on separate plants (dioecious). Female flowers hang down in cone-shaped clusters; male flowers in upright panicles. The female inflorescence of overlapping bracts are green or purple, pubescent, with densely hairy margins. A pair of inconspicuous female flowers without petals is located at the base of each bract. Male flowers of 5 greenish or purplish sepals, no petals, and 5 anthers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "leaf-margin": [
+    "Lobed",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Mostly opposite, palmately 3-7-veined and -lobed. Leaves are pubescent with stiff hairs on the upper surface and along the veins on the lower surface, and with serrate margins. The petiole is usually longer than the blade."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Its rough stems are twining, green or purple streaked, 4-angeld, with stiff 2-branched stalked hairs that aid in climbing. Stems can reach lengths of 35 feet."
+  ],
+  "landscape-location": [
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Barrier",
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "SKIN IRRITATION MINOR, OR LASTING ONLY FOR A FEW MINUTES.  Skin irritation with blisters upon contact."
+  ],
+  "poison-toxic-principle": [
+    "Volatile oils and bitter acids"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves"
+  ],
+  "uses": "An annual vine that can be used as screening."
+}

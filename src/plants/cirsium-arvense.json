@@ -1,0 +1,184 @@
+{
+  "fullName": "Cirsium arvense",
+  "name": "cirsium-arvense",
+  "commonNames": [
+    "Canada thistle",
+    "Creeping Thistle",
+    "Field Thistle",
+    "Swamp Thistle",
+    "Thistle"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cirsium-arvense/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cirsium",
+  "species": "arvense",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eurasia, Northwestern Africa"
+  ],
+  "distribution": [
+    "Most of the US and southern Canada"
+  ],
+  "wildlife-value": [
+    "The seeds are rich in oil, an important food source for seed-eating birds."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Perennial",
+    "Weed"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Prickles",
+    "Spines"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Tiny dry 0.1\" long with feathery white to light brown pappus"
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Dome"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "There are male and female plants.  Female flowers have a scent and male flowers do not.  Pink, deep lavender, or white flowers; bracts are tomentose without spines.  Flowering occurs from June-August and an average flower produces 2000 seeds per plant."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Dark green, deeply lobed, elliptic to oblong-lanceolate leaves 2\"-6\" long (5\"-8\" basal leaves) sometimes slightly clasping the stems; tomentose below and very prickly."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Slender, smooth, grooved stems that sometimes have short hairs. Stems do not have conspicuous spines."
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "problems": [
+    "Spines/Thorns",
+    "Weedy"
+  ],
+  "uses": "The feathery pappus from the fruits was used by the Cherokee as fletching on their blow darts."
+}

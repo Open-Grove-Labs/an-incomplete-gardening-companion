@@ -1,0 +1,221 @@
+{
+  "fullName": "Hydrophyllum virginianum",
+  "name": "hydrophyllum-virginianum",
+  "commonNames": [
+    "Eastern Waterleaf",
+    "John's Cabbage",
+    "Shawnee Salad",
+    "Virginia Waterleaf"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hydrophyllum-virginianum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hydrophyllum",
+  "species": "virginianum",
+  "family": "Hydrophyllaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern North America"
+  ],
+  "distribution": [
+    "AR ",
+    "CT ",
+    "DC ",
+    "DE ",
+    "IA ",
+    "IL ",
+    "IN ",
+    "KS ",
+    "KY ",
+    "MA ",
+    "MD ",
+    "MI ",
+    "MN ",
+    "MO ",
+    "NC ",
+    "ND ",
+    "NE ",
+    "NH ",
+    "NJ ",
+    "NY ",
+    "OH ",
+    "OK ",
+    "PA ",
+    "SD ",
+    "TN ",
+    "VA ",
+    "VT ",
+    "WI ",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Its flowers attract bumblebees, small carpenter bees as well as other long-tongued bees."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators"
+  ],
+  "edibility": [
+    "Young leaves and shoots are edible and can be added to salads."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "8a",
+    "8b"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Each flower is replaced by a rounded seed capsule that splits open to release its seeds in July to August."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "One to two terminal cymes on each stem with 8 to 20 small lavender, pink or white bell-shaped flowers 1 to 2 inches across with extruded stamens. Blooms from March to June. The flowering stalks (or peduncles) of these cymes are up to 4 inches long, terete and glabrous to short-pubescent."
+  ],
+  "leaf-color": [
+    "Green",
+    "White"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Pinnatifid"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The oval to triangular leaves are up to 6 inches long (and often wider than long) and are pinnately divided into 3 to 5 leaflets or deep, narrow, lobes with coarsely toothed margins. The tips are acute. The early spring leaves have small patches of white scattered across the upper surfaces giving a watermark look."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Branching sparingly, the erect stems are green, reddish-green, or reddish-brown, glabrous to slightly hairy, with hairs that are curved or appressed against their stems."
+  ],
+  "landscape-location": [
+    "Pond",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators"
+  ],
+  "uses": "Tea from the roots was used medicinally to stop bleeding and for diarrhea and dysentery. Roots have been used as a mild emetic. Tea or mashed roots were used to treat cracked lips and mouth sores."
+}

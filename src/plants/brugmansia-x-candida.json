@@ -1,0 +1,171 @@
+{
+  "fullName": "Brugmansia x candida",
+  "name": "brugmansia-x-candida",
+  "commonNames": [
+    "Angel's Trumpet",
+    "Yellow Angel's Trumpet"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/brugmansia-x-candida/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Brugmansia",
+  "family": "Solanaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Ecuador"
+  ],
+  "wildlife-value": [
+    "Nectar attracts birds. Deer resistant."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "deer resistant"
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Spineless fruits are smooth, slender and pointed at the end"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "Yellow single flowers, pink or white when mature. Blossoms can be 6 to 12 inches long, pendent, trumpet-like or funnel-shaped, 5-lobed at tip. Emits a strong fragrance in the evening."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Ovate to oblong leaves are up to 8 inches long"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Flowering Tree"
+  ],
+  "attracts": [
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Among the most toxic of ornamental plants. Hallucinations, dry mouth, muscle weakness, increased blood pressure and pulse, fever, dilated pupils, paralysis."
+  ],
+  "poison-toxic-principle": [
+    "Tropane alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Seeds"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "fullName": "Phlogacanthus guttatus",
+  "name": "phlogacanthus-guttatus",
+  "commonNames": [
+    "False Hops",
+    "Mexican Shrimp Plant",
+    "Shrimp Flower",
+    "Shrimp Plant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/phlogacanthus-guttatus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Phlogacanthus",
+  "species": "guttatus",
+  "family": "Acanthaceae",
+  "country-or-region-of-origin": [
+    "East Himalaya"
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "Bracts",
+    "fused petals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "White tubular flowers surrounded by a column of colorful bracts."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds"
+  ]
+}

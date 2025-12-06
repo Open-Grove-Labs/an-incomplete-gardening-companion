@@ -1,0 +1,150 @@
+{
+  "fullName": "Mirabilis jalapa",
+  "name": "mirabilis-jalapa",
+  "commonNames": [
+    "Four-o'clock",
+    "Marvel-of-Peru"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/mirabilis-jalapa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Mirabilis",
+  "species": "jalapa",
+  "family": "Nyctaginaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico to Central America"
+  ],
+  "wildlife-value": [
+    "Flowers are visited by hummingbirds and moths"
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Moderate drought tolerance."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 6 in. - 4 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-description": [
+    "fruit leathery, 5-ribbed"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "Variegated",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Trumpet",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-description": [
+    "flowers opening late in the afternoon or in very cloudy weather, white to red, yellow or striped, tubular and trumpet-like, 5-lobed"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Pool/Hardscape"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Garden for the Blind",
+    "Nighttime Garden",
+    "Pollinator Garden"
+  ],
+  "attracts": [
+    "Hummingbirds",
+    "Moths"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Stomach pain, nausea, vomiting, diarrhea; handling of the roots may cause dermatitis"
+  ],
+  "poison-toxic-principle": [
+    "Unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Roots",
+    "Seeds"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "fullName": "Lobularia maritima",
+  "name": "lobularia-maritima",
+  "commonNames": [
+    "Alyssum",
+    "Sweet Alyssum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lobularia-maritima/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lobularia",
+  "species": "maritima",
+  "family": "Brassicaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern Europe"
+  ],
+  "wildlife-value": [
+    "Birds. pollinators, butterflies"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 3 in. - 0 ft. 10 in.",
+    "Width: 0 ft. 2 in. - 0 ft. 4 in."
+  ],
+  "plant-type": [
+    "Annual"
+  ],
+  "habit/form": [
+    "Dense",
+    "Multi-stemmed",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Cream/Tan",
+    "Gold/Yellow"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Cream-colored oval seed pods with 1 yellowish seed each."
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Tiny four-petaled fragrant blooms in white cover the plant in spring and fall. May stop blooming in the heat of summer."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "1-inch lance-shaped to oval gray-green leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ]
+}

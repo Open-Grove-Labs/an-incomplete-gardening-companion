@@ -1,0 +1,119 @@
+{
+  "fullName": "Camassia",
+  "name": "camassia",
+  "commonNames": [
+    "Camas",
+    "Quamash",
+    "Wild Hyacinth"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/camassia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Camassia",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Canada and United States"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "deer resistant"
+  ],
+  "bulb-storage": [
+    "Store bulbs dry at 68 degrees F (20 degrees C)."
+  ],
+  "edibility": [
+    "Bulb"
+  ],
+  "plant-type": [
+    "Bulb"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-description": [
+    "Inflorescences appearing terminal, racemose, bracteate; bracts sterile or subtending flowers, narrowly lanceolate. Camassia’s flower stalks stand 24-30” tall and display dozens of star-like florets that open from the bottom up."
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Basal linear leaves measuring 8 to 32 inches in length emerge early in the spring. Leaves tend to die back after flowering."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Voles",
+    "Wet Soil"
+  ]
+}

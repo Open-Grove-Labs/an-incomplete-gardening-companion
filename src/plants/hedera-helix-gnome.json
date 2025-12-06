@@ -1,0 +1,208 @@
+{
+  "fullName": "Hedera helix 'Gnome'",
+  "name": "hedera-helix-gnome",
+  "commonNames": [
+    "Gnome Ivy"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hedera-helix-gnome/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hedera",
+  "species": "helix",
+  "family": "Araliaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "wildlife-value": [
+    "Fruit provides food source for birds."
+  ],
+  "play-value": [
+    "Edible fruit ",
+    "Wildlife Food Source"
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Houseplant",
+    "Perennial",
+    "Poisonous",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruit is produced when the plant is aged."
+  ],
+  "flower-color": [
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "leaf-color": [
+    "Black",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Deltoid",
+    "Peltate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Tiny three-lobed triangular to arrow-head shaped blackish to silverish green leaves with a light border."
+  ],
+  "stem-color": [
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Slim dark maroon stems. Produces adventitious roots for climbing. Leaves only grow on one side of the stem."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Recreational Play Area",
+    "Vertical Spaces"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heavy Shade",
+    "Salt"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Invasive Species",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Contact with plant cell sap causes severe skin irritation with redness, itching, and blisters. Ingestion of berries causes burning sensation in the throat. Ingestion of leaves can result in delirium, stupor, convulsions, hallucinations, fever and rash, vomiting, abdominal pain, hypersalivation, and diarrhea. Foliage is more toxic than berries."
+  ],
+  "poison-toxic-principle": [
+    "Triterpenoid saponins and polyacetylene compounds"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

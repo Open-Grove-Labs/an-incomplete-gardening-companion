@@ -1,0 +1,189 @@
+{
+  "fullName": "Alnus rubra",
+  "name": "alnus-rubra",
+  "commonNames": [
+    "Oregon Alder",
+    "Pacific Coast Alder",
+    "Red Alder",
+    "Western Alder"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/alnus-rubra/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Alnus",
+  "species": "rubra",
+  "family": "Betulaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Western North America"
+  ],
+  "distribution": [
+    "Alaska",
+    "Yukon",
+    "British Columbia",
+    "Washington",
+    "Oregon",
+    "California",
+    "Idaho and Montana"
+  ],
+  "wildlife-value": [
+    "Deer and elk will browse the twigs and finches will eat the seeds"
+  ],
+  "play-value": [
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 66 ft. 0 in. - 98 ft. 0 in.",
+    "Width: 35 ft. 0 in. - 50 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Conical",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-type": [
+    "Samara"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Produces small brown cone-like strobiles less than an inch long that stay on the tree throughout winter. Seeds are winged samaras."
+  ],
+  "flower-color": [
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Male catkins are reddish and 4-6 inches long. Female catkins are cone-like and woody, oval"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate",
+    "Rhomboidal"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "2.5-6 inch long green leaves are ovate with a pointed apex. The serrated margins are revolute or curled under and the veins are impressed especially on the undersides. Hairs are present on the undersides. They turn yellow in the fall."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "bark-description": [
+    "The bark is mottled, ash-gray and smooth, often colonized by white lichen and moss. When bruised or scaped it has a rusty red color."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Hairy"
+  ],
+  "stem-bud-scales": [
+    "Enclosed in 2 scales"
+  ],
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-lenticels": [
+    "Conspicuous"
+  ],
+  "stem-description": [
+    "Olive to reddish-brown twigs are triangular in cross-section, the buds are distinctly stalked and have 2-3 pubescent scales, lenticels are prominent."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Water Garden"
+  ],
+  "attracts": [
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Humidity",
+    "Poor Soil",
+    "Wet Soil"
+  ],
+  "uses": "A russet dye was made from the bark. Native Americans also used the bark to treat various illnesses. The wood is used for furniture and cabinets."
+}

@@ -1,0 +1,142 @@
+{
+  "fullName": "Tripsacum dactyloides",
+  "name": "tripsacum-dactyloides",
+  "commonNames": [
+    "Eastern Gamagrass",
+    "Fakahatchee grass",
+    "Gama Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/tripsacum-dactyloides/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Tripsacum",
+  "species": "dactyloides",
+  "family": "Poaceae",
+  "country-or-region-of-origin": [
+    "Eastern North America"
+  ],
+  "distribution": [
+    "Widespread in eastern US. Found throughout NC",
+    "but rare in the Mountains."
+  ],
+  "wildlife-value": [
+    "Provides cover for native wildlife, notably quail. Larval host for some grass skippers (Herperiinae, notably the Byssus skipper). Foliage browsed by cattle (historically by bison and elk). Seeds are consumed by granivorous birds and mammals."
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Ornamental Grasses and Sedges"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a"
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "Culms terminating in 1-3 inflorescences, each consisting of a male spike stacked atop a female spike. Each male floret has three stamens hanging down with conspicuous reddish anthers. Female spikes are cylindrical, with a constriction between each spikelet; they look like a stack of small cylinders. When they are mature one can easily snap off a spikelet from the one below it."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Sheath"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves broad, glabrous, 2-3 feet long with parallel veins including a prominent white-yellowish midvein. Leaf blades arching and floppy. Ligules with with short white hairs. The leaf sheaths are light green to reddish green, glabrous, longitudinally veined, and open."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Culms (flowering stems) 4-6 feet, rarely up to 12 feet, erect. Light green to pale reddish, glabrous, terete, usually unbranched."
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rain Garden"
+  ],
+  "attracts": [
+    "Reptiles",
+    "Small Mammals",
+    "Songbirds"
+  ]
+}

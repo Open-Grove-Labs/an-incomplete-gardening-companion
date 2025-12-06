@@ -1,0 +1,68 @@
+{
+  "fullName": "Saponaria ocymoides",
+  "name": "saponaria-ocymoides",
+  "commonNames": [
+    "Rock Soapwort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/saponaria-ocymoides/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Saponaria",
+  "species": "ocymoides",
+  "family": "Caryophyllaceae",
+  "country-or-region-of-origin": [
+    "South West & Southern Central Europe."
+  ],
+  "plant-type": [
+    "Ground Cover"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Bright purplish pink"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Teardrop-shaped leaves"
+  ],
+  "stem-is-aromatic": "N"
+}

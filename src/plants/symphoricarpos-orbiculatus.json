@@ -1,0 +1,265 @@
+{
+  "fullName": "Symphoricarpos orbiculatus",
+  "name": "symphoricarpos-orbiculatus",
+  "commonNames": [
+    "Buckbrush",
+    "Coralberry",
+    "Indian Currant",
+    "Snowberry",
+    "Waxberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/symphoricarpos-orbiculatus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Symphoricarpos",
+  "species": "orbiculatus",
+  "family": "Caprifoliaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern and central U.S.A."
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "CT",
+    "DC",
+    "DE",
+    "FL",
+    "GA",
+    "IA",
+    "IL",
+    "IN",
+    "KS",
+    "KY",
+    "LA",
+    "MA",
+    "MD",
+    "MI",
+    "MN",
+    "MO",
+    "MS",
+    "NC",
+    "NE",
+    "NJ",
+    "NY",
+    "OH",
+    "OK",
+    "PA",
+    "RI",
+    "SC",
+    "SD",
+    "TN",
+    "TX",
+    "UT",
+    "VA",
+    "VT",
+    "WI",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Songbirds, ground birds, small mammals, and browsers like white tailed deer use this plant for food, cover, and nesting sites. Various moths use this as a host plant.  Necatar from the flowers attract bees, wasps, and flies."
+  ],
+  "play-value": [
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Larval Host "
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heat, drought, and soil compaction tolerant."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Native Plant",
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Dense",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "fruit-color": [
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Clusters of 1/4 inch long red-purple round berry-like drupes with two seeds appear in autumn and persist through the winter. Displays from September to December."
+  ],
+  "flower-color": [
+    "Green",
+    "Insignificant",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The bell-shaped 1/4\" flowers with a tubular corolla with 5 lobes appear in summer in clusters at leaf axils and in terminal spikes. Not particularly showy. Blooms from late spring to early summer."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "1-2 inches long and 1 to 1.25 inches across oval green leaves with rolled margins and rounded to broadly pointed tips. Undersurface is whitish with hairs. Petioles are 1/4 long, leaf venation is pinnate.  Reddish fall color."
+  ],
+  "bark-color": [
+    "Dark Brown"
+  ],
+  "surface/attachment": [
+    "Shaggy",
+    "Shredding"
+  ],
+  "bark-description": [
+    "Lower branches have strips of brown loose shaggy bark"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Brown to red-purple branchlets covered with short hairs"
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Hedge"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Erosion",
+    "Heat"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Vomiting, diarrhea"
+  ],
+  "poison-toxic-principle": [
+    "Calcium oxalate and possibly saponic glycoside"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits"
+  ]
+}

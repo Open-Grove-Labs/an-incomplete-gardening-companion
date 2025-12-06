@@ -1,0 +1,105 @@
+{
+  "fullName": "Juniperus chinensis 'Gold Star'",
+  "name": "juniperus-chinensis-gold-star",
+  "commonNames": [
+    "Bakaurea Juniper",
+    "Gold Star Juniper"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/juniperus-chinensis-gold-star/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Juniperus",
+  "species": "chinensis",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "play-value": [
+    "Colorful",
+    "Textural "
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Resistant to root rot. This plant is particularly resistant to damage by deer and is moderately salt tolerant."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "habit/form": [
+    "Arching",
+    "Dense",
+    "Spreading"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-description": [
+    "No true fruits, but female cones are blue, fleshy \"berry\" looking and edible, often used as a seasoning."
+  ],
+  "flower-description": [
+    "No flowers, but cones are large and brown \nand fall apart upon maturity.  Female cones are blue, fleshy \"berry\" looking."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly",
+    "Soft"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Chartreuse-tipped bluish-green foliage which emerges yellow in spring. The leaves are highly ornamental and remain bluish-green throughout the winter."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Asian Garden"
+  ],
+  "resistance-to-challenges": [
+    "Pollution",
+    "Urban Conditions",
+    "Wet Soil"
+  ]
+}

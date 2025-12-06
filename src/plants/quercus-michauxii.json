@@ -1,0 +1,281 @@
+{
+  "fullName": "Quercus michauxii",
+  "name": "quercus-michauxii",
+  "commonNames": [
+    "Basket Oak",
+    "Chestnut Oak",
+    "Cow Oak",
+    "Michaux Oak",
+    "Oaks",
+    "Swamp Chestnut Oak"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/quercus-michauxii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Quercus",
+  "species": "michauxii",
+  "family": "Fagaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern United States"
+  ],
+  "distribution": [
+    "Found along the eastern United States",
+    "far north as Maine",
+    "south into northern Florida and west into Texas."
+  ],
+  "fire-risk-rating": [
+    "medium flammability"
+  ],
+  "wildlife-value": [
+    "Oak trees support a wide variety of Lepidopteran.  You may see Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed. Banded Hairstreak (Satyrium calanus), which have one flight from June-August everywhere but Florida where they emerge April-May. Edward's Hairstreak (Satyrium edwardsii), has one flight from May-July in the south and June-July in the north.  Gray Hairstreak (Strymon melinus), has three to four flights in the south from February-November and two flights in the north from May-September.  White-M Hairstreak (Parrhasius m-album) has three broods in the north from February-October.  Horace’s Duskywing (Erynnis horatius) has three broods in Texas and the deep south from January-November, and two broods in the north from April-September.  Juvenal’s Duskywing (Erynnis juvenalis) has one brood from April-June, appearing as early as January in Florida. Acorns are eaten by woodpeckers, blue jays, rough grouse, ducks, small mammals, wild turkeys, white-tailed deer, and black bears."
+  ],
+  "play-value": [
+    "Shade ",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Larval Host ",
+    "Wildlife Nesting"
+  ],
+  "edibility": [
+    "Acorns are edible."
+  ],
+  "dimensions": [
+    "Height: 60 ft. 0 in. - 80 ft. 0 in.",
+    "Width: 30 ft. 0 in. - 70 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Native Plant",
+    "Poisonous",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Open",
+    "Oval",
+    "Pyramidal",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low",
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet",
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Acorns are 1 to 1.5 inches long, sessile, and are usually produced singly or in clusters of 2 or 3.  1/3 to 1/2  is covered by a hairy, grey to brown scaly cup. These acorns are sweet-tasting and can be eaten from the tree unlike other acorns. Acorns are typically not produced until the tree reaches 20-25 years old. In North Carolina, the acorns are available from September to October."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Catkin",
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Male pollen flowers in slender yellow catkins to 2-4\" long and female flowers in very short few-flowered reddish spikes.  Both grow on the same tree (monoecious). In North Carolina, flowers are available in April."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth",
+    "Velvety"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Lobed",
+    "Sinuate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Up to 9 inch long oval simple leaves which are shiny green above and grey-green pubescent on the undersides.  Margins are wavy with rounded teeth that are also sometimes described as small lobes.  Orange-yellow to yellow-brown to dark red fall color."
+  ],
+  "bark-color": [
+    "Light Gray",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Peeling",
+    "Ridges"
+  ],
+  "bark-plate-shape": [
+    "Irregular"
+  ],
+  "bark-description": [
+    "The bark is light gray with deep v-shaped furrows producing broad, flaky ridges."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "New growth is green, progressing to brown during the first winter and turning gray during the second year."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Meadow",
+    "Naturalized Area",
+    "Pond",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Edible Garden",
+    "Native Garden",
+    "Nighttime Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Erosion",
+    "Fire",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Abdominal pain, constipation then diarrhea (occasionally bloody), depression, frequent urination, discolored urine, jaundice; acorns can obstruct the digestive tract"
+  ],
+  "poison-toxic-principle": [
+    "Gallotannins, quercitrin, and quercitin."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Seeds"
+  ],
+  "uses": "The wood is used in many kinds of construction; for agricultural implements, wheels, veneer, boards, fence posts, tight cooperage, baskets and fuel. It has commercial uses as fencepost and furniture, as well."
+}

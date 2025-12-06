@@ -1,0 +1,206 @@
+{
+  "fullName": "Smilax smallii",
+  "name": "smilax-smallii",
+  "commonNames": [
+    "Jacksonbrier",
+    "Lance-leaf Greenbriar",
+    "Smilax",
+    "Southern Smilax"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/smilax-smallii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Smilax",
+  "species": "smallii",
+  "family": "Smilacaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Middle and Eastern U.S.A."
+  ],
+  "fire-risk-rating": [
+    "extreme flammability"
+  ],
+  "wildlife-value": [
+    "The dense vine tangles provide nesting and hiding cover for birds and other wildlife.  Its fruits are eaten by songbirds, ruffed grouse, wide turkeys, and quail.  White-tailed deer browse the leaves and twigs, especially in the winter. Pollinators enjoy the nectar from the flower."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Screening",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Nesting"
+  ],
+  "climbing-method": [
+    "Tendrils"
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Arching",
+    "Dense"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Tendrils",
+    "Thorns"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Brick red berries eventually turn dark red-black at maturity. In North Carolina, the berries are available from April to June of the following year."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "6 petals/rays",
+    "Tepals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Smilax smalli has tiny green flowers in clusters formed in the leaf axils all the way to the ends of branches. Inn North Carolina, the flowers are available from June to July."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Smooth",
+    "Waxy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Shiny, simple, lanceolate to elliptical, smooth (glabrous), with entire margins.  The apex is acute and the base is rounded (cuneate)."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Thorny and often form right angles to the main stem. It only has prickles on the juvenile stems."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Riparian",
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Shade Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heat",
+    "Humidity"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ]
+}

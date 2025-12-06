@@ -1,0 +1,138 @@
+{
+  "fullName": "Liquidambar styraciflua 'Rotundiloba'",
+  "name": "liquidambar-styraciflua-rotundiloba",
+  "commonNames": [
+    "Fruitless Sweetgum",
+    "Thornless Sweetgum"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/liquidambar-styraciflua-rotundiloba/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Liquidambar",
+  "species": "styraciflua",
+  "family": "Altingiaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "dimensions": [
+    "Height: 60 ft. 0 in. - 75 ft. 0 in.",
+    "Width: 20 ft. 0 in. - 40 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Open",
+    "Pyramidal"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-description": [
+    "Rarely produces fruit"
+  ],
+  "flower-description": [
+    "Rarely blooms"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Palmatifid"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "4-8 inch wide and long star-shaped leaves are alternate, simple and entire with palmate venation. The 5-lobes are rounded at the tips. Fall color is variable and can be yellow to reds."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Furrowed"
+  ],
+  "bark-description": [
+    "The gray-brown bark is deeply furrowed"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Corky Ridges"
+  ],
+  "stem-description": [
+    "Branches are covered with characteristic corky projections."
+  ],
+  "landscape-location": [
+    "Lawn"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Specimen",
+    "Street Tree"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Salt"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "fullName": "Levisticum officinale",
+  "name": "levisticum-officinale",
+  "commonNames": [
+    "Lovage",
+    "Maggi plant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/levisticum-officinale/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Levisticum",
+  "species": "officinale",
+  "family": "Apiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "edibility": [
+    "All parts; seeds and leaves as flavoring, root as a vegetable"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Herb"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "flower-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Diuretic, increased urination"
+  ],
+  "poison-toxic-principle": [
+    "Volatile oils, especially phthalide lactones."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ]
+}

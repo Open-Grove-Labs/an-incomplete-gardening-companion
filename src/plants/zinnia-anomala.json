@@ -1,0 +1,130 @@
+{
+  "fullName": "Zinnia anomala",
+  "name": "zinnia-anomala",
+  "commonNames": [
+    "Shortray Zinnia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/zinnia-anomala/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Zinnia",
+  "species": "anomala",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Texas, Mexico"
+  ],
+  "distribution": [
+    "TX"
+  ],
+  "wildlife-value": [
+    "Attracts pollinators"
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Textural "
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Mounding",
+    "Rounded"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Just over 1\" in length, the leaves are very narrow.  Leaves have from 1 to 3 nerves."
+  ],
+  "stem-color": [
+    "Gold/Yellow"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Multi stemmed"
+  ],
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Slope/Bank"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil"
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "fullName": "Ficus carica 'Brown Turkey'",
+  "name": "ficus-carica-brown-turkey",
+  "commonNames": [
+    "Brown Turkey Fig",
+    "Fig Tree"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ficus-carica-brown-turkey/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ficus",
+  "species": "carica",
+  "family": "Moraceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "E. Mediterranean to Central Asia"
+  ],
+  "wildlife-value": [
+    "Provides food source for birds and small mammals."
+  ],
+  "play-value": [
+    "Edible fruit ",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heat tolerant."
+  ],
+  "edibility": [
+    "The mild and sweet fruit is good eaten fresh or dried."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Small fruit ripens in July with purple bronze skin and pink pulp, tastes mild and sweet."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The flower is not visible as it blooms inside a hollow receptacle that forms near the end of branches in leaf axils. The flowers small, green, and form in the spring."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery",
+    "Rough",
+    "Smooth",
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Palmatifid"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Large, thick, green leaves are 5-10 inches long and 4-7 inches across and deeply, palmately lobed with three or five lobes. The upper surface is green and rough with hairs and the underside is paler and smooth.  Yellow to brown fall color."
+  ],
+  "bark-color": [
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Ridges",
+    "Smooth"
+  ],
+  "bark-description": [
+    "Silver gray smooth bark becomes more bumpy with age."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-bud-terminal": [
+    "Only 1 terminal bud, larger than side buds"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "landscape-location": [
+    "Container",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Children's Garden",
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Specimen"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Heat",
+    "Salt"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Messy",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Phytophotodermatitis from the white, milky sap."
+  ],
+  "poison-toxic-principle": [
+    "Furanocoumarins"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Sap/Juice"
+  ]
+}

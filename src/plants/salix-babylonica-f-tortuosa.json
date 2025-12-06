@@ -1,0 +1,125 @@
+{
+  "fullName": "Salix babylonica f. tortuosa",
+  "name": "salix-babylonica-f-tortuosa",
+  "commonNames": [
+    "Contorted Willow",
+    "Corkscrew Willow",
+    "Dragon's Claw Willow",
+    "Rattlesnake Willow"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/salix-babylonica-f-tortuosa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Salix",
+  "species": "babylonica",
+  "family": "Salicaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Asia"
+  ],
+  "dimensions": [
+    "Height: 20 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Weeping"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Catkin"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Insignificant yellowish catkins"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Long narrow contorted leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Scaly"
+  ],
+  "stem-bud-scales": [
+    "Enclosed in a single cap like scale"
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Rain Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut",
+    "Deer",
+    "Wet Soil"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "fullName": "Nostoc spp.",
+  "name": "nostoc-spp",
+  "commonNames": [
+    "Algae",
+    "Witch's jelly"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nostoc-spp/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nostoc",
+  "family": "Nostocaceae",
+  "plant-type": [
+    "Weed"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "problems": [
+    "Weedy"
+  ]
+}

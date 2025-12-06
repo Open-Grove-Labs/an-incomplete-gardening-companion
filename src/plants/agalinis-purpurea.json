@@ -1,0 +1,158 @@
+{
+  "fullName": "Agalinis purpurea",
+  "name": "agalinis-purpurea",
+  "commonNames": [
+    "Gerardia",
+    "Purple False Foxglove",
+    "Purple Gerardia",
+    "Slender False Foxglove"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/agalinis-purpurea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Agalinis",
+  "species": "purpurea",
+  "family": "Orobanchaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "Central Canada, central and eastern U.S.A., Cuba, Cayman Islands"
+  ],
+  "wildlife-value": [
+    "Members of the genus Agalinus support butterfly larvae and adults.  Common Buckeye (Junonia coenia) larvae appear from May to October and in the deep south they appear year-round. Common Buckeye adult butterflies feed on flower nectar. Members of the genus Agalinis support the following specialized bee: Anthophorula (Anthophorisca) micheneri, Leaf-cutting bees (Megachile spp.). Syrphid flies feed on pollen."
+  ],
+  "plant-type": [
+    "Annual",
+    "Native Plant"
+  ],
+  "habit/form": [
+    "Erect",
+    "Prostrate"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Round capsules that split open on top and have numerous tiny seeds that are dispersed by the wind in September to November."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "1 inch wide single flowers on 1/4\" stalks and long tubular flowers 1/2\"-1\" long with 5 spreading petals in pink and purple have a whitish throat with purple spots and fine hairs along the edges.  The upper two lobes are often smaller and the bottom three curve up.  Stamens and style are white.  The five sepals are fused to form a calyx with sharp teeth. They bloom from August to October."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-feel": [
+    "Rough"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Dark green leaves are linear and 1-3 inches long with a prominent midrib and entire margins.  The upper side can feel rough and have a purple tint."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Dark green upright stems are angled, grooved, and hairless.  They can be slightly rough feeling."
+  ],
+  "landscape-location": [
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ]
+}

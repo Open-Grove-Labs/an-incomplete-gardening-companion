@@ -1,0 +1,227 @@
+{
+  "fullName": "Erigeron speciosus",
+  "name": "erigeron-speciosus",
+  "commonNames": [
+    "Aspen Fleabane",
+    "Fleabane",
+    "Garden Fleabane",
+    "Horseweed",
+    "Oregon Fleabane",
+    "Oregon Wild-daisy",
+    "Seaside Daisy",
+    "Showy Daisy",
+    "Showy Fleabane"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/erigeron-speciosus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Erigeron",
+  "species": "speciosus",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Western US, Canada to Mexico"
+  ],
+  "distribution": [
+    "AZ",
+    "CO",
+    "ID",
+    "MT",
+    "NM",
+    "NV",
+    "OR",
+    "SD",
+    "UT",
+    "WA",
+    "WY"
+  ],
+  "wildlife-value": [
+    "Bees, butterflies and other pollinators are attracted to the flowers.  Wildlife graze this plant."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Colorful",
+    "Easy to Grow",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-description": [
+    "The hairy fruits are in the form of a cypsela, which is a dry single-seeded fruit formed from a double ovary of which only one develops into a seed, as in the daisy family.  They are disbursed by the wind."
+  ],
+  "flower-color": [
+    "Blue",
+    "Gold/Yellow",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "more than 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Masses of blue-violet daisy-like flowers 1\"-2\" across 100+ ray florets surrounding a yellow disk.  Most often, the rays are blue to lavender, and rarely white."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblanceolate",
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Green-grey, 6\" long spatulate leaves at the base of the plant.  The basal and stem leaves are variable.  They can be oblanceolate, spatulate, elliptic or oval, however, they typically have clasping petioles, three main veins and are smooth.  The margins do have hairs."
+  ],
+  "stem-color": [
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The branched, leafy stems can be up to 3' tall.  They are maroon-tinged and hairy with the exception of the area just below the flowers."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cottage Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Mild gastrointestinal signs, mild dermatitis"
+  ],
+  "poison-toxic-principle": [
+    "Irritant"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "uses": "Beneficial plant for wildlife and pollinators."
+}

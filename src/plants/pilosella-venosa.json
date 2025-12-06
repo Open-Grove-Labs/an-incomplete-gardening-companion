@@ -1,0 +1,65 @@
+{
+  "fullName": "Pilosella venosa",
+  "name": "pilosella-venosa",
+  "commonNames": [
+    "Rattlesnake Weed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pilosella-venosa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pilosella",
+  "species": "venosa",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern North America, Canada"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Wildflower"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Occasionally Dry"
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "0.5-0.75 in. yellow dandelion-like flowers in an open cluster; leafless floral stalk"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Purple/Lavender"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Heavy purple-red veining on 1.5-6 in., elliptical basal leaves; purplish and hairy below"
+  ],
+  "stem-is-aromatic": "N"
+}

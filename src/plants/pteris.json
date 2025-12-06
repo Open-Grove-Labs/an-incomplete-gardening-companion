@@ -1,0 +1,63 @@
+{
+  "fullName": "Pteris",
+  "name": "pteris",
+  "commonNames": [
+    "Brake",
+    "Brake Fern",
+    "Cretan Brake Fern",
+    "Dish Fern",
+    "Silver Table Fern",
+    "Table Fern"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pteris/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pteris",
+  "family": "Pteridaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Tropical Asia, Africa, South America, North America"
+  ],
+  "plant-type": [
+    "Fern",
+    "Houseplant"
+  ],
+  "habit/form": [
+    "Creeping",
+    "Erect"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "fruit-description": [
+    "No fruits. This plants reproduces via spores."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Fronds"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves/fronds are pinnately compound to decompound, are often variegated in cultivation, and the basal pinnae are often forked. Pinnae is elongated, linear to elliptic lanceolate, green marginally and often variegated towards the medial area, entire, and folded inward."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Houseplants"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

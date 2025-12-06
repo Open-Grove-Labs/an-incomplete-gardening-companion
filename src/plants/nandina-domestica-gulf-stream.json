@@ -1,0 +1,149 @@
+{
+  "fullName": "Nandina domestica 'Gulf Stream'",
+  "name": "nandina-domestica-gulf-stream",
+  "commonNames": [
+    "Compact Heavenly Bamboo",
+    "Gulf Stream Nandina"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/nandina-domestica-gulf-stream/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Nandina",
+  "species": "domestica",
+  "family": "Berberidaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "wildlife-value": [
+    "Leaves and berries are toxic to livestock and other domestic animals. Berries contain cyanide and when consumed in quantity can be toxic to birds. This plant is particularly resistant to damage by deer."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-description": [
+    "Small, red holly type berry which can be toxic to birds"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "White inflorescence begin to appear in early May in many areas, and are approx 4\" long. Followed by red berry like fruit much like that of typical Holly shape & color."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Red to red-green winter color"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Small Space",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden"
+  ],
+  "design-feature": [
+    "Hedge",
+    "Small groups",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Hydrogen cyanide is highly poisonous if ingested in quantity. All parts are toxic to humans, cats, dogs, livestock, horses, and birds such as the Cedar Waxwing. Weakness, incoordination, seizures, coma, respiratory failure, and death can occur from ingestion."
+  ],
+  "poison-toxic-principle": [
+    "Cyanogenic glycosides"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves",
+    "Stems"
+  ]
+}

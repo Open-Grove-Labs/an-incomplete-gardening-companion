@@ -1,0 +1,230 @@
+{
+  "fullName": "Amianthium muscitoxicum",
+  "name": "amianthium-muscitoxicum",
+  "commonNames": [
+    "Crow Poison",
+    "Fly Poison",
+    "Stagger Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/amianthium-muscitoxicum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Amianthium",
+  "species": "muscitoxicum",
+  "family": "Melanthiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "E. Central & E. U.S.A"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "DE",
+    "FL",
+    "GA",
+    "KY",
+    "LA",
+    "MD",
+    "MO",
+    "MS",
+    "NC",
+    "NJ",
+    "NY",
+    "OK",
+    "PA",
+    "SC",
+    "TN",
+    "VA",
+    "WV"
+  ],
+  "wildlife-value": [
+    "Some butterflies eat the nectar of the plant."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Textural "
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "occassional flooding, deer resistant, partially drought tolerant"
+  ],
+  "edibility": [
+    "Not edible"
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The plant has three-beaked, dark brown capsule containing red seeds. The fruit is bright orange."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The season is in the early summer. Flowers can feel sticky.  The clusters of flowers as a whole can be anywhere from 2- 6 inches. The blossoms are white until they are pollinated when they turn pale green.  They will bloom from April to June.\nThe plant has a dense, cylindrical cluster of .5-in., creamy white flowers on top of a mostly leafless stem. The flowers persist and turn green to greenish-purple with age. There is a leafless flower stalk."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The plant has 15 to 20 inches long, grasslike, veined, basal leaves with center rib and blunt tips."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The stem is erect and unbranched."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Pond",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Hummingbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "CAN BE FATAL IF INGESTED! \nAll parts of the plant, including the bulb, are poisonous. This tends to be a problem for livestock, although this plant is also poisonous to humans and other animals. Depending on how much is eaten and other factors, symptoms for livestock could include producing more saliva than normal, vomiting, being clumsy when trying to move, weakness, not being able to move well, struggling to breathe, having hemorrhages, \nor dying (generally because too much struggle breathing). Symptoms may last 2 days."
+  ],
+  "poison-toxic-principle": [
+    "toxic alkaloids (similar to neurotoxins)"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

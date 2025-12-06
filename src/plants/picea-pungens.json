@@ -1,0 +1,161 @@
+{
+  "fullName": "Picea pungens",
+  "name": "picea-pungens",
+  "commonNames": [
+    "Blue Spruce",
+    "Colorado Spruce"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/picea-pungens/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Picea",
+  "species": "pungens",
+  "family": "Pinaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "USA"
+  ],
+  "fire-risk-rating": [
+    "high flammability"
+  ],
+  "dimensions": [
+    "Height: 30 ft. 0 in. - 60 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 20 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Conical",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green",
+    "Orange"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Female cones are oblong-cylindrical, sessile, pendulous, 2-4\" long, 1\" in diameter, are green with violet bloom, ripening light brown. Scales are thick based, apex is thin, and emarginate. Margins are finely toothed and undulate. Male cones are orange."
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves are alternate, saber-like, spreading more or less around stems, rigid, incurved, have apical spines, and are dull green to bluish to silvery-white in color. Leaves have stomatic lines one each lateral side. Leaves grow up to 1\" in size."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "bark-description": [
+    "Bark is purplish-gray, deeply grooved, and forms thick scales."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stem buds are broadly conical to nearly spherical, blunt, and yellowish-brown in color. Scales are loosely appressed, apices are reflexed, and they are more or less keeled. Branches are in whorls, horizontal, and the lowermost are downswept with age."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Meadow",
+    "Naturalized Area",
+    "Recreational Play Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Nighttime Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Pollution",
+    "Rabbits"
+  ]
+}

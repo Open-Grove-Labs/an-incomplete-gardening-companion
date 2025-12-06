@@ -1,0 +1,141 @@
+{
+  "fullName": "Acorus calamus",
+  "name": "acorus-calamus",
+  "commonNames": [
+    "Sweet Flag"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/acorus-calamus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Acorus",
+  "species": "calamus",
+  "family": "Acoraceae",
+  "country-or-region-of-origin": [
+    "Europe"
+  ],
+  "distribution": [
+    "North America",
+    "particularly NE and Central"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 2 ft. 6 in.",
+    "Width: 1 ft. 6 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Tree",
+    "Water Plant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Spreading"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "Fleshy"
+  ],
+  "flower-color": [
+    "Green",
+    "Insignificant"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-description": [
+    "Late spring, not showy, greenish flowers appear in elongated spadixes 2-4\" without showy spathes."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Iris-like sword-shaped leaves 3/4\" wide growing in basal clumps and reaching more than 30\" tall. One margin of the leaf is wavy and it has a prominent mid-rib.  Sweet fragrance when bruised."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Riparian",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Mass Planting",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Erosion",
+    "Heavy Shade",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

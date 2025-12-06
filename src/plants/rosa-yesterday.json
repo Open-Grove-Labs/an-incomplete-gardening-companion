@@ -1,0 +1,52 @@
+{
+  "fullName": "Rosa 'Yesterday'",
+  "name": "rosa-yesterday",
+  "commonNames": [
+    "Tapis D'Orent",
+    "Yesterday"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-yesterday/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Rose",
+    "Shrub"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Lilac-pink with gold stamens; Large cluster of small semi-double flowers throughout summer; opens flat"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Small dark green"
+  ],
+  "stem-is-aromatic": "N"
+}

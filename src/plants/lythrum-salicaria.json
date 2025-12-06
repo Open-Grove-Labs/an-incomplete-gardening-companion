@@ -1,0 +1,132 @@
+{
+  "fullName": "Lythrum salicaria",
+  "name": "lythrum-salicaria",
+  "commonNames": [
+    "Purple Loosestrife"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lythrum-salicaria/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lythrum",
+  "species": "salicaria",
+  "family": "Lythraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Africa and Asia-Temperate"
+  ],
+  "distribution": [
+    "Naturalized and invasive in the USA"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Perennial",
+    "Weed"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Tan capsules that appear as early as July with many tiny seeds aid in the quick dispersion of this plant.  Seeds the size of sand spread by wind, water, humans, and animals."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Intense purplish-pink flowers with 5 to 6 petals yellow centers arranged in 1 foot tall spikes that bloom from early July to September."
+  ],
+  "leaf-feel": [
+    "Velvety"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The 4 inch long leaves are stemless and lance-shaped and either opposite or whorled in an arrangement."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Square"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "4 to 6 sided square shaped stem"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "problems": [
+    "Invasive Species",
+    "Weedy"
+  ]
+}

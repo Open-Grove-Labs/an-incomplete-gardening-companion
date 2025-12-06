@@ -1,0 +1,182 @@
+{
+  "fullName": "Philodendron bipinnatifidum",
+  "name": "philodendron-bipinnatifidum",
+  "commonNames": [
+    "Cut-leaf Philodendron",
+    "Fiddle-Leaf Philodendron",
+    "Heartleaf Philodendron",
+    "Horsehead Philodendron",
+    "Lacy Tree Philodendron",
+    "Panda Plant",
+    "Split Leaf Philodendron",
+    "Tree Philodendron"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/philodendron-bipinnatifidum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Philodendron",
+  "species": "bipinnatifidum",
+  "family": "Araceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "E. Bolivia to SE. & S. Brazil and NE. Argentina"
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Perennial",
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet",
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "fruit-color": [
+    "Orange",
+    "Red/Burgundy",
+    "White"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "Fruits are a berry that is white to orange or red in color."
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Spadix"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-description": [
+    "Seasonal bloomer with white flowers with no petals arise on a spadix that is enclosed with a red-purple spathe. Flowers are unusual on indoor plants. Spadix is shorter than or equal to the spathe. The spathe forms a tube around the spadix and expands above the spadix to a hood. They are greenish-yellow in color. It can take 10-15 years for a plant to bloom indoors."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Pinnatifid"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The glossy, leathery leaves are shiny, dark green, simple, large, deeply lobed, and attached to long, smooth petioles. They can be up to 4 feet long. Margins are wavy or entire. Stipules are large, free, and lanceolate."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems are stout, green, and have prominent leaf scars and adventitious roots."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Specimen"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "If ingested, oral irritation, pain and swelling of mouth, tongue, and lips, excessive drooling, vomiting (not horses), and difficulty swallowing. The sap can cause skin irritation."
+  ],
+  "poison-toxic-principle": [
+    "Calcium oxalate crystals"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "fullName": "Berberis aquifolium",
+  "name": "berberis-aquifolium",
+  "commonNames": [
+    "Creeping Mahonia",
+    "Holly-leaved Barberry",
+    "Mountain Grape",
+    "Oregon Grape",
+    "Oregon Grapeholly",
+    "Oregon Grape Holly",
+    "Oregon Holly",
+    "Oregon Hollygrape",
+    "Tall Mahonia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/berberis-aquifolium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Berberis",
+  "species": "aquifolium",
+  "family": "Berberidaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "South West Canada to Northern California"
+  ],
+  "distribution": [
+    "Northern North America"
+  ],
+  "wildlife-value": [
+    "Birds are attracted to fruits."
+  ],
+  "edibility": [
+    "Not poisonous, but berries contain berberine that can cause stomach upset, especially with children."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Oval"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Blue",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Deep dusty blue/black edible globose berries in clusters give excellent fall interest. They are less than an inch in size."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Flowers are bright yellow and weakly foetid. They are 2.5\" in size and are mildly fragrant. Inflorescence is in short, crowded terminal racemes."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Good Cut",
+    "Long-lasting",
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are alternate and odd pinnately compound. Leaflets (5-13) are sessile and coriaceous. Terminal leaflets are larger than laterals. Leaflets have spine-tipped teeth (up to 12 teeth per side), bases sometimes overlap, they are rigid and olive-green in color. Petiole encircles stem. New leaves red-tinted turn glossy dark green."
+  ],
+  "bark-description": [
+    "gray-brown color, not of ornamental importance"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems are roundish, stout, and become gray-brown as they mature. They have an inner yellow bark with a thickened corky appearance. They are thick and branch infrequently."
+  ],
+  "landscape-location": [
+    "Container",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Foundation Planting",
+    "Hedge",
+    "Mass Planting",
+    "Security",
+    "Specimen"
+  ],
+  "attracts": [
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Fire",
+    "Heavy Shade"
+  ],
+  "problems": [
+    "Spines/Thorns"
+  ],
+  "uses": "Berries make jelly, wine or purple dye; inner bark is used as a yellow dye."
+}

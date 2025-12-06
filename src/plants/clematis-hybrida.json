@@ -1,0 +1,217 @@
+{
+  "fullName": "Clematis hybrida",
+  "name": "clematis-hybrida",
+  "commonNames": [
+    "Clematis Hybrids",
+    "Hybrid Clematis"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/clematis-hybrida/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Clematis",
+  "species": "hybrida",
+  "family": "Ranunculaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Hybrid origin"
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "dimensions": [
+    "Height: 5 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Poisonous",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Cascading",
+    "Climbing",
+    "Dense",
+    "Mounding",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet",
+    "6-feet-12 feet",
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Achene",
+    "Aggregate"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "This plant has many small, dry fruits each with a silky-plumose tail. Fruit looks like spiral threads in the form a circle."
+  ],
+  "flower-color": [
+    "Blue",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Star",
+    "Urn"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "6 petals/rays",
+    "7 - 20 petals/rays"
+  ],
+  "flower-description": [
+    "They bloom in late spring to early summer but often again in late summer to early fall. Flowers have 4-8 petal-like parts of various colors, shapes, and sizes, all with many stamens."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Ovate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves are alternate, pinnately divided, and are slightly heart-shaped (pointed on one side)."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Houseplants",
+    "Naturalized Area"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Black Walnut"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "CAUSES SEVERE PAIN IN THE MOUTH IF EATEN! SKIN IRRITATION MINOR OR LASTING ONLY FOR A FEW MINUTES.\n(Poisonous through dermatitis, ingestion, or inhalation. Poisonous parts:  All species are toxic, all parts). \nSymptoms may include:     Burning sensation of mouth and mouth ulcers; skin redness and burning sensation."
+  ],
+  "poison-toxic-principle": [
+    "protoanemonin"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ]
+}

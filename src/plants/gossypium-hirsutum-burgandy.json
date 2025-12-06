@@ -1,0 +1,81 @@
+{
+  "fullName": "Gossypium hirsutum 'Burgandy'",
+  "name": "gossypium-hirsutum-burgandy",
+  "commonNames": [
+    "Aggie Cotton",
+    "Burgundy Heirloom Cotton"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/gossypium-hirsutum-burgandy/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Gossypium",
+  "species": "hirsutum",
+  "family": "Malvaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical Americas"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "Pink cup-shaped showy flowers with 5 petals."
+  ],
+  "leaf-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Burgandy to green with burgundy veining 3 lobed foliage"
+  ],
+  "stem-is-aromatic": "N",
+  "uses": "Used to make fiber and cotton-seed oil"
+}

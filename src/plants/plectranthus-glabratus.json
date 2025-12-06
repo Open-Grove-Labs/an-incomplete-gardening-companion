@@ -1,0 +1,27 @@
+{
+  "fullName": "Plectranthus glabratus",
+  "name": "plectranthus-glabratus",
+  "commonNames": [
+    "Candle Plant",
+    "Swedish Ivy"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/plectranthus-glabratus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Plectranthus",
+  "species": "glabratus",
+  "family": "Lamiaceae",
+  "country-or-region-of-origin": [
+    "S. India to S. Indo-China"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "resistance-to-challenges": [
+    "Drought"
+  ]
+}

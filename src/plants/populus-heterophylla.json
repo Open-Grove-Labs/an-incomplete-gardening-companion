@@ -1,0 +1,164 @@
+{
+  "fullName": "Populus heterophylla",
+  "name": "populus-heterophylla",
+  "commonNames": [
+    "Downy Poplar",
+    "Swamp Cottonwood",
+    "Swamp Poplar"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/populus-heterophylla/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Populus",
+  "species": "heterophylla",
+  "family": "Salicaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Canada and SE U.S.A., NC"
+  ],
+  "distribution": [
+    "Occasional throughout E. North America"
+  ],
+  "wildlife-value": [
+    "Seedlings and young trees browsed by rabbits, deer, and domestic stock"
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "more than 60 feet"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Spring"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Ovoid, green capsules that grow in clusters and turn brown when ripe.  The seeds inside are small and downy. Seeds are hanging in catkins."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Species is dioecious; males occur in 1 inch long catkins, females occur in a sparse white flowered catkin."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Obtuse",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenulate",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Broadly ovate, serrated margin, heart-shaped base, 4 to 7 inches long, petiole round, green above and paler below."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray",
+    "Light Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Ridges"
+  ],
+  "bark-description": [
+    "Strongly vertically ridged."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-bud-scales": [
+    "Enclosed in more than 2 scales"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-leaf-scar-shape": [
+    "Heart or shield shaped"
+  ],
+  "landscape-location": [
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rain Garden"
+  ],
+  "attracts": [
+    "Small Mammals"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "problems": [
+    "Short-lived"
+  ],
+  "uses": "Lumber and wood pulp for paper"
+}

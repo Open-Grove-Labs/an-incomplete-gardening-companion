@@ -1,0 +1,191 @@
+{
+  "fullName": "Asparagus officinalis",
+  "name": "asparagus-officinalis",
+  "commonNames": [
+    "Asparagus",
+    "Garden Asparagus"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/asparagus-officinalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Asparagus",
+  "species": "officinalis",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Asia, North Africa"
+  ],
+  "play-value": [
+    "Textural ",
+    "Wildlife Food Source"
+  ],
+  "edibility": [
+    "Young spears (shoots). Harvest time: collect asparagus spears in the early spring, while very young. Only collect spears from areas you know have NOT been treated with pesticides. Safe handling procedures: wash spears thoroughly with warm water to remove dirt and debris. Do not use dish detergent or any type of sanitizer. These products can leave a residue. Peel off the outer skin to within an inch of the top of the spear. Tie spears into bundles (about eight to a bundle) and place lengthwise into boiling salted water. Boil for about 10 minutes until tender, but not soggy. Serve hot with melted butter, or cold with oil and vinegar and seasonings."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 1 ft. 6 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Cool Season Vegetable",
+    "Edible",
+    "Herbaceous Perennial",
+    "Poisonous",
+    "Vegetable"
+  ],
+  "habit/form": [
+    "Erect",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "In late summer, female plants produce ornamental red berries that are hard and shiny."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-petals": [
+    "Tepals"
+  ],
+  "flower-description": [
+    "The flowers develop as hermaphrodites and mature to become unisexual. Both male and female flowers produce small, yellow-green tepals In June or July."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Soft, feathery, needle-like leaves arranged in whorls."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Covered with a powdery bloom (glaucous)"
+  ],
+  "stem-description": [
+    "Young shoots are thick and stand upright. They are green or purple in color with triangular bracts along the stem. As the stems mature they become thin and multi-branched."
+  ],
+  "landscape-location": [
+    "Lawn"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Salt"
+  ],
+  "problems": [
+    "Contact Dermatitis"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Contact dermatitis from young, raw shoots; eating of berries may cause gastrointestinal problems"
+  ],
+  "poison-toxic-principle": [
+    "Unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Stems"
+  ]
+}

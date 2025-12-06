@@ -1,0 +1,78 @@
+{
+  "fullName": "Osmanthus delavayi",
+  "name": "osmanthus-delavayi",
+  "commonNames": [
+    "Delavay Teaolive"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/osmanthus-delavayi/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Osmanthus",
+  "species": "delavayi",
+  "family": "Oleaceae",
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 12 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 12 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "habit/form": [
+    "Dense"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Black",
+    "Blue",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Small, white flowers on terminal cymes in late winter to spring; 0.5 in. blue-black drupes"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Opposite, simple, lustrous dark green leaves; 0.5-1 in. long; strongly toothed"
+  ],
+  "stem-is-aromatic": "N"
+}

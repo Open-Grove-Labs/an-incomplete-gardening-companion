@@ -1,0 +1,149 @@
+{
+  "fullName": "Bambusa multiplex",
+  "name": "bambusa-multiplex",
+  "commonNames": [
+    "Chinese Dwarf Bamboo",
+    "Clumping Bamboo",
+    "Hedge Bamboo",
+    "Oriental Hedge"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/bambusa-multiplex/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Bambusa",
+  "species": "multiplex",
+  "family": "Poaceae",
+  "recommended-propagation-strategy": [
+    "Division",
+    "Layering",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Asia"
+  ],
+  "distribution": [
+    "Florida and Puerto Rico"
+  ],
+  "play-value": [
+    "Buffer",
+    "Screening",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "This plant is moderately salt tolerant."
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 4 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Semi-evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Arching",
+    "Clumping",
+    "Dense",
+    "Erect",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "fruit-type": [
+    "Caryopsis"
+  ],
+  "fruit-description": [
+    "Seed is produced every twenty years or more and are in the form of grain"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "This plant has culm leaves and foliage leaves."
+  ],
+  "stem-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "landscape-location": [
+    "Container",
+    "Recreational Play Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Children's Garden"
+  ],
+  "design-feature": [
+    "Hedge",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Salt"
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "fullName": "Erigeron canadensis",
+  "name": "erigeron-canadensis",
+  "commonNames": [
+    "Butterweed",
+    "Canadian Horseweed",
+    "Colstail",
+    "Horseweed",
+    "Horse Weed",
+    "Marestail"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/erigeron-canadensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Erigeron",
+  "species": "canadensis",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "New World"
+  ],
+  "distribution": [
+    "wind"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 7 ft. 0 in.",
+    "Width: 0 ft. 6 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Gray/Silver"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Yellow to gray elliptical achenes with fluffy white hairs that aid in wind dispersal."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Urn"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Self-fertile Pea sized white flowers in a terminal panicle 1 1/2' long and 1/2' wide.  Additoinal flowers form in the axils of leaves.  Individual flowers are 2-3 mm in size and are urn to cylindrical in shape.  Flowers appear for a three week period any time between mid-summer through fall."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves form as a basal rosette throughout fall and winter until late spring when plants bolt upright; leaves will become progressively smaller upwards on the stem but average 2\"-3 1/2\" long and 1/2\" wide.  They occasionally have teeth along the margin otherwise are entire."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Unbranched except at the top where flowers appear, light green, angular with white hairs."
+  ],
+  "landscape-location": [
+    "Lawn"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Mucosal irritation to humans and livestock"
+  ],
+  "poison-toxic-principle": [
+    "Tannic acid, gallic acid, volatile oils"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves"
+  ]
+}

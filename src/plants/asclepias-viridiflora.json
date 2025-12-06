@@ -1,0 +1,172 @@
+{
+  "fullName": "Asclepias viridiflora",
+  "name": "asclepias-viridiflora",
+  "commonNames": [
+    "Green Comet Milkweed",
+    "Green-flowered Milkweed",
+    "Green Milkweed",
+    "Wand Milkweed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/asclepias-viridiflora/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Asclepias",
+  "species": "viridiflora",
+  "family": "Apocynaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "wildlife-value": [
+    "This plat supports the larval stage of the monarch butterfly.  The nectar from this plant attracts bumblebees."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Cream/Tan",
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Follicle"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "Follicles are green 4\" long, 1/2\"-3/4\" wide and pointed at either end.  When they are mature in the fall they turn brown and split open on one side to reveal dark brown flattened oval tufted with white hairs on one end seeds that are wind dispersed.  The follicles are smoother than other milkweeds and can help with the ID of this plant."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Pink"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "15-45 flowers appear in a 1 3/4\" wide dome-shaped clusters (umbles) that hang downward from the upper leaf axils.  Flowers appear for about three weeks anywhere from May through August and are yellow green, light green, with a hint of pink.  Individual flowers are 8 mm long and 3 mm wide with 5 petals and 5 sepals."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are simple, opposite in arrangement, lance-shaped, 4\" long and 1 1/2\" wide, wavy or folded along their margins with hairs.  The upper leaf surface is darker green than the lower leaf surface and they have light green to red-green 1/8\" long petioles.  Veination is pinnate with reticulated secondary veination.  Leaf shape changes depending on soil moisture, with longer thinner leaves on more drought stressed plants and wider rounder leaves on plants with adequate water."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Light green to purple-green, unbranched with some hairs."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "resistance-to-challenges": [
+    "Dry Soil",
+    "Poor Soil"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Can cause stomach upset, nausea, vomiting, abdominal pain, diarrhea, weakness, lethargy, and confusion if eaten in quantity. Milky sap can cause contact dermatitis and eye irritation."
+  ],
+  "poison-toxic-principle": [
+    "Cardiac glycoside"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Sap/Juice",
+    "Stems"
+  ]
+}

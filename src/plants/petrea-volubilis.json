@@ -1,0 +1,44 @@
+{
+  "fullName": "Petrea volubilis",
+  "name": "petrea-volubilis",
+  "commonNames": [
+    "Petrea",
+    "Purple Wreath",
+    "Queen's Wreath",
+    "Sandpaper Vine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/petrea-volubilis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Petrea",
+  "species": "volubilis",
+  "family": "Verbenaceae",
+  "plant-type": [
+    "Vine"
+  ],
+  "flower-color": [
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer",
+    "Winter"
+  ],
+  "flower-description": [
+    "Flowers throughout the year mostly from late winter through early summer purple petals and purple calyx."
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Vertical Spaces"
+  ]
+}

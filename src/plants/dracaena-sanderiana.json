@@ -1,0 +1,141 @@
+{
+  "fullName": "Dracaena sanderiana",
+  "name": "dracaena-sanderiana",
+  "commonNames": [
+    "Chinese Water Bamboo",
+    "Friendship Bamboo",
+    "Lucky Bamboo",
+    "Ribbon Plant",
+    "Water Bamboo"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dracaena-sanderiana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dracaena",
+  "species": "sanderana",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "West Central Tropical Africa to North East Angola"
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Perennial",
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower-description": [
+    "Small white flowers in clusters. Rarely blooms as a house plant."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Bright green to gray-green strappy leaves are widely spaced along the upright stems"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Thick green fleshy stem resembling bamboo."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Vomiting (occasionally with blood), depression, anorexia, hypersalivation, dilated pupils (cats)."
+  ],
+  "poison-toxic-principle": [
+    "Saponins"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ]
+}

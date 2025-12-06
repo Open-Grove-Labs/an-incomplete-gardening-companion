@@ -1,0 +1,132 @@
+{
+  "fullName": "Prunus persica 'Carolina Belle'",
+  "name": "prunus-persica-carolina-belle",
+  "commonNames": [
+    "Carolina Belle Peach"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-persica-carolina-belle/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Prunus",
+  "species": "persica",
+  "family": "Rosaceae",
+  "edibility": [
+    "It produces large-sized, freestone, creamy white fruit. The white flesh is firm and sweet with a good flavor. Great for eating fresh and for making honey-sweet peach preserves. Ripens from July to August."
+  ],
+  "dimensions": [
+    "Height: 12 ft. 0 in. - 15 ft. 0 in.",
+    "Width: 12 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "White"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-description": [
+    "It produces large-sized, freestone, creamy white fruit."
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves are lanceolate shaped, 3-6 inches in length and 0.8-1.2 inches broad. Pinnately veined."
+  ],
+  "stem-is-aromatic": "N",
+  "problems": [
+    "Frequent Disease Problems",
+    "Frequent Insect Problems",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "The pits contain cyanide compounds, which are poisonous. If a couple of pits are accidentally swallowed, it will not cause poisoning. The pits are more poisonous if they are ground up/crushed or the seeds are chewed. Fruit that has not been pitted should not be blended into a smoothie.\nSymptoms include Gasping, weakness, excitement, pupil dilation, spasms, convulsions, coma, respiratory failure."
+  ],
+  "poison-toxic-principle": [
+    "cyanide"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Seeds",
+    "Stems"
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "fullName": "Hymenocallis occidentalis",
+  "name": "hymenocallis-occidentalis",
+  "commonNames": [
+    "Hammock Spider Lily",
+    "Northern Spider Lily",
+    "Spider Lily",
+    "Summer Spider Lily",
+    "Woodland Spider Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hymenocallis-occidentalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hymenocallis",
+  "species": "occidentalis",
+  "family": "Amaryllidaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern US native"
+  ],
+  "distribution": [
+    "AL",
+    "AR",
+    "GA",
+    "IL",
+    "IN",
+    "KY",
+    "LA",
+    "MO",
+    "MS",
+    "NC",
+    "OK",
+    "SC",
+    "TN",
+    "TX"
+  ],
+  "wildlife-value": [
+    "Poisonous to many animals."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Easy to Grow",
+    "Fragrance"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 6 in. - 2 ft. 6 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial",
+    "Poisonous",
+    "Water Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The fruit is a leathery capsule, each containing 1 to 3 fleshy seeds."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup",
+    "Funnel"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "The flowers each have a central cup and 6 long, slender tepals.  The 6 in. flowers have a white crown of thin tissue that connects the bases of the anthers and are borne in clusters of 5 to 10 at the top of the stalks."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The basal strap-like leaves that can be up to 2' long die back in mid-summer.  They can reach a length of up to 17\" long, growing directly from the bulb."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The stems are erect and unbranched."
+  ],
+  "landscape-location": [
+    "Houseplants",
+    "Naturalized Area",
+    "Pond",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Heat",
+    "Humidity",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Nausea, vomiting, and diarrhea"
+  ],
+  "poison-toxic-principle": [
+    "Lycorine and other phenanthridine alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Roots",
+    "Stems"
+  ]
+}

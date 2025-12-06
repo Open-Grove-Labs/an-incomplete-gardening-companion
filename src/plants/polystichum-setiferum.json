@@ -1,0 +1,148 @@
+{
+  "fullName": "Polystichum setiferum",
+  "name": "polystichum-setiferum",
+  "commonNames": [
+    "Hedge Fern",
+    "Soft Shield Fern"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/polystichum-setiferum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Polystichum",
+  "species": "setiferum",
+  "family": "Polypodiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Macaronesia, Mediterranean to Iran"
+  ],
+  "play-value": [
+    "Easy to Grow",
+    "Textural "
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heavy shade, This plant is seldom damaged by deer."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Fern",
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Arching",
+    "Clumping",
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a"
+  ],
+  "fruit-description": [
+    "No fruits. This plants reproduces via spores."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Fronds"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear",
+    "Rhomboidal"
+  ],
+  "leaf-margin": [
+    "Dentate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Tufted, drooping fronds; mat, light green blade; scaly stalk; short-stemmed pinnulae; soft texture; twice divided pinnae have stalked linear-lanceolate pinnules with soft bristly tips on margins."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stalks are covered with cinnamon-brown scales."
+  ],
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Rock Wall",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Rock Garden",
+    "Shade Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heavy Shade",
+    "Rabbits"
+  ]
+}

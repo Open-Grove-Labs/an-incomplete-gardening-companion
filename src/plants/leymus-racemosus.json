@@ -1,0 +1,113 @@
+{
+  "fullName": "Leymus racemosus",
+  "name": "leymus-racemosus",
+  "commonNames": [
+    "Giant Blue Wild Rye",
+    "Mammoth Wild Rye",
+    "Volga Wild Rye"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/leymus-racemosus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Elymus",
+  "species": "racemosa",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "SE. & E. Europe to Siberia and Caucasus"
+  ],
+  "plant-type": [
+    "Ornamental Grasses and Sedges"
+  ],
+  "habit/form": [
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Cream/Tan"
+  ],
+  "fruit-type": [
+    "Caryopsis"
+  ],
+  "flower-color": [
+    "Blue",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "The spike is 6 to 14 inches tall with 3-8 spikelets per node. Spikelets are sessile with 4-6 florets. and are hairy"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Cream/Tan",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "steel-blue flat foliage is 8-16 inches long and .3 to .7 inches wide"
+  ],
+  "stem-is-aromatic": "N",
+  "resistance-to-challenges": [
+    "Dry Soil",
+    "Heat",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

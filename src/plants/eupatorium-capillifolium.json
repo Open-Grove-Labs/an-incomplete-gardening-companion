@@ -1,0 +1,249 @@
+{
+  "fullName": "Eupatorium capillifolium",
+  "name": "eupatorium-capillifolium",
+  "commonNames": [
+    "Dogfennel",
+    "Dog Fennel",
+    "Thoroughwort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/eupatorium-capillifolium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Eupatorium",
+  "species": "capillifolium",
+  "family": "Asteraceae (daisy)",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Canada, Central and Eastern United States"
+  ],
+  "distribution": [
+    "Atlantic and Gulf coastal plain",
+    "Eastern mountains and Piedmont",
+    "Great Plains",
+    "North Central and Northeast. Bermuda",
+    "Bahamas."
+  ],
+  "wildlife-value": [
+    "Attracts bees and wasps. Eaten by Florida's scarlet-bodied wasp moth, Cosmosoma myrodora, that feed on the plant while mature to store its toxins and ward off predators."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Tolerates drought and poor soil, deer and rabbits"
+  ],
+  "edibility": [
+    "toxic"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Ascending",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High",
+    "Medium"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruits are smooth achenes. Fruiting stems attractive in winter landscape."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb",
+    "Insignificant"
+  ],
+  "flower-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Dome"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers are small, greenish-white and borne in large flower heads at the tops of the stems. Blooms from September through November.  The small, 3 to 5 flowered heads are numerous and arranged in large, leafy, pyramid-shaped end clusters (corymbs)."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Opposite"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Each plant produces several tall, stiff, woody-based, often reddish, upright stems clad with crowded, feathery, finely-dissected leaves which are pinnately divided into thread-like segments. Leaves are unpleasantly aromatic when crushed."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "Y",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Long feathery stalks. Stems are erect, reaching 6 feet in height with a woody base. Unpleasant odor when broken."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rain Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Dry Soil",
+    "Rabbits"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Contains liver-damaging alkaloids."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids such as lycorine"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Stems"
+  ],
+  "uses": "An insecticide and anti-fungal. The entire plant is applied externally as a remedy for the bites of reptiles and insects."
+}

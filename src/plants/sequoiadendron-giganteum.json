@@ -1,0 +1,179 @@
+{
+  "fullName": "Sequoiadendron giganteum",
+  "name": "sequoiadendron-giganteum",
+  "commonNames": [
+    "Big Tree",
+    "Giant Redwood",
+    "Giant Sequoia",
+    "Mammoth Tree",
+    "Sierra Redwood",
+    "Washingtonia",
+    "wellingtonia"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/sequoiadendron-giganteum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Sequoiadendron",
+  "species": "giaganteum",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "California, Sierra Nevada Mountains"
+  ],
+  "distribution": [
+    "California"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "The tree is a source of shelter for wildlife. Mature cones are collected by squirrels, and the seeds are eaten by chipmunks, sparrows, and finches."
+  ],
+  "play-value": [
+    "Textural ",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 60 ft. 0 in. - 275 ft. 0 in.",
+    "Width: 25 ft. 0 in. - 60 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Erect",
+    "Oval",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Long-lasting"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Male and female cone buds form in the late summer. They are pollinated from mid-April to mid-May. Fertilization occurs in August and by that time the cones are full-size. The cones are oval, woody, green to reddish-brown, and about 2 inches long and 1-inch wide.  Seed cones mature and open in 2 years.  They are persistent for up to 20 years. The cones have 30 to 50 spirally arranged scales. There are several seeds inside each scale. The seeds are dark brown and about 0.2 inches long with a yellowish-brown wing on each side. Some seeds are released as the cone shrinks in hot weather. Most of the seeds are released when the cones dry or are damaged by insects."
+  ],
+  "flower-description": [
+    "Non-flowering"
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The bluish-green needles are scale-like to awl-shaped, triangular in cross-section, and point upwards.  They range in size from 1/8-1/2\" in length."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Ridges",
+    "Spongy"
+  ],
+  "bark-description": [
+    "The bark is reddish-brown, spongy, fibrous, thick, and deeply furrowed."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stems are covered with scale-like leaves. As they age, the leaves fall off, and the stems appear reddish-brown with scaly bark."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Fire"
+  ]
+}

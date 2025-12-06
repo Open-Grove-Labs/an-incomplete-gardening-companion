@@ -1,0 +1,230 @@
+{
+  "fullName": "Diospyros kaki",
+  "name": "diospyros-kaki",
+  "commonNames": [
+    "Asian Persimmon",
+    "Japanese Persimmon",
+    "Kaki",
+    "Oriental Persimmon"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/diospyros-kaki/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Diospyros",
+  "species": "kaki",
+  "family": "Ebenaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "India, Asia"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Drought tolerant"
+  ],
+  "edibility": [
+    "Fruits can be eaten raw or made into various dishes. Leaves can be used to make teas."
+  ],
+  "dimensions": [
+    "Height: 20 ft. 0 in. - 30 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 25 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Orange"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Long-lasting",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "3-4 inch orange fruit is globular/ oval. When cut in the middle, it has 8 lighter colored lines inside. May persist into winter."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Pink"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Female flowers appear solitary and are creamy-white. Male flowers are in clusters of 3 and are pinkish."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Oval leaves are up to 6 inches long and 4 inches wide. New leaves are yellow-green and turn glossy green in summer. The fall color is yellow-orange to red."
+  ],
+  "bark-color": [
+    "Black",
+    "Dark Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Fissured",
+    "Furrowed"
+  ],
+  "bark-plate-shape": [
+    "Rectangle",
+    "Square"
+  ],
+  "bark-description": [
+    "Brownish gray bark"
+  ],
+  "stem-color": [
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-lenticels": [
+    "Not Conspicuous"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Gray stems with or without hairs"
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Edible Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Hedge",
+    "Screen/Privacy"
+  ],
+  "attracts": [
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Foot Traffic",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Messy"
+  ],
+  "uses": "Leaves are used to make teas"
+}

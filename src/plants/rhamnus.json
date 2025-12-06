@@ -1,0 +1,60 @@
+{
+  "fullName": "Rhamnus",
+  "name": "rhamnus",
+  "commonNames": [
+    "Buckthorn"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rhamnus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rhamnus",
+  "family": "Rhamnaceae",
+  "country-or-region-of-origin": [
+    "USA, NC"
+  ],
+  "plant-type": [
+    "Poisonous"
+  ],
+  "fruit-color": [
+    "Black",
+    "Red/Burgundy"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "Fleshy, black berry"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Opposite"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "leaves alternate or nearly opposite, simple, smooth or toothed"
+  ],
+  "stem-is-aromatic": "N",
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Nausea, vomiting, and diarrhea."
+  ],
+  "poison-toxic-principle": [
+    "Glycosides"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Flowers"
+  ]
+}

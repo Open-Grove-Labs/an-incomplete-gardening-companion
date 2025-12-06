@@ -1,0 +1,190 @@
+{
+  "fullName": "Zingiber",
+  "name": "zingiber",
+  "commonNames": [
+    "Ginger Root"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/zingiber/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Zingiber",
+  "family": "Zingiberaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Asia"
+  ],
+  "edibility": [
+    "The root is edible and used to flavor a variety of dishes. The leaves, shoots, and young flower spikes can be cooked too."
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy",
+    "White"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Culinary ginger is usually sterile.  Wild ginger fruit is thin-walled with black ellipsoid seeds."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The cone-shaped flower spikes appear on a leafless stem and not on the foliage stems. The cream or yellowish-green flowers have a mauve or deep purple lip which protrudes from green bracts.  It usually takes two years before a clump will flower.  They are shorter and usually hidden by the foliage stems. Some inflorescense develop a sap-like liquid used as shampoo. Cultivated ginger usually does not have flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Green leaves can be up to 12 inches long and 1 inch wide."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "The stems are pseudostems.  They are tightl wrapped leave sheaths and not true stems."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Cutting Garden",
+    "Edible Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Mass Planting",
+    "Small groups",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Heat",
+    "Humidity"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "In some Asian cultures, the rhizome has medicinal use.   Their aromatic oils are used in cosmetics and perfumes."
+}

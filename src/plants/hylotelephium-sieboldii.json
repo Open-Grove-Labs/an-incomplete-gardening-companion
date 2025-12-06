@@ -1,0 +1,231 @@
+{
+  "fullName": "Hylotelephium sieboldii",
+  "name": "hylotelephium-sieboldii",
+  "commonNames": [
+    "Japanese Stonecrop",
+    "October Daphne Stonecrop",
+    "October Plant",
+    "October Stonecrop",
+    "Showy Stonecrop",
+    "Siebold's Sedum",
+    "Siebold's Stonecrop",
+    "Stonecrop"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hylotelephium-sieboldii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hylotelephium",
+  "species": "sieboldii",
+  "family": "Crassulaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Japan"
+  ],
+  "wildlife-value": [
+    "Butterflies, flies, and bees are attracted to the flowers."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Textural "
+  ],
+  "edibility": [
+    "If causes low toxicity if eaten.  However, when very young and tender, the stems and leaves can be eaten raw.  Later, until they flower, they may be briefly cooked."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 0 ft. 9 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Ground Cover",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Arching",
+    "Horizontal",
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Small capsules open to release tiny dark seeds."
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "In the fall, clusters of pink flowers form at the end of the stems."
+  ],
+  "leaf-color": [
+    "Green",
+    "Pink"
+  ],
+  "leaf-feel": [
+    "Fleshy"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Pink"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "This plant forms a perfect, circular mound of arching stems covered with fleshy, round, blue-green foliage in whorls of three.  They are edged with a deep pink to reddish line.  Turns pink in winter before dying."
+  ],
+  "stem-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The ascending stem have a reddish tinge."
+  ],
+  "landscape-location": [
+    "Container",
+    "Patio",
+    "Recreational Play Area",
+    "Slope/Bank",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Butterfly Garden",
+    "Children's Garden",
+    "Cottage Garden",
+    "Drought Tolerant Garden",
+    "Pollinator Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Dry Soil",
+    "Poor Soil",
+    "Rabbits"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Unknown, but possibly gastrointestinal symptoms."
+  ],
+  "poison-toxic-principle": [
+    "Alkaloids sedine, sedamine, and others."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ],
+  "uses": "When planted in masses, makes a great ground cover in temperate locations."
+}

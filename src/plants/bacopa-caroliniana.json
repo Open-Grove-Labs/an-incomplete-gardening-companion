@@ -1,0 +1,156 @@
+{
+  "fullName": "Bacopa caroliniana",
+  "name": "bacopa-caroliniana",
+  "commonNames": [
+    "Blue Water Hyssop",
+    "Blue Water-hyssop",
+    "Carolina Hyssop"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/bacopa-caroliniana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Bacopa",
+  "species": "caroliniana",
+  "family": "Plantaginaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Southeastern U.S.A., Cuba"
+  ],
+  "distribution": [
+    "AL",
+    "FL",
+    "GA",
+    "LA",
+    "MD",
+    "MS",
+    "NC",
+    "SC",
+    "TX",
+    "VA"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 4 in. - 1 ft. 0 in.",
+    "Width: 1 ft. 8 in. - 3 ft. 4 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-description": [
+    "Fruits are available July-October."
+  ],
+  "flower-color": [
+    "Blue"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers are blue with 5 petals and bloom May-September."
+  ],
+  "leaf-feel": [
+    "Fleshy"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Oblanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Thick succulent leaves are oblanceolate and opposite. 1/8 inch wide and 5/8 inch long"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Green stems growing out of the water have fine hairs. Those growing in the water are hairless."
+  ],
+  "landscape-location": [
+    "Houseplants",
+    "Pond"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Water Garden"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Heat",
+    "Wet Soil"
+  ]
+}

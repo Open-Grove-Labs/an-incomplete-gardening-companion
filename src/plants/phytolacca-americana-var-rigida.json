@@ -1,0 +1,174 @@
+{
+  "fullName": "Phytolacca americana var. rigida",
+  "name": "phytolacca-americana-var-rigida",
+  "commonNames": [
+    "American Pokeweed",
+    "Inkberry",
+    "Pigeonberry",
+    "Poke",
+    "Pokeberry",
+    "Poke Salad",
+    "Pokeweed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/phytolacca-americana-var-rigida/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Phytolacca",
+  "species": "americana",
+  "family": "Phytolaccaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "United States"
+  ],
+  "distribution": [
+    "Only along the North Carolina seacoast."
+  ],
+  "edibility": [
+    "Young tender leaves may be eaten only as thoroughly cooked greens (in two waters). Cooked berries are safe for making pies. \nCAUTION: Berries, roots and mature plants are poisonous.  Thus only new, young growth should be used in cooking and baking.  Any red-tinged plant material should be discarded. To avoid collecting any part of the toxic root, do not cut below ground level. \n\nHARVEST: Collect only young shoots from areas you know have NOT been treated with pesticides. Collect in early spring. \n\nSAFE HANDLING PROCEDURES: Wash young shoots thoroughly with warm water. Do not use dish detergent or any type of sanitizer. These products can leave a residue. Peel and parboil tender young shoots (less than eight inches) in two changes of water several minutes each. Boil in a third water until tender and serve like asparagus. Young stalks less than one foot tall (with leaves removed and before red-tinged) can be cut and rolled in cornmeal and fried like okra. They can also be pickled. Young leaves taken from stalks less than one foot tall can be parboiled in two changes of water for several minutes each and boiled in a third water until tender. To freeze, parboil leaves twice, cook, pat dry and place them in plastic bags."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Frequent Standing Water",
+    "Moist"
+  ],
+  "fruit-color": [
+    "Black",
+    "Purple/Lavender"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "Dark purple-black berry composed of 5-12 segments fused in a ring, on an erect stem (stems shorter than those on P. americana).  Seeds are shiny, black and lenticular."
+  ],
+  "flower-color": [
+    "Black",
+    "Green",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Racemes, linear clusters with each small flower on a short stem appears spring-fall sometimes year-round.  Flowers have 5 petals are whiteish pink with black centers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Thin leaves, green on top, lighter below.  Tapered at both ends."
+  ],
+  "stem-color": [
+    "Green",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Pinkish-red, smooth and partially hollow stem is rigid to flexible, not strong."
+  ],
+  "landscape-location": [
+    "Coastal"
+  ],
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Humidity"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "HIGHLY TOXIC, MAY BE FATAL IF EATEN!  Burning of mouth and throat, salivation, severe stomach irritation, vomiting, bloody diarrhea, spasms, and convulsions; can be fatal"
+  ],
+  "poison-toxic-principle": [
+    "Phytolaccatoxin and related triterpene saponins, an alkaloid (phytolaccin), and histamines"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Stems"
+  ],
+  "uses": "Various parts of the plant are used for dye."
+}

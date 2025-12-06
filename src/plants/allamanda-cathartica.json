@@ -1,0 +1,175 @@
+{
+  "fullName": "Allamanda cathartica",
+  "name": "allamanda-cathartica",
+  "commonNames": [
+    "Allamanda",
+    "Golden-Trumpet",
+    "Golden Trumpet Vine",
+    "Yellow Allamanda"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/allamanda-cathartica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Allamanda",
+  "species": "cathartica",
+  "family": "Apocynaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical America, and Brazil"
+  ],
+  "distribution": [
+    "Central America",
+    "India",
+    "Asia"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "moist soil"
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Poisonous",
+    "Shrub",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Creeping",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "fruit-description": [
+    "Winged seeds inside prickly pods."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Flowers are tubular, yellow, and in clusters at ends of branches from summer to fall. Flowers up to around 3 1/2 inches are held in groups of 12 on short branches at the ends of shoots or in the leaf axils."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Leaves are 2 1/2 inches long, 1 1/2 inch wide, opposite, simple, glossy, and leathery. This vigorous climbing plant has leathery evergreen leaves arranged in whorls of 4 at intervals along the stem and bright yellow flowers."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "The stems twine to 19 feet or more and contain milky sap."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Specimen"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Poisonous through: Ingestion, dermatitis. Sap causes skin and eye irritation.\n\n    TOXIC ONLY IF LARGE QUANTITIES EATEN; SKIN IRRITATION MINOR OR LASTING ONLY FOR A FEW MINUTES.\n\nSymptoms may include fever, swollen lips, thirst, nausea, diarrhea; skin irritation upon contact with cell sap."
+  ],
+  "poison-toxic-principle": [
+    "Unknown"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ],
+  "uses": "Leaves and roots are used as a laxative and emetic in traditional medicine, but large doses are toxic."
+}

@@ -1,0 +1,234 @@
+{
+  "fullName": "Fraxinus americana",
+  "name": "fraxinus-americana",
+  "commonNames": [
+    "American Ash",
+    "White Ash"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/fraxinus-americana/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Fraxinus",
+  "species": "americana",
+  "family": "Oleaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern North America and Mexico"
+  ],
+  "distribution": [
+    "Eastern canada to Minnesota to west Colorado south to Texas east to Florida north up through Maine"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "This plant supports the larvae of Eastern Tiger Swallowtail (Papilo glaucus).  They have three flights from February-November in the deep south and March-September in the north. The adult Eastern Tiger Swallowtail butterflies feed on milkweed, joe pye weed, wild cherry, and lilac. The seeds of the White ash are enjoyed by birds, squirrel, and other small mammals.  White ash is a larval plant for tiger swallowtail and mourning cloak butterflies.  The bark is eaten by rabbits, porcupines and beavers.  The foliage is browsed by white-tailed deer."
+  ],
+  "play-value": [
+    "Edible fruit ",
+    "Wildlife Cover/Habitat",
+    "Wildlife Food Source",
+    "Wildlife Nesting"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Resistant to fire in landscape. Generally tolerant of urban conditions."
+  ],
+  "dimensions": [
+    "Height: 60 ft. 0 in. - 120 ft. 0 in.",
+    "Width: 50 ft. 0 in. - 75 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Oval",
+    "Pyramidal",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Cream/Tan",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Samara"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Male flowers whither away while fertilized female flowers give way to drooping, 6 to 8 inch long clusters of one winged dry flattened samara (to 2 inches long) that ripen in fall and may persist on the tree throughout the winter. Fruit displays from August to October."
+  ],
+  "flower-color": [
+    "Green",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-description": [
+    "The flowers are primarily dioecious (separate male and female trees) grow in tight panicals. Clusters of apetalous purplish male and female flowers appear on separate trees in April-May before the late-to-emerge foliage. The flowers lack petals."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Purple/Lavender"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblong",
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The 8 to 12 inch long leaves of the white ash are odd-pinnate compound leaves with 7 leaflets (less frequently 5 or 9). Oval to oblong-lanceolate leaflets (3 to 5 inches long) are dark green above and whitish green below with smooth margins. The foliage turns yellow with purple shading in the fall."
+  ],
+  "bark-color": [
+    "Light Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Ridges"
+  ],
+  "bark-description": [
+    "The ashy bark is yellow-brown to light gray and corky with deep furrows that separate short, pointed ridges in a net-like pattern."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-leaf-scar-shape": [
+    "C-shaped, Cresent shaped"
+  ],
+  "stem-description": [
+    "Upright, spreading stems. Stout twigs somewhat flattened at the point of leaf origin."
+  ],
+  "landscape-location": [
+    "Recreational Play Area"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden",
+    "Native Garden"
+  ],
+  "design-feature": [
+    "Shade Tree",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Fire",
+    "Rabbits",
+    "Urban Conditions",
+    "Wet Soil"
+  ],
+  "uses": "The juice from leaves used on mosquito bites for relief of swelling and itching and are a prophylactic measure for snake bites. The wood is tough, elastic, with a pleasing grain, and is used to make tennis racquets, hockey sticks, oars, furniture, and interior floors. White ash is the wood used for the Louisville Slugger baseball bat."
+}

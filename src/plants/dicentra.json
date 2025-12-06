@@ -1,0 +1,174 @@
+{
+  "fullName": "Dicentra",
+  "name": "dicentra",
+  "commonNames": [
+    "Bleeding Heart",
+    "Dutchman's Breeches",
+    "Squirrel Corn",
+    "Steer's-Head",
+    "Turkey Corn"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dicentra/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dicentra",
+  "family": "Papaveraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "USA"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Deer and rabbit resistant"
+  ],
+  "edibility": [
+    "All plant parts are poisonous"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 9 in. - 1 ft. 6 in.",
+    "Width: 0 ft. 9 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Poisonous"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Cascading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Inedible"
+  ],
+  "flower-color": [
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Elongated, terminal cluster, each nodding with 2 spurs on the upper side"
+  ],
+  "leaf-color": [
+    "Black",
+    "Blue",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "2-pinnately divided, the ultimate segments deeply lobed."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Flower stems are leafless."
+  ],
+  "landscape-location": [
+    "Walkways",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rock Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heavy Shade",
+    "Rabbits",
+    "Slugs"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Medium"
+  ],
+  "poison-symptoms": [
+    "Trembling, staggering, vomiting, diarrhea, convulsions, labored breathing. Skin irritation after repeated contact with the cell sap"
+  ],
+  "poison-toxic-principle": [
+    "Several isoquinolone alkaloids"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Flowers",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

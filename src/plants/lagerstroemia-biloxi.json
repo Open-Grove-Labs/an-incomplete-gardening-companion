@@ -1,0 +1,89 @@
+{
+  "fullName": "Lagerstroemia 'Biloxi'",
+  "name": "lagerstroemia-biloxi",
+  "commonNames": [
+    "Crape Myrtle"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lagerstroemia-biloxi/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lagerstroemia",
+  "family": "Lythraceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Powdery Mildew"
+  ],
+  "dimensions": [
+    "Height: 12 ft. 0 in. - 15 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 25 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Vase"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Showy pale pink flowers appear mid-summer and have a long-lasting bloom time."
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn",
+    "Patio",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden"
+  ],
+  "design-feature": [
+    "Flowering Tree",
+    "Small Tree",
+    "Specimen",
+    "Street Tree"
+  ],
+  "resistance-to-challenges": [
+    "Compaction",
+    "Diseases",
+    "Drought",
+    "Pollution",
+    "Urban Conditions"
+  ]
+}

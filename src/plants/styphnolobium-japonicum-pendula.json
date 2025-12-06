@@ -1,0 +1,244 @@
+{
+  "fullName": "Styphnolobium japonicum 'Pendula'",
+  "name": "styphnolobium-japonicum-pendula",
+  "commonNames": [
+    "Dragon-claw Scholar tree",
+    "Japanese Pagoda Tree",
+    "Scholar Tree",
+    "Weeping Chinese Pagoda Tree",
+    "Weeping Chinese Scholar Tree"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/styphnolobium-japonicum-pendula/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Styphnolobium",
+  "species": "japonicum",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting"
+  ],
+  "country-or-region-of-origin": [
+    "Western China"
+  ],
+  "distribution": [
+    "Japan",
+    "Europe",
+    "North America",
+    "South Africa"
+  ],
+  "wildlife-value": [
+    "Butterflies are attracted to the flowers."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Buffer",
+    "Screening",
+    "Textural "
+  ],
+  "edibility": [
+    "Contains cytosine, which is similar to nicotine."
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 25 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Broad",
+    "Cascading",
+    "Rounded",
+    "Weeping"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Alkaline (>8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Winter"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "fruit-length": [
+    "> 3 inches"
+  ],
+  "fruit-width": [
+    "> 3 inches"
+  ],
+  "fruit-description": [
+    "Bean pods with 1 to 6 seeds that have constrictions between making it knobby 3 to 8 inches long that start off green and mature to brown in fall and persist into winter."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-petals": [
+    "fused petals"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flower production is rare."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Pinnately compound leaves to 10 inches long with 7 to 10 oval glossy dark green leaflets. Remains attractive throughout the growing season. Leaves retain green color late into fall, resulting in no fall color or at best an undistinguished greenish yellow.\n Good yellow fall color."
+  ],
+  "bark-color": [
+    "Dark Gray"
+  ],
+  "stem-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Its young green stems stay green for several years and then turn dark gray as they age."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Patio",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Drought Tolerant Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Screen/Privacy",
+    "Shade Tree",
+    "Small Tree",
+    "Specimen",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Butterflies"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heat",
+    "Pollution",
+    "Salt",
+    "Storm damage",
+    "Urban Conditions"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "The plant contains cytosine, which resembles nicotine in its toxicity."
+  ],
+  "poison-toxic-principle": [
+    "cytosine"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Seeds"
+  ],
+  "uses": "The flowers and leaves are sometimes used in teas."
+}

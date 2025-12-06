@@ -1,0 +1,200 @@
+{
+  "fullName": "Cichorium endivia",
+  "name": "cichorium-endivia",
+  "commonNames": [
+    "Batavia",
+    "Endive",
+    "Escarole",
+    "Frisée"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cichorium-endivia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cichorium",
+  "species": "endivia",
+  "family": "Asteraceae",
+  "life-cycle": [
+    "Annual",
+    "Biennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Mediterranean, India"
+  ],
+  "edibility": [
+    "Leaves are edible raw or cooked.  Blue flowers are used raw in a salad, as a garnish or pickled."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 10 in. - 2 ft. 0 in.",
+    "Width: 0 ft. 10 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Cool Season Vegetable",
+    "Edible",
+    "Vegetable"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Cream/Tan"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is obovoid to cylindrical in shape and slightly ribbed."
+  ],
+  "flower-color": [
+    "Blue"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Edible"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Self-pollinating, attractive, pale blue ligule flowers are on stems that rise well above the foliage.  The flowers usually open up in the morning hours only."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "White"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cuneate",
+    "Lanceolate",
+    "Oblanceolate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Entire",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "There is one leaf per node along the stem.  The base of the leaf blade is cuneate with an oblanceolate leaf blade. One main vein runs from the base to the tip of the leaf blade. The leaf margins are quite variable even on the same plant.  Both curly endive and escarole leaves are white to light green in the center to dark green at the outside of the rosette.  Endive leaves are shaggy, thin and have much smaller leaves compared to escarole."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "The plant has one or more free-standing green to reddish-brown stems. The stem is hairy near the base only."
+  ],
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "problems": [
+    "Contact Dermatitis"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Skin irritation after exposure to sap"
+  ],
+  "poison-toxic-principle": [
+    "Lactucin and lactucopicrin"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Sap/Juice"
+  ]
+}

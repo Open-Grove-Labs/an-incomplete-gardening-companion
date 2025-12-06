@@ -1,0 +1,209 @@
+{
+  "fullName": "Cyclamen persicum",
+  "name": "cyclamen-persicum",
+  "commonNames": [
+    "Florist's Cyclamen",
+    "Persian Cyclamen"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cyclamen-persicum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cyclamen",
+  "species": "persicum",
+  "family": "Primulaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Algeria to East Mediterranean"
+  ],
+  "distribution": [
+    "Native: Algeria",
+    "Cyprus",
+    "East Agean Island",
+    "Greece",
+    "Israel",
+    "Jordan",
+    "Kriti",
+    "Lebanon",
+    "Palestine",
+    "Syria",
+    "Tunisia",
+    "and Turkey; \nIntroduced: Italy"
+  ],
+  "wildlife-value": [
+    "Bees pollinate the flowers."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Colorful",
+    "Fragrance"
+  ],
+  "edibility": [
+    "Cyclamen tubers are poisonous. They can cause severe diarrhea and possible death if eaten raw. The flower petals are sometimes used to make tea."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 0 ft. 9 in.",
+    "Width: 0 ft. 6 in. - 0 ft. 9 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Houseplant",
+    "Perennial",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Mounding"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "display/harvest-time": [
+    "Spring"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is a capsule that measures about 0.5 inches in diameter and is divided into five chambers. The capsule contains 5-40 sticky, sugary seeds. When the seeds are ripening, the capsule will open. Ants are reportedly attracted to the seeds."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Long Bloom Season",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "fused petals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "The flowers are solitary and fragrant. They have 4-5 petaled blossoms fused at the base and measure 2 inches. They come in colors of red, pink, white, lavender, and magenta. They typically bloom for 3 months."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "Purple/Lavender",
+    "Variegated"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The leaves are dark green, heart-shaped, and measure 1 to 5.5 inches long. The leaves frequently have a variegated silvery pattern on the top side of the leaf and a pale or purplish-green color on the underside. The margins are serrated."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Children",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Ingestion of this plant by humans is typically rare because of its unpleasant taste. If ingested, vomiting and diarrhea may occur. Skin irritation may result from handling this plant. Chewing or ingestion of any part of this plant, especially the roots or tubers, can result in the poisoning of cats, dogs, and horses. Symptoms include drooling, vomiting, and diarrhea. If large amounts of the plant are ingested, the pet may develop an abnormal heart rhythm, seizures, and death may occur."
+  ],
+  "poison-toxic-principle": [
+    "Triterpenoid saponins"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Roots"
+  ],
+  "uses": "This plant has been used to treat unspecified medical disorders."
+}

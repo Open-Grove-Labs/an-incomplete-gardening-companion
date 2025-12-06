@@ -1,0 +1,47 @@
+{
+  "fullName": "Penstemon cobaea",
+  "name": "penstemon-cobaea",
+  "commonNames": [
+    "Cobaea Beardtongue"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/penstemon-cobaea/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Penstemon",
+  "species": "cobaea",
+  "family": "Plantaginaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "plant-type": [
+    "Wildflower"
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "White to deep purple flowers"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Downy, clasping leaves"
+  ],
+  "stem-is-aromatic": "N",
+  "attracts": [
+    "Pollinators",
+    "Specialized Bees"
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "fullName": "Manihot esculenta",
+  "name": "manihot-esculenta",
+  "commonNames": [
+    "Bitter Casava",
+    "Cassava",
+    "Manioc",
+    "Tapioca",
+    "Yuca"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/manihot-esculenta/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Manihot",
+  "species": "esculenta",
+  "family": "Euphorbiaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Brazil, Western South America."
+  ],
+  "distribution": [
+    "Alabama",
+    "Texas",
+    "Central America",
+    "Central Africa",
+    "India",
+    "Southeast Asia."
+  ],
+  "edibility": [
+    "Tubers are boiled and eaten or made into tapioca. Planted as an annual root crop in tropical areas around the world for the roots from which cassava, tapioca, starch and other food products are obtained."
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 6 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Herb",
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gray/Silver"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Six angled globose capsule. Seeds are brown to grey with black patches."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Insignificant",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Panicle",
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Inconspicuous, small, apetalous (without petals), greenish-white flowers (corolla is absent but bell-shaped calyx is petal-like) in short terminal panicles bloom throughout the year. Flowers are unisexual."
+  ],
+  "leaf-color": [
+    "Green",
+    "Variegated"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Palmatifid"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Deeply lobed, medium green leaves (typically 3 to 7 parted) with each leaf lobe growing to 3 to 8 inches long. Some variegated cultivars exist."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Rabbits"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "HIGHLY TOXIC, MAY BE FATAL IF EATEN!  Raw tubers and root peelings cause weak and irregular breathing, weakness, excitement, depression, staggering, pupil dilation, spasms, convulsions, and coma of short duration."
+  ],
+  "poison-toxic-principle": [
+    "Cyanogenic glycosides linamarin and lotaustralin. Roots contain toxic hydrocyanic acid."
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Roots"
+  ],
+  "uses": "Extensively cultivated root crop in tropical and subtropical regions."
+}

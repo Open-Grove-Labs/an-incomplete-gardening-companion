@@ -1,0 +1,290 @@
+{
+  "fullName": "Cornus florida",
+  "name": "cornus-florida",
+  "commonNames": [
+    "Flowering Dogwood"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cornus-florida/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cornus",
+  "species": "florida",
+  "family": "Cornaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "South Eastern Canada, Eastern North America, to Eastern Mexico"
+  ],
+  "distribution": [
+    "Native: Canada--Ontario; Mexico--Mexico Gulf and Mexico Northeast; US--Al",
+    "AR",
+    "CT",
+    "DE",
+    "DC",
+    "FL GA",
+    "IL IN",
+    "KS",
+    "KY",
+    "LA",
+    "ME",
+    "MD",
+    "MA",
+    "MI",
+    "MS",
+    "MO",
+    "NH",
+    "NJ",
+    "NY",
+    "NC",
+    "OH",
+    "OK",
+    "PA",
+    "I",
+    "SC",
+    "TN",
+    "TX",
+    "VT",
+    "VA",
+    "and WV"
+  ],
+  "fire-risk-rating": [
+    "low flammability"
+  ],
+  "wildlife-value": [
+    "It is a host plant for the spring Azure (Celastrina ladon) butterfly/larvae. Flights are from May to August in Canada but range from January through October near the Gulf Coast. Butterflies nectar on the blooms.  Its fruits are eaten by songbirds, ruffed grouse, quail, wild turkey, chipmunks, black bear, foxes, white-tailed deer, skunks, and squirrels. Members of the genus Cornus support the following specialized bees: Andrena (Gonandrena) fragilis, Andrena (Gonandrena) integra, and Andrena (Gonandrena) platyparia. The fruits are food for birds. Deer eat the leaves and twigs."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Edible fruit ",
+    "Shade ",
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 25 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Pyramidal",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet",
+    "24-60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry",
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruit is a glossy bright, shiny red, oval drupes (0.5\" )in tight clusters of 3 or 4 that are bitter and inedible to humans but loved by birds.  They display from August to October."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Pink",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Insignificant"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cross"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Blooms early spring before leaf-out, March-May, the true flowers at the center, are green and insignificant, but are surrounded by 4 petal-like 2 inch long bracts, notched at the ends, that are often mistaken for the actual flowers.  Flower buds are round and flattened at the ends of stems, (many) greenish-yellow; bud is biscuit-shaped, glabrous and flattened, gray-green, at branch ends, covered by 2 large silky scales becoming 2 of the showy white bracts."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Cuneate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Veins curve from base of leaf to tip.  Opposite, simple, oval to ovate, acuminate, cuneate to rotund, entire, dull green above, glaucous beneath and pubescent on the veins, 6-7 vein pairs, 2.5-6\" long.  The fall color is red to reddish purple."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "surface/attachment": [
+    "Ridges"
+  ],
+  "bark-plate-shape": [
+    "Rectangle",
+    "Square"
+  ],
+  "bark-description": [
+    "Attractive, dark gray, brown, or black bark that is broken into small scaly blocks as the tree matures."
+  ],
+  "stem-color": [
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Horizontal branching. Slender, green to purple, sometimes coated with fine powder, pubescent when young, later glabrous; bark broken into small squarish and rectangular, grayish-brown to blackish blocks."
+  ],
+  "landscape-location": [
+    "Patio",
+    "Recreational Play Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Children's Garden",
+    "Edible Garden",
+    "Native Garden",
+    "Pollinator Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Flowering Tree",
+    "Mass Planting",
+    "Shade Tree",
+    "Small Tree",
+    "Specimen",
+    "Understory Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Small Mammals",
+    "Songbirds",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Compaction",
+    "Deer",
+    "Fire",
+    "Storm damage",
+    "Wind"
+  ],
+  "problems": [
+    "Frequent Disease Problems"
+  ],
+  "uses": "This plant was used for medicinal purposes by Native Americans, as well as for carvings, looms, and disinfectant. Wood is hard, heavy, close grained and strong. Often used for textile shuttles and spools as well as handles for tools."
+}

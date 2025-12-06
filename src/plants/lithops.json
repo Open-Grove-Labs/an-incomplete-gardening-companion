@@ -1,0 +1,33 @@
+{
+  "fullName": "Lithops",
+  "name": "lithops",
+  "commonNames": [
+    "Kiawe",
+    "Living Stones",
+    "Mesquite"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lithops/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lithops",
+  "family": "Aizoaceae",
+  "country-or-region-of-origin": [
+    "Cape Provinces"
+  ],
+  "distribution": [
+    "Cape Provinces"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

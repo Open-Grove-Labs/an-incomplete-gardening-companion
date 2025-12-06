@@ -1,0 +1,158 @@
+{
+  "fullName": "Pinus flexilis",
+  "name": "pinus-flexilis",
+  "commonNames": [
+    "Limber Pine",
+    "Limbertwig Pine",
+    "Rocky Mountain Pine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pinus-flexilis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pinus",
+  "species": "flexilis",
+  "family": "Pinaceae",
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southwest Canada to western US"
+  ],
+  "wildlife-value": [
+    "This plant supports Imperial Moth (Eacles imperialis) larvae which have one brood per season and appear from April-October in the south. Adult Imperial Moths do not feed. Birds, browsers, and small mammals consume the seeds."
+  ],
+  "edibility": [
+    "Edible fruit"
+  ],
+  "dimensions": [
+    "Height: 30 ft. 0 in. - 60 ft. 0 in.",
+    "Width: 15 ft. 0 in. - 35 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Pyramidal"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "flower-color": [
+    "Brown/Copper"
+  ],
+  "flower-value-to-gardener": [
+    "Edible"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Erect cones when young, turn light brown."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green",
+    "White"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Needles",
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Dark bluish-green needles in bundles of 5.  All side have 3 to 4 white lines.  Sharp-pointed."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Ridges",
+    "Smooth"
+  ],
+  "bark-description": [
+    "Light gray, nearly smooth, becoming dark brown and cross-checkered with age into scaly plates and ridges."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Tough, smooth and flexible."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Naturalized Area",
+    "Recreational Play Area",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Nighttime Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Screen/Privacy",
+    "Shade Tree",
+    "Specimen"
+  ],
+  "attracts": [
+    "Moths",
+    "Small Mammals",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

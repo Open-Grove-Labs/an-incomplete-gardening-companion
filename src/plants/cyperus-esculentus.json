@@ -1,0 +1,218 @@
+{
+  "fullName": "Cyperus esculentus",
+  "name": "cyperus-esculentus",
+  "commonNames": [
+    "Chufa Flatsedge",
+    "Chufa Sedge",
+    "Earth Almond",
+    "Tiger Nut",
+    "Yellow Nut-grass",
+    "Yellow Nutsedge"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cyperus-esculentus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cyperus",
+  "species": "esculentus L.",
+  "family": "Cyperaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southern United States, tropical to subtropical regions"
+  ],
+  "distribution": [
+    "Throughout United States",
+    "except Wyoming and Montana."
+  ],
+  "wildlife-value": [
+    "Larval host for Dun Skipper."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Difficult to remove due to long, rhizomous roots."
+  ],
+  "edibility": [
+    "Tubers can be eaten raw, cooked or dried and ground into a powder and used in confectionery. A nut-like flavor but rather chewy and with a tough skin. A beverage is made by mixing the ground tubers with water, cinnamon, sugar, vanilla and ice. An edible oil is obtained from the tuber that compares favourably with olive oil. The roasted tubers are a coffee substitute."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 2 ft. 0 in.",
+    "Width: 0 ft. 2 in. - 0 ft. 5 in."
+  ],
+  "plant-type": [
+    "Edible",
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Ornamental Grasses and Sedges",
+    "Weed"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Erect",
+    "Mounding"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Thorns"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Gold/Yellow"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Spring",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Tiny, single seeded, smooth, oblong shaped."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Spikelets occur at the ends of the solitary stems in a cluster where the flower stalks arise from a common point (umbel-like). Individual spikelets are reddish-purple to reddish-brown in color. The size and shape of the umbel is rather variable and can be several inches across. Each umbel has 1-3 sessile spikes and 6-10 non-sessile spikes on straight branches of varying length. At the base of each umbel or compound umbel of spikelets, there are several leafy bracts of varying length; the largest bract is usually longer than the inflorescence. Each floral spike is about 2-3\" long, consisting of 4 ranks of spikelets along its central stalk (or rachis). The central stalk is flattened and narrowly winged. The spikelets are perpendicular to this stalk and about ½–¾\" long. The spikelets are yellow to golden brown, narrowly linear, and flattened in shape; they consist of 10-30 florets and their scales. Each floret has a white tripartite style and yellowish brown anthers; the tips of the styles are curly."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves are light green, smooth, glossy, long, v-shaped and narrow. Three leaves extend broad at the base tapering to a point. The leaves tend to congregate toward the base of the plant. The leaf blades are up to 1½ feet long and 1/3 of an inch across spreading outward from the stem. There is a conspicuous channel along the central vein of each leaf blade, especially the larger ones. The leaf sheaths are whitish green, closed, and hairless; sometimes they become pale red toward the base of the plant."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Smooth/Hairless"
+  ],
+  "stem-bud-terminal": [
+    "Cluster of terminal buds"
+  ],
+  "stem-cross-section": [
+    "Angular"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-lenticels": [
+    "Not Conspicuous"
+  ],
+  "pith-split-longitudinally": [
+    "Spongy"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Erect, triangular stem branching into three stems of yellow, antenna-like seedpods. Stems rise from tuber or basal bulb with overapping, brown scales on rhizomes."
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rain Garden"
+  ],
+  "attracts": [
+    "Moths"
+  ],
+  "resistance-to-challenges": [
+    "Poor Soil",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "Used homeopathically; almond-flavored tubers used for a drink."
+}

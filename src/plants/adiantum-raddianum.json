@@ -1,0 +1,115 @@
+{
+  "fullName": "Adiantum raddianum",
+  "name": "adiantum-raddianum",
+  "commonNames": [
+    "Delta Maidenhair",
+    "Maidenhair Fern",
+    "Pacific Maidenhair"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/adiantum-raddianum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Adiantum",
+  "species": "raddianum",
+  "family": "Pteridaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical Americas and West Indies"
+  ],
+  "distribution": [
+    "Tropical Americas and West Indies"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "This plant is seldom damaged by deer."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 2 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Fern",
+    "Houseplant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Clumping",
+    "Creeping"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-description": [
+    "No fruit; reproduces via spores"
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Fronds"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Delicate, lace-likec lustered fronds, clump forming. 1-5-pinnate, arching, weakly glaucous beneath, membraneous; pinnae often decompound, flabellately branched; pinnules/leaflets somewhat triangular, broadly cuneate, lobed, sterile lobes cut deeply; stipe/petiole wiry, shiny black or tinged purple. SORI round to elongated, covered my revolute pinnule marginal flap."
+  ],
+  "stem-color": [
+    "Black"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio"
+  ],
+  "resistance-to-challenges": [
+    "Deer"
+  ]
+}

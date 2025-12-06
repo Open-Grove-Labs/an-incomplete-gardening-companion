@@ -1,0 +1,45 @@
+{
+  "fullName": "Rosa 'Sombreuil'",
+  "name": "rosa-sombreuil",
+  "commonNames": [
+    "Climbing Sombrueuil",
+    "Colonial White",
+    "Mlle de Sombreuil",
+    "Sombreuil Climber"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-sombreuil/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Rose"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Spreading"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Large, double, white globular buds; flattish shape; repeats throughout summer"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

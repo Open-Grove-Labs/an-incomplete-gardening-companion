@@ -1,0 +1,180 @@
+{
+  "fullName": "Rubus phoenicolasius",
+  "name": "rubus-phoenicolasius",
+  "commonNames": [
+    "Blackberry",
+    "Dewberry",
+    "Japanese wineberry",
+    "Wineberry",
+    "Wine raspberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rubus-phoenicolasius/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rubus",
+  "species": "phoenicolasius",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern Asia, Korea, and Japan"
+  ],
+  "wildlife-value": [
+    "This plant provides nectar for pollinators. Fruit is edible by songbirds and small mammals. Thicket-like growth can provide cover for small animals and birds."
+  ],
+  "edibility": [
+    "Juicy bright red fruits are eaten raw or cooked. Sweet and tart with a raspberry-like flavor, wineberries are used similarly to raspberries to make pastries, such as pie or other sweet treats."
+  ],
+  "plant-type": [
+    "Edible",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Aggregate",
+    "Drupe"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "After flowering, the fruit is enclosed in its calyx until just before it is ripe. Fruit ripens in August and September. The fruit is about .75 inches in diameter."
+  ],
+  "flower-color": [
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flower buds are red and hairy. Small flowers are white and star shaped with pointed tipped petals. Blooms from April to June."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Leaves are bright green on top, alternate, compound leaves with three heart-shaped toothed leaflets. The underside of the leaves are silvery and very hairy."
+  ],
+  "stem-color": [
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-buds": [
+    "Hairy"
+  ],
+  "stem-description": [
+    "The canes have red glandular hairs. Red stems adding colour to the winter garden."
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Barrier"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "problems": [
+    "Weedy"
+  ],
+  "uses": "Wineberries are used similarly to raspberries to make pastries, such as pie or other sweet treats."
+}

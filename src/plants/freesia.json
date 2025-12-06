@@ -1,0 +1,124 @@
+{
+  "fullName": "Freesia",
+  "name": "freesia",
+  "commonNames": [
+    "Baboon Flower",
+    "Freesias"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/freesia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Freesia",
+  "family": "Iridaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Kenya to South Africa"
+  ],
+  "distribution": [
+    "Introduced to California and Florida",
+    "France",
+    "Spain",
+    "Italy",
+    "Japan",
+    "parts of South America and Australia."
+  ],
+  "bulb-storage": [
+    "Store corms in a dry location at 77 to 86 degrees F (25 to 30 degrees C)."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 1 ft. 6 in.",
+    "Width: 0 ft. 6 in. - 1 ft. 0 in."
+  ],
+  "plant-type": [
+    "Bulb"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "flower-color": [
+    "Blue",
+    "Cream/Tan",
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-description": [
+    "Both single and double flowering cultivars exist. Sweetly fragrant, funnel-shaped flowers (5 to 10 per stem) that bloom in one-sided racemes."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Narrow, sword-shaped leaves appear in an iris-like fan."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Flowers appear atop leafless, branching, arching, wiry 18 inch stems."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Cutting Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Specimen"
+  ],
+  "uses": "Often used for scent in hand creams, shampoo and candles."
+}

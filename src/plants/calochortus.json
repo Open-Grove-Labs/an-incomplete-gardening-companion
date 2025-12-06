@@ -1,0 +1,74 @@
+{
+  "fullName": "Calochortus",
+  "name": "calochortus",
+  "commonNames": [
+    "Butterfly Tulip",
+    "Calochortus nuttalli",
+    "Cat Ear",
+    "Globe Tulip",
+    "Mariposa Lily",
+    "Sego Lily",
+    "Star Tulip"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/calochortus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Calochortus",
+  "family": "Liliaceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Western North America"
+  ],
+  "bulb-storage": [
+    "Store corms dry at 60 to 70 degrees F."
+  ],
+  "edibility": [
+    "Edible bulbs."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Herbaceous Perennial"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "Unlike most lilies, petals differ in size and color from their sepals. Flowers can be white, yellow, pink, purple, bluish, or streaked. The insides of the petals are often very 'hairy'."
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "attracts": [
+    "Pollinators"
+  ]
+}

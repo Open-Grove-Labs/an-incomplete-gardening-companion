@@ -1,0 +1,27 @@
+{
+  "fullName": "Zingiber mioga",
+  "name": "zingiber-mioga",
+  "commonNames": [
+    "Japanese Ginger",
+    "Myoga Ginger"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/zingiber-mioga/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Zingiber",
+  "species": "mioga",
+  "family": "Zingiberaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "edibility": [
+    "Flower buds and tender shoots are used in cooking"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

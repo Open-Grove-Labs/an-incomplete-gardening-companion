@@ -1,0 +1,44 @@
+{
+  "fullName": "Misopates orontium",
+  "name": "misopates-orontium",
+  "commonNames": [
+    "Lesser Snapdragon",
+    "Weasel's Snout"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/misopates-orontium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Misopates",
+  "species": "orontium",
+  "family": "Plantaginaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Micronesia, Europe, Sudan"
+  ],
+  "plant-type": [
+    "Perennial",
+    "Weed"
+  ],
+  "fruit-description": [
+    "Fruits resemble a weasel's snout hence the common name. Dry, splits open when ripe."
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N"
+}

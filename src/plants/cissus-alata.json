@@ -1,0 +1,151 @@
+{
+  "fullName": "Cissus alata",
+  "name": "cissus-alata",
+  "commonNames": [
+    "Grape Ivy",
+    "Grape Leaf Ivy",
+    "Oak Leaf Ivy",
+    "Venezuela treebine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cissus-alata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cissus",
+  "species": "alata",
+  "family": "Vitaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Mexico to Bolivia and Trinidad"
+  ],
+  "climbing-method": [
+    "Tendrils"
+  ],
+  "dimensions": [
+    "Height: 4 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Cascading",
+    "Climbing"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "appendage": [
+    "Tendrils"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-value-to-gardener": [
+    "Showy"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-description": [
+    "A dry berry, purple-black, non-ornamental and rare indoors."
+  ],
+  "flower-color": [
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Insignificant"
+  ],
+  "flower-description": [
+    "insignificant (3-10) greenish-white, small, seldom seen in cultivation, a compound cyme, axillary."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Cuneate",
+    "Ovate",
+    "Rhomboidal"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "This plant has leathery, glossy, green, and ovate leaves in a trifoliate pattern that grows up to 8 inches long with toothed margins towards the tips. Silky brown hairs on the undersides. Opposite with one leaf missing or a forked tendril, alternately compound; segments rhombic-ovate, acute, cuneate, remotely sharply dentate, shiny dark green above, red pubescent on veins beneath; petioles rusty pubescent."
+  ],
+  "stem-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Stems yellow with reddish hairs when young."
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ]
+}

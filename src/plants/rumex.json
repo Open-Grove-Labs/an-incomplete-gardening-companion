@@ -1,0 +1,124 @@
+{
+  "fullName": "Rumex",
+  "name": "rumex",
+  "commonNames": [
+    "Dock",
+    "Sorrel"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rumex/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rumex",
+  "family": "Polygonaceae",
+  "life-cycle": [
+    "Annual",
+    "Biennial",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "distribution": [
+    "Throughout"
+  ],
+  "wildlife-value": [
+    "butterfly host"
+  ],
+  "edibility": [
+    "Leaves for flavoring, flowers, and seeds."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-type": [
+    "Achene"
+  ],
+  "fruit-description": [
+    "Fruit is a reddish brown, 3-angled achene, often with a round tubercle on one or all three sides."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-description": [
+    "Flowers small, in terminal, branched clusters, red or green. Flowers are carried above the leaves in clusters."
+  ],
+  "leaf-feel": [
+    "Fleshy",
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Orbicular",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Crenate",
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves form a basal rosette at the root , which differs from the leaves near the flowers. They may or may not have stipules. Minor leaf veins occur."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Erect, ascending, or prostrate, glabrous or papillose-pubescent."
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Ingesting leaves in large quantities and if not cooked properly can cause nausea, stomach cramps, vomiting, headache.\nKidney failure (rare in dogs/cats), tremors, salivation."
+  ],
+  "poison-toxic-principle": [
+    "Soluble calcium oxalates"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "fullName": "Rosa 'Dr. W. van Fleet'",
+  "name": "rosa-dr-w-van-fleet",
+  "commonNames": [
+    "Dr. W. Van Fleet rose"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-dr-w-van-fleet/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "plant-type": [
+    "Perennial",
+    "Rose",
+    "Vine"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "long stems"
+  ]
+}

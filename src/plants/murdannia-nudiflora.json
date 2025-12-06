@@ -1,0 +1,100 @@
+{
+  "fullName": "Murdannia nudiflora",
+  "name": "murdannia-nudiflora",
+  "commonNames": [
+    "Doveweed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/murdannia-nudiflora/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Murdannia",
+  "species": "nudiflora",
+  "family": "Commelinaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Asia"
+  ],
+  "distribution": [
+    "SE US"
+  ],
+  "plant-type": [
+    "Weed"
+  ],
+  "habit/form": [
+    "Horizontal"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "flower-color": [
+    "Purple/Lavender"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Radial"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals"
+  ],
+  "flower-description": [
+    "Purplish 3-petalled flowers occur in loose groups from mid-summer to fall"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Leaves are 2 to 5 inches long, about 1/4 to 1/2 inch wide, pointed, with parallel veins; alternate and clasping the stem with a sheath. When very young, this plant can easily be confused with a grass"
+  ],
+  "stem-is-aromatic": "N",
+  "problems": [
+    "Weedy"
+  ]
+}

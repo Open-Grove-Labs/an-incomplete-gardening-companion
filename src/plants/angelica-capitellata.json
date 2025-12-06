@@ -1,0 +1,200 @@
+{
+  "fullName": "Angelica capitellata",
+  "name": "angelica-capitellata",
+  "commonNames": [
+    "Button Parsley",
+    "Grayswamp Whiteheads",
+    "Ranger's Buttons",
+    "Swamp White Heads",
+    "White Heads",
+    "Woollyhead Parsnip"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/angelica-capitellata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Angelica",
+  "species": "capitellata",
+  "family": "Apiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Western North America, California, Nevada, Oregon, Idaho"
+  ],
+  "distribution": [
+    "Wetlands of the northwest United States"
+  ],
+  "wildlife-value": [
+    "Bees and butterflies nectar at this plant. Larval host plant for Anise Swallowtail butterfly."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 6 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Cream/Tan",
+    "Gold/Yellow"
+  ],
+  "fruit-type": [
+    "Schizocarp"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruit is oblong to round, flattened, glabrous to hairy with prominent winged ribs."
+  ],
+  "flower-color": [
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Ornamental white spherical inflorescence that is a 4 inch across tight compound umbel made of between 4-18 umbellets that look like fuzzy buttons protruding from hairy stems. The tiny white flowers change from pinkish-purple buds to pure white flowers which later fade to light purple. The button-like flower is about 1/2 inch in diameter and blooms in July - August."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblong",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Ternate (3 leaves) or pinnate sparsely toothed or irregularly lobed."
+  ],
+  "stem-color": [
+    "Green",
+    "White"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The stout, erect, smooth stem turns hairy within the inflorescence."
+  ],
+  "landscape-location": [
+    "Meadow",
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Pollinator Garden",
+    "Rain Garden"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Photosensitivity (sunburn, dermatitis)"
+  ],
+  "poison-toxic-principle": [
+    "Furocoumarins"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Stems"
+  ]
+}

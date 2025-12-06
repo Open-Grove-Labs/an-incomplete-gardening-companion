@@ -1,0 +1,136 @@
+{
+  "fullName": "Albuca",
+  "name": "albuca",
+  "commonNames": [
+    "Sentry-Boxes",
+    "Slime Lily",
+    "Soldier-in-the-Box"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/albuca/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Albuca",
+  "family": "Asparagaceae",
+  "life-cycle": [
+    "Bulb"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Africa, from the Mediterranean to South Africa"
+  ],
+  "distribution": [
+    "Have been introduced into Arkansas",
+    "Mexico",
+    "and Western Australia."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "sandy soil"
+  ],
+  "bulb-storage": [
+    "Leave bulbs in dry planting medium and store at 45-48 degrees F (7-9 degrees C)"
+  ],
+  "plant-type": [
+    "Bulb"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches"
+  ],
+  "usda-plant-hardiness-zone": [
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "Ovoid capsule containing black, flattened seeds."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Tubular"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Inflorescence a raceme; peduncle glabrous; bracts lanceolate to ovate-acuminate, not spurred; pedicels erect to ascending . Flower's color is yellow or white with green or red stripes and the flowers are scented, especially at night. Flowers usually appear with the leaves."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Rubbery"
+  ],
+  "leaf-type": [
+    "Sheath"
+  ],
+  "leaf-shape": [
+    "Filiform",
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "Leaves produced at the same time as the flowers, filiform to lanceolate. The leaves can be glabrous (smooth) or pubescent (hairy), depending on species."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-theme": [
+    "Cutting Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Mass Planting"
+  ]
+}

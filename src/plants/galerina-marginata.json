@@ -1,0 +1,75 @@
+{
+  "fullName": "Galerina marginata",
+  "name": "galerina-marginata",
+  "commonNames": [
+    "Autumn Skullcap",
+    "Deadly Galerina"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/galerina-marginata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Galerina",
+  "species": "marginata",
+  "family": "Hymenogastraceae",
+  "country-or-region-of-origin": [
+    "Europe, North America, and Asia"
+  ],
+  "distribution": [
+    "Apparently well distributed throughout NC"
+  ],
+  "edibility": [
+    "NOT EDIBLE!  See poison information for details."
+  ],
+  "plant-type": [
+    "Mushroom",
+    "Poisonous"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)"
+  ],
+  "fruit-description": [
+    "No fruit. Develops spores that are rusty brown"
+  ],
+  "flower-description": [
+    "No flowers"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "No leaves"
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Cream/Tan"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Light brown to tan, fibrillose below annulus, hollow, base with dense white mycelium"
+  ],
+  "problems": [
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Highly toxic, may be fatal if eaten.  Symptoms may occur 6-24 hours after eating and include severe abdominal pain, vomiting, and diarrhea which may persist 6-9 hours.  Initial symptoms are frequently followed by a lag period up to 24 hours. During this symptomless period, toxins are severely affecting the liver resulting in gastrointestinal bleeding, coma, kidney failure and death usually within 7 days after eating."
+  ],
+  "poison-toxic-principle": [
+    "Amatoxins"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Fruits",
+    "Stems"
+  ]
+}

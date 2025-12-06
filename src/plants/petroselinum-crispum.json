@@ -1,0 +1,67 @@
+{
+  "fullName": "Petroselinum crispum",
+  "name": "petroselinum-crispum",
+  "commonNames": [
+    "Italian Parsley",
+    "Parsley"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/petroselinum-crispum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Petroselinum",
+  "species": "crispum",
+  "family": "Apiaceae",
+  "life-cycle": [
+    "Biennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "wildlife-value": [
+    "Host plant for swallowtail butterfly."
+  ],
+  "edibility": [
+    "Leaves as flavoring and garnish"
+  ],
+  "plant-type": [
+    "Edible",
+    "Herb"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "attracts": [
+    "Butterflies"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Photosensitization (sunburn, dermatitis), large amounts are needed to cause this effect"
+  ],
+  "poison-toxic-principle": [
+    "Furanocoumarins"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "fullName": "Parnassia asarifolia",
+  "name": "parnassia-asarifolia",
+  "commonNames": [
+    "Appalachian Grass-of-Parnassus",
+    "Grass-of-parnassus",
+    "Kidney-leaf Grass-of-parnassus"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/parnassia-asarifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Parnassia",
+  "species": "asarifolia",
+  "family": "Celastraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Eastern USA"
+  ],
+  "distribution": [
+    "AL ",
+    "AR ",
+    "GA ",
+    "KY ",
+    "MD ",
+    "NC ",
+    "TN ",
+    "TX ",
+    "VA ",
+    "WV"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Native Plant",
+    "Wildflower"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-description": [
+    "Fruits are available September-November."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-description": [
+    "1 in. white flower with five clawed petals; prominent green veins; five stamens alternate with petals. Flowers bloom July-October."
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Rosette of 4 inch kidney-shaped long-stalked basal leaves; single clasping leaf on the round stem"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-description": [
+    "Round green stem"
+  ],
+  "landscape-theme": [
+    "Native Garden"
+  ],
+  "attracts": [
+    "Songbirds"
+  ]
+}

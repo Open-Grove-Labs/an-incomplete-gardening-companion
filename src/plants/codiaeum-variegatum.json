@@ -1,0 +1,201 @@
+{
+  "fullName": "Codiaeum variegatum",
+  "name": "codiaeum-variegatum",
+  "commonNames": [
+    "Croton",
+    "Fire Croton",
+    "Garden Croton",
+    "Joseph's Coat",
+    "Variagated Croton"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/codiaeum-variegatum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Codiaeum",
+  "species": "variegatum",
+  "family": "Euphorbiaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Malaysia, Pacific islands and northern Australia"
+  ],
+  "distribution": [
+    "South Central China",
+    "Cuba",
+    "Puerto Rico"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 8 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 6 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Houseplant",
+    "Perennial",
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Oval"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The fruit is a capsule containing three seeds that are 1/4 inch in diameter."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Insignificant",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Insignificant",
+    "Raceme"
+  ],
+  "flower-description": [
+    "A slender axillary raceme, at branch tips. Male and female flowers on separate inflorescences; the male flowers are white with five small petals and 20–30 stamens; female flowers are yellowish, with no petals."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Linear",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Lobed",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Alternate, simple 18-inch leaves, linear to ovate, acute, entire or lobed, coriaceous (leathery), often rugose (crinkled) or twisted and glossy.  Cultivated varieties are more colorful. Leaves are in bright colors ranging from yellow, pink, orange, red, bronze, purple and green in patterns involving blotching and striping. Clear sap exudes when broken."
+  ],
+  "bark-color": [
+    "Dark Brown"
+  ],
+  "surface/attachment": [
+    "Fissured"
+  ],
+  "bark-description": [
+    "Woody old growth is vertically fissured."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-leaf-scar-shape": [
+    "Round"
+  ],
+  "stem-description": [
+    "New growth green, old growth brown and woody with vertical fissures and oval leaf scars giving the stem a pock-marked appearance."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Accent",
+    "Foundation Planting",
+    "Hedge",
+    "Specimen"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "TOXIC ONLY IF LARGE QUANTITIES EATEN. SKIN IRRITATION MINOR OR LASTING ONLY FOR A FEW MINUTES.  Allergic dermatitis with skin rash developing after repeated contact. Nausea, vomiting, diarrhea when ingested."
+  ],
+  "poison-toxic-principle": [
+    "Diterpene esters"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

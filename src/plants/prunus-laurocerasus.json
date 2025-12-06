@@ -1,0 +1,211 @@
+{
+  "fullName": "Prunus laurocerasus",
+  "name": "prunus-laurocerasus",
+  "commonNames": [
+    "Cherry Laurel",
+    "English Laurel"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/prunus-laurocerasus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Prunus",
+  "species": "laurocerasus",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "Europe"
+  ],
+  "distribution": [
+    "CA",
+    "OR",
+    "WA",
+    "British Columbia"
+  ],
+  "wildlife-value": [
+    "This is a larval host plant to Eastern Tiger Swallowtail (Papilio glaucus).  You may see three flights from February-November in the deep south and two flights from May-September in the north. Fruits are relished by birds."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "dimensions": [
+    "Height: 10 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 10 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Oval",
+    "Rounded",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "6-feet-12 feet",
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Purple/Lavender"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruits are globose-ovoid berry-like drupes that are purple-black in color and less than an inch in size."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers are white, fragrant, less than an inch in size, and have 20 stamens. Inflorescence is an axillary, dense, cylindrical raceme that grows up to 4\" long."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Leaves are alternate, simple, coriaceous, oblong to elliptic, acuminate, cuneate to rounded, serrate to nearly entire, lustrous medium to dark green above, and 10\" long and 5\" wide. Leaves have 2-8 conspicuous glands on blade underside and near base and next to the midrib."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Twigs are green and have a cherry odor when bruised. Pith is pale of brown and continuous. They have semi-circular stipular scars."
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Flowering Tree",
+    "Hedge",
+    "Screen/Privacy",
+    "Small Tree"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Pollinators",
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Dry Soil",
+    "Heavy Shade",
+    "Pollution",
+    "Poor Soil",
+    "Salt"
+  ],
+  "problems": [
+    "Malodorous",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Gasping, weakness, excitement, pupil dilation, spasms, convulsions, coma, respiratory failure\nStems, leaves, seeds contain cyanide, particularly toxic in the process of wilting: brick red mucous membranes, panting, shock."
+  ],
+  "poison-toxic-principle": [
+    "Cyanogenic glycoside, amygdalin"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Seeds",
+    "Stems"
+  ]
+}

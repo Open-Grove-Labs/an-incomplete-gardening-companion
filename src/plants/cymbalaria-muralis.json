@@ -1,0 +1,211 @@
+{
+  "fullName": "Cymbalaria muralis",
+  "name": "cymbalaria-muralis",
+  "commonNames": [
+    "Coliseum Ivy",
+    "Ivy-leafed toadflex",
+    "Kenilworth Ivy",
+    "Mother-of-thousands",
+    "Oxford-ivy",
+    "Pennywort",
+    "Wandering-sailor"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cymbalaria-muralis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cymbalaria",
+  "species": "muralis",
+  "family": "Plantaginaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe and Asia"
+  ],
+  "wildlife-value": [
+    "Honey bees are attracted to the dainty flowers."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Attracts Pollinators",
+    "Easy to Grow",
+    "Shade "
+  ],
+  "dimensions": [
+    "Height: 0 ft. 2 in. - 0 ft. 3 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 6 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Herbaceous Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Semi-evergreen",
+    "Broadleaf Evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Creeping",
+    "Dense",
+    "Prostrate"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The pedicels or dry fruits split open when they ripen.  They tend to grow away from sunlight."
+  ],
+  "flower-color": [
+    "Blue",
+    "Gold/Yellow",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Funnel"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Blue-violet snapdragon-type flower with a yellow throat and long spurs on a long petiole. Blooms May to Sept.  This two lipped flower has a 2-lobed upper lip and a 3-lobed lower lip."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Orbicular",
+    "Reniform"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "1-2 inch long rounded to kidney-shaped green leaves with 3-7 lobes that end with a sharp point.  Each is palmately veined and lobed."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Rooting at the nodes, the reddish-brown stems grow along the ground, forming a dense mat.  They can also scale walls.  Rooting takes place at the nodes."
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Naturalized Area",
+    "Patio",
+    "Rock Wall",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Pollinator Garden",
+    "Rock Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Small groups"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Drought"
+  ],
+  "uses": "Ground cover"
+}

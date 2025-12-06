@@ -1,0 +1,133 @@
+{
+  "fullName": "Cryptanthus zonatus",
+  "name": "cryptanthus-zonatus",
+  "commonNames": [
+    "Crypanthus",
+    "Earth's Stars",
+    "Pheasant Plant",
+    "Star Fish Plant",
+    "Zebra Plant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cryptanthus-zonatus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cryptanthus",
+  "species": "zonatus",
+  "family": "Bromeliaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Brazil"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 1 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 1 ft. 4 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Houseplant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Clumping"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Corymb"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Occasionally they may produce a short stubby stem from the center of the rosette with white flowers in a terminal stemless corymb."
+  ],
+  "leaf-color": [
+    "Brown/Copper",
+    "Pink",
+    "Red/Burgundy",
+    "Variegated"
+  ],
+  "leaf-value-to-gardener": [
+    "Long-lasting",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "The leaves form a rosette of green stiff leaves with wavy horizontal bands of silver-gray to cream with a pinkish cast. The leaf margins are wavy and toothed."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Rock Garden"
+  ],
+  "resistance-to-challenges": [
+    "Humidity"
+  ]
+}

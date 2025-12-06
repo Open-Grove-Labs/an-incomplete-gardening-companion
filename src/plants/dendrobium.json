@@ -1,0 +1,134 @@
+{
+  "fullName": "Dendrobium",
+  "name": "dendrobium",
+  "commonNames": [
+    "Orchid"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/dendrobium/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Dendrobium",
+  "family": "Orchidaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Tropical and Subtropical Asia to the Pacific and New Zealand"
+  ],
+  "distribution": [
+    "cultivated worldwide."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 4 ft. 0 in.",
+    "Width: 0 ft. 6 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Epiphyte",
+    "Herbaceous Perennial",
+    "Houseplant"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Weeping"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The fruit of this genus are long, oval pods with a stem at one end. In some species, the pod turns brown. The pods carry large numbers of tiny seeds which are easily dispersed."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme",
+    "Solitary"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-description": [
+    "Flowers may be in short or long racemes or panicles, some even pendulous, emerging from the top of the pseudobulb. Some have flowers that are solitary or in small clusters emerging from every node of the pseudobulb. Most inflorescences have 7 to 15 colorful flowers with short spurs at the back. They lack the sheath that Cattleya species have. Some species have flowers that last a few days while others last many months."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-shape": [
+    "Elliptical"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves vary in size among species.  Most are elliptical."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants"
+  ],
+  "design-feature": [
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Humidity"
+  ]
+}

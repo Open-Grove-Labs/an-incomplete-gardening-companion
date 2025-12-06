@@ -1,0 +1,46 @@
+{
+  "fullName": "Oxytropis",
+  "name": "oxytropis",
+  "commonNames": [
+    "Locoweed",
+    "Loco Weed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/oxytropis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Oxytropis",
+  "family": "Fabaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Temperate Northern Hemisphere"
+  ],
+  "plant-type": [
+    "Perennial",
+    "Weed"
+  ],
+  "fruit-type": [
+    "Legume"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink",
+    "Purple/Lavender",
+    "White"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "stem-is-aromatic": "N",
+  "problems": [
+    "Problem for Horses",
+    "Weedy"
+  ]
+}

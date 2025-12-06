@@ -1,0 +1,149 @@
+{
+  "fullName": "Kadsura japonica",
+  "name": "kadsura-japonica",
+  "commonNames": [
+    "Kadsura",
+    "Kadsura Vine"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/kadsura-japonica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Kadsura",
+  "species": "japonica",
+  "family": "Schisandraceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "South Korea, South Japan to Taiwan"
+  ],
+  "wildlife-value": [
+    "The larvae of the moth Caloptilia kadsurae feed on this plant."
+  ],
+  "climbing-method": [
+    "Twining"
+  ],
+  "edibility": [
+    "Edible fruits can be eaten raw or cooked."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub",
+    "Vine"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Semi-evergreen",
+    "Broadleaf Evergreen",
+    "Semi-evergreen"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "fruit-description": [
+    "Kadsura is dioecious (meaning individual flowers are either male or female, but only one sex is to be found on any one plant), thus both male and female plants must be grown if seed is required. The resulting fruits can be eaten raw or cooked."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-description": [
+    "Fragrant white flowers blossom from June to September."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Purple/Lavender",
+    "Variegated"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Red/Burgundy"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Deep green, glossy leaves are irregularly edged in white and turn slightly red in autumn."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Specimen"
+  ],
+  "attracts": [
+    "Moths"
+  ]
+}

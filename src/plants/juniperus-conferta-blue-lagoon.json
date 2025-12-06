@@ -1,0 +1,134 @@
+{
+  "fullName": "Juniperus conferta 'Blue Lagoon'",
+  "name": "juniperus-conferta-blue-lagoon",
+  "commonNames": [
+    "Blue Lagoon Juniper"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/juniperus-conferta-blue-lagoon/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Juniperus",
+  "species": "conferta",
+  "family": "Cupressaceae",
+  "wildlife-value": [
+    "Attracts birds."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "This plant is seldom damaged from deer. Drought and salt spray tolerant."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 5 ft. 0 in.",
+    "Width: 0 ft. 8 in. - 0 ft. 10 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Cascading",
+    "Dense",
+    "Horizontal",
+    "Prostrate",
+    "Spreading"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black"
+  ],
+  "fruit-description": [
+    "Berry-like cones turn a silvery bloom when mature. Male clone; no seed is produced."
+  ],
+  "flower-description": [
+    "Junipers do not flower."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Prickly"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Purple/Lavender"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Medium bluish-green awl-shaped needles with a single white stomatal band on each small, awl-shaped needle. Foliage turns a plum color in winter."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Coastal",
+    "Patio",
+    "Pond",
+    "Slope/Bank",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Rock Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought"
+  ]
+}

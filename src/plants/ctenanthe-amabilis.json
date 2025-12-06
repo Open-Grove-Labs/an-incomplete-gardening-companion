@@ -1,0 +1,122 @@
+{
+  "fullName": "Ctenanthe amabilis",
+  "name": "ctenanthe-amabilis",
+  "commonNames": [
+    "Never Never Plant",
+    "Stromanthe"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ctenanthe-amabilis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ctenanthe",
+  "species": "amabilis",
+  "family": "Marantaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Brazil"
+  ],
+  "distribution": [
+    "Native: Brazil; Introduced: Costa Rica; Popular houseplant in many parts of the world."
+  ],
+  "dimensions": [
+    "Height: 0 ft. 4 in. - 1 ft. 8 in.",
+    "Width: 0 ft. 4 in. - 1 ft. 8 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Perennial"
+  ],
+  "habit/form": [
+    "Dense"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "11b"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-shape": [
+    "Funnel",
+    "Tubular"
+  ],
+  "flower-description": [
+    "The inflorescence is a raceme with leathery bracts subtending stalked, bracteolate cymules. Flowers are white, small, fleshy. This plant seldom has flowers."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green",
+    "Purple/Lavender"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leaves are crowded, in basal rosettes, oblong-elliptic, apex truncate with short sharp acumen, base rotund. They are entire, upper side silver-gray with alternating short and long bands of dark green in the direction of the veins; the long dark green bands extend into the margin. The underside is purple; petiole long, sheathing."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stems are short and rhizomatous."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio"
+  ]
+}

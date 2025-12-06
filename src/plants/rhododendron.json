@@ -1,0 +1,265 @@
+{
+  "fullName": "Rhododendron",
+  "name": "rhododendron",
+  "commonNames": [
+    "Azalea",
+    "Rhododendron",
+    "Rosebay"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rhododendron/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rhododendron",
+  "family": "Ericaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting",
+    "Layering",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Northern Hemisphere to Tropical Asian Mountains and NE Australia"
+  ],
+  "distribution": [
+    "Native: most of the United States except AZ",
+    "IA",
+    "IN",
+    "NE",
+    "ND",
+    "and SD. Native:  Europe",
+    "Asia",
+    "and NE Australia.  Introduced: Belgium",
+    "Great Britain",
+    "Ireland",
+    "Madeira",
+    "and the Netherlands."
+  ],
+  "wildlife-value": [
+    "Flowers attract humingbirds. Members of the genus Rhododendron support the following specialized bee: Andrena (Andrena) cornelli.  Deer browse this plant."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Colorful"
+  ],
+  "dimensions": [
+    "Height: 6 ft. 0 in. - 10 ft. 0 in.",
+    "Width: 5 ft. 0 in. - 8 ft. 0 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Native Plant",
+    "Perennial",
+    "Poisonous",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Deciduous",
+    "Broadleaf Evergreen",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Deep shade (Less than 2 hours to no direct sunlight)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet",
+    "6-feet-12 feet",
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "A terminal cluster of dried red-brown capsules, 1/2\" long, appears in fall and releases seeds."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Pink",
+    "Purple/Lavender",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Bell",
+    "Funnel",
+    "Tubular"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Azalea blooms are tubular or funnel-shaped. Rhododendron blooms are bell-shaped. They are both 5 lobed. Azaleas flower on many stems like an umbrella.  Rhododendrons bloom in clusters.  Azaleas bloom in April and have 5 stamens, and rhododendrons bloom later in the spring and have 10 stamens. Azaleas bloom in pink, red, orange, yellow, white, purple, and lavender. Rhododendrons bloom in pink, red, purple, and white, and rarely yellow."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy",
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Oblanceolate",
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves may be evergreen or deciduous. Azaleas leaves are small, thin, elliptic, and obovate with entire margins. They are also thickly pubescent and cluster at the tips of the branches. Rhododendron leaves are laurel-like, green elliptic with entire margins, thick, leathery, glossy, and cluster at the end of the stem."
+  ],
+  "surface/attachment": [
+    "Peeling",
+    "Shredding"
+  ],
+  "bark-description": [
+    "The bark is thin and sometimes peels or shreds."
+  ],
+  "stem-color": [
+    "Gold/Yellow",
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stems may be erect, creeping, or prostrate, and they may be smooth or hairy.  Leaf buds are small, flower buds are larger and shaped like eggs, gray to yellowish"
+  ],
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Patio",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Native Garden",
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Hedge",
+    "Mass Planting",
+    "Screen/Privacy",
+    "Small groups",
+    "Specimen"
+  ],
+  "attracts": [
+    "Hummingbirds",
+    "Pollinators",
+    "Specialized Bees"
+  ],
+  "resistance-to-challenges": [
+    "Rabbits"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "Salivation, watering of eyes and nose, abdominal pain, loss of energy, depression, nausea and vomiting, diarrhea, weakness, difficult breathing, progressive paralysis of arms and legs, cardiac failure, coma."
+  ],
+  "poison-toxic-principle": [
+    "Andromedotoxin, Grayantoxin"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ],
+  "uses": "The species has been used in traditional medicine to treat pain, gastrointestinal problems, asthma, colds, and skin diseases. They are toxic and have all been used as poison."
+}

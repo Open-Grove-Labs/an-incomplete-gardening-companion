@@ -1,0 +1,38 @@
+{
+  "fullName": "Ranunculus acris",
+  "name": "ranunculus-acris",
+  "commonNames": [
+    "Burwort",
+    "Butter Cress",
+    "Buttercup",
+    "Crowfoot burwort",
+    "Figwort"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ranunculus-acris/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ranunculus",
+  "species": "acris",
+  "family": "Ranunculaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Greenland, Europe, Russia"
+  ],
+  "plant-type": [
+    "Weed"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ]
+}

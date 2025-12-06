@@ -1,0 +1,122 @@
+{
+  "fullName": "Pulsatilla vulgaris",
+  "name": "pulsatilla-vulgaris",
+  "commonNames": [
+    "Meadow Anemone",
+    "Pasque Flower",
+    "Wind Flower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/pulsatilla-vulgaris/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Pulsatilla",
+  "species": "vulgaris",
+  "family": "Ranunculaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, southwestern Asia"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "dry soil, no serious insect or disease problems"
+  ],
+  "plant-type": [
+    "Herbaceous Perennial",
+    "Poisonous",
+    "Wildflower"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "fruit-description": [
+    "Flowers are followed by equally-ornamental, plume-like seedheads (reminiscent of some clematis) in fluffy spherical clusters."
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-shape": [
+    "Bell"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "This plant has 1.5-in. flowers borne singly on 5 to 8 in. stalks, with three sessile deeply-cut leaflets or bracts. Sepals are dull violet-purple; very silky on the under surfaces.\n\nFlowers are showy are singular pale or dark violet, rarely white, cup- or bell-shaped with 5-many petal-like parts and many stamens. Flowers are followed by equally-ornamental, plume-like seedheads (reminiscent of some clematis) in fluffy spherical clusters."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Soft"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Whorled"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-description": [
+    "This plant has a rosette of finely-divided, stalked leaves, covered with silky hairs (furry). The leaves are fern-like, alternate or whorled, and are attractive even when plant is not flowering."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "This plant has hairy stems that emerge first in the spring."
+  ],
+  "resistance-to-challenges": [
+    "Diseases",
+    "Dry Soil",
+    "Insect Pests"
+  ],
+  "problems": [
+    "Contact Dermatitis",
+    "Poisonous to Humans"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "TOXIC ONLY IF LARGE QUANTITIES EATEN. CAUSES SEVERE PAIN IN THE MOUTH IF EATEN! Poisonous through ingestion and dermatitis. (Poisonous parts:     All parts when fresh). Symptoms may include:     Inflammation and blistering upon contact with fresh sap; irritation of mouth, vomiting and diarrhea following ingestion."
+  ],
+  "poison-toxic-principle": [
+    "Protoanemonin"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Seeds",
+    "Stems"
+  ],
+  "uses": "Can be used as an herbal medicine."
+}

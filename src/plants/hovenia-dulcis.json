@@ -1,0 +1,225 @@
+{
+  "fullName": "Hovenia dulcis",
+  "name": "hovenia-dulcis",
+  "commonNames": [
+    "Japanese Raisintree",
+    "Japanese Raisin Tree",
+    "Oriental Raisin Tree",
+    "Raisin hovenia",
+    "Sweet Stick"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hovenia-dulcis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hovenia",
+  "species": "dulcis",
+  "family": "Rhamnaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "East Asia, China and the Himalayas"
+  ],
+  "wildlife-value": [
+    "Birds are attracted to the fruits."
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Edible fruit ",
+    "Fragrance",
+    "Shade "
+  ],
+  "edibility": [
+    "Its fruits are edible, often used as a sweetener."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Erect",
+    "Open",
+    "Oval",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "more than 60 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Fragrant",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule",
+    "Drupe"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fleshy, red, edible seed capsules can be eaten both raw and cooked.  They can cause a litter problem."
+  ],
+  "flower-color": [
+    "Green",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Insignificant"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Fragrant"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The tiny, inconspicuous, cream-colored flowers form in clusters in early summer.  The flowers are attractive to insects."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Fragrant",
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Cordate",
+    "Elliptical",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Its glossy, green leaves are 4-6\" long.  They may turn yellow before dropping in the fall, but falling green leaves is not uncommon."
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Light Gray"
+  ],
+  "surface/attachment": [
+    "Ridges"
+  ],
+  "bark-description": [
+    "Gray to gray-brown"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Lawn",
+    "Meadow"
+  ],
+  "landscape-theme": [
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Flowering Tree",
+    "Specimen",
+    "Street Tree"
+  ],
+  "attracts": [
+    "Bees"
+  ],
+  "resistance-to-challenges": [
+    "Diseases",
+    "Insect Pests"
+  ],
+  "problems": [
+    "Messy"
+  ],
+  "uses": "Young foliage and fruits are edible, a substitute for honey."
+}

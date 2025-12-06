@@ -1,0 +1,200 @@
+{
+  "fullName": "Euphorbia",
+  "name": "euphorbia",
+  "commonNames": [
+    "Euphorbia",
+    "Spurge"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/euphorbia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Euphorbia",
+  "family": "Euphorbiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, Africa and Asia"
+  ],
+  "distribution": [
+    "worldwide"
+  ],
+  "edibility": [
+    "toxic if ingested"
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 1 ft. 6 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Annual",
+    "Herbaceous Perennial",
+    "Houseplant",
+    "Perennial",
+    "Poisonous",
+    "Shrub",
+    "Succulent"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Erect",
+    "Multi-stemmed",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "appendage": [
+    "Spines"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Cyme"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "2-3 rays/petals",
+    "Bracts"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "The inflorescence is called a cyathium, which is a cluster of both staminate and pistillate flowers surrounded by bracts and nectar glands. The cyathium functions like a single flower. True flowers are unisexual and are not showy (they lack petals or sepals); however, the bracts surrounding the cyathium may be showy."
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Variegated",
+    "White"
+  ],
+  "leaf-feel": [
+    "Fleshy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite",
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Linear",
+    "Oblanceolate",
+    "Oblong",
+    "Obovate",
+    "Spatulate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Comes in many color variations of green included variegated with white or yellow stripes.  Some species have leaves on top of a thick caudex or along woody branches, others have long, succulent branches, and others have spines like a cactus (actually a modified stipule and/or peduncle)."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Stems vary wildly among species; may be long and thin or thick like a cactus, fleshy and succulent or woody and branched."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Cutting Garden",
+    "Drought Tolerant Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Pollution",
+    "Rabbits"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "The milky white latex sap found in all plant parts can cause mild to severe contact dermatitis. If contact with the eyes occurs the sap can cause temporary to permanent damage to the cornea. If eaten, blistering can occur on lips and oral mucosa. Avoid ingesting plant parts and keep plants away from pets and children."
+  ],
+  "poison-toxic-principle": [
+    "Diterpene esters in milky latex"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Stems"
+  ]
+}

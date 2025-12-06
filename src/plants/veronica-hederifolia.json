@@ -1,0 +1,133 @@
+{
+  "fullName": "Veronica hederifolia",
+  "name": "veronica-hederifolia",
+  "commonNames": [
+    "Ivyleaf speedwell",
+    "Ivy leaved speedwell",
+    "Ivy-leaved Speedwell"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/veronica-hederifolia/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Veronica",
+  "species": "hederifolia",
+  "family": "Plantaginaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "country-or-region-of-origin": [
+    "Europe and Central Asia"
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "habit/form": [
+    "Prostrate"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "fruit-color": [
+    "Green"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruit is a dehiscent capsule that is heart-shaped with a rounded top and surrounded by hair sepals"
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "flower-inflorescence": [
+    "Solitary"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Individual flowers are 4-petaled, light blue with darker blue lines and a whitish center up to .4 inches across. Grows from the axils of the leaves. The sepals are green and hairy."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Hairy oval leaves with 3-5 shallow lobes and resemble an ivy leaf. Lower leaves are opposite while stem leaves are opposite. Leaves are up to 3/4 inches wide. Undersides may have some red coloration."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Hairy reddish-brown to green stem up to 24 inches long"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

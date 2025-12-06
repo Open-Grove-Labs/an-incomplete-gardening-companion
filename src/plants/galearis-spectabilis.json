@@ -1,0 +1,119 @@
+{
+  "fullName": "Galearis spectabilis",
+  "name": "galearis-spectabilis",
+  "commonNames": [
+    "Gay Orchid",
+    "Purple-hooded Orchid",
+    "Showy Orchid",
+    "Showy Orchis"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/galearis-spectabilis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Galearis",
+  "species": "spectabilis",
+  "family": "Orchidaceae",
+  "country-or-region-of-origin": [
+    "East Canada to N. Central & Eastern U.S.A"
+  ],
+  "distribution": [
+    "Native in Quebec to Ontario in Canada",
+    "and south to North Carolina",
+    "Alabama",
+    "Georgia",
+    "Missouri and Kansas."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Wildflower"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "flower-color": [
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-shape": [
+    "Lipped"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Flowers are in a terminal cluster of three to ten or more blooms. The flowers are 3/4 inch to 1.5 inches long,  two-parted with a pink to light purple upper hood (formed by the joined sepals and lateral petals) and a white lower petal which forms a spurred lip. The flowers can be lightly fragrant."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Fleshy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Ovate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Two basal leaves, that are fleshy, oval to elliptic, and clasping the stem. First-year plants have only one foliage leaf."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Pollinator Garden",
+    "Shade Garden"
+  ],
+  "attracts": [
+    "Bees"
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "fullName": "Callitropsis nootkatensis",
+  "name": "callitropsis-nootkatensis",
+  "commonNames": [
+    "Alaska Cedar",
+    "Alaska Cypress",
+    "Alaska Yellow Cedar",
+    "Nootka Cedar",
+    "Nootka Cypress",
+    "Nootka False Cypress",
+    "Yellow Cedar",
+    "Yellow Cypress"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/callitropsis-nootkatensis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Callitropsis",
+  "species": "nootkatensis",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Grafting",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Alaska to British Columbia and Washington, Cascades to Oregon"
+  ],
+  "distribution": [
+    "Alaska and northern California"
+  ],
+  "play-value": [
+    "Easy to Grow",
+    "Screening",
+    "Textural ",
+    "Wildlife Nesting"
+  ],
+  "dimensions": [
+    "Height: 20 ft. 0 in. - 120 ft. 0 in.",
+    "Width: 8 ft. 0 in. - 30 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Columnar",
+    "Erect",
+    "Pyramidal",
+    "Weeping"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "No true fruits - female seed-bearing cones are green when immature turning to brown."
+  ],
+  "flower-color": [
+    "Insignificant"
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-description": [
+    "No true flowers, pollen bearing cones."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Needles",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The scale-like leaves are described as being opposite, or sub-opposite."
+  ],
+  "bark-color": [
+    "Dark Brown",
+    "Green",
+    "Red/Burgundy"
+  ],
+  "surface/attachment": [
+    "Exfoliating"
+  ],
+  "bark-plate-shape": [
+    "Square"
+  ],
+  "bark-description": [
+    "Reddish/brown exfoliating bark."
+  ],
+  "stem-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-description": [
+    "Interesting reddish/brown stems."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Meadow",
+    "Patio",
+    "Vertical Spaces"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Barrier",
+    "Border",
+    "Hedge",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Humidity",
+    "Insect Pests",
+    "Pollution",
+    "Wind"
+  ],
+  "uses": "The wood is used for cabinet making, boats, and cor carvings."
+}

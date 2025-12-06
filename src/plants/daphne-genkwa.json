@@ -1,0 +1,211 @@
+{
+  "fullName": "Daphne genkwa",
+  "name": "daphne-genkwa",
+  "commonNames": [
+    "Blue Daphne",
+    "Lilac Daphne"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/daphne-genkwa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Daphne",
+  "species": "genkwa",
+  "family": "Thymelaeaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "China to Temp. Eastern Asia"
+  ],
+  "wildlife-value": [
+    "Attractive to pollinators.  Bees, flies, butterflies and moths are pollinators of this plant."
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Poisonous",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Erect",
+    "Open"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet",
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Red/Burgundy",
+    "White"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "flower-color": [
+    "Blue",
+    "Purple/Lavender"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Winter"
+  ],
+  "flower-shape": [
+    "Tubular"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Lilac flowers appear in groups of clusters, with 2-7 blooms per cluster.  The slightly fragrant flowers can be lilac, rose-purple, or white.  They will open in the late winter to early spring before the leaves form."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate",
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "The leaves are simple and mostly opposite leaves, however, some are alternate.  Silky hairs can be found on both sides of the leaves when they first appear.  Gradually they will become obsolete, only remaining along the veins on the underside.  The upper side of the foliage is a dull green with a paler green on the underside."
+  ],
+  "stem-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The thin stems are sparsely branched."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Meadow",
+    "Patio",
+    "Pool/Hardscape",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Cutting Garden",
+    "Pollinator Garden",
+    "Rock Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Hedge",
+    "Mass Planting",
+    "Screen/Privacy",
+    "Specimen"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies",
+    "Moths"
+  ],
+  "problems": [
+    "Poisonous to Humans",
+    "Short-lived"
+  ],
+  "poison-severity": [
+    "High"
+  ],
+  "poison-symptoms": [
+    "HIGHLY TOXIC, MAY BE FATAL IF EATEN!  Unknown, but possibly as in D. mezereum."
+  ],
+  "poison-toxic-principle": [
+    "Unknown, suspected to be a diterpenoid (mezerein)"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ],
+  "poison-part": [
+    "Bark",
+    "Flowers",
+    "Fruits",
+    "Leaves",
+    "Roots",
+    "Sap/Juice",
+    "Seeds",
+    "Stems"
+  ]
+}

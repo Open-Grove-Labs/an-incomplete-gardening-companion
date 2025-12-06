@@ -1,0 +1,162 @@
+{
+  "fullName": "Hoya pubicalyx",
+  "name": "hoya-pubicalyx",
+  "commonNames": [
+    "Pink Silver",
+    "Porcelain Flower",
+    "Silver Pink Vine",
+    "Wax Plant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hoya-pubicalyx/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hoya",
+  "species": "pubicalyx",
+  "family": "Apocynaceae",
+  "life-cycle": [
+    "Annual",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Philippines"
+  ],
+  "distribution": [
+    "Philippines"
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Colorful",
+    "Easy to Grow",
+    "Fragrance"
+  ],
+  "plant-type": [
+    "Annual",
+    "Houseplant",
+    "Succulent",
+    "Vine"
+  ],
+  "habit/form": [
+    "Climbing",
+    "Creeping"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b"
+  ],
+  "flower-color": [
+    "Pink"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Star"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "The flowers appear in clusters of dusty pink flowers with pink centers.  Their fragrance is emitted during the evening hours."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Opposite"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The long, narrow, thick, glossy, deep green foliage can sometimes be decorated with gray specks."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stems may be purple/gray."
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants",
+    "Patio"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Nighttime Garden"
+  ],
+  "design-feature": [
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Humidity"
+  ],
+  "uses": "Indoor plant, or protected outdoor plant."
+}

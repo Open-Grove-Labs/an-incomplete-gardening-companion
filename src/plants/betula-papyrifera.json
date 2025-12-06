@@ -1,0 +1,219 @@
+{
+  "fullName": "Betula papyrifera",
+  "name": "betula-papyrifera",
+  "commonNames": [
+    "Canoe Birch",
+    "Kenai Birch",
+    "Mountain Paper Birch",
+    "Paperbark birch",
+    "Paper Birch",
+    "White Birch"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/betula-papyrifera/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Betula",
+  "species": "papyrifera",
+  "family": "Betulaceae",
+  "life-cycle": [
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Northern United States and Canada"
+  ],
+  "distribution": [
+    "South to the appalachians in zone 7; does not do well below that zone."
+  ],
+  "wildlife-value": [
+    "This plant is a larval host plant for the lunar moth. This plant also supports the larvae of Eastern Tiger Swallowtail (Papilo glaucus).  They have three flights from February-November in the deep south and March-September in the north.   The adult Eastern Tiger Swallowtail butterflies feed on milkweed, joe pye weed, wild cherry, and lilac."
+  ],
+  "play-value": [
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "tolerates a range of soil types"
+  ],
+  "dimensions": [
+    "Height: 50 ft. 0 in. - 70 ft. 0 in.",
+    "Width: 25 ft. 0 in. - 45 ft. 0 in."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Multi-stemmed",
+    "Multi-trunked",
+    "Oval",
+    "Pyramidal",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Nut"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "Female flowers are followed by drooping cone-like fruits containing numerous small winged seeds that typically mature in late summer."
+  ],
+  "flower-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Catkin"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Flowers are both male (yellow/brown) and female (green). Tiny monoecious flowers appear in early spring in separate catkins on the same tree: male flowers in drooping catkins (to 4” long) and female flowers in smaller, upright catkins (to 1 1/4” long). Each catkin has numerous tiny flowers less than 1/8\""
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Dentate",
+    "Doubly Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "This plant has 2 to 4 inch leaves that turn a rich yellow to golden yellow fall color. Irregularly toothed, dark green leaves.  Hairs are present on the veins on the underside of the leaf."
+  ],
+  "bark-color": [
+    "Dark Gray",
+    "Light Gray",
+    "Orange",
+    "Red/Burgundy",
+    "White"
+  ],
+  "surface/attachment": [
+    "Exfoliating",
+    "Papery",
+    "Peeling"
+  ],
+  "bark-description": [
+    "White bark that exfoliates in papery strips to reveal an orange-brown inner bark. Mature trees develop black markings on the white bark."
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Butterfly Garden",
+    "Pollinator Garden",
+    "Rain Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Specimen"
+  ],
+  "attracts": [
+    "Butterflies",
+    "Moths",
+    "Pollinators"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Poor Soil",
+    "Wet Soil"
+  ],
+  "uses": "The use of the bark for making birch bark canoes is well known."
+}

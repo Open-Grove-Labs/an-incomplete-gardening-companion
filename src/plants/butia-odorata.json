@@ -1,0 +1,158 @@
+{
+  "fullName": "Butia odorata",
+  "name": "butia-odorata",
+  "commonNames": [
+    "Brazilian Butia Palm",
+    "Jelly Palm",
+    "Pindo Palm",
+    "South American jelly palm",
+    "Yatay palm"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/butia-odorata/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Butia",
+  "species": "odorata",
+  "family": "Arecaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Brazil (Bahia, Goiás, Minas Gerais)"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "drought tolerant, salt tolerant"
+  ],
+  "dimensions": [
+    "Height: 15 ft. 0 in. - 20 ft. 0 in.",
+    "Width: 10 ft. 0 in. - 15 ft. 0 in."
+  ],
+  "plant-type": [
+    "Perennial",
+    "Shrub",
+    "Tree"
+  ],
+  "habit/form": [
+    "Arching"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "12-24 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-width": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "The fruit is spherical to ovoid, yellow to red, and 1 inch. It is used to make jellies and fermented for wine."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Red/Burgundy"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Spring"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Auxillary flower clusters on large 3-4 foot long inflorescence bearing tiny, yellowish to orange-red, showy flowers are fruity-scented. This plant has unisexual flowers of both sexes (male with 6 stamens and female with 3 stigmas and a solitary pistol)."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)",
+    "Fronds"
+  ],
+  "leaf-arrangement": [
+    "Rosulate",
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Linear"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Leaves range from light green to bluish-gray (in general, a blue-green) and grow 5 to 10 feet long that arch inwards. Each leaf has 25-60 pairs of narrow pointed leaflets. The leaves are pinnately compound, pinnae linear, 2-ranked in V-shape, regularly spaced in one plane, ascending, have a single fold, and spiral arrangement."
+  ],
+  "stem-color": [
+    "Gray/Silver"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "The stem is stout, erect, clothed with grey leaf bases."
+  ],
+  "landscape-location": [
+    "Lawn",
+    "Naturalized Area"
+  ],
+  "landscape-theme": [
+    "Drought Tolerant Garden",
+    "Winter Garden"
+  ],
+  "design-feature": [
+    "Flowering Tree",
+    "Foundation Planting",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Salt"
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "fullName": "Juncus tenuis",
+  "name": "juncus-tenuis",
+  "commonNames": [
+    "Path Rush",
+    "Poverty Rush",
+    "Rush",
+    "Wire Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/juncus-tenuis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Juncus",
+  "species": "tenius",
+  "family": "Juncaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "North America, Alaska to Quebec, south to Texas."
+  ],
+  "distribution": [
+    "Introduced world-wide (Europe",
+    "East Asia",
+    "Australia)"
+  ],
+  "dimensions": [
+    "Height: 0 ft. 6 in. - 2 ft. 0 in.",
+    "Width: 0 ft. 6 in. - 2 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ground Cover",
+    "Native Plant",
+    "Ornamental Grasses and Sedges",
+    "Perennial",
+    "Weed"
+  ],
+  "habit/form": [
+    "Ascending",
+    "Clumping",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "2a",
+    "2b",
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "The seed capsule of each flower is ovoid with a small point at its apex. Each capsule eventually splits apart into 3 segments to release its tiny dust-like seeds."
+  ],
+  "flower-color": [
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Cyme",
+    "Insignificant",
+    "Umbel"
+  ],
+  "flower-value-to-gardener": [
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-petals": [
+    "Bracts"
+  ],
+  "flower-description": [
+    "Insignificant green flowers, clustered at the stem tips, appear May to September.  With the first frost they turn brown. Each stem terminates in a branching inflorescence that has one or more umbel-like clusters of up to 10 flowers. At the base of this inflorescence, there are about 3 slender leafy bracts up to 4 inches long that form a V-shape. The petals and sepals are nearly identical in appearance and lanceolate in shape. Bloom occurs in summer although first year plants may not bloom until fall."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Sheath"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "The leaves of each stem are green, basal, with narrow leaf blades 10 inches long; ascending from the stems. The leaf blades are smooth, and flat with margins that roll upward. The sheaths of young leaves are light green and become tan to brown and shredded over time."
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-cross-section": [
+    "Round"
+  ],
+  "stem-form": [
+    "Straight"
+  ],
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Erect stems, light green, slender, glabrous, and unbranched."
+  ],
+  "landscape-location": [
+    "Container",
+    "Naturalized Area",
+    "Pond",
+    "Riparian"
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Rain Garden",
+    "Water Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Erosion",
+    "Wet Soil"
+  ],
+  "problems": [
+    "Weedy"
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "fullName": "Rhus michauxii",
+  "name": "rhus-michauxii",
+  "commonNames": [
+    "Dwarf Sumac",
+    "False Poison Sumac",
+    "Michaux's Sumac"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rhus-michauxii/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rhus",
+  "species": "michauxii",
+  "family": "Anacardiaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "North Carolina and South Carolina"
+  ],
+  "distribution": [
+    "FL",
+    "GA",
+    "NC",
+    "SC",
+    "VA"
+  ],
+  "wildlife-value": [
+    "Host plant for the Luna moth."
+  ],
+  "plant-type": [
+    "Native Plant",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Sand"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Drupe"
+  ],
+  "fruit-description": [
+    "Female plants have red compressed drupes.  The seeds are often sterile."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-description": [
+    "6-8 in. panicle of yellowish green flowers in summer; female plants have red compressed drupes"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Green",
+    "Orange",
+    "Purple/Lavender"
+  ],
+  "deciduous-leaf-fall-color": [
+    "Gold/Yellow",
+    "Orange",
+    "Purple/Lavender"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Alternate, pinnate compound dark green leaves; 9 to 15 leaflets; yellow-orange to purplish red fall color"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Young shoots have a reddish tinge."
+  ],
+  "landscape-theme": [
+    "Native Garden",
+    "Nighttime Garden"
+  ],
+  "attracts": [
+    "Moths"
+  ]
+}

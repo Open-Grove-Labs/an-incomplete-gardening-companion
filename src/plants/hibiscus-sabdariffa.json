@@ -1,0 +1,212 @@
+{
+  "fullName": "Hibiscus sabdariffa",
+  "name": "hibiscus-sabdariffa",
+  "commonNames": [
+    "Florida Cranberry",
+    "Indian Sorrel",
+    "Jamaican Tea",
+    "Maple-Leaf Hibiscus",
+    "October Hibiscus",
+    "Red Sorrell",
+    "Roselle"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/hibiscus-sabdariffa/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Hibiscus",
+  "species": "sabdariffa",
+  "family": "Malvaceae",
+  "life-cycle": [
+    "Annual",
+    "Perennial",
+    "Woody"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "Africa"
+  ],
+  "play-value": [
+    "Attractive Flowers",
+    "Colorful",
+    "Easy to Grow",
+    "Edible fruit "
+  ],
+  "edibility": [
+    "The flowers, leaves, roots, and seed can be eaten."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Herbaceous Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "habit/form": [
+    "Arching",
+    "Cascading",
+    "Erect",
+    "Open"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasional Flooding",
+    "Occasionally Wet"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet",
+    "6-feet-12 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "3a",
+    "3b",
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b",
+    "10a",
+    "10b"
+  ],
+  "fruit-color": [
+    "Red/Burgundy"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "display/harvest-time": [
+    "Fall"
+  ],
+  "fruit-type": [
+    "Berry"
+  ],
+  "fruit-length": [
+    "1-3 inches"
+  ],
+  "fruit-description": [
+    "The fleshy calyx are used for making teas and are edible."
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "White"
+  ],
+  "flower-inflorescence": [
+    "Head"
+  ],
+  "flower-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "The flowers can be a variety of colors, each having a dark center containing sort peduncles."
+  ],
+  "leaf-color": [
+    "Green",
+    "Red/Burgundy"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible",
+    "Showy"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Palmatifid"
+  ],
+  "leaf-margin": [
+    "Serrate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "The leaves are green with a reddish tint.  When mature, they will be palmately divided into 3 to 5 lobes."
+  ],
+  "bark-color": [
+    "Red/Burgundy"
+  ],
+  "bark-description": [
+    "Reddish bark is quite attractive."
+  ],
+  "stem-color": [
+    "Red/Burgundy"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Attractive red stems."
+  ],
+  "landscape-location": [
+    "Patio",
+    "Vertical Spaces",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Edible Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heat",
+    "Humidity",
+    "Poor Soil",
+    "Wind"
+  ]
+}

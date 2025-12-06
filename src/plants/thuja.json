@@ -1,0 +1,98 @@
+{
+  "fullName": "Thuja",
+  "name": "thuja",
+  "commonNames": [
+    "Arborvitae"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/thuja/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Thuja",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "country-or-region-of-origin": [
+    "North America, parts of East Asia"
+  ],
+  "distribution": [
+    "Introduced to Europe"
+  ],
+  "plant-type": [
+    "Perennial",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Broad",
+    "Dense",
+    "Pyramidal"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Green"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "No true fruit– female cones are oval-shaped, brown, and take a long time to develop.  They open up to a flared shape."
+  ],
+  "flower-color": [
+    "Brown/Copper"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "No true flowers– pollen cones are small and grow from the tips of the branches."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant",
+    "Long-lasting"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "leaf-arrangement": [
+    "Other/more complex"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "< 1 inch"
+  ],
+  "leaf-width": [
+    "< 1 inch"
+  ],
+  "leaf-description": [
+    "Small, scale-like leaves.  Can be distinguished from Chamaecyparis by the lack of white markings underneath the leaves.  Older leaves also have raised glands near the tip."
+  ],
+  "bark-color": [
+    "Dark Brown"
+  ],
+  "surface/attachment": [
+    "Furrowed",
+    "Scaly"
+  ],
+  "bark-description": [
+    "Brown to red-brown, fibrous bark."
+  ],
+  "stem-is-aromatic": "N"
+}

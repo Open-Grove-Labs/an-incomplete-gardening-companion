@@ -1,0 +1,124 @@
+{
+  "fullName": "Lilium longiflorum",
+  "name": "lilium-longiflorum",
+  "commonNames": [
+    "Easter Lily",
+    "Wild Lily"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/lilium-longiflorum/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Lilium",
+  "species": "longiflorum",
+  "family": "Liliaceae",
+  "life-cycle": [
+    "Bulb",
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "India, Himalaya, Myanmar"
+  ],
+  "wildlife-value": [
+    "Flowers are pollinated by bees."
+  ],
+  "dimensions": [
+    "Height: 1 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 1 ft. 0 in. - 2 ft. 4 in."
+  ],
+  "plant-type": [
+    "Bulb",
+    "Perennial"
+  ],
+  "light": [
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter"
+  ],
+  "soil-drainage": [
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "Less than 12 inches",
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Trumpet"
+  ],
+  "flower-petals": [
+    "6 petals/rays"
+  ],
+  "flower-description": [
+    "Large white trumpet shaped flowers with 6 petals.  Flowers are fragrant and appear from late summer to early fall."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Whorled"
+  ],
+  "leaf-shape": [
+    "Lanceolate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Narrow leaves"
+  ],
+  "stem-color": [
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Thin wiry stems"
+  ],
+  "landscape-location": [
+    "Slope/Bank",
+    "Small Space"
+  ],
+  "landscape-theme": [
+    "Cutting Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Mass Planting"
+  ],
+  "attracts": [
+    "Bees",
+    "Pollinators"
+  ],
+  "problems": [
+    "Problem for Cats"
+  ]
+}

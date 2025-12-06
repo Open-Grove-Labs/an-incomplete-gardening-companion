@@ -1,0 +1,51 @@
+{
+  "fullName": "Rosa 'MELmont'",
+  "name": "rosa-melmont",
+  "commonNames": [
+    "Clair Matin",
+    "Grimpant Clair Matin"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rosa-melmont/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rosa",
+  "family": "Rosaceae",
+  "plant-type": [
+    "Rose"
+  ],
+  "habit/form": [
+    "Climbing"
+  ],
+  "flower-color": [
+    "Gold/Yellow",
+    "Pink"
+  ],
+  "flower-value-to-gardener": [
+    "Fragrant"
+  ],
+  "flower-shape": [
+    "Cup"
+  ],
+  "flower-petals": [
+    "7 - 20 petals/rays"
+  ],
+  "flower-description": [
+    "Medium pink; Clusters of medium sized, semi-double blooms with a flattened cup shape; gold stamens; 15 petals; pointed buds; repeats"
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-description": [
+    "Leathery, dark green leaves"
+  ],
+  "stem-is-aromatic": "N"
+}

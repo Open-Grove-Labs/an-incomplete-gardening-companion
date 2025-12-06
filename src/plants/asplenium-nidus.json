@@ -1,0 +1,150 @@
+{
+  "fullName": "Asplenium nidus",
+  "name": "asplenium-nidus",
+  "commonNames": [
+    "Bird's Nest Fern",
+    "Birds Nest Fern",
+    "Nest Fern"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/asplenium-nidus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Asplenium",
+  "species": "nidus",
+  "family": "Aspleniaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "country-or-region-of-origin": [
+    "Polynesia, HI, SE Asia, Australia, Madagascar"
+  ],
+  "distribution": [
+    "Polynesia",
+    "HI",
+    "SE Asia",
+    "Australia",
+    "Madagascar"
+  ],
+  "wildlife-value": [
+    "Food source for larvae of some Lepidoptera. Batrachedra bedelliella feeds exclusively on A. nidus."
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Rabbits, deer, heavy shade"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 5 ft. 0 in.",
+    "Width: 2 ft. 0 in. - 3 ft. 0 in."
+  ],
+  "plant-type": [
+    "Epiphyte",
+    "Fern",
+    "Houseplant"
+  ],
+  "habit/form": [
+    "Arching",
+    "Erect",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Slow"
+  ],
+  "maintenance": [
+    "Medium"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-description": [
+    "No fruits. This plant reproduces via spores."
+  ],
+  "flower-description": [
+    "No flowers."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Leathery",
+    "Smooth"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Fronds",
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Linear"
+  ],
+  "leaf-margin": [
+    "Entire",
+    "Undulate"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Light green, glossy, simple, entire, strap shaped, wavy with a brown-black midrib.  Fronds can grow to 4-5 feet long and 8 inches wide.  Sori are found in clusters on the undersides, arranged in a herringbone fashion from the mid-rib to the margin of the leaf in black straight lines."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Stemless"
+  ],
+  "landscape-location": [
+    "Container",
+    "Hanging Baskets",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Shade Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Small groups",
+    "Specimen"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Heavy Shade",
+    "Humidity",
+    "Rabbits"
+  ]
+}

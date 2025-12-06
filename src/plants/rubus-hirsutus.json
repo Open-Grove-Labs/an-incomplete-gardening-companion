@@ -1,0 +1,144 @@
+{
+  "fullName": "Rubus hirsutus",
+  "name": "rubus-hirsutus",
+  "commonNames": [
+    "Blackberry",
+    "Dewberry",
+    "Hirsute Raspberry"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/rubus-hirsutus/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Rubus",
+  "species": "hirsutus",
+  "family": "Rosaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division",
+    "Seed",
+    "Stem Cutting"
+  ],
+  "country-or-region-of-origin": [
+    "East Asia, Japan, China, Korea"
+  ],
+  "wildlife-value": [
+    "This plant provides nectar for pollinators."
+  ],
+  "edibility": [
+    "Fruit is eaten raw or cooked and used in pies, preserves, syrups etc."
+  ],
+  "plant-type": [
+    "Edible",
+    "Perennial",
+    "Shrub"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Deciduous",
+    "Deciduous"
+  ],
+  "appendage": [
+    "Prickles"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Shallow Rocky"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "display/harvest-time": [
+    "Summer"
+  ],
+  "fruit-type": [
+    "Aggregate",
+    "Drupe"
+  ],
+  "fruit-description": [
+    "Seeds ripen in July and August. Fruit can be eaten raw or cooked and used in pies and preserves. The fruit varies in size from 1/3 to 3/4 of an inch in diameter."
+  ],
+  "flower-color": [
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays",
+    "Bracts",
+    "Colored Sepals"
+  ],
+  "flower-size": [
+    "1-3 inches"
+  ],
+  "flower-description": [
+    "Blossoms appear in April to July. Flowers 1 to 2 inches in diameter."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-type": [
+    "Compound (Pinnately , Bipinnately, Palmately)"
+  ],
+  "leaf-shape": [
+    "Lanceolate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Doubly Serrate"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Compound leaves with 3-7 leaflets that are 1.5 inches long and lanceolate or ovate-lanceolate with soft hairs on both surfaces. Margins are serrated to doubly serrate, bases broadly cuneate to rounded and tip pointed. Leaves have irregularly place stalked glands and prickles"
+  ],
+  "stem-color": [
+    "Brown/Copper"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Hairy (pubescent)"
+  ],
+  "stem-description": [
+    "Branchlets reddish brown or brown, terete, with soft hairs, stalked glands, and sparse, curved prickles"
+  ],
+  "landscape-location": [
+    "Woodland"
+  ],
+  "landscape-theme": [
+    "Edible Garden",
+    "Pollinator Garden"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Pollinators"
+  ]
+}

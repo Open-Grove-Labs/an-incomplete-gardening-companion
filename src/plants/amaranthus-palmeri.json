@@ -1,0 +1,154 @@
+{
+  "fullName": "Amaranthus palmeri",
+  "name": "amaranthus-palmeri",
+  "commonNames": [
+    "Carelessweed",
+    "Dioecious amaranth",
+    "Palmer's pigweed"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/amaranthus-palmeri/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Amaranthus",
+  "species": "palmeri",
+  "family": "Amaranthaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "S. California to Texas and Mexico"
+  ],
+  "distribution": [
+    "AR",
+    "AZ",
+    "CA",
+    "CO",
+    "FL",
+    "GA",
+    "IL",
+    "KS",
+    "KY",
+    "LA",
+    "MA",
+    "MD",
+    "MO",
+    "MS",
+    "NC",
+    "NE",
+    "NJ",
+    "NM",
+    "NV",
+    "NY",
+    "OH",
+    "OK",
+    "PA",
+    "SC",
+    "TN",
+    "TX",
+    "UT",
+    "VA",
+    "WI",
+    "WV"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "Heat, drought (extremely low rainfall)"
+  ],
+  "edibility": [
+    "The leaves and seeds are eaten. The seeds can be ground into a flour. The leaves can be cooked or dried."
+  ],
+  "plant-type": [
+    "Annual",
+    "Edible",
+    "Herb",
+    "Weed"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-drainage": [
+    "Occasionally Dry",
+    "Very Dry"
+  ],
+  "fruit-color": [
+    "Brown/Copper",
+    "Red/Burgundy"
+  ],
+  "fruit-description": [
+    "The seeds (pyxis) are dark reddish-brown in color."
+  ],
+  "flower-color": [
+    "Green"
+  ],
+  "flower-inflorescence": [
+    "Spike"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "3-6 inches"
+  ],
+  "flower-description": [
+    "Inconspicuous flowers.  Male and female flowers form on separate plants (dioecious).  The flowers form on spikes up to 18 inches long.  Female flowers are bristly to the touch and male spikes are softer."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-feel": [
+    "Smooth"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Obovate",
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "1-3 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "Stems and foliage are mostly smooth and lacking hairs (glabrous). Leaves have fairly long petioles and are arranged symmetrically around the stem, giving the plant a distinctly poinsettia-like appearance when viewed from above. Petioles are longer than with common pigweed.  Leaf-blades are elliptical to diamond-shaped with pointed tips, and measure 0.6–3 inches long by 0.4–1.5 inches wide.  Some leaves may have a white watermark shaped like a 'V'."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "Stems and foliage are mostly smooth and lacking hairs (glabrous)."
+  ],
+  "resistance-to-challenges": [
+    "Drought",
+    "Heat"
+  ]
+}

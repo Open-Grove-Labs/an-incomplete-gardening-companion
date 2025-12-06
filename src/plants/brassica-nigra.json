@@ -1,0 +1,201 @@
+{
+  "fullName": "Brassica nigra",
+  "name": "brassica-nigra",
+  "commonNames": [
+    "Black Mustard",
+    "Brown Mustard",
+    "Mostaza",
+    "Red Mustard",
+    "True Mustard"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/brassica-nigra/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Brassica",
+  "species": "nigra",
+  "family": "Brassicaceae",
+  "life-cycle": [
+    "Annual"
+  ],
+  "recommended-propagation-strategy": [
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Europe, China, Mediterranean, Ethiopia"
+  ],
+  "wildlife-value": [
+    "The plant is pollinated by bees and flies.  Butterflies may eat the foliage.  Wasps may occasionally visit this plant."
+  ],
+  "play-value": [
+    "Attracts Pollinators",
+    "Edible fruit "
+  ],
+  "edibility": [
+    "The leaves, seed and stem as well as the plants oils are edible."
+  ],
+  "plant-type": [
+    "Annual",
+    "Weed"
+  ],
+  "habit/form": [
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "High"
+  ],
+  "texture": [
+    "Coarse"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist"
+  ],
+  "available-space-to-plant": [
+    "12 inches-3 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "fruit-color": [
+    "Black",
+    "Brown/Copper"
+  ],
+  "display/harvest-time": [
+    "Fall",
+    "Summer"
+  ],
+  "fruit-type": [
+    "Siliqua"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "After the flower blooms, it is replaced by a narrow seedpod that will become pressed up against the stalk.  The seedpod is about 2/3\" long and becomes tapered.  They dry and split when ripe."
+  ],
+  "flower-color": [
+    "Gold/Yellow"
+  ],
+  "flower-inflorescence": [
+    "Raceme"
+  ],
+  "flower-value-to-gardener": [
+    "Long Bloom Season"
+  ],
+  "flower-bloom-time": [
+    "Summer"
+  ],
+  "flower-shape": [
+    "Saucer"
+  ],
+  "flower-petals": [
+    "4-5 petals/rays"
+  ],
+  "flower-size": [
+    "< 1 inch"
+  ],
+  "flower-description": [
+    "Blooming on racemes up to 2' long, the 1/3\" yellow flowers each have 4 petals.  They can bloom for up to 2 months."
+  ],
+  "leaf-color": [
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Edible"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Lanceolate",
+    "Obovate"
+  ],
+  "leaf-margin": [
+    "Lobed"
+  ],
+  "hairs-present": [
+    "Yes"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "1-3 inches"
+  ],
+  "leaf-description": [
+    "The leaves can reach lengths of up to 10\", and widths of 3\".  As they ascend up the stem, they will not be as large.  The lower leaves are lobed and obovate, while the upper leaves can be lanceolate or elliptic.  The upper surface of the lower leaf is typically bristly with scatter, stiff, short, white hairs.  The underside is typically smooth, but will have a few hairs along the central vein."
+  ],
+  "stem-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "stem-is-aromatic": "N",
+  "stem-surface": [
+    "Smooth (glabrous)"
+  ],
+  "stem-description": [
+    "The stems are a dull gray/green, typically branchless.  They are smooth, but may have scattered stiff hairs at the base."
+  ],
+  "landscape-location": [
+    "Coastal",
+    "Slope/Bank",
+    "Woodland"
+  ],
+  "design-feature": [
+    "Border"
+  ],
+  "attracts": [
+    "Bees",
+    "Butterflies"
+  ],
+  "problems": [
+    "Allelopathic",
+    "Contact Dermatitis",
+    "Problem for Children",
+    "Problem for Horses",
+    "Weedy"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Local dermatitis"
+  ],
+  "poison-toxic-principle": [
+    "Isothiocyanate"
+  ],
+  "causes-contact-dermatitis": [
+    "Yes"
+  ]
+}

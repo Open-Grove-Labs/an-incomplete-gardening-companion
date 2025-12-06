@@ -1,0 +1,78 @@
+{
+  "fullName": "Cenchrus orientalis",
+  "name": "cenchrus-orientalis",
+  "commonNames": [
+    "Oriental Fountain Grass"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/cenchrus-orientalis/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Cenchrus",
+  "species": "orientalis",
+  "family": "Poaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "dimensions": [
+    "Height: 2 ft. 0 in. - 3 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 5 ft. 0 in."
+  ],
+  "plant-type": [
+    "Ornamental Grasses and Sedges"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Dense",
+    "Erect"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-drainage": [
+    "Good Drainage"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b",
+    "9a",
+    "9b"
+  ],
+  "flower-color": [
+    "Cream/Tan",
+    "Pink",
+    "Red/Burgundy",
+    "White"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-description": [
+    "Inflorescence:\nFluffy, nearly white inflorescence with pink tones"
+  ],
+  "leaf-color": [
+    "Gold/Yellow",
+    "Gray/Silver",
+    "Green"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "stem-is-aromatic": "N",
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Rabbits"
+  ]
+}

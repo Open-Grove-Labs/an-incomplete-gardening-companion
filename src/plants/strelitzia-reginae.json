@@ -1,0 +1,187 @@
+{
+  "fullName": "Strelitzia reginae",
+  "name": "strelitzia-reginae",
+  "commonNames": [
+    "Bird of Paradise",
+    "Bird of Paradise Flower",
+    "Bird-of-Paradise-Flower",
+    "Bird's Tongue Flower",
+    "Canna-leaved Strelitzia",
+    "Crane Flower"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/strelitzia-reginae/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Strelitzia",
+  "species": "reginae",
+  "family": "Strelitziaceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Division"
+  ],
+  "country-or-region-of-origin": [
+    "Cape Provinces to KwaZulu-Natal, South Africa"
+  ],
+  "distribution": [
+    "Introduced: Bangladesh and Mexico"
+  ],
+  "play-value": [
+    "Colorful"
+  ],
+  "dimensions": [
+    "Height: 3 ft. 0 in. - 4 ft. 0 in.",
+    "Width: 3 ft. 0 in. - 4 ft. 0 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Perennial"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Clumping",
+    "Multi-stemmed"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "High Organic Matter",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "available-space-to-plant": [
+    "3 feet-6 feet"
+  ],
+  "usda-plant-hardiness-zone": [
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-color": [
+    "Orange"
+  ],
+  "fruit-type": [
+    "Capsule"
+  ],
+  "fruit-description": [
+    "The fruit is a leathery capsule containing numerous small seeds, each with an orange aril."
+  ],
+  "flower-color": [
+    "Blue",
+    "Orange",
+    "Purple/Lavender",
+    "White"
+  ],
+  "flower-value-to-gardener": [
+    "Good Cut",
+    "Showy"
+  ],
+  "flower-bloom-time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower-size": [
+    "> 6 inches"
+  ],
+  "flower-description": [
+    "The flowers emerge one at a time from the spathe and consist of 3 brilliant orange sepals and 3 bright blue petals. Two of the blue petals are joined together to form an arrow-like nectary. When the birds sit to have a drink of nectar, the petals open to cover their feet with pollen."
+  ],
+  "leaf-color": [
+    "Gray/Silver",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Rosulate"
+  ],
+  "leaf-shape": [
+    "Ovate"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "> 6 inches"
+  ],
+  "leaf-description": [
+    "Clumps of 3.5-4 feet long gray-green leaves that look like banana leaves."
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Container",
+    "Houseplants",
+    "Patio",
+    "Pool/Hardscape",
+    "Walkways"
+  ],
+  "landscape-theme": [
+    "Cottage Garden",
+    "Cutting Garden"
+  ],
+  "design-feature": [
+    "Accent",
+    "Border"
+  ],
+  "resistance-to-challenges": [
+    "Deer",
+    "Drought",
+    "Rabbits"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "poison-severity": [
+    "Low"
+  ],
+  "poison-symptoms": [
+    "Mild nausea, vomiting, drowsiness; caused mainly by fruit and seeds"
+  ],
+  "poison-toxic-principle": [
+    "GI irritants"
+  ],
+  "causes-contact-dermatitis": [
+    "No"
+  ],
+  "uses": "It has been used for medicinal purposes by the indigenous people of South Africa."
+}

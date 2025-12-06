@@ -1,0 +1,171 @@
+{
+  "fullName": "Ficus elastica",
+  "name": "ficus-elastica",
+  "commonNames": [
+    "Indian Rubber Plant",
+    "Rubber Plant"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/ficus-elastica/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Ficus",
+  "species": "elastica",
+  "family": "Moraceae",
+  "life-cycle": [
+    "Perennial"
+  ],
+  "recommended-propagation-strategy": [
+    "Layering",
+    "Root Cutting",
+    "Seed"
+  ],
+  "country-or-region-of-origin": [
+    "Southeast Asia: Nepal to China and Western Malesia"
+  ],
+  "distribution": [
+    "Florida",
+    "Cuba",
+    "western Mexico",
+    "Peru",
+    "Venezuela",
+    "Spain",
+    "and India."
+  ],
+  "dimensions": [
+    "Height: 50 ft. 0 in. - 100 ft. 0 in.",
+    "Width: 50 ft. 0 in. - 100 ft. 0 in."
+  ],
+  "plant-type": [
+    "Houseplant",
+    "Perennial",
+    "Shrub",
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Broadleaf Evergreen",
+    "Broadleaf Evergreen"
+  ],
+  "habit/form": [
+    "Erect",
+    "Rounded"
+  ],
+  "growth-rate": [
+    "Rapid"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Medium"
+  ],
+  "light": [
+    "Dappled Sunlight (Shade through upper canopy all day)",
+    "Partial Shade (Direct sunlight only part of the day, 2-6 hours)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Loam (Silt)",
+    "Sand"
+  ],
+  "soil-ph": [
+    "Acid (<6.0)",
+    "Alkaline (>8.0)",
+    "Neutral (6.0-8.0)"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "9a",
+    "9b",
+    "10a",
+    "10b",
+    "11a",
+    "11b",
+    "12a",
+    "12b"
+  ],
+  "fruit-color": [
+    "Gold/Yellow",
+    "Green"
+  ],
+  "fruit-length": [
+    "< 1 inch"
+  ],
+  "fruit-width": [
+    "< 1 inch"
+  ],
+  "fruit-description": [
+    "Fruiting is rare when grown indoors. Fruit is an oblong fig, sessile, in pairs or crowded, green with darker flecks maturing to yellow, to 1/2  inch long and 1/4 wide. The fruit is barely edible and contains fertile seeds only in areas where the pollinating insect is present."
+  ],
+  "flower-inflorescence": [
+    "Insignificant"
+  ],
+  "flower-description": [
+    "Minute, axillary, unisexual flowers enclosed in a fleshy receptacle (called a fig). Pollinated by wasps that enter by an apical orifice. Because the flowers require a particular species of fig wasp to pollinate them, the rubber plant does not produce highly colorful or fragrant flowers to attract other pollinators."
+  ],
+  "leaf-color": [
+    "Green",
+    "Variegated"
+  ],
+  "leaf-feel": [
+    "Glossy"
+  ],
+  "leaf-value-to-gardener": [
+    "Showy"
+  ],
+  "leaf-type": [
+    "Simple"
+  ],
+  "leaf-arrangement": [
+    "Alternate"
+  ],
+  "leaf-shape": [
+    "Elliptical",
+    "Oblong"
+  ],
+  "leaf-margin": [
+    "Entire"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "leaf-length": [
+    "> 6 inches"
+  ],
+  "leaf-width": [
+    "3-6 inches"
+  ],
+  "leaf-description": [
+    "Prized for its stiff, glossy, large leaves. Acute to mucronate with a rotund base, stiffly coriaceous, glossy deep green above, paler underneath with raised midrib. Leaf length to 17 inches and 6 inches wide."
+  ],
+  "stem-is-aromatic": "N",
+  "stem-description": [
+    "Scarcely branched in younger specimens, stiff and sturdy."
+  ],
+  "landscape-location": [
+    "Container",
+    "Houseplants"
+  ],
+  "landscape-theme": [
+    "Asian Garden"
+  ],
+  "design-feature": [
+    "Flowering Tree",
+    "Small Tree"
+  ],
+  "resistance-to-challenges": [
+    "Dry Soil",
+    "Humidity"
+  ],
+  "problems": [
+    "Problem for Cats",
+    "Problem for Dogs",
+    "Problem for Horses"
+  ],
+  "uses": "Sap was once drained to produce rubber."
+}

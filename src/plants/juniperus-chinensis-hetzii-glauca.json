@@ -1,0 +1,118 @@
+{
+  "fullName": "Juniperus chinensis 'Hetzii Glauca'",
+  "name": "juniperus-chinensis-hetzii-glauca",
+  "commonNames": [
+    "Hetz Blue Juniper"
+  ],
+  "references": [
+    {
+      "url": "https://plants.ces.ncsu.edu/plants/juniperus-chinensis-hetzii-glauca/",
+      "referenced": "general plant data"
+    }
+  ],
+  "genus": "Juniperus",
+  "species": "chinensis",
+  "family": "Cupressaceae",
+  "life-cycle": [
+    "Woody"
+  ],
+  "wildlife-value": [
+    "Birds feed on berries."
+  ],
+  "play-value": [
+    "Edible fruit ",
+    "Fragrance",
+    "Wildlife Food Source"
+  ],
+  "particularly-resistant-to-insects/diseases/other-problems": [
+    "This plant is seldom damaged by deer. Drought tolerant and tolerant of city air pollutants."
+  ],
+  "plant-type": [
+    "Tree"
+  ],
+  "woody-plant-leaf-characteristics": [
+    "Needled Evergreen",
+    "Needled Evergreen"
+  ],
+  "habit/form": [
+    "Dense",
+    "Erect"
+  ],
+  "growth-rate": [
+    "Medium"
+  ],
+  "maintenance": [
+    "Low"
+  ],
+  "texture": [
+    "Fine"
+  ],
+  "light": [
+    "Full sun (6 or more hours of direct sunlight a day)"
+  ],
+  "soil-texture": [
+    "Clay",
+    "Sand",
+    "Shallow Rocky"
+  ],
+  "soil-drainage": [
+    "Good Drainage",
+    "Moist",
+    "Occasionally Dry"
+  ],
+  "usda-plant-hardiness-zone": [
+    "4a",
+    "4b",
+    "5a",
+    "5b",
+    "6a",
+    "6b",
+    "7a",
+    "7b",
+    "8a",
+    "8b"
+  ],
+  "fruit-value-to-gardener": [
+    "Edible"
+  ],
+  "fruit-description": [
+    "No true fruits, but female cones are blue, fleshy \"berry\" looking and edible, often used as a seasoning."
+  ],
+  "flower-description": [
+    "No flowers, but cones are large and brown \nand fall apart upon maturity.  Female cones are blue fleshy \"berry\" looking."
+  ],
+  "leaf-color": [
+    "Blue",
+    "Green"
+  ],
+  "leaf-value-to-gardener": [
+    "Fragrant"
+  ],
+  "leaf-type": [
+    "Needles"
+  ],
+  "hairs-present": [
+    "No"
+  ],
+  "surface/attachment": [
+    "Peeling"
+  ],
+  "stem-is-aromatic": "N",
+  "landscape-location": [
+    "Recreational Play Area"
+  ],
+  "landscape-theme": [
+    "Asian Garden",
+    "Children's Garden"
+  ],
+  "design-feature": [
+    "Border",
+    "Specimen"
+  ],
+  "attracts": [
+    "Songbirds"
+  ],
+  "resistance-to-challenges": [
+    "Wet Soil"
+  ]
+}
