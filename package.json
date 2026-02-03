@@ -7,7 +7,9 @@
 		"dev": "vite",
 		"build": "vite build",
 		"preview": "vite preview",
-		"pack-data": "tsx src/scripts/dataset-packer.ts"
+		"pack-data": "tsx src/scripts/dataset-packer.ts",
+		"get-attributes": "tsx src/scripts/list-plant-attributes.ts"
+
 	},
 	"dependencies": {
 		"flexsearch": "^0.8.212",

@@ -62,6 +62,8 @@ export type LightPlantData = {
   f?: string;
   /** common names array */
   c?: string[];
+  /** cultivar names */
+  cv?: string[];
   /** genus */
   g?: string;
   /** species */

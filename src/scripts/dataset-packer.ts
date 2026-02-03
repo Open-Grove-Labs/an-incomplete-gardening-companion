@@ -31,8 +31,9 @@ for (const plant of Object.keys(plantNames)) {
   const plantData = (await import(`../plants/${plant}.json`, { with: { type: "json" } })).default
 
   lightDataSet[plantData.name] = {
-    ...(plantData.fullName && { f: plantData.fullName }),
-    ...(plantData.commonNames && { c: plantData.commonNames }),
+    ...(plantData['full-name'] && { f: plantData['full-name'] }),
+    ...(plantData['common-names'] && { c: plantData['common-names'] }),
+    ...(plantData.cultivars?.length && { cv: plantData.cultivars.map((c: { ['cultivar-name']: string }) => c['cultivar-name'])}),
     ...(plantData.genus && { g: plantData.genus }),
     ...(plantData.species && { sp: plantData.species }),
     ...(plantData['plant-type'] && { t: plantData['plant-type'] }),
