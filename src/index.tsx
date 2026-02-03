@@ -30,7 +30,7 @@ export function App() {
     async function loadData() {
       try {
         console.log("Fetching compressed data...");
-        const response = await fetch("/light-weight-data-set.json.gz");
+        const response = await fetch("./light-weight-data-set.json.gz");
         if (!response.ok) throw new Error(`Failed to fetch data: ${response.status} ${response.statusText}`);
         
         console.log("Response headers:", Object.fromEntries(response.headers.entries()));
