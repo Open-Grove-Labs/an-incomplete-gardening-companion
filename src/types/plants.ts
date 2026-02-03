@@ -56,3 +56,38 @@ export type plantData = {
   attracts?: string[];
   "resistance-to-challenges"?: string[];
 };
+
+export type LightPlantData = {
+  /** full name */
+  f?: string;
+  /** common names array */
+  c?: string[];
+  /** genus */
+  g?: string;
+  /** species */
+  sp?: string;
+  /** type of plant */
+  t?: string[];
+  /** hardiness zone */
+  z?: string[];
+  /** plant attracts array */
+  a?: string[];
+  /** plant resists array */
+  r?: string[];
+  /** maintenance */
+  m?: string;
+  /** light needs array */
+  l?: string[];
+  /** soil preference array */
+  s?: string[];
+  /** soil ph array*/
+  ph?: string[];
+  /** drainage array */
+  d?: string[];
+  /** problems array */
+  p?: string[];
+  /** additional value array */
+  v?: string[];
+  /** tags */
+  tg?: string[]
+};

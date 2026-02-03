@@ -1,10 +1,13 @@
 {
 	"private": true,
 	"type": "module",
+	"name": "an-incomplete-gardening-companion",
+	"version": "2026.0.1",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
-		"preview": "vite preview"
+		"preview": "vite preview",
+		"pack-data": "tsx src/scripts/dataset-packer.ts"
 	},
 	"dependencies": {
 		"flexsearch": "^0.8.212",
@@ -19,6 +22,7 @@
 		"@types/pako": "^2.0.4",
 		"eslint": "^9.39.1",
 		"eslint-config-preact": "^2.0.0",
+		"tsx": "^4.21.0",
 		"typescript": "^5.9.3",
 		"vite": "^7.0.4",
 		"zlib": "^1.0.5"
